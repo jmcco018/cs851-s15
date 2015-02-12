@@ -1,4 +1,4 @@
-\documentclass[12pt]{report}
+\documentclass[12pt]{article}
 
 \usepackage{graphicx}
 \usepackage{fancyhdr}
@@ -6,7 +6,9 @@
 \usepackage{xcolor}
 \usepackage{listings}
 \usepackage{indentfirst}
-\usepackage[utf8]{inputenc}
+\usepackage{float}
+\usepackage[margin=1in]{geometry}
+
 
 \setlength{\parskip}{\baselineskip}%
 
@@ -16,18 +18,18 @@
   keywordstyle=\color{blue}
 }
 
-\title{Assignment 1}
+\title{CS 751: Introduction to Digital Libraries - Assignment 1}
 \author{Jessica McConnell}
 \date{\today}
 
 \begin{document}
 \maketitle
 
-\section*{Q1}
+\section{Q1}
 
 We were required to get 10,000 tweets, map the links in each tweet, get the headers for each link, determine the unique and duplicate URIs and build a histogram of redirects and HTTP status codes.
 
-\subsection*{Getting the tweets and headers}
+\subsection{Getting the tweets and headers}
 
 I started my script for getting tweets by using the code provided at http://thomassileo.com/blog/2013/01/25/using-twitter-rest-api-v1-dot-1-with-python/ for twitter connectivity.  I then customized it to pull tweets, extract the creation date and links from the tweet, filter for content and get the headers for the links within the tweet.  I chose to use the search/tweets API to ensure I had a myriad of different topics and links in the tweets I pulled.
 
@@ -37,35 +39,9 @@ After getting the links from the tweet, `tweets.py' uses subprocess to get all t
 
 The URI count, tweet URIs, headers for the URIs and JSON from the tweet were saved for each tweet in the file `tweetsURI'.
 
-\subsection*{Final URIs}
+\subsection{Final URIs}
 
 I wrote a python script `finaluri.py' that reads through the `tweetsURI' file.  This script originally sets \textit{link} to the URI found in the tweet and then continues updating \textit{link} until it has reached the end of the headers for that URI.  It then checks to see if it is in the unique URI list.  If not, it is added to the unique URI list and the all URI list.  If it is, we add it to the duplicate URI list if it is not already in there and the all URI list.
-\
-There were two URIs from all the tweets that had the twitter t.co link as the final link.
-
-http://t.co/ryFCdcfQQC\\
-\textbf{HEADERS:}\\
-HTTP/1.1 200 OK\\
-cache-control: no-cache,no-store,must-revalidate\\
-content-length: 0\\
-content-type: text/html; charset=utf-8\\
-date: Fri, 30 Jan 2015 13:27:22 UTC\\
-server: tsa\_b\\
-x-connection-hash: 66ab6a89cec1d5a8b920e1e3eda9980d\\
-x-response-time: 12\\
-x-xss-protection: 1; mode=block
-
-http://t.co/YwwhBJrvfx\\
-\textbf{HEADERS:}\\
-HTTP/1.1 200 OK\\
-cache-control: no-cache,no-store,must-revalidate\\
-content-length: 0\\
-content-type: text/html; charset=utf-8\\
-date: Fri, 30 Jan 2015 17:28:53 UTC\\
-server: tsa\_b\\
-x-connection-hash: 0cd8a3e079647045036b4ba7f77e3623\\
-x-response-time: 11\\
-x-xss-protection: 1; mode=block
 
 The unique and duplicate URIs were outputted to the files `uniqueuri' and `dupuri' respectively.
 
@@ -74,7 +50,7 @@ $\bullet$  All URIs: 10347\\
 $\bullet$  Duplicate URIs: 1071\\
 $\bullet$  Unique URIs: 7406
 
-\subsection*{Redirects}
+\subsection{Redirects}
 
 I used a bash command to get the redirect code numbers from the headers.
 
@@ -85,7 +61,7 @@ echo "$lower" | sort | uniq -c | sort -nr > redirects
 \end{lstlisting}
 
 Redirect Codes:\\
-$\bullet$  19835 301 moved permanently\\
+$\bullet$  19837 301 moved permanently\\
 $\bullet$   1201 302 found\\
 $\bullet$    540 302 moved temporarily\\
 $\bullet$    208 303 see other\\
@@ -101,14 +77,13 @@ $\bullet$      1 301 http://hee.nhs.uk/work-programmes/tel/hack\\
 $\bullet$      1 301 found\\
 $\bullet$      1 301
 
-Histogram:\\
-NOTE: For the histogram I consolidated the above information into groups of individual code numbers instead of the specific textual responses.\\
-\begin{figure}
-    \centering
+\begin{figure}[H]
+    \centering
     \includegraphics{redirectsPlot.pdf}
 \end{figure}
+NOTE: For the histogram I consolidated the above information into groups of individual code numbers instead of the specific textual responses.
 
-\subsection*{Status Codes}
+\subsection{Status Codes}
 
 I used a bash command to get the status code numbers from the headers.
 
@@ -118,7 +93,7 @@ echo "$status" | sort | uniq -c | sort -nr > statuses
 \end{lstlisting}
 
 Status codes:\\
-$\bullet$  19947 HTTP/1.1 301\\
+$\bullet$  19949 HTTP/1.1 301\\
 $\bullet$   9782 HTTP/1.1 200\\
 $\bullet$   1757 HTTP/1.1 302\\
 $\bullet$    208 HTTP/1.1 303\\
@@ -140,39 +115,40 @@ $\bullet$      1 HTTP/1.1 410\\
 $\bullet$      1 HTTP/1.1 301\\
 $\bullet$      1 HTTP/1.1 204
 
-Histogram:\\
-\includegraphics{statusCodesPlot.pdf}
-
-\section*{Q2}
+\begin{figure}[H]
+    \centering
+    \includegraphics{statusCodesPlot.pdf}
+\end{figure}
+\section{Q2}
 
 We were required to get the carbon date for all the links in the tweets, get the deltas between the age of the tweet and age of the link and perform statistical operations on the deltas.
 
-\subsection*{Running the Carbon Date Utility}
+\subsection{Running the Carbon Date Utility}
 
-Since I had several duplicate URIs I decided to perform the carbon date on the final URIs instead of the links in the tweets directly.  I assigned each URI a number and created a directory for it in the carbondate directory.  Within the numbered directory for each individual URI I house the results from `python local.py \textit{url}'.
+Since I had several duplicate URIs I decided to perform the carbon date on the final URIs instead of the links in the tweets directly.  I assigned each URI a number and created a directory for it in the carbondate directory.  Within the numbered directory for each individual URI I housed the results from `python local.py \textit{url}'.
 
-I wrote two scripts to perform my carbon date lookups.  The main script is getTimes.sh.  It is called by ./getTimes.sh \textit{folder} \textit{url}.  This creates the numbered folder for the URI and calls `python local.py \textit{url}' outputing the results to \textit{folder}/cd.  The second script is called getAll.sh.  This runs through a list of URIs and assigned folder numbers and calls the getTimes.sh script with the information provided in each line.
+I wrote two scripts to perform my carbon date lookups.  The main script is `getTimes.sh'.  It is called with the command found in `./getTimes.sh \textit{folder} \textit{url}'.  The script creates the numbered folder for the URI and calls `python local.py \textit{url}' outputting the results to \textit{folder}/cd.  The second script is called `getAll.sh'.  It is a wrapper script that calls the `getTimes.sh' script for each URI.
 
-I also received several `sh: 1: Syntax error: Unterminated quoted string' errors.  I am not sure if this affected receiving responses for dates from the carbon date utility.
+There were 4 URIs that were hung when I used my scripts.  I ended up using the carbon date utility provided at http://cd.cs.odu.edu/cd.  By doing this, I learned that they were having issues because some of the characters that were in the URIs.  I fixed this by changing the characters from ascii to url format.  For example: I changed ' to \%27.
 
-There were 4 URIs that were hung when I used my scripts.  I ended up using the carbon date utility provided at http://cd.cs.odu.edu/cd.  By doing this I learned that they were having issues because of some of the characters that were in the URIs.  I fixed this by changing the characters from ascii to url format.  For example: I changed ' to \%27.
-
-\subsection*{Determining the deltas between tweet age and link age}
+\subsection{Determining the Deltas Between Tweet Age and Link Age}
 
 I wrote a script called `addDatesToUri.py' that concatenated each URI and the date found to be earliest by the carbon date utility.  There were several URIs that I came across that had no dates in the response from carbon date and were skipped. The results were placed in a file called `uniqueuridates'.  The file ended up having 4345 entries with a date given from carbon date out of 7406 unique URIs.
 
-To compute the difference in the ages I wrote a script named `timedif.py'.  This script starts by pulling in the information in `uniqueuridates'.  After that it begins to work through the tweetsURI file line by line.  If it sees a line that starts with CREATED\texttt{\_}AT: it changes the format of the date and saves it as tweetdate.  If it sees a line that starts with URL or LOCATION, it saves the result in link. Note this only saves the last one found before the end of the headers.  Once the script reaches the end of the headers for the twitter link it searches for the final link in the list of known URIs.  If it is there we perform a time difference between the tweetdate and urldate.  Else we make the time difference 0 saying twitter was the first known time instance of the link.
+To compute the difference in the ages I wrote a script named `timedif.py'.  This script starts by pulling in the information in `uniqueuridates'.  After that it begins to work through the tweetsURI file line by line.  If it sees a line that starts with CREATED\texttt{\_}AT: it changes the format of the date and saves it as \textit{tweetdate}.  If it sees a line that starts with URL or LOCATION, it saves the result in \textit{link}. Note this only saves the last one found before the end of the headers.  Once the script reaches the end of the headers for the twitter link, it searches for the final link in the list of known URIs.  If it is there, we perform a time difference between the \textit{tweetdate} and \textit{urldate}.  Otherwise, we make the time difference 0 and in doing this we say that twitter was the first known instance of the link.
 
-Histogram:\\
-\includegraphics{timedif.pdf}
+\begin{figure}[H]
+    \centering
+    \includegraphics{timedif.pdf}
+\end{figure}
 
-\subsection*{Statistics on Deltas}
-I wrote a python program to perform my statistics operations named time/stats.py.  It returned the following information on my deltas.\\
-$\bullet$ SUM OF ALL DELTAS:  685375\\
+\subsection{Statistics on Deltas}
+I wrote a python program to perform my statistics operations named `time/stats.py'.  It returned the following information on my deltas.\\
+$\bullet$ SUM:  690833\\
 $\bullet$ NUMBER OF DELTAS:  10347\\
-$\bullet$ MEAN OF ALL DELTAS:  66.23900647530685\\
+$\bullet$ MEAN OF ALL DELTAS:  66.76650236783608\\
 $\bullet$ MEDIAN OF ALL DELTAS:  0\\
-$\bullet$ STD ERR OF ALL DELTAS:  2.543419215641349\\
-$\bullet$ STD DEV OF ALL DELTAS:  258.71712270023767\\
+$\bullet$ STD ERR:  2.575788481411682\\
+$\bullet$ STD DEV:  262.0097310333504\\
 
 \end{document}
