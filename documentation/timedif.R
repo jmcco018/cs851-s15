@@ -1,0 +1,5 @@
+#data <- as.matrix(read.table("redirectsData",header=TRUE, sep=","))
+data <- read.table("timedifdata",header=TRUE)
+days <- c(data$time)
+hist(days,col="lightblue",main="Time difference between tweet and URL creation")
+#barplot(data,main="Redirects",xlab="Code",ylab="Total",col="blue")

@@ -1,0 +1,5 @@
+#data <- as.matrix(read.table("redirectsData",header=TRUE, sep=","))
+data <- read.table("statusesData",header=TRUE, sep=",")
+status <- c(data$HTTP301,data$HTTP200,data$HTTP302,data$HTTP303,data$HTTP405,data$HTTP404,data$HTTP503,data$HTTP403,data$HTTP406,data$HTTP307,data$HTTP500,data$HTTP416,data$HTTP508,data$HTTP400,data$HTTP302,data$HTTP504,data$HTTP502,data$HTTP501,data$HTTP410,data$HTTP301,data$HTTP204)
+hist(status,col="lightblue",main="All Codes Summary")
+#barplot(data,main="Redirects",xlab="Code",ylab="Total",col="blue")
