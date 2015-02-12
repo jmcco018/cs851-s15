@@ -25,23 +25,23 @@
 
 \section*{Q1}
 
-We were required to determine the get 10,000 tweets, map the links in each tweet, get the headers for each link, determine the unique and duplicate URIs and build a histogram of redirects and HTTP status codes.
+We were required to get 10,000 tweets, map the links in each tweet, get the headers for each link, determine the unique and duplicate URIs and build a histogram of redirects and HTTP status codes.
 
 \subsection*{Getting the tweets and headers}
 
-I started my script for getting tweets by using the code provided at http://thomassileo.com/blog/2013/01/25/using-twitter-rest-api-v1-dot-1-with-python/ for twitter connectivity.  I then customized it to pull tweets, extract the creation date and links from the tweet, filters for content and get the headers for the links within the tweet.  I chose to use the search/tweets API to ensure I had a myriad of different topics and links in the tweets I pulled.
+I started my script for getting tweets by using the code provided at http://thomassileo.com/blog/2013/01/25/using-twitter-rest-api-v1-dot-1-with-python/ for twitter connectivity.  I then customized it to pull tweets, extract the creation date and links from the tweet, filter for content and get the headers for the links within the tweet.  I chose to use the search/tweets API to ensure I had a myriad of different topics and links in the tweets I pulled.
 
-For each word in my wordlist the tweets.py script would perform a search returning the maximum of 100 tweets.  The script applied some filters to help ensure the returned tweets were not inappropriate and to check that tweet had a link.  If the tweet did not pass the restrictions the tweet was skipped.  I ended up having a wordlist of more than 2000 words to ensure I could get 10000 tweets.
+For each word in my wordlist the tweets.py script would perform a search returning the maximum of 100 tweets.  The script applied some filters to help ensure the returned tweets were not inappropriate and to check that the tweet had at least one link.  If the tweet did not pass the restrictions, the tweet was skipped.  I ended up having a wordlist of more than 2000 words to ensure I could get 10000 tweets.
 
-After getting all the links from the tweet, tweets.py uses subprocess to get all the headers by calling `curl -I \textit{link}'.
+After getting the links from the tweet, `tweets.py' uses subprocess to get all the headers by calling `curl -I \textit{link}'.
 
-The url count, tweet urls, headers for the urls and json from the tweet were saved for each tweet in the file tweetsURI.
+The URI count, tweet URIs, headers for the URIs and JSON from the tweet were saved for each tweet in the file `tweetsURI'.
 
 \subsection*{Final URIs}
 
-I wrote a python script (finaluri.py) to go through the tweetsURI file.  This script originally sets link to the URL found in the tweet and then continues updating the link until it has reached the end of the header.  It then checks to see if it is in the unique URI list.  If not, it is added to the unique URI list and the all URI list.  If it is, we add it to the duplicate URI list if it is not already in there and the all URI list.
+I wrote a python script `finaluri.py' that reads through the `tweetsURI' file.  This script originally sets \textit{link} to the URI found in the tweet and then continues updating \textit{link} until it has reached the end of the headers for that URI.  It then checks to see if it is in the unique URI list.  If not, it is added to the unique URI list and the all URI list.  If it is, we add it to the duplicate URI list if it is not already in there and the all URI list.
 \
-There were two URLs that had the twitter t.co link as the final link.
+There were two URIs from all the tweets that had the twitter t.co link as the final link.
 
 http://t.co/ryFCdcfQQC\\
 \textbf{HEADERS:}\\
@@ -102,8 +102,11 @@ $\bullet$      1 301 found\\
 $\bullet$      1 301
 
 Histogram:\\
-NOTE: For the histogram I consolidated the above information into groups of individual code numbers instead of the specific code responses.\\
-\includegraphics{redirectsPlot.pdf}
+NOTE: For the histogram I consolidated the above information into groups of individual code numbers instead of the specific textual responses.\\
+\begin{figure}
+    \centering
+    \includegraphics{redirectsPlot.pdf}
+\end{figure}
 
 \subsection*{Status Codes}
 

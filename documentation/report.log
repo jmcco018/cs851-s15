@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2014.8.20)  11 FEB 2015 15:03
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2014.8.20)  12 FEB 2015 11:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,24 +456,24 @@ Overfull \hbox (2.73343pt too wide) in paragraph at lines 84--85
 <redirectsPlot.pdf, id=17, 505.89pt x 505.89pt>
 File: redirectsPlot.pdf Graphic file (type pdf)
  <use redirectsPlot.pdf>
-Overfull \hbox (115.88875pt too wide) in paragraph at lines 104--107
-[] 
+Overfull \hbox (115.88875pt too wide) in paragraph at lines 108--109
+ [][] 
  []
 
-[3] [4 <./redirectsPlot.pdf>]
-Overfull \hbox (2.73343pt too wide) in paragraph at lines 113--114
+
+Overfull \hbox (2.73343pt too wide) in paragraph at lines 116--117
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-
-Overfull \hbox (2.73343pt too wide) in paragraph at lines 114--115
+[3] [4 <./redirectsPlot.pdf>]
+Overfull \hbox (2.73343pt too wide) in paragraph at lines 117--118
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 <statusCodesPlot.pdf, id=31, 505.89pt x 505.89pt>
 File: statusCodesPlot.pdf Graphic file (type pdf)
  <use statusCodesPlot.pdf>
-Overfull \hbox (115.88875pt too wide) in paragraph at lines 140--142
+Overfull \hbox (115.88875pt too wide) in paragraph at lines 143--145
 [] 
  []
 
@@ -481,12 +481,12 @@ Overfull \hbox (115.88875pt too wide) in paragraph at lines 140--142
 File: timedif.pdf Graphic file (type pdf)
 
 <use timedif.pdf>
-Overfull \hbox (115.88875pt too wide) in paragraph at lines 163--165
+Overfull \hbox (115.88875pt too wide) in paragraph at lines 166--168
 [] 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 167--174
+Underfull \hbox (badness 10000) in paragraph at lines 170--177
 
  []
 
@@ -494,11 +494,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--174
 Here is how much of TeX's memory you used:
  3985 strings out of 493747
  51912 string characters out of 3143546
- 133756 words of memory out of 3000000
+ 135788 words of memory out of 3000000
  7236 multiletter control sequences out of 15000+200000
  9324 words of font info for 33 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 38i,6n,51p,825b,1153s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,7n,51p,825b,1593s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2010/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2010/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2010/texmf-dist/fonts
@@ -506,7 +506,7 @@ ts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2010/texmf-dist/fonts
 ype1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2010/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2010/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (11 pages, 89820 bytes).
+Output written on report.pdf (11 pages, 89616 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
