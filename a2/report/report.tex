@@ -99,7 +99,7 @@ MEDIAN:  9785880
 
 \subsection{WAIL}
 
-I was unable to get WARC files using WAIL.  Everytime I tried to use it the application would lock up and get itself into a not responding state.
+I was unable to get WARC files using WAIL.  Everytime I tried to use it the application would lock up and get in a `not responding' state.
 
 \begin{figure}[H]
     \caption{Failed WAIL}
@@ -142,7 +142,7 @@ I chose to playback 3 WARC files.  The WARCs I chose can be found in the report 
     \includegraphics[scale=0.5]{shockertvreplay.PNG}
 \end{figure}
 
-I was unable to replay WARC files using WAIL.  Everytime I tried to use it the application would lock up and get itself into a not responding state.
+I was unable to replay WARC files using WAIL.  Everytime I tried to use it the application would lock up and get in a `not responding' state.
 
 \begin{figure}[H]
     \caption{Failed WAIL Wayback}
@@ -158,9 +158,9 @@ For this question we were required to build a SOLR instance, ingest 100 URIs and
 
 \subsection{Setting up SOLR}
 
-I followed got SOLR from \url{https://github.com/ukwa/webarchive-discovery} and followed the instructions at its wiki.  I was required to also install Maven.  I got the binary version from \url{http://maven.apache.org/download.cgi}.
+I downloaded SOLR from \url{https://github.com/ukwa/webarchive-discovery} and followed the instructions at its wiki.  I was required to also install Maven.  I got the binary version from \url{http://maven.apache.org/download.cgi}.
 
-I did not do any special confiurations for my SOLR instance. Running the server from linux.cs.odu.edu did require me to use the -Djetty.port option to change the port from 8080 to something between 10000 and 11000.
+I did not do any special configurations for my SOLR instance. Running the server from linux.cs.odu.edu did require me to use the -Djetty.port option to change the port from 8080 to something between 10000 and 11000.
 
 \subsection{Ingesting WARCs}
 I noticed when ingesting my warc files a few of them hit the word limit and quit ingesting more words from that document.
@@ -175,7 +175,7 @@ I chose to use the WARCs received when using WARCreate due to their size. I thou
 
 \subsection{Querying}
 
-I performed five queries.  I was surprised when it worked so well! I knew that I had a WARC file that included a web page that used the word `tennis'.  To test out querying while still ingesting the WARCs, I searched for `tennis'. As it turns out there was more files than that one that also said `tennis'.
+I performed five queries.  I was surprised when it worked so well! I knew that I had a WARC file that included a web page that used the word `tennis'.  To test out querying while still ingesting the WARCs, I searched for `tennis' knowing it was in at least one document.
 
 \begin{figure}[H]
     \caption{TENNIS}
