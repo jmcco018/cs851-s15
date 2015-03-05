@@ -1,0 +1,9 @@
+#!/bin/bash
+IFS=$'\n'
+for line in `cat uris`; do
+  folder="/home/jmcconne/cs751/a2/warcs/"$(echo "$line" | rev | cut -d' ' -f1 | rev)"/wget/"
+  url=$(echo "$line" | rev | cut -d' ' -f2- | rev)
+  echo $folder $url
+  file=$folder"wget"
+  wget -t 5 -T 5 --warc-file=$file -P $folder -p -l 1 "$url"
+done

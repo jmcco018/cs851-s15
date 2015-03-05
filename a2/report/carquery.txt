@@ -1,0 +1,968 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 1,
+    "params": {
+      "indent": "true",
+      "q": "car",
+      "_": "1425431916338",
+      "wt": "json"
+    }
+  },
+  "response": {
+    "numFound": 21,
+    "start": 0,
+    "docs": [
+      {
+        "source_file_s": "20150303200951670.warc@30926388",
+        "url": "https://www.trustedchoice.com/content/trustedchoice/en/car-insurance.img.1381521998146.icon.png",
+        "content_type_ext": "png",
+        "host": "www.trustedchoice.com",
+        "domain": "trustedchoice.com",
+        "public_suffix": "com",
+        "content_type_served": "image/png",
+        "server": [
+          "Apache"
+        ],
+        "content_length": 12372,
+        "id": "sha1:SFSIQUCAHROB2N2AHMCIRNSBW5O4XRZX/o9pqUj9dlY8EC07uwXjNgg==",
+        "hash": [
+          "sha1:SFSIQUCAHROB2N2AHMCIRNSBW5O4XRZX"
+        ],
+        "crawl_date": "2015-03-03T20:09:51Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303200951",
+        "content": [
+          ""
+        ],
+        "content_text_length": 0,
+        "content_type": [
+          "image/png"
+        ],
+        "content_ffb": "89504e47",
+        "content_first_bytes": "89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00 00 00 78 00 00 00 40 08 06 00 00 00 d1 4d b3",
+        "content_type_droid": "application/octet-stream",
+        "content_type_tika": "image/png",
+        "content_type_full": "image/png",
+        "content_type_norm": "image",
+        "crawl_dates": [
+          "2015-03-03T20:08:55Z",
+          "2015-03-03T20:09:14Z",
+          "2015-03-03T20:09:51Z"
+        ],
+        "crawl_years": [
+          "2015",
+          "2015",
+          "2015"
+        ],
+        "_version_": 1494672186746601500
+      },
+      {
+        "source_file_s": "1572.warc@108498203",
+        "url": "http://adsfeed3.brabys.co.za/www/delivery/lg.php?bannerid=1447&campaignid=1505&zoneid=11&loc=http%3A%2F%2Fwww.iol.co.za%2Fmotoring%2Ff1-grand-prix%2Fferrari-reveals-new-f1-race-car-1.1811434%3Futm_med",
+        "content_type_ext": "php",
+        "host": "adsfeed3.brabys.co.za",
+        "domain": "brabys.co.za",
+        "public_suffix": "co.za",
+        "server": [
+          "Apache/2.2.15 (Red Hat)",
+          "PHP/5.3.3"
+        ],
+        "content_type_served": "image/gif",
+        "content_length": 47,
+        "id": "sha1:73R2SGQGQ2755MA2E3GN633LXDZV6QPN/ihdSeD63Er5LEJ/6mb0PxA==",
+        "hash": [
+          "sha1:73R2SGQGQ2755MA2E3GN633LXDZV6QPN"
+        ],
+        "crawl_date": "2015-03-03T19:35:47Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303193547",
+        "content": [
+          ""
+        ],
+        "content_text_length": 0,
+        "content_type": [
+          "image/gif"
+        ],
+        "content_ffb": "47494638",
+        "content_first_bytes": "47 49 46 38 39 61 01 00 01 00 80 00 00 ff ff ff 00 00 00 21 f9 04 00 00 00 00 00 2c 00 00 00 00",
+        "content_type_droid": "application/octet-stream",
+        "content_type_tika": "image/gif",
+        "content_type_full": "image/gif",
+        "content_type_norm": "image",
+        "crawl_dates": [
+          "2015-03-03T19:33:46Z",
+          "2015-03-03T19:35:47Z"
+        ],
+        "crawl_years": [
+          "2015",
+          "2015"
+        ],
+        "_version_": 1494671246896398300
+      },
+      {
+        "source_file_s": "1572.warc@108499143",
+        "url": "http://adsfeed3.brabys.co.za/www/delivery/lg.php?bannerid=1447&campaignid=1505&zoneid=12&loc=http%3A%2F%2Fwww.iol.co.za%2Fmotoring%2Ff1-grand-prix%2Fferrari-reveals-new-f1-race-car-1.1811434%3Futm_med",
+        "content_type_ext": "php",
+        "host": "adsfeed3.brabys.co.za",
+        "domain": "brabys.co.za",
+        "public_suffix": "co.za",
+        "server": [
+          "Apache/2.2.15 (Red Hat)",
+          "PHP/5.3.3"
+        ],
+        "content_type_served": "image/gif",
+        "content_length": 47,
+        "id": "sha1:73R2SGQGQ2755MA2E3GN633LXDZV6QPN/uUHFOOFkTDzW0y4jKYah8A==",
+        "hash": [
+          "sha1:73R2SGQGQ2755MA2E3GN633LXDZV6QPN"
+        ],
+        "crawl_date": "2015-03-03T19:35:47Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303193547",
+        "content": [
+          ""
+        ],
+        "content_text_length": 0,
+        "content_type": [
+          "image/gif"
+        ],
+        "content_ffb": "47494638",
+        "content_first_bytes": "47 49 46 38 39 61 01 00 01 00 80 00 00 ff ff ff 00 00 00 21 f9 04 00 00 00 00 00 2c 00 00 00 00",
+        "content_type_droid": "application/octet-stream",
+        "content_type_tika": "image/gif",
+        "content_type_full": "image/gif",
+        "content_type_norm": "image",
+        "crawl_dates": [
+          "2015-03-03T19:33:46Z",
+          "2015-03-03T19:35:47Z"
+        ],
+        "crawl_years": [
+          "2015",
+          "2015"
+        ],
+        "_version_": 1494671246904787000
+      },
+      {
+        "source_file_s": "1572.warc@108506675",
+        "url": "http://adsfeed3.brabys.co.za/www/delivery/lg.php?bannerid=1965&campaignid=2019&zoneid=9&loc=http%3A%2F%2Fwww.iol.co.za%2Fmotoring%2Ff1-grand-prix%2Fferrari-reveals-new-f1-race-car-1.1811434%3Futm_medi",
+        "content_type_ext": "php",
+        "host": "adsfeed3.brabys.co.za",
+        "domain": "brabys.co.za",
+        "public_suffix": "co.za",
+        "server": [
+          "Apache/2.2.15 (Red Hat)",
+          "PHP/5.3.3"
+        ],
+        "content_type_served": "image/gif",
+        "content_length": 47,
+        "id": "sha1:73R2SGQGQ2755MA2E3GN633LXDZV6QPN/3WxhE+jJdRZXBXuQZqN2iA==",
+        "hash": [
+          "sha1:73R2SGQGQ2755MA2E3GN633LXDZV6QPN"
+        ],
+        "crawl_date": "2015-03-03T19:35:47Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303193547",
+        "content": [
+          ""
+        ],
+        "content_text_length": 0,
+        "content_type": [
+          "image/gif"
+        ],
+        "content_ffb": "47494638",
+        "content_first_bytes": "47 49 46 38 39 61 01 00 01 00 80 00 00 ff ff ff 00 00 00 21 f9 04 00 00 00 00 00 2c 00 00 00 00",
+        "content_type_droid": "application/octet-stream",
+        "content_type_tika": "image/gif",
+        "content_type_full": "image/gif",
+        "content_type_norm": "image",
+        "crawl_dates": [
+          "2015-03-03T19:33:46Z",
+          "2015-03-03T19:35:47Z"
+        ],
+        "crawl_years": [
+          "2015",
+          "2015"
+        ],
+        "_version_": 1494671246922612700
+      },
+      {
+        "source_file_s": "20150303203001865.warc@21097",
+        "url": "http://dunyanews.tv/index.php/en/Sports/258596-Ferrari-unveils-new-sexy-car-for-2015",
+        "host": "dunyanews.tv",
+        "domain": "dunyanews.tv",
+        "public_suffix": "tv",
+        "server": [
+          "Apache"
+        ],
+        "content_type_served": "text/html; charset=UTF-8",
+        "content_length": 81012,
+        "id": "sha1:KODAJ7ICKBISODK5SRVEQT66LJSDV5EL/KBtCOezAeWHg+PchnPnYWA==",
+        "hash": [
+          "sha1:KODAJ7ICKBISODK5SRVEQT66LJSDV5EL"
+        ],
+        "crawl_date": "2015-03-03T20:30:02Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303203002",
+        "content": [
+          "Ferrari unveils new 'sexy' car for 2015 | Sports | Dunya NewsTue March 03, 2015 03:29:31 pm???? ???? ????FeedbackDistributionCareersContact UsNews ArchiveWatch LiveFollow us:TwitterFacebookRSSIRELAND vs SOUTH AFRICASouth Africa beat Ireland by 201 runsPAKISTAN V UNITED ARAB EMIRATES (Mar 4)AUSTRALIA V AFGHANISTAN (Mar 4)BANGLADESH V SCOTLAND (Mar 5)Teams Mat Won Lost Pts Net RRNew Zealand 4 4 0 8 +3.589Australia 3 1 1 3 -0.305Bangladesh 3 1 1 2 +0.130Click Here For MoreTeams Mat Won Lost Pts Net RRIndia 2 2 0 4 +2.060South Africa 3 2 1 4 +1.260Ireland 2 2 0 4 +0.338Click Here For MoreHOMEpakistanworldbusinesssportsentertainmentcrimeTechnologyVideoDunya USAHomeHOMEpakistanworldbusinesssportsentertainmentcrimeTechnologyVideoDunya USALahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4Lahore: Hamza Shahbaz will distribute appointment letters among blind protesters at 11 am on March 4PreviousNextPauseHomeAll PostsFerrari unveils new 'sexy' car for 2015Ferrari unveils new 'sexy' car for 2015  Last Updated On 30 January,2015 About 1 month agoFerrari unveiled the Formula One car it hopes will help drivers Sebastian Vettel and Kimi RaikkonenMARANELLO, Italy: (AP) - After a year to forget, Ferrari unveiled the Formula One car it hopes will help drivers Sebastian Vettel and Kimi Raikkonen get the Italian team back to winning ways.Ferrari failed to win a race last season for the first time since 1993. The year also saw three different team principals, while Sergio Marchionne replaced Luca Di Montezemolo as president.The team is looking to the new Ferrari SF15-T to restore its fortunes.\"The best car is the winning car,\" team principal Maurizio Arrivabene said on Friday. \"Last year, we had an ugly car, and it was a non-winning car on top of this. I like the car this year, in terms of aesthetics. I don t know about the performance but it s really sexy.\"While Arrivabene does not expect Ferrari to end its seven-year wait for a title, he has reiterated his demand for at least two grand prix triumphs this season.\"I m just realistic,\" he said. \"Nobody has the magic to change things when things are unchangeable.\"We applied certain modifications that in our opinion are quite interesting. With that, I don t want to say we are going to win the world championship, but for sure we are committed at least to win two races.\"The most striking features of the car are the elongated nose and heavily revised sidepods, and technical director James Allison said they have \"made a very useful leap\" in both the car design and the engine.\"No one ever said Formula One was supposed to be easy,\" Allison added. \"It will be a very stiff challenge to win races in 2015, but we have made good steps forward over the whole car, and we hope that this work will translate into a notable step forward in our fortunes.\"It is hoped the arrival of Vettel, who won four straight world titles from 2010-13, will also rejuvenate the team.\"There is a change in color for me so it s a new experience, but the car looks beautiful,\" Vettel said. \"I can t wait to go on track and see how it feels.\"There is a lot of change going on, a lot of new people in new positions including myself, and it always takes a bit of time to settle in until you really start to make proper progress. I m confident that we are going in the right direction, but it would be wrong to immediately expect a lot of us.\"Vettel, who also had a disappointing 2014, replaced another former world champion in Fernando Alonso. The German will be the first to drive the SF15-T when he takes to the wheel for the first winter test in Jerez on Sunday.\"The most important is that we start getting into the groove quickly in winter testing, and then we start to make progress,\" Vettel added. \"If the situation is like last year, it will be very difficult to really fight for victories, but of course it is our goal, and that s why we re here. We re not here to finish second.\"For us, the main target is to start to really work together, and hopefully catch up more and more as the season progresses.\"Ferrari believes it will show a clear improvement in performance from its power unit, starting with the first race in Melbourne in mid-March.\"The increase in performance is significant, but probably still not enough to be at the top level,\" said the head of Ferrari s power unit department, Mattia Binotto. \"It will be difficult to be at Mercedes  level right from Australia. They have such a huge advantage. It s our aim to reach the top teams before the end of the season.\"Recent articlesNBA: Nuggets sack coach Shaw after poor start: reports2015-03-03Football: Bayern's Guardiola dimisses Man City rumours2015-03-03Formula One: Williams confirm Wolff test schedule2015-03-03France lock Pape loses appeal against 10-week suspension2015-03-03AdvertismentLeave commentPlease enable JavaScript to view the <a href=\"http://disqus.com/?ref_noscript\">comments powered by Disqus.</a>comments powered by DisqusWatchLiveProgramscheduleLatest VideosBlind team doesn't have stadium to play cricketFrom selling tea at Railway station to Prime Minister house, Haroon Rasheed tells Narendra Modi's stAt this age, Shehreyar Khan should worry about his afterlife: Sarfaraz Nawaz123PreviousNextNewsHeadlinePakistanWorldSportsCricketBusinessEntertainmentTechnologyCrimeWeird NewsNews ArchiveProgramsHasb-e-HaalMazaq RaatNuqta NazarOn The FrontSiasat Hai Ya SazishIkhtilafi NoteFollow UpKhabar Yeh HayPeyam-E-SubhDunya TV SpecialYaad Karti Hay DunyaSawalIlm-O-HikmatToolsLive StreamingRadioiPhone APPMobileSubscribe Email For News AlertCorporateFeedbackDistributionCareersContact UsScheduleWallpapersRingtonesAdvertise With UsJoin UsTwitterFacebookRSSHomeFeedbackDistributionCareersContact UsNews Archive© 2014 Dunya News Network. A National Communications Services Company.Searching for new songs?"
+        ],
+        "content_text_length": 7047,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "Ferrari unveils new 'sexy' car for 2015 | Sports | Dunya News",
+        "keywords": "Ferrari, car, , AlonsoFerrari, unveils, sexy,",
+        "content_encoding": "UTF-8",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 3e 3c 68 65 61 64 3e 0a 3c 6d 65 74",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "disqus.com",
+          "feedburner.google.com",
+          "www.facebook.com",
+          "twitter.com",
+          "blogs.dunyanews.tv",
+          "dunya.com.pk",
+          "www.savings.gov.pk",
+          "dunyanews.tv",
+          "video.dunyanews.tv",
+          "urdu.dunyanews.tv"
+        ],
+        "links_domains": [
+          "disqus.com",
+          "facebook.com",
+          "savings.gov.pk",
+          "twitter.com",
+          "dunya.com.pk",
+          "dunyanews.tv"
+        ],
+        "links_public_suffixes": [
+          "com",
+          "tv",
+          "com.pk",
+          "gov.pk"
+        ],
+        "elements_used": [
+          "body",
+          "tr",
+          "link",
+          "img",
+          "div",
+          "noscript",
+          "td",
+          "br",
+          "meta",
+          "title",
+          "style",
+          "path",
+          "h5",
+          "ol",
+          "head",
+          "h3",
+          "h2",
+          "g",
+          "ul",
+          "svg",
+          "b",
+          "form",
+          "ins",
+          "a",
+          "table",
+          "script",
+          "section",
+          "header",
+          "footer",
+          "li",
+          "input",
+          "iframe",
+          "article",
+          "tbody",
+          "p",
+          "nav",
+          "html",
+          "span"
+        ],
+        "content_type_tika": "text/html; charset=UTF-8",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=UTF-8; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_192": "JZn1RQI8rMQRm6KmUHLC9lIM/zGEttm389",
+        "ssdeep_hash_bs_384": "JZ1uTrPHKmB95ey",
+        "ssdeep_hash_ngram_bs_192": "JZn1RQI8rMQRm6KmUHLC9lIM/zGEttm389",
+        "ssdeep_hash_ngram_bs_384": "JZ1uTrPHKmB95ey",
+        "crawl_dates": [
+          "2015-03-03T20:30:02Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494672999547142100
+      },
+      {
+        "source_file_s": "20150303201950317.warc@43098",
+        "url": "http://www.npr.org/2014/12/05/368564417/public-radios-most-played-songs-of-2014",
+        "host": "www.npr.org",
+        "domain": "npr.org",
+        "public_suffix": "org",
+        "server": [
+          "Apache",
+          "PHP/5.5.0"
+        ],
+        "content_type_served": "text/html;;charset=UTF-8",
+        "content_length": 69492,
+        "id": "sha1:7DJIJZRAS22C6PU25JOGRJ7UL6ES2GX2/Kfe/dQls2aoayEsOQ7AibA==",
+        "hash": [
+          "sha1:7DJIJZRAS22C6PU25JOGRJ7UL6ES2GX2"
+        ],
+        "crawl_date": "2015-03-03T20:19:50Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303201950",
+        "content": [
+          "­Skip to Main ContentSearchToggle searchTopicsNewsU.S.WorldPoliticsBusinessTechnologyScienceHealthRace & CultureEducationArts & LifeBooksMoviesPop CultureFoodArt & DesignPerforming ArtsPhotographyMusicFirst ListenSongs We LoveMusic ArticlesTiny Desk ConcertsVideosProgramsNews and ConversationsMorning EditionAll Things ConsideredFresh AirHere & NowThe Diane Rehm ShowLatino USAOn The MediaOn PointWeekend Edition SaturdayWeekend Edition SundayStorytelling & HumorAsk Me AnotherThe Best Of Car TalkBullseyeInvisibiliaRadiolabSnap JudgmentStoryCorpsTED Radio HourWait Wait...Don't Tell Me!MusicAll Songs ConsideredAlt.LatinoFirst ListenFrom The TopJazz Night In AmericaMetropolisMicrophone CheckMountain StagePiano JazzSong TravelsThe Thistle & ShamrockWorld CafeListenStationsDonateShopSign In/RegisterLogoutGenresRockPopJazzClassicalHip-HopR&B/SoulFolkLatinWorldElectronic/DanceNew MusicFirst ListenSongs We LoveAll Songs ConsideredReviewsMusic VideosConcerts & VideosTiny Desk ConcertsLive ConcertsField RecordingsStudio SessionsMusic DocumentariesMusic VideosFestival RecordingsArticles & ListsArticlesInterviewsQuizzesMusic ListsBest Music of the YearProgramsAll Songs ConsideredAlt.LatinoFirst ListenFrom The TopJazz Night In AmericaMetropolisMicrophone CheckMountain StagePiano JazzSong TravelsThe Thistle & ShamrockWorld CafePublic Radio Programs A to ZRadio StreamsRadio StreamsFacebookTwitterTumblrPublic Radio's Most Played Songs Of 2014Listen To A 24/7 Mix Of Highlights From The Left Side Of The DialDecember 05, 2014 1:34 PM ETiThe War On Drugs, seen here performing live on KEXP, supplied several of public radio's most popular songs this year.Dave Lichterman/KEXPhide captionitoggle captionDave Lichterman/KEXPThe War On Drugs, seen here performing live on KEXP, supplied several of public radio's most popular songs this year.Dave Lichterman/KEXPThis audio is no longer available.NPR Music publishes a popular feature each month called Heavy Rotation, which collects 10 songs that public radio hosts across the country can't stop playing. We decided to do the series one better during our year-end festivities and create a 24/7 stream made up of the songs public radio stations couldn't stop playing.This special Heavy Rotation mix features the most popular songs from an assortment of our favorite U.S. public radio stations. In other words, only the hits (relatively speaking).Our stream was curated entirely by the following NPR members:World Cafe (Philadelphia)The Bridge (Kansas City)The Current (Twin Cities)The Exit (Albany)FolkAlley.com (Kent, Ohio)Iowa Public Radio's Studio OneKCRW (Santa Monica)KEXP (Seattle)KUNC (Northern Colorado)KUTX (Austin)opbmusic (Portland, Oregon)Colorado Public Radio's OpenAirWFPK (Louisville)WFUV (New York City)WNCW (North Carolina)WYEP (Pittsburgh)Recently Played SongsComments  You must be signed in to leave a comment. Sign In / RegisterPlease keep your community civil. All comments must follow the NPR.org Community rules and Terms of Use. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the Terms of Use, Privacy Policy and Community FAQ.Please enable JavaScript to view the <a href=\"http://disqus.com/?ref_noscript\">comments powered by Disqus.</a>NPR thanks our sponsorsBecome an NPR sponsorMore From The Best Music Of 2014Music Lists662 Shows In 365 Days: Bob Boilen's Year In ConcertsMusic ListsRecommended Dose: A 2014 Dance MixMusic Lists10 Favorite Metal Albums Of 2014Music ListsViking's Choice: The Year In The Loud And The WeirdMoreNPR HomeSearchMusicGenresNew MusicConcerts & VideosArticles & ListsProgramsRadio StreamsTopicsProgramsListenSign In / RegisterLogoutBackGenresRockPopJazzClassicalHip-HopR&B/SoulFolkLatinWorldElectronic/DanceBackNew MusicFirst ListenSongs We LoveAll Songs ConsideredReviewsMusic VideosBackConcerts & VideosTiny Desk ConcertsLive ConcertsField RecordingsStudio SessionsMusic DocumentariesMusic VideosFestival RecordingsBackArticles & ListsArticlesInterviewsQuizzesMusic ListsBest Music of the YearBackNewsU.S.WorldPoliticsBusinessTechnologyScienceHealthRace & CultureEducationArts & LifeMoviesPop CultureFoodArt & DesignPerforming ArtsPhotographyBooksBook ReviewsAuthor InterviewsMusicFirst ListenSongs We LoveMusic ArticlesTiny Desk ConcertsVideosOur BlogsCorrectionsAll About NPRBacknews & conversationsstorytelling & humormusicalso heard on npr stationsBackMorning EditionAll Things ConsideredFresh AirHere & NowThe Diane Rehm ShowLatino USAOn The MediaOn PointScience FridayWeekend Edition SaturdayWeekend Edition SundayBackAsk Me AnotherThe Best Of Car TalkBullseyeInvisibiliaRadiolabSnap JudgmentStoryCorpsTED Radio HourWait Wait...Don't Tell Me!BackBackAll Songs ConsideredAlt.LatinoFirst ListenFrom The TopJazz Night In AmericaMetropolisMicrophone CheckMountain StagePiano JazzSong TravelsThe Thistle & ShamrockWorld CafePublic Radio Programs A to ZBackA Prairie Home Companion (APM)Marketplace (APM)Science FridayThis American Life (PRX)Public Radio Programs A to ZSupport NPRNPR ShopSupport The Programs You LoveNewsU.S.WorldPoliticsBusinessTechnologyScienceHealthRace & CultureEducationArts & LifeBooksMoviesPop CultureFoodArt & DesignPerforming ArtsPhotographyMusicFirst ListenSongs We LoveMusic ArticlesTiny Desk ConcertsVideosProgramsAll Things ConsideredAsk Me AnotherThe Best Of Car TalkBullseyeThe Diane Rehm ShowFresh AirHere & NowInvisibiliaLatino USAMorning EditionOn The MediaOn PointRadiolabSnap JudgmentStoryCorpsTED Radio HourWait Wait...Don't Tell Me!Weekend Edition SaturdayWeekend Edition SundayListenHourly NewsNPR Program StreamFind Station StreamsPodcastsMore Ways To ListenAboutNPR OverviewNPR FinancesPeople at NPRSupport NPRVisit NPRPress Room'This Is NPR' BlogCareers at NPRCorrectionsNPR OmbudsmanPermissions© 2015 NPRHelpContactTerms of UsePrivacySponsorship ChoicesText-Only© 2015 NPRShareFacebookTwitterGoogle+Email13Comment"
+        ],
+        "content_text_length": 6335,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "Public Radio's Most Played Songs Of 2014 : NPR",
+        "content_encoding": "UTF-8",
+        "last_modified_year": "2014",
+        "last_modified": "2014-12-05T05:00:00Z",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 20 63 6c 61 73 73 3d 22 6a 73 20 66",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "wfpk.org",
+          "www.maximumfun.org",
+          "www.kunc.org",
+          "www.radiolab.org",
+          "thedianerehmshow.org",
+          "marketplace.publicradio.org",
+          "tours.npr.org",
+          "twitter.com",
+          "iowapublicradio.org",
+          "kutx.org",
+          "hereandnow.wbur.org",
+          "www.opb.org",
+          "www.thisamericanlife.org",
+          "bridge909.org",
+          "www.onthemedia.org",
+          "www.kcrw.com",
+          "www.wfuv.org",
+          "www.fromthetop.org",
+          "thecurrent.org",
+          "www.wyep.org",
+          "www.cpr.org",
+          "www.sciencefriday.com",
+          "help.npr.org",
+          "www.onpointradio.org",
+          "folkalley.com",
+          "kexp.org",
+          "www.facebook.com",
+          "www.cartalk.com",
+          "exit977.org",
+          "thin.npr.org",
+          "www.npr.org",
+          "wncw.org",
+          "npr.org",
+          "shop.npr.org",
+          "prairiehome.publicradio.org",
+          "nprmusic.tumblr.com",
+          "storycorps.org"
+        ],
+        "links_domains": [
+          "radiolab.org",
+          "kunc.org",
+          "wfpk.org",
+          "cartalk.com",
+          "tumblr.com",
+          "wfuv.org",
+          "opb.org",
+          "onpointradio.org",
+          "facebook.com",
+          "thedianerehmshow.org",
+          "twitter.com",
+          "iowapublicradio.org",
+          "kutx.org",
+          "cpr.org",
+          "bridge909.org",
+          "wbur.org",
+          "thecurrent.org",
+          "wyep.org",
+          "kcrw.com",
+          "folkalley.com",
+          "kexp.org",
+          "onthemedia.org",
+          "sciencefriday.com",
+          "publicradio.org",
+          "exit977.org",
+          "maximumfun.org",
+          "wncw.org",
+          "npr.org",
+          "thisamericanlife.org",
+          "storycorps.org",
+          "fromthetop.org"
+        ],
+        "links_public_suffixes": [
+          "com",
+          "org"
+        ],
+        "elements_used": [
+          "body",
+          "link",
+          "img",
+          "div",
+          "noscript",
+          "meta",
+          "time",
+          "title",
+          "style",
+          "h5",
+          "h4",
+          "head",
+          "h1",
+          "h3",
+          "h2",
+          "ul",
+          "form",
+          "b",
+          "a",
+          "label",
+          "script",
+          "header",
+          "section",
+          "footer",
+          "li",
+          "input",
+          "iframe",
+          "article",
+          "strong",
+          "p",
+          "nav",
+          "html",
+          "em",
+          "scr'",
+          "span"
+        ],
+        "content_type_tika": "text/html; charset=UTF-8",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=UTF-8; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_96": "fMxSG6VDzuT6XVDdZjI5P4kEmcdtZQARRfGnNPEJ65LCTZY/xLitpdkQYFRdL0XI",
+        "ssdeep_hash_bs_192": "fM4FzOwF/j44k0dtZQARR6xA65IG/UHE",
+        "ssdeep_hash_ngram_bs_96": "fMxSG6VDzuT6XVDdZjI5P4kEmcdtZQARRfGnNPEJ65LCTZY/xLitpdkQYFRdL0XI",
+        "ssdeep_hash_ngram_bs_192": "fM4FzOwF/j44k0dtZQARR6xA65IG/UHE",
+        "crawl_dates": [
+          "2015-03-03T20:19:50Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494672375157883000
+      },
+      {
+        "source_file_s": "20150303200855131.warc@23743",
+        "url": "https://www.trustedchoice.com/content/2011/11/insurance-before-moving/",
+        "host": "www.trustedchoice.com",
+        "domain": "trustedchoice.com",
+        "public_suffix": "com",
+        "content_type_served": "text/html",
+        "server": [
+          "Apache"
+        ],
+        "content_length": 65191,
+        "id": "sha1:IKKTSRYEJ6PUQIJNH5RUO7LDXU5OZEO3/O67372nqrOesyNxbliSE3Q==",
+        "hash": [
+          "sha1:IKKTSRYEJ6PUQIJNH5RUO7LDXU5OZEO3"
+        ],
+        "crawl_date": "2015-03-03T20:08:55Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303200855",
+        "content": [
+          "Off you go! What you need to know about insurance before moving.For Agents  | For Carriers | |My Profile|Sign OutFor Agents  | For Carriers | Consumer LoginWe have encountered an error. Please check your input and try again.The user with the provided email address is not recognized.Passwords are case sensitive and must be 8 characters long and must contain an Uppercase (A - Z) Lowercase (a - z) and a Number (0 - 9).The email address is already in use.Please enter a valid zip code.You have exceeded the maximum number of password tries.The password is not correct.Passwords are case sensitive and must be 8 characters long and must contain an Uppercase (A - Z) Lowercase (a - z) and a Number (0 - 9).The zip code is not valid.Please read and accept the terms of use.It appears that your reset password link has expired.You should receive an email with a link to reset your password.Your password has been successfully reset.Call Us Today! (855) 825-3141Sign in to TrustedChoice.comAll fields with * are required*Email address:*Password:Sign InForgot password?Click hereNot signed up for TrustedChoice.com yet?Sign Up Now!Sign Up Now!All fields with * are required*First Name:*Last Name:*Email (User ID):*Password:*Re-Enter Password:*Phone Number:*Zip Code:I Agree to the Terms of UseSign UpAlready registered with TrustedChoice.com?Click here to Sign InAgree and Continue RegistrationDeclineForgot Password?All fields with * are required*Email address:Reset Password Reset your passwordAll fields with * are required*New Password:*Re-Enter Password:Reset Password Session Expiration WarningYour session will expire in:LogoutRefresh Session  AutoCar InsuranceRV InsuranceOther Insurance OptionsCommercial Vehicle InsuranceHomeHomeowners InsuranceRenters InsuranceOther Insurance OptionsLandlord InsuranceCondo InsuranceMobile Home InsuranceCatastrophe InsuranceUmbrella InsurancePowersportsMotorcycle InsuranceBoat InsuranceOther Insurance OptionsATV InsurancePWC InsuranceTrailer InsuranceSnowmobile InsuranceLife & HealthLife InsuranceHealth InsuranceOther Insurance OptionsTerm Life InsurancePermanent Life InsuranceBusinessBusiness InsuranceFarm & Ranch InsuranceOther Insurance OptionsSmall Business InsuranceProfessional Liability InsuranceAbout UsAbout UsInsurance CompaniesGo« Where medical fits into liability coverageManaging Your Mod »Off you go! What you need to know about insurance before moving.By Staff WriterSo you’ve decided to abandon the old homestead for greener pastures. Or possibly a job is transferring you around the state or across the country. Or the kids have outgrown the apartment so it is on to a house.Whatever the reason, hundreds of thousands of Americans will move from one residence to another this year. That’s a lot of personal belongings being packed up, shoved in, and moved out. If you suffer damage to your property during this process, are you covered by your homeowners insurance? Your car insurance? The mover’s insurance?Let’s address them one at a time.Homeowners InsuranceA traditional homeowners policy will typically cover your property while in transit just as if it was still located in your living room, and for up to 30 days at your new home. That will give you plenty of time to make the necessary changes in your homeowners insurance to protect your new home. There are a few limitations that apply to certain property during your move, but none of them are related to the fact you are moving. These limitations apply to the following types of property anytime it is away from your home for any reason.Except for certain limitations, the full amount of personal property coverage you have at your home will also apply while your goods are being relocated. Talk to your Trusted Choice® insurance professional for more details about limitations.The typical homeowners policy only covers your property, no matter the location, for certain causes of loss known as perils. What if something happens to your property that is not due to one of these causes? There is no policy coverage for that damage.One example while moving would be breakage due to items being bumped or dropped. Check with your insurance agent to be sure exactly what types of perils your policy provides, and where the gaps might be for damage while moving. If you are concerned about those gaps your agent can help you determine the appropriate coverage.Moving CompanyYour moving company will typically carry coverage for damages that occurs due to their negligence. So, if an item gets dropped and broken by one of the movers, you can look to the moving company’s insurance to pay for it.Be aware, however, that the basic coverage moving companies must provide by law is only $.60 per pound of the shipment. So if a $500 stereo that weighs thirty pounds is damaged, a mover might pay just $18 (30 lbs. x $.60). Many professional moving companies offer up to three higher levels of coverage, all at an additional fee. Be certain to ask the movers what options they offer, and the price, to purchase broader supplemental coverage.For information on choosing a professional moving company, check out the American Moving and Storage Association Web site at www.moving.org.Auto InsuranceThe liability portion of your auto policy has an exclusion for damage to your own property. Otherwise, every time you needed a new TV, you could just set it in the driveway behind your car, rev up the engine, shift into reverse, and voila! New television! Any further doubts as to why that exclusion is in there?The physical damage coverages in your auto policy are also no help, since they cover the auto and its equipment, not any of your clothing or household goods have in the back seat or trunk.These exclusions within your auto insurance are usually not a problem, since the idea is for you to get coverage for any damage to your goods while in the car from your homeowners policy.One more thing. Be sure to give your Trusted Choice® insurance professional a call before you start packing those boxes. They will be happy to make sure your coverage is updated for the new house, change the address on your policies, and probably offer you brochures on planning for a safe move—plus suggestions for making your new home secure and accident free.Enjoy the move!This entry was posted on Fri Nov 25 10:34:00 EST 2011 and filed under Am I covered?, Familyand Travel. You can leave a response, or trackback from your own site.You are signed in as:CommentNameEmailWebsite (optional)No comments yetCategoriesAm I covered? (67)Business (45)Catastrophe Insurance (15)Celebrations & Holidays (32)Celebrations & Holidays (9)Charity (24)Christmas (1)Driving (20)Energy & Environment (3)Family (114)Home & Yard (50)How to Choose? (7)Insurance (23)Living (19)Money (51)New Years (1)Outdoors (11)Safety (79)Seasonal (80)Students (32)Technology (15)Teen Drivers (16)Thanksgiving (1)Travel (13)What to do? (34)Women (1)ArchivesMarch 2015February 2015January 2015December 2014November 2014October 2014September 2014August 2014July 2014June 2014May 2014April 2014March 2014February 2014January 2014December 2013November 2013October 2013September 2013August 2013July 2013June 2013May 2013April 2013March 2013February 2013January 2013December 2012November 2012October 2012September 2012August 2012July 2012June 2012May 2012April 2012March 2012February 2012January 2012December 2011November 2011October 2011September 2011August 2011July 2011June 2011May 2011April 2011March 2011February 2011January 2011December 2010November 2010October 2010September 2010August 2010June 2010May 2010March 2010February 2010January 2010Privacy Policy|Terms of Use|Contact Us|SitemapCopyright © 2014, Consumer Agent Portal, LLC. All rights reserved.Follow Us« End of mobile content »<img src=\"http://consumeragentportal.d1.sc.omtrdc.net/b/ss/cap-production/1/H.25--NS/1425413332215?cdp=2&gn=content%3A2011%3A11%3Ainsurance-before-moving\" height=\"1\" width=\"1\" border=\"0\" alt=\"\"/><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-NR58T8\"height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>"
+        ],
+        "content_text_length": 8331,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "Off you go! What you need to know about insurance before moving.",
+        "content_encoding": "UTF-8",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 3e 3c 21 2d 2d 3c 21 5b 65 6e 64 69",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "www.trustedchoice.com",
+          "plus.google.com",
+          "agents.trustedchoice.com",
+          "www.facebook.com",
+          "twitter.com"
+        ],
+        "links_domains": [
+          "facebook.com",
+          "google.com",
+          "twitter.com",
+          "trustedchoice.com"
+        ],
+        "links_public_suffixes": [
+          "com"
+        ],
+        "elements_used": [
+          "body",
+          "link",
+          "img",
+          "div",
+          "noscript",
+          "br",
+          "meta",
+          "title",
+          "button",
+          "h4",
+          "head",
+          "h2",
+          "ul",
+          "form",
+          "a",
+          "label",
+          "script",
+          "header",
+          "footer",
+          "li",
+          "input",
+          "iframe",
+          "textarea",
+          "p",
+          "nav",
+          "html",
+          "small",
+          "span"
+        ],
+        "content_type_tika": "text/html; charset=UTF-8",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=UTF-8; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_192": "+4opy1F+oyD9DzWlM4WnW8WcHvUv/fotH1d+krg2AtVarjlFaXxjlwIXOZV8v+UY",
+        "ssdeep_hash_bs_384": "+4opy1F+z4M4WnW8WcHvUvnotHJrgtSn",
+        "ssdeep_hash_ngram_bs_192": "+4opy1F+oyD9DzWlM4WnW8WcHvUv/fotH1d+krg2AtVarjlFaXxjlwIXOZV8v+UY",
+        "ssdeep_hash_ngram_bs_384": "+4opy1F+z4M4WnW8WcHvUvnotHJrgtSn",
+        "crawl_dates": [
+          "2015-03-03T20:08:55Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494671960136745000
+      },
+      {
+        "source_file_s": "20150303202731681.warc@109622",
+        "url": "http://spectrum.ieee.org/tech-talk/telecom/security/identifying-credit-card-users-with-a-few-bits-of-data",
+        "host": "spectrum.ieee.org",
+        "domain": "ieee.org",
+        "public_suffix": "org",
+        "content_type_served": "text/html;charset=UTF-8",
+        "content_length": 276066,
+        "id": "sha1:FFN3EWBORA4K6ICPY6Z46GNJFISHBWGF/IEcHFqG6+VEDFsTGWCnNHw==",
+        "hash": [
+          "sha1:FFN3EWBORA4K6ICPY6Z46GNJFISHBWGF"
+        ],
+        "crawl_date": "2015-03-03T20:27:31Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303202731",
+        "content": [
+          "­Continue to site ?ADVERTISEMENTIEEE.org|IEEE Xplore Digital Library|IEEE Standards|IEEE Spectrum|More SitesFollow on:Advertisement<script language='Javascript1.1' SRC=\"http://ad.doubleclick.net/adj/N4864.135388.BIZO/B7924964.110357611;abr=!ie;sz=728x90;ord=1425414441;click=http://nym1.ib.adnxs.com/click?AAAAAAAAEEAAAAAAAAAQQAAAAAAAACxAAAAAAAAAEEAAAAAAAAAQQLJYXmvJV2k6yOGNDfGVmRQpGfZUAAAAAIKHCQDoAAAA6AAAAAIAAACppT4B4F8CAAAAAQBVU0QAVVNEANgCWgAcAQAAdM8AAgMAAQIAAAAAbBWlTAAAAAA./cnd=%213AYvQQjpwbsDEKnL-gkY4L8JIAQ./referrer=http%3A%2F%2Fspectrum.ieee.org%2Ftech-talk%2Ftelecom%2Fsecurity%2Fidentifying-credit-card-users-with-a-few-bits-of-data/clickenc=;?\"></script><NOscript><A HREF=\"http://nym1.ib.adnxs.com/click?AAAAAAAAEEAAAAAAAAAQQAAAAAAAACxAAAAAAAAAEEAAAAAAAAAQQLJYXmvJV2k6yOGNDfGVmRQpGfZUAAAAAIKHCQDoAAAA6AAAAAIAAACppT4B4F8CAAAAAQBVU0QAVVNEANgCWgAcAQAAdM8AAgMAAQIAAAAAbBWlTAAAAAA./cnd=%213AYvQQjpwbsDEKnL-gkY4L8JIAQ./referrer=http%3A%2F%2Fspectrum.ieee.org%2Ftech-talk%2Ftelecom%2Fsecurity%2Fidentifying-credit-card-users-with-a-few-bits-of-data/clickenc=http://ad.doubleclick.net/jump/N4864.135388.BIZO/B7924964.110357611;abr=!ie4;abr=!ie5;sz=728x90;ord=1425414441?\"><IMG SRC=\"http://ad.doubleclick.net/ad/N4864.135388.BIZO/B7924964.110357611;abr=!ie4;abr=!ie5;sz=728x90;ord=1425414441?\" BORDER=0 WIDTH=728 HEIGHT=90 ALT=\"Advertisement\"></A></NOscript><a href=\"http://ad.doubleclick.net/jump/f.site220.tmus/telecom;sz=728x90;pos=1;tile=1;ord=123456789?\" target=\"_blank\"><img src=\"http://ad.doubleclick.net/ad/f.site220.tmus/telecom;sz=728x90;pos=1;tile=1;ord=123456789?\" border=\"0\" alt=\"\"></a>Engineering Topics Special Reports Blogs Multimedia The Magazine Professional Resources Search Engineering TopicsTop-StoriesAerospaceAt WorkBiomedicalComputingEnergyGadgetsGeek LifeGreen TechRoboticsSemiconductorsTelecomTransportationAll Topics Latest StoriesGreen TechSilicon Carbide Power Electronics for Making Silicon2 MarTransportationWill You Need a New License to Operate a Self-Driving Car?2 MarGreen TechA Better, Safer Flow Battery2 MarBiomedicalRobert Malkin: MacGyvering Medical Gear1 MarGeek LifeBrian Monks: Keeping Bogus Electronics Out of Consumers’ Hands1 MarGeek LifeAshok Gadgil: The Humanitarian Inventor28 FebGeek LifeManuela Veloso: RoboCup’s Champion28 FebGeek LifeEben Upton: The Raspberry Pi Pioneer28 FebBiomedicalOptical Nanosensor Production Only Needs CDs, Tape, and Aluminum27 FebTelecomAndroid Phone's Battery Use Can Reveal User Location27 FebTelecomISPs, Lobbyists, and Everybody Else React to FCC Net Neutrality Decision27 FebGadgetsGoogle Glass, HoloLens, and the Real Future of Augmented Reality27 FebRoboticsVideo Friday: AI Arcade, iCub on One Leg, and Robot Head in Your Kitchen27 FebAerospaceAerospaceTaking the Large Hadron Collider to the Max20 FebAerospaceSuccessful Flight of Angara-A5 Rocket Marks New Era for Russia's Ambitions in Space17 FebAerospaceEurope's Reusable Spaceplane Completes First Test Flight13 FebEnergyCosmic Ray Particles Will Reveal the Molten Hearts of Fukushima Daiichi's Reactors13 FebAerospaceSpaceX Drone Platform Landing Scrubbed12 FebAerospaceU.S. Defense Department Chief Engineer: We Want Your Help With 2030's Tech11 FebAt WorkBiomedicalRobert Malkin: MacGyvering Medical Gear1 MarGeek LifeBrian Monks: Keeping Bogus Electronics Out of Consumers’ Hands1 MarGeek LifeAshok Gadgil: The Humanitarian Inventor28 FebGeek LifeManuela Veloso: RoboCup’s Champion28 FebGeek LifeEben Upton: The Raspberry Pi Pioneer28 FebAt WorkStart-up Profile: Sanstreak Lowers the Cost of High-Speed Photography27 FebBiomedicalBiomedicalRobert Malkin: MacGyvering Medical Gear1 MarBiomedicalOptical Nanosensor Production Only Needs CDs, Tape, and Aluminum27 FebBiomedicalMagnetic Nanoparticles Promise to Prevent Strokes and Heart Attacks26 FebBiomedicalWearable Vitals Tracker24 FebBiomedicalCricket World Cup: Tech to Tackle Bad Bowling17 FebRoboticsDARPA and OSRF Developing Next-Gen Prosthetic Limbs in Simulation and Reality12 FebComputingTelecomISPs, Lobbyists, and Everybody Else React to FCC Net Neutrality Decision27 FebGreen TechA Web of Sensors Enfolds an Entire Forest to Uncover Clues to Climate Change26 FebTelecomFCC Gives Municipal Broadband Providers (and Internet Competition) a Boost26 FebGeek LifeReview: Is Your Data Worth a RAID from Western Digital?26 FebTelecomIs the Lenovo/Superfish Debacle a Call to Arms for Hacktivists?26 FebTelecomInfographic: Defining Net Neutrality Without the Politics26 FebEnergyGreen TechSilicon Carbide Power Electronics for Making Silicon2 MarEnergyLasers Could Boost Engine Efficiency by 27%25 FebComputingInternet-of-Things Radio Chip Consumes a Little Power to Save a Lot25 FebEnergyEPA Coal Cuts Light Up Washington20 FebAerospaceTaking the Large Hadron Collider to the Max20 FebEnergyWill Shuttering Coal Plants Really Threaten the Grid?19 FebGadgetsTelecomAndroid Phone's Battery Use Can Reveal User Location27 FebGadgetsGoogle Glass, HoloLens, and the Real Future of Augmented Reality27 FebGeek LifeReview: Is Your Data Worth a RAID from Western Digital?26 FebGadgetsSony May Have a Hard Time Making Its Mark With Augmented Reality Glasses24 FebGadgetsThe Ubiquitous Camera24 FebRoboticsBuilding AI to Play by Any Rules23 FebGeek LifeGeek LifeBrian Monks: Keeping Bogus Electronics Out of Consumers’ Hands1 MarGeek LifeAshok Gadgil: The Humanitarian Inventor28 FebGeek LifeManuela Veloso: RoboCup’s Champion28 FebGeek LifeEben Upton: The Raspberry Pi Pioneer28 FebGeek LifeReview: Is Your Data Worth a RAID from Western Digital?26 FebGeek LifeMove Over, Arduino: Here Comes the Cosmac Elf23 FebGreen TechGreen TechSilicon Carbide Power Electronics for Making Silicon2 MarGreen TechA Better, Safer Flow Battery2 MarGreen TechA Web of Sensors Enfolds an Entire Forest to Uncover Clues to Climate Change26 FebGreen TechNew Wave System Claims Huge Energy per Ton Potential26 FebEnergyEPA Coal Cuts Light Up Washington20 FebEnergyWill Shuttering Coal Plants Really Threaten the Grid?19 FebRoboticsGeek LifeManuela Veloso: RoboCup’s Champion28 FebRoboticsVideo Friday: AI Arcade, iCub on One Leg, and Robot Head in Your Kitchen27 FebRoboticsSony Halts Support for Aibo, Still One of the Best Robot Toys Ever26 FebRoboticsGoogle AI Learns Classic Arcade Games From Scratch, Would Probably Beat You at Them25 FebRoboticsRobotnik Enters Mobile Manipulator Market With RB-125 FebRoboticsPoker-Playing AIs Today, Skynet Tomorrow25 FebSemiconductorsGreen TechSilicon Carbide Power Electronics for Making Silicon2 MarBiomedicalOptical Nanosensor Production Only Needs CDs, Tape, and Aluminum27 FebBiomedicalMagnetic Nanoparticles Promise to Prevent Strokes and Heart Attacks26 FebSemiconductorsHow to Make Multicore Chips Faster, More Efficient26 FebSemiconductorsSilicon Nanofibers Boost Li-ion Batteries for EVs24 FebSemiconductorsCrumpling Graphene Could Expand Its Applications20 FebTelecomTelecomAndroid Phone's Battery Use Can Reveal User Location27 FebTelecomISPs, Lobbyists, and Everybody Else React to FCC Net Neutrality Decision27 FebTelecomFCC Votes \"Yes\" on Net Neutrality26 FebTelecomFCC Gives Municipal Broadband Providers (and Internet Competition) a Boost26 FebTelecomIs the Lenovo/Superfish Debacle a Call to Arms for Hacktivists?26 FebTelecomInfographic: Defining Net Neutrality Without the Politics26 FebTransportationTransportationWill You Need a New License to Operate a Self-Driving Car?2 MarTransportationWill Nissan Beat Google and Uber to Self-Driving Taxis?26 FebAt WorkIs Apple “Poaching” or Just “Hiring” For Its Rumored Electric Car Project?25 FebTransportationMercedes Chief Laughs at Apple's Rumored Self-Driving E-Car24 FebTransportationHow Much Training Do You Need to Be a Robocar Test Driver? It Depends On Whom You Work For24 FebTransportationApp Makes Traffic Jams Disappear With Flow Optimization20 FebLatest Special ReportsGadgetsCES 2015: Complete Coverage of the Best Emerging TechThe IEEE Spectrum team on the hottest gadgets and technology trendsJan 2015Robotics2015 Top Tech to WatchWe predict the technologies that will make headlines this year so you’ll never be surprisedJan 2015ComputingThe Future We DeserveWe don’t know precisely what the next 50 years will bring. But we have an excellent idea of what will be possibleMay 2014TransportationThe Self-Driving CarAll the tech tricks and politics that will make driverless cars common placeApr 2014Transportation2014 Top Ten Tech CarsLeave the driving to us: self-driving technology maturesApr 2014ProfilesDream Jobs 2014There are many paths to an exciting job as an engineerFeb 2014GadgetsCES 2014 Live: Complete Coverage of the Best Emerging TechThe IEEE Spectrum team reports live on the hottest gadgets and technology trendsJan 2014Innovation2014 Top Tech to WatchWe predict the technologies that will make headlines this year so you'll never be surprisedJan 2014ComputingThe Highs and Hazards of BitcoinBitcoin has gone from being an experiment in anarchy to becoming a billion dollar online currency. Follow its continuing evolution hereOct 2013At WorkThe STEM Crisis is a Myth: An Ongoing DiscussionThroughout the month of September, we'll provide continuing coverage and debateSep 2013RoboticsBecoming Bionic: Engineering Beyond BiologyTransmuting nature to hardware that can repair or strengthen human capabilitiesAug 2013FoodThe Age of PlentyDon’t listen to the doomsayers. Technology will let us feed 10 billion peopleJun 2013DevicesThe Genetic RevolutionOn DNA Day, we look at the new era of personalized genetic medicineApr 2013CarsTop 10 Tech Cars 2013Slenderized: This year’s cars do more with less weightApr 2013Tech CareersDream Jobs 2013Engineering careers come in all shapes and sizesFeb 2013ForecastsLife in 2030A one-hour special from IEEE Spectrum Radio and the National Science FoundationJan 2013GadgetsCES 2013At the International Consumer Electronics Show, more than 3000 companies showcased the latest innovationsJan 2013Forecasts2013 Tech to WatchOur annual technology survey on the coming 12 monthsJan 2013BiomedicalHacking Our BiologyExplore technological advances in medical inventions to enhance and extend lifeSep 2012SpeedFastest On EarthWe’ve roamed the globe to check out speedy things on wheels, tracks, legs or wings, and in water.Jun 2012MoneyThe Last Days of CashHow e-money technology is plugging us into the digital economy.Jun 2012BlogsTop-StoriesAutomatonCars That ThinkEnergywiseNanoclastRisk FactorTech TalkView From the ValleyNewsletters Latest StoriesGreen TechSilicon Carbide Power Electronics for Making Silicon2 MarTransportationWill You Need a New License to Operate a Self-Driving Car?2 MarGreen TechA Better, Safer Flow Battery2 MarBiomedicalOptical Nanosensor Production Only Needs CDs, Tape, and Aluminum27 FebTelecomAndroid Phone's Battery Use Can Reveal User Location27 FebTelecomISPs, Lobbyists, and Everybody Else React to FCC Net Neutrality Decision27 FebRoboticsVideo Friday: AI Arcade, iCub on One Leg, and Robot Head in Your Kitchen27 FebRoboticsSony Halts Support for Aibo, Still One of the Best Robot Toys Ever26 FebTelecomFCC Votes \"Yes\" on Net Neutrality26 FebBiomedicalMagnetic Nanoparticles Promise to Prevent Strokes and Heart Attacks26 FebTelecomFCC Gives Municipal Broadband Providers (and Internet Competition) a Boost26 FebGeek LifeReview: Is Your Data Worth a RAID from Western Digital?26 FebSemiconductorsHow to Make Multicore Chips Faster, More Efficient26 FebView From the ValleyAt WorkIs Apple “Poaching” or Just “Hiring” For Its Rumored Electric Car Project?25 FebComputingThe Oscar Goes to… Engineer Larry Hornbeck and His Digital Micromirrors20 FebAt WorkA Snapshot of Software Engineering Salaries at Silicon Valley Startups13 FebRoboticsCalifornia’s No Drone Zones11 FebAt WorkWhich IBM Layoff Numbers Add Up?9 FebAt WorkCalling IBM’ers Who Have Been Chrome’ed, RA’ed, or PIP’ed: Tell Us Your Story4 FebCars That ThinkTransportationWill You Need a New License to Operate a Self-Driving Car?2 MarTransportationWill Nissan Beat Google and Uber to Self-Driving Taxis?26 FebTransportationMercedes Chief Laughs at Apple's Rumored Self-Driving E-Car24 FebTransportationHow Much Training Do You Need to Be a Robocar Test Driver? It Depends On Whom You Work For24 FebTransportationApp Makes Traffic Jams Disappear With Flow Optimization20 FebTransportationVolvo's Smart Cars Share Icy Road Alerts19 FebNanoclastBiomedicalOptical Nanosensor Production Only Needs CDs, Tape, and Aluminum27 FebBiomedicalMagnetic Nanoparticles Promise to Prevent Strokes and Heart Attacks26 FebSemiconductorsSilicon Nanofibers Boost Li-ion Batteries for EVs24 FebSemiconductorsCrumpling Graphene Could Expand Its Applications20 FebSemiconductorsNanowire Brushes Usher in New Generation of Smoke Detectors19 FebSemiconductorsDNA Data Storage Just Got a Bit More Practical17 FebAutomatonRoboticsVideo Friday: AI Arcade, iCub on One Leg, and Robot Head in Your Kitchen27 FebRoboticsSony Halts Support for Aibo, Still One of the Best Robot Toys Ever26 FebRoboticsRobotnik Enters Mobile Manipulator Market With RB-125 FebRoboticsThe Way to Make Delivery Drones Work Is Using...Trucks?24 FebRoboticsAldebaran Robotics Founder and CEO Steps Down, SoftBank Appoints New Leader23 FebRoboticsVideo Friday: Robotic Garden, Drone With Parachute, and Chocolate Robot Competition20 FebThe SandboxGadgetsGame Over11 Feb 2010GadgetsGamer 91124 Dec 2009GadgetsAvatar and the Singularity21 Dec 2009GadgetsAvatar and the Virtual Camera18 Dec 2009GadgetsProtests Over the Army's Gaming Center15 Dec 2009GadgetsMIT Gets in the Motion-Sensing Game14 Dec 2009Risk FactorTelecomIs the Lenovo/Superfish Debacle a Call to Arms for Hacktivists?26 FebTelecomShould Data Sharing Be More Like Gambling?20 FebComputingRooting Out Malware With a Side-Channel Chip Defense System27 JanTelecomCyber Espionage Malware Taps Smartphones, Sends Chills29 Dec 2014ComputingNew Jersey Finally Cancels $118 Million Social Welfare Computer System15 Dec 2014TelecomHow the Internet-Addicted World Can Survive on Poisoned Fruit11 Dec 2014Tech TalkTelecomAndroid Phone's Battery Use Can Reveal User Location27 FebTelecomISPs, Lobbyists, and Everybody Else React to FCC Net Neutrality Decision27 FebTelecomFCC Votes \"Yes\" on Net Neutrality26 FebTelecomFCC Gives Municipal Broadband Providers (and Internet Competition) a Boost26 FebGeek LifeReview: Is Your Data Worth a RAID from Western Digital?26 FebSemiconductorsHow to Make Multicore Chips Faster, More Efficient26 FebEnergywiseGreen TechSilicon Carbide Power Electronics for Making Silicon2 MarGreen TechA Better, Safer Flow Battery2 MarGreen TechNew Wave System Claims Huge Energy per Ton Potential26 FebEnergyLasers Could Boost Engine Efficiency by 27%25 FebEnergyEPA Coal Cuts Light Up Washington20 FebEnergyWill Shuttering Coal Plants Really Threaten the Grid?19 FebMultimediaTop-StoriesPodcastsSlideshowsVideosRadio ProgrammingTop Programming Languages App Latest StoriesRoboticsNick Bostrom Says We Should Trust Our Future Robot Overlords4 Dec 2014TelecomDouglas Coupland Analyzes Alcatel-Lucent in Kitten Clone24 Oct 2014ComputingTransform Your Photos with a Magic Word23 Oct 2014Geek LifeInspiring Engineers Since 196429 Aug 2014GadgetsElectric Shocks Preferred to Thinking (Especially by Men)15 Aug 2014SemiconductorsThe Art of Failure 201423 Jul 2014At WorkA Case Called Alice: Software Patents and the U.S. Supreme Court17 Jul 2014Geek LifeNancy Kress: How Science Fiction Helps Us Rehearse for the Future2 Jul 2014GadgetsGoogle Glass’s Thad Starner Wears the Future1 Jul 2014AerospaceFamed Physicist Freeman Dyson Predicts the Future30 Jun 2014ComputingCombing Sensors and Rewards for Good Behavior with “Nudge Engines”17 Jun 2014GadgetsChris Harrison’s Time Machine9 Jun 2014EnergyClark Gellings: The Future of the Power Grid28 May 2014PodcastsRoboticsNick Bostrom Says We Should Trust Our Future Robot Overlords4 Dec 2014TelecomDouglas Coupland Analyzes Alcatel-Lucent in Kitten Clone24 Oct 2014GadgetsElectric Shocks Preferred to Thinking (Especially by Men)15 Aug 2014At WorkA Case Called Alice: Software Patents and the U.S. Supreme Court17 Jul 2014Geek LifeNancy Kress: How Science Fiction Helps Us Rehearse for the Future2 Jul 2014ComputingCombing Sensors and Rewards for Good Behavior with “Nudge Engines”17 Jun 2014SlideshowsSemiconductorsThe Art of Failure 201423 Jul 2014RoboticsTelepathic Time-Traveling Robots in Space27 May 2014EnergyLiving with Fear in Fukushima28 Feb 2014RoboticsMeet the Robots of Fukushima Daiichi28 Feb 2014Geek LifeiCandy: Sports Tech6 Feb 2014SemiconductorsSlideshow: A Day in the Life of Digi-Key29 Jan 2014VideosComputingTransform Your Photos with a Magic Word23 Oct 2014Geek LifeInspiring Engineers Since 196429 Aug 2014GadgetsGoogle Glass’s Thad Starner Wears the Future1 Jul 2014AerospaceFamed Physicist Freeman Dyson Predicts the Future30 Jun 2014GadgetsChris Harrison’s Time Machine9 Jun 2014GadgetsWhat Facebook Gets With Oculus Rift Purchase26 Mar 2014Professional ResourcesTop-StoriesWebinarsWhitepapersNew Product AnnouncementsMaster Bond Resource LibraryCOMSOL MultiphysicsSimulationBuyer's GuideJob SiteJoin IEEE Latest Sponsored ContentWhitepaperGenerating Clean Modulated Signals using the an AWGApply clean signals to your Device Under Test using in-situ calibration and de-embedding of signal path distortions with Keysight’s M8195A 65 GSa/s AWG.27 FebWhitepaperAssessing Electrical Transmission Constraints for the Southern African Power Pool (SAPP) in PLEXOS®The SAPP was formed in 1995 and as of 2013 had sixteen participating members transforming from an initial co-operative electricity market into a competitive one in 2009.27 FebWebinarOpen Source Software Security - Mitigating Risks from Development, Integration, Distribution and Deployment4 March 2015 This webinar will explore the role of and requirements for security in OSS Logistics.11 FebWebinarsWebinarOpen Source Software Security - Mitigating Risks from Development, Integration, Distribution and Deployment 4 March 2015 This webinar will explore the role of and requirements for security in OSS Logistics.11 FebWebinarGet Ready for Internet of Things: Speed innovation with Continuous Engineering for Electronics 26 March 2015 In the era of Internet of Things (IoT), device engineering must evolve to handle the complexity of data and interconnectivity.5 FebWebinarEnabling the Maker of Things in the Internet of Things 19 February 2015 Listen to Chris Rommel from VDC Research as he shares his thoughts on the potential of IoT technologies to impact design and manufacturing industries.2 FebWhitepapersWhitepaperGenerating Clean Modulated Signals using the an AWGApply clean signals to your Device Under Test using in-situ calibration and de-embedding of signal path distortions with Keysight’s M8195A 65 GSa/s AWG.27 FebWhitepaperAssessing Electrical Transmission Constraints for the Southern African Power Pool (SAPP) in PLEXOS®The SAPP was formed in 1995 and as of 2013 had sixteen participating members transforming from an initial co-operative electricity market into a competitive one in 2009.27 FebWhitepaperPower and the Industrial Internet of ThingsThe Internet of Things (IoT) is coming to the energy and manufacturing industries.4 FebSectionsCover StoryDepartmentsFeaturesNewsOpinionView The IssueBrowse ArchivesSubscribe March 2015Cover StoryEben Upton: The Raspberry Pi PioneerHe just wanted to help some kids learn to code. Five million units later, his $35 computer has sparked a revolution28 FebDepartmentsGadgetsJerobeam Fenderson’s Trippy Oscilloscope Music19 FebGeek LifeMove Over, Arduino: Here Comes the Cosmac Elf23 FebAt WorkStart-up Profile: Sanstreak Lowers the Cost of High-Speed Photography27 FebGeek LifeUbi: The Wall Computer That Gives Your Home a Star Trek Vibe20 FebFeaturesGreen TechA Web of Sensors Enfolds an Entire Forest to Uncover Clues to Climate Change26 FebGeek LifeAshok Gadgil: The Humanitarian Inventor28 FebGeek LifeBrian Monks: Keeping Bogus Electronics Out of Consumers’ Hands1 MarGeek LifeChristopher Soghoian: Shining a Light on Government Snooping?DRAFTTelecomHow to Build a Safer Internet of Things25 FebGeek LifeManuela Veloso: RoboCup’s Champion28 FebGeek LifeTopher White: Repurposing Cellphones to Defend the Rain ForestDRAFTNewsGadgetsGoogle Glass, HoloLens, and the Real Future of Augmented Reality27 FebRoboticsPoker-Playing AIs Today, Skynet Tomorrow25 FebEnergyPost-Fukushima, Japanese Companies Build Microgrids18 FebAerospaceTaking the Large Hadron Collider to the Max20 FebOpinionsGadgetsThe Ubiquitous Camera24 FebAt WorkWhen the Past Is Not a Preview18 FebPopular Searches:BitcoinroboticsFukushimaLED lightsgraphenememristorcarsbig dataTech TalkTelecomSecurityIdentifying Credit Card Users With a Few Bits of DataBy Charles ChoiPosted 29 Jan 2015 | 18:00 GMT Share| Email| PrintPhoto: iStockphotoAnonymized credit card data can easily be used to identify credit card users, more evidence that anonymizing data does not protect privacy as well as often thought, scientists now find.Personal information often gets anonymized by stripping it of names, home addresses, phone numbers and other obvious identifying details. Such data often get shared, and underlie popular services such as Google’s real-time traffic monitoring, which shows conditions on major thoroughfares in more than 50 different countries.However, anonymized data can still reveal a great deal about individuals. For example, computational social scientist Yves-Alexandre de Montjoye at MIT and his colleagues recently found that anonymized cell phone data could be better at identifying users than fingerprints. At most, 11 randomly chosen interactions with cell phone networks were needed to identify a person by the routes he or she regularly traveled, while identifying someone by a fingerprint requires at least 12 reference points.To see how well anonymized credit card data protected privacy, de Montjoye and his colleagues at MIT and Aarhus University in Denmark analyzed three months' worth of information from 1.1 million people living in an unidentified developed country in the Organization for Economic Cooperation and Development (OCED). They detailed their findings in the Jan. 30 issue of the journal Science.The researchers found that knowing when and where four credit card transactions occurred was enough to identify 90 percent of people from this anonymized metadata. Even when the data are less specific — for instance, purchases within a certain geographic area instead of a certain shop, or within 15 days instead of one day — individuals could be re-identified with a half-dozen or so more additional data points. Adding one more piece of data, the price of a certain transaction, could increase the chance of re-identification by 22 percent on average. Women and people in higher income brackets proved easier to identify, potentially because they have distinctive patterns in how they divide their time between the shops they visit.Although data sharing can provide invaluable services, these findings suggest \"we ought to rethink and reform how we approach data protection,\" de Montjoye said. He and his colleagues are now developing strategies known as OpenPDS and SafeAnswers to protect the privacy of metadata, which recently won a SXSW Interactive Innovation Award.Learn MoreGoogle TrafficOpenPDSanonymized datacredit cardsidentitymetadataprivacy Share| Email| PrintCommentsComment PolicyPlease enable JavaScript to view the <ahref=\"http://disqus.com/?ref_noscript\">comments powered byDisqus.</a>Advertisement<a href=\"http://nym1.ib.adnxs.com/click?AAAAAAAAEEAAAAAAAAAQQPYoXI_CdSFAAAAAAAAAEEAAAAAAAAAQQCk4tj8SkioYyOGNDfGVmRQpGfZUAAAAAIGHCQDoAAAA6AAAAAIAAACDBHUBKWMBAAAAAQBVU0QAVVNEACwB-gAcAQAAfMcAAgMAAQIAAAAA9RW4_AAAAAA./cnd=%217wWfOAiy26sDEIOJ1AsYqcYFIAQ./referrer=http%3A%2F%2Fspectrum.ieee.org%2Ftech-talk%2Ftelecom%2Fsecurity%2Fidentifying-credit-card-users-with-a-few-bits-of-data/clickenc=http%3A%2F%2Fadrta.com%2Fc%3Fclid%3Dbz%26paid%3Dapn%26avid%3D440257%26caid%3D7007666%26plid%3D24446083%26adSize%3D300x250%26cb%3D1425414441%26redirect%3Dhttp%3A%2F%2Fbusiness.vcu.edu%2Femba%2Finfo.html\" target=\"_blank\"><img width=\"300\" height=\"250\" style=\"border-style: none\" src=\"http://cdn.adnxs.com/p/47/f2/b0/80/47f2b08022000bff6e8def8702cda26c.gif\"/></a><a href=\"http://ad.doubleclick.net/jump/f.site220.tmus/telecom;pos=1;sz=300x250;ord=123456789?\" target=\"_blank\" ><img src=\"http://ad.doubleclick.net/ad/f.site220.tmus/telecom;pos=1;sz=300x250;ord=123456789?\" border=\"0\" alt=\"\" /></a>Tech TalkIEEE Spectrum’s general technology blog, featuring news, analysis, and opinions about engineering, consumer electronics, and technology and society, from the editorial staff and freelance contributors.Subscribe to RSS Feed Newsletter Sign UpSign up for the Tech Alert newsletter and receive ground-breaking technology and science news from IEEE Spectrum every Thursday.Sign UpRelated Stories  TelecomIs the Lenovo/Superfish Debacle a Call to Arms for Hacktivists?Proposed exemptions to the DMCA could free white hats to make networked devices more secure26 Feb  TelecomHow to Build a Safer Internet of ThingsToday's IoT is full of security flaws. We must do better25 Feb  TelecomApple to Spend Almost $2 Billion on European Data CentersApple plans to build green data centers in Denmark and Ireland amidst data privacy concerns24 FebAdvertisement<a href=\"http://ad.doubleclick.net/jump/f.site220.tmus/telecom;sz=300x600;ord=123456789?\" target=\"_blank\" ><img src=\"http://ad.doubleclick.net/ad/f.site220.tmus/telecom;sz=300x600;ord=123456789?\" border=\"0\" alt=\"\" /></a>  TelecomChina's New Rules Ask Tech Firms to Hand Over Source CodeWestern tech firms protest Chinese rules that require disclosure of source codes and back doors in banking hardware and software 2 Feb  TelecomBig Brother Is Watching Your Car—in Real TimeA nationwide system, long kept secret, tracks cars and sometimes is used to seize them as booty29 Jan  TelecomEncryption, Privacy, National Security, and Dr. SeussOn one hand, Silicon Valley companies vow to protect our data; on the other, “They’re patriots”20 Jan  TelecomMalware Could Steal Data from iPhones Using SiriSteganography sleuths invent exploit that sends secret message through Siri, but it has several limits16 Jan  TelecomCyber Espionage Malware Taps Smartphones, Sends ChillsSophisticated malicious code hasn't gotten the notice that the Sony hack has, but that's the point29 Dec 2014  TelecomU.S. Officials Say North Korea Responsible for Sony Cyber AttackThe White House may formally accuse North Korea of launching a cyberterrorism attack on the Hollywood studio18 Dec 2014  TelecomHow the Internet-Addicted World Can Survive on Poisoned FruitThe world faces tough tradeoffs in reaping the benefits versus risks of the Internet11 Dec 2014  TelecomHow Not to Be Sony PicturesLessons learned from the recent Sony Pictures hack11 Dec 2014  TelecomThe Feds are Funneling Phone Data Through Fake Cellular Sites in the SkyIt's getting easier for U.S. police to mine masses of data to find where you are and what you're doing14 Nov 2014  TelecomAlaska's Online Voting Leaves Cybersecurity Experts WorriedExperts warn of online voting's risks even as Alaska's Internet ballot system was deployed in a pivotal election6 Nov 2014  TelecomJP Morgan Chase: Contacts for 76 Million Households and 7 Million Small Businesses CompromisedThat's about half of U.S. households, in case you were wondering3 Oct 2014  TelecomBrowser Beware: Wi-Fi Users Sign Over First-Born ChildrenIn order to connect to a Wi-Fi hotspot in a London café, six Internet users unwittingly agreed to give up their parental rights30 Sep 2014  TelecomTrue Random Numbers From Your Smartphone Camera?CMOS smartphone cameras are sensitive enough to catch some of the quantum nature of light and turn it into data-securing random numbers16 Sep 2014  TelecomBitTorrent Aims To Make Chat More Secure With BleepPeer-to-peer tech lets users chat without a central server keeping records13 Aug 2014  TelecomBlack Hat 2014: How to Hack the Cloud to Mine Crypto CurrencyCyber security researchers devise a hack to demonstrate the need for improved anti-botnet security measures8 Aug 2014  TelecomBlack Hat 2014: A New Smartcard HackResearchers hack chip-based credit and debit cards. Banks hack terms-of-service changes so consumers would be stuck with the bill7 Aug 2014  TelecomWhich Countries Are Banning Phone Surveillance Statistics?Vodafone lifts the lid on mobile monitoring in 27 countries30 Jul 2014TopicsAerospaceAt WorkBiomedicalComputingEnergyGadgetsGeek LifeRoboticsSemiconductorsTelecomConnectFacebookTwitterLinkedInGoogle+RSSIEEE SpectrumContact UsAboutNewslettersMobile SiteIEEE PartnersAdvertising & Media CenterIEEE Job SiteBuyer’s GuideThe MagazineSubscribe NowDigital Download© Copyright 2015 IEEE SpectrumTerms & Conditions | Privacy & Opting Out of Cookies | Accessibility | Nondiscrimination PolicyAbout IEEEConferences & EventsEducation & CareersMembership & ServicesPublications and StandardsSocieties & CommunitiesMore information & opt-out options »What is interest based advertising »Learn more about LinkedIn! »Privacy Controls by Ghostery, Inc.[ X ]This ad has been matched to your business profession by LinkedIn. It was selected for you based on information such as your company, industry and job function.LinkedIn, a business audience marketing platform, helped determine that you might find this ad relevant.[ X ]This ad has been matched to your business profession by LinkedIn. It was selected for you based on information such as your company, industry and job function.LinkedIn, a business audience marketing platform, helped determine that you might find this ad relevant.More information & opt-out options »What is interest based advertising »Learn more about LinkedIn! »Privacy Controls by Ghostery, Inc."
+        ],
+        "content_text_length": 30941,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "Identifying Credit Card Users With a Few Bits of Data - IEEE Spectrum",
+        "content_encoding": "UTF-8",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 20 63 6c 61 73 73 3d 22 20 6a 73 20",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "spectrum.ieee.org",
+          "openpds.media.mit.edu",
+          "www.oecd.org",
+          "plus.google.com",
+          "ieeexplore.ieee.org",
+          "careers.ieee.org",
+          "linkedin.com",
+          "www.comsol.com",
+          "www.linkedin.com",
+          "advertise.ieee.org",
+          "www.demontjoye.com",
+          "standards.ieee.org",
+          "nym1.ib.adnxs.com",
+          "www.ieee.org",
+          "www.qmags.com",
+          "www.facebook.com",
+          "twitter.com",
+          "en.wikipedia.org",
+          "www.sciencemag.org",
+          "m.spectrum.ieee.org",
+          "feeds.feedburner.com",
+          "googleads.g.doubleclick.net",
+          "sxsw.com",
+          "spectrumsuppliermarketplace.com"
+        ],
+        "links_domains": [
+          "linkedin.com",
+          "sciencemag.org",
+          "doubleclick.net",
+          "mit.edu",
+          "qmags.com",
+          "wikipedia.org",
+          "oecd.org",
+          "facebook.com",
+          "demontjoye.com",
+          "feedburner.com",
+          "google.com",
+          "comsol.com",
+          "twitter.com",
+          "adnxs.com",
+          "ieee.org",
+          "sxsw.com",
+          "spectrumsuppliermarketplace.com"
+        ],
+        "links_public_suffixes": [
+          "com",
+          "edu",
+          "net",
+          "org"
+        ],
+        "elements_used": [
+          "body",
+          "tr",
+          "img",
+          "noscript",
+          "td",
+          "br",
+          "time",
+          "d;d--){f=a.childnodes[d];",
+          "noscr'+'ipt",
+          "h5",
+          "h4",
+          "h6",
+          "h1",
+          "head",
+          "h3",
+          "h2",
+          "p.scrollheight;ba=a()[1];u(window,\"resize\",wa);xa(function(){ya();var",
+          "form",
+          "label",
+          "table",
+          "script",
+          "header",
+          "scr'+'ipt",
+          "li",
+          "input",
+          "iframe",
+          "strong",
+          "a[r];b++)pa[b]=a[b],h(\"baptango?|\"+b,a[b])}function",
+          "e[r];c++)y(e[c])}}catch(f){}if(a){if(a.uqid){if(e=a.uqid,b[e])return}else",
+          "scr'",
+          "span",
+          "param",
+          "link",
+          "div",
+          "figcaption",
+          "object",
+          "meta",
+          "title",
+          "figure",
+          "style",
+          "ul",
+          "plaintext",
+          "p.scrollheight,d=k.vs!=c;if(0!==e||d){for(a",
+          "a",
+          "e[r];d++)if(pageid=e[d][0],!b[pageid].processed)if(r[b[pageid].nid]){ra(pageid,b[pageid].nid);for(c=0;c<g[r];c++){if(g[c]==b[pageid].nid||g[c]==b[pageid].nid+\"|\"+pageid||g[c]==\"size|\"+b[pageid].ad_w+\"",
+          "section",
+          "i",
+          "footer",
+          "article",
+          "arguments.length){var",
+          "p",
+          "b[a].icon_delay&&(m(\"trigger-container-\"+a).style.display=\"none\",b(function(){try{m(\"trigger-container-\"+a).style.display=\"block\"}catch(b){}},1e3*q(b[a].icon_delay)))}",
+          "nav",
+          "html",
+          "em"
+        ],
+        "content_type_tika": "text/html; charset=UTF-8",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=UTF-8; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_768": "7z25SD1oZ5ZNcHKkfek28/Fhqacu4H1xCZ",
+        "ssdeep_hash_bs_1536": "f25SC/N3wZF8acuiCZ",
+        "ssdeep_hash_ngram_bs_768": "7z25SD1oZ5ZNcHKkfek28/Fhqacu4H1xCZ",
+        "ssdeep_hash_ngram_bs_1536": "f25SC/N3wZF8acuiCZ",
+        "crawl_dates": [
+          "2015-03-03T20:27:31Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494672899010723800
+      },
+      {
+        "source_file_s": "1163.warc@47707",
+        "url": "http://en.dawanda.com/shop/doonger",
+        "host": "en.dawanda.com",
+        "domain": "dawanda.com",
+        "public_suffix": "com",
+        "server": [
+          "nginx/1.7.2"
+        ],
+        "content_type_served": "text/html; charset=utf-8",
+        "content_length": 169672,
+        "id": "sha1:HRY5NYYMB62CGQZ5NYBITLV36MS2WIFD/I7ca5PSgawHL7tTanzCCBQ==",
+        "hash": [
+          "sha1:HRY5NYYMB62CGQZ5NYBITLV36MS2WIFD"
+        ],
+        "crawl_date": "2015-03-03T02:03:32Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303020332",
+        "content": [
+          "CatrinKerschl – 66 unique products from € 5.0 on DaWandaThe DaWanda Marketplace is using cookies to provide a better service.hide this messageLogin or RegisterHello,nullMy DaWandaMy DaWandaLogoutInboxInboxInboxPurchasesPurchasesOpen purchasesCommentsView my shopMy ShopOpen OrdersView my shopCreate a new listingMy favoritesMy favoritesRecently pinned productsMy PinboardsMy Favourite ShopsYour Shopping BasketHelpSearchSearchPopular productsSpecial CollectionsGift Ideas% SALEDIY TutorialsFashionFashionDressesT-Shirts & JumpersSkirtsMaternity ClothesTrousers & ShortsTops & BlousesJackets & OuterwearCoatsKnitwearPlus Size ClothingEthical ClothingRetro ClothingAlternative ClothingLingerie & SwimwearSportswearexplore FashionAccessoriesAccessoriesHeadgearShawls & ScarvesHair AccessoriesKeychainsTube ScarvesBelts & SashesGloves & moreShoes & BootsPatches & AppliquéOtherHosieryBadges & BroochesGlassesPocket mirrorsHand Fansexplore AccessoriesBagsBagsShoulder BagsGadget CasesBackpacks & TotesCases & Mini BagsCosmetic BagsPursesLaptop & Tablet PCHandbagsOtherLuggageBag Holdersexplore BagsJewelleryJewelleryNecklacesEarringsWristbands & BraceletsRingsSilver JewelleryGemstone JewelleryWatchesPendantsGold Plated JewelleryLeather JewelleryGold JewelleryGlass JewelleryThemed JewelleryWooden JewelleryPearl Jewelleryexplore JewelleryMenMenMens JewelleryMens AccessoriesMens FashionMens BagsMens Ethical FashionMens SportswearMens Made to Measure Clothesexplore items for MenBabyBabySleeping & SnugglingBirth & ChristeningBaby on the goAccessoriesBabyclothingFor MumBaby FurnitureBaby Shoes & Baby SocksBaby ToysEating & DrinkingBath AccessoriesEco Baby Clothingexplore Baby itemsChildrenChildrenHome AccessoriesChildren's clothingToysChildren's BagsChildren's AccessoriesChildren's FurnitureSchool & LearningChildren's LightingPatches & AppliquéEating & DrinkingChildren's JewelleryBath TimeEco Children's ClothingSportexplore Kids itemsHomeHomeHome + LivingFurnitureHome accessoriesHomewareLightingWall Decorexplore Home + Living itemsPaper + StationeryStampsCalendarsPhoto Albums & GuestbooksNotebooks & NotepadsGreeting Cardsexplore Paper + StationeryArtPaintings & CollagesPrintsSculpturesIllustrationPhotographyexplore ArtSuppliesSuppliesPatterned FabricE-Books & TutorialsPlain FabricHaberdashery & SewingBeads & GemstonesHandicraft SuppliesTrims & RibbonsJewellery Fasteners & Co.Sewing PatternsWool & YarnJewellery CharmsButtonsCrafting FabricMachines & EquipmentJewellery Cord & Chainsexplore Crafting SuppliesBrowse by interestVintageVintageVintage FurnitureVintage Home AccessoriesVintage KitchenwareVintage LightingVintage ClothingVintage JewelleryVintage Bags & CasesVintage TextilesVintage AccessoriesVintage ToysVintage Craft SuppliesVintage Baby & KidsVintage Clocks & WatchesVintage FootwearVintage Garden Equipmentexplore Vintage itemsCelebrationsCelebrationsWeddingFancy DressChristeningValentine's DayHoly CommunionBirthdayEasterChristmas GiftsKids Birthday PartyLucky CharmsSchoolChristmas TimeConfirmationSeasonal DecorationsOktoberfestexplore celebration items<p class=\"alert error\"><i class=\"icon bullet\"></i>DaWanda can not be accessed with your internet browser's current settings. Please modify your browser settings so that Javascript can be accepted.</p>Favourite ShopDOON GermanyDesign Out Of Norm ‘DOON' Germany is a young startup, based in Breunigweiler/Germany, producing unique and costumised vinyl film tattoos which accentuate your individuality.You have a special design, saying or slogan in mind you would like to show to the world? You want to render a special touch to your laptop, computer case, car, mirror, window, musical instrument etc.? The modes...read moreSelect shop categorySearchSearchSelect shop categoryAll ProductsFantasyHobbiesLovePeopleAnimalsWordplayIndian / HindiEasterJazz Up Your Realmpin this product Phoenix 'Flying Sparks' - Design plate  CatrinKerschl 17.00 EUR €pin this product You or Your Loved One as a vinyl film tattoo  CatrinKerschl 27.00 EUR €pin this product Mein Leben [German] - Vinyl film tattoo  CatrinKerschl 21.00 EUR €pin this product Magic Fairy - Vinyl film tattoo set  CatrinKerschl 32.00 EUR €pin this product Cute Dragon + Name - Vinyl film tattoo set  CatrinKerschl 26.00 EUR €pin this product Live, Laugh, Love - Hindi - Vinyl film tattoo set  CatrinKerschl 37.00 EUR €pin this product Peacock - Just Married - Vinyl film tattoo set  CatrinKerschl 33.00 EUR €pin this product Dragon Flame - Window tattoo - Frosted glass  CatrinKerschl 34.00 EUR €All Products(66)Sort byhand sorted with lovenewestViewsPrice ascendingPrice descendinghand sorted with loveNEW pin this product 10 Easter Eggs with decor 08 - Film tattoo  CatrinKerschl 15.00 EUR €NEW pin this product 10 Easter Eggs with decor 07 - Film tattoo  CatrinKerschl 15.00 EUR €NEW pin this product 10 Easter Eggs with decor 06 - Film tattoo  CatrinKerschl 15.00 EUR €NEW pin this product 10 Easter Eggs with decor 05 - Film tattoo  CatrinKerschl 15.00 EUR €NEW pin this product 10 Easter Eggs with decor 04 - Film tattoo  CatrinKerschl 15.00 EUR €NEW pin this product 10 Easter Eggs with decor 03 - Film tattoo  CatrinKerschl 15.00 EUR €NEW pin this product 10 Easter Eggs with decor 02 - Film tattoo  CatrinKerschl 15.00 EUR €NEW pin this product 10 Easter Eggs with decor 01 - Film tattoo  CatrinKerschl 15.00 EUR €NEW pin this product Make My Day L - A different Easter - Film tattoo  CatrinKerschl 21.00 EUR €NEW pin this product Make My Day M - A different Easter - Film tattoo  CatrinKerschl 16.00 EUR €NEW pin this product Make My Day S - A different Easter - Film tattoo  CatrinKerschl 11.00 EUR €NEW pin this product Phoenix 'Ice Breath' - Design plate  CatrinKerschl 17.00 EUR €NEW pin this product Phoenix 'Fire Breath' - Design plate  CatrinKerschl 17.00 EUR €pin this product Steampunk Love - Design plate  CatrinKerschl 15.00 EUR €pin this product Phoenix 'Sparking Wing' - Design plate  CatrinKerschl 17.00 EUR €pin this product Phoenix 'Flying Sparks' - Design plate  CatrinKerschl 17.00 EUR €pin this product Motocross - Vinyl film tattoo  CatrinKerschl 12.00 EUR €pin this product You or Your Loved One as a vinyl film tattoo  CatrinKerschl 27.00 EUR €pin this product Live, Laugh, Love - Hindi - Vinyl film tattoo set  CatrinKerschl 37.00 EUR €pin this product Dragon Flame - Window tattoo - Frosted glass  CatrinKerschl 34.00 EUR €pin this product Magic Fairy - Vinyl film tattoo set  CatrinKerschl 32.00 EUR €pin this product Starry Heart - Vinyl film tattoo  CatrinKerschl 18.00 EUR €pin this product Peacock - Just Married - Vinyl film tattoo set  CatrinKerschl 33.00 EUR €pin this product Cute Dragon + Name - Vinyl film tattoo set  CatrinKerschl 26.00 EUR €pin this product Mein Leben [German] - Vinyl film tattoo  CatrinKerschl 21.00 EUR €pin this product Not Your Business - Vinyl film tattoo  CatrinKerschl 21.00 EUR €pin this product Sparkling Eyes - Vinyl film tattoo  CatrinKerschl 25.00 EUR €pin this product If Looks Could Kill - Vinyl film tattoo  CatrinKerschl 26.00 EUR €pin this product Butterfly Invasion 06 - Vinyl film tattoo set  CatrinKerschl 18.00 EUR €pin this product Butterfly Invasion 05 - Vinyl film tattoo set  CatrinKerschl 18.00 EUR €pin this product Butterfly Invasion 04 - Vinyl film tattoo set  CatrinKerschl 18.00 EUR €pin this product Butterfly Invasion 03 - Vinyl film tattoo set  CatrinKerschl 18.00 EUR €pin this product Butterfly Invasion 02 - Vinyl film tattoo set  CatrinKerschl 18.00 EUR €pin this product Butterfly Invasion 01 - Vinyl film tattoo set  CatrinKerschl 18.00 EUR €pin this product Butterfly Invasion 06 - Window / Mirror tattoo set  CatrinKerschl 18.00 EUR €pin this product Butterfly Invasion 05 - Window / Mirror tattoo set  CatrinKerschl 18.00 EUR €1 2Free shippingfor orders worth50.00€EURor more in this shopShop ownerCatrinKerschlBreunigweiler,GermanyPinboardsProfileContact sellerShop InformationRating0out of50Members pinned this shop 4Sold itemsShop opened at 28.01.2015ImprintTerms & ConditionsCancellations and returns policyPayment and ShippingShop FAQCustomer serviceFavourite ShopRecommend this shopDOON GermanySie möchten ein Folien-Tattoo von Ihrem Liebling, Ihrem Haustier...Sie möchten ein Folien-Tattoo von Ihrem Liebling, Ihrem Haustier oder etwas ganz Besonderem? In Ihrer Lieblingsfarbe?Kein ...My top tipsRosemarie-KerschlBreunigweiler,GermanyVisit the shopYiriEichendorf,GermanyVisit the shopdie-nette-NetteSchönebeck (Elbe),GermanyVisit the shopR_KerschlBreunigweiler,GermanyVisit the shopprevnextUp to 50% off selected fabrics Shop now!Find us onFacebookTwitterYouTubePinterestInstagramSubscribe to our newsletterGo!Newsletter settingsI agree to the terms and conditionsRegional settings€ EURENDaWanda DEDaWanda ENDaWanda FRDaWanda PLDaWanda ESDaWanda NLDaWanda ITShip toUnited StatesLatest from our blog2015-02-20How can I show off my best listings?2015-02-20How can I organise my shop by my own categories?2015-02-06Why is SEO (Search Engine Optimization) important for your DaWanda shop?Read more on our blogAbout DaWandaImprintTerms & ConditionsPrivacy StatementGuidelinesPress PortalStatusCareersSellingSeller PortalSeller FAQSelling in 3 stepsFees & InvoicesBuyingBuyer FAQBuy in 3 stepsVouchersService & HelpHelp & InformationCustomer ServiceGeneral FAQCommunityDaWanda CommunityForumGroupsPartnerWidget & BannerDaWanda API© DaWanda GmbH 2006 — 2015Back To TopCloseDOON GermanyDesign Out Of Norm ‘DOON' Germany is a young startup, based in Breunigweiler/Germany, producing unique and costumised vinyl film tattoos which accentuate your individuality.You have a special design, saying or slogan in mind you would like to show to the world? You want to render a special touch to your laptop, computer case, car, mirror, window, musical instrument etc.? The modes of use are virtually unlimited.You’re at exactly the right place. Contact DOON to get your customised design!CloseThis function is not available to you at the moment. If you have any questions, please write to us at feedback-en@dawanda.comCloseNew MessageCatrinKerschlspeaks: German, EnglishSubjectMessageAttach fileYou can upload a file (jpg, gif or png and max. size of 1MB) for example an image showing your customization wishes.Please note:You are not allowed to bypass DaWanda and/or abuse the contact function on DaWanda to sell products to customers and/or make wholesale orders.Please contact us if you have any questions.SendCancelCloseRecommend this shopFromEmailsEnter your friends' email addresses (separated by commas)MessageSendCancelCloseHelp us to improve DaWandaNameEmail addressSubjectPlease choose an option.Registration & LoginBuying ProcessSelling ProcessInvoicesChange of Personal DataClose Account/ShopEverything ElseMessageSendCancelCloseCurrency Display SettingsHere you can choose which currencies your prices will be shown in on DaWanda. You can change your chosen currencies at any time. Currency conversions are generated once a day. All indicated prices which are NOT in Euro are approximate. These indicated prices are not legally binding. Please note: payment currency is always that of the seller.€EuroEURSFrSwiss FrancCHFzlPolish ZlotyPLN£British PoundGBP$ USUS DollarUSDOthers$ AUAustralian DollarAUDR$Brazilian RealBRL$ CACanadian DollarCADKcCzech KorunaCZKkr DKDanish KroneDKK$ HKHong Kong DollarHKDFtHungarian ForintHUF?Israeli ShekelILS¥Japanese YenJPY$ MXMexican PesoMXN$ NZNew Zealand DollarNZDkr NONorwegian KroneNOKleuRomanian LeuRON???Russian RubleRUBkr SESwedish KronaSEKTLTurkish LiraTRYExchange rate last updated at: Mon, 02 Mar 2015 11:55:13 +0000; Source:ECBSaveCancelClosePlease note! Important changes to your DaWanda accountDear Member,We have updated our Privacy Policy since your last visit to DaWanda. You can find the new Privacy Policy right here. Please read the policy all the way through and agree to let DaWanda continue to use your personal data, using it and processing it in accordance with the new Privacy Policy:I agree to the processing and use of my personal data in accordance with the Privacy Policy.{ error.message }I give consent, among other things, to the use of my personal information for sending out marketing emails (e.g. newsletters, questionnaires).I AgreePlease note: You can view the details of the Privacy Policy and what you are agreeing to here at any time. You can also withdraw your consent at any time, effective immediately for the future.Hi there! We'd like to set the following regional settings for you:$ US (US Dollar),United StatesOkayNo thanks!"
+        ],
+        "content_text_length": 13100,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "CatrinKerschl – 66 unique products from € 5.0 on DaWanda",
+        "keywords": "Fantasy, Hobbies, Love, People, Animals, Wordplay, Indian / Hindi, Easter",
+        "content_encoding": "UTF-8",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 20 6c 61 6e 67 3d 22 65 6e 22 20 63",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "pinterest.com",
+          "en.dawanda.com",
+          "blog-en.dawanda.com",
+          "www.facebook.com",
+          "jobs.dawanda.com",
+          "www.ecb.europa.eu",
+          "twitter.com",
+          "instagram.com",
+          "status.dawanda.com",
+          "www.youtube.com",
+          "app.adjust.io",
+          "doongermany.tumblr.com"
+        ],
+        "links_domains": [
+          "pinterest.com",
+          "facebook.com",
+          "europa.eu",
+          "dawanda.com",
+          "adjust.io",
+          "twitter.com",
+          "instagram.com",
+          "tumblr.com",
+          "youtube.com"
+        ],
+        "links_public_suffixes": [
+          "eu",
+          "com",
+          "io"
+        ],
+        "elements_used": [
+          "body",
+          "tr",
+          "img",
+          "noscript",
+          "td",
+          "br",
+          "th",
+          "time",
+          "button",
+          "h4",
+          "ol",
+          "head",
+          "h1",
+          "h3",
+          "h2",
+          "form",
+          "menu",
+          "abbr",
+          "label",
+          "table",
+          "script",
+          "header",
+          "li",
+          "input",
+          "iframe",
+          "strong",
+          "textarea",
+          "output",
+          "small",
+          "span",
+          "dt",
+          "t.length;o++)r(t[o]);return",
+          "link",
+          "div",
+          "o;)i[r]=n[e+r];return",
+          "aside",
+          "meta",
+          "dd",
+          "title",
+          "figure",
+          "style",
+          "dl",
+          "fieldset",
+          "ul",
+          "b",
+          "a",
+          "section",
+          "i",
+          "footer",
+          "article",
+          "tbody",
+          "p",
+          "nav",
+          "html",
+          "em"
+        ],
+        "content_type_tika": "text/html; charset=UTF-8",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=UTF-8; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_384": "MCUMT4ijSu8KAA9ZUny6hVVzkaXb6ZHpKeOYfU",
+        "ssdeep_hash_bs_768": "cMT4ijSRKAA9in/cJFOYs",
+        "ssdeep_hash_ngram_bs_384": "MCUMT4ijSu8KAA9ZUny6hVVzkaXb6ZHpKeOYfU",
+        "ssdeep_hash_ngram_bs_768": "cMT4ijSRKAA9in/cJFOYs",
+        "crawl_dates": [
+          "2015-03-03T02:03:32Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494671132483125200
+      },
+      {
+        "source_file_s": "20150303202445852.warc@23084",
+        "url": "http://www.engadget.com/2015/01/30/darpa-robot-videos/?ncid=rss_truncated",
+        "host": "www.engadget.com",
+        "domain": "engadget.com",
+        "public_suffix": "com",
+        "server": [
+          "Apache"
+        ],
+        "content_type_served": "text/html",
+        "content_length": 94713,
+        "id": "sha1:6QWUGY6CX6KTAMOBH3XBC5D4W2D42FFW/DjzhyUuhsBF9JCPXOsHkXA==",
+        "hash": [
+          "sha1:6QWUGY6CX6KTAMOBH3XBC5D4W2D42FFW"
+        ],
+        "crawl_date": "2015-03-03T20:24:45Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303202445",
+        "content": [
+          "­EngadgetMenuEngadgetReviewsFeaturesGuidesVideosGalleriesForumsGamingCloseusername or email addresspasswordforgot username/password?remember meloginorConnect with Facebooknot yet a member of the Engadget community?sign upSign UpLog In77WithingsActivité Pop86LGG Flex268BlackBerryClassic63HealbeGoBecellphoneslaptopstabletsHeadphonesFitnessCamerasConsolesHDTVsroutersDigital media playersSee more ?Lonnie Johnson, the rocket scientist and Super Soaker inventorYear of the Goat: 11 Chinese smartphone brands to watchThe net neutrality war of words wages onAdult Themes: The rise and fall of America's first digital brothelMore Features ?A Look at the Huawei WatchSamsung's Galaxy S6 and Galaxy S6 EdgeLG's Watch Urbane and Watch Urbane LTEA Look at the Alcatel OneTouch Idol 3More Videos ?Share what you're doing with a Raspberry PiImpressions of home automation hubsHave you encountered phony reports in Waze?Recommendations for a desktop podcast app?More Forums ?JxE Streams: 'Resident Evil: Revelations 2' meets 'Code Veronica'CyberPowerPC takes a second shot at Steam MachinesHBO Go comes to PS4, unless you have Comcast'Liquid VR' is AMD's push into virtual reality with softwareMore on Gaming ?More Events ?Engadget's Holiday Gift Guide 2014Engadget's back to school guide 2014Engadget's Buyers GuideEngadget's smartphone buyers guide: fall 2013More Guides ?Nokia N1 tablet hands-onPebble Time SteelArtiphon Instrument 1MWC highlights day twoMore Galleries ?ReviewsWithings Activité activity trackers are beautiful, but limitedLG G Flex2 review: This is what the original should have beenBlackBerry Classic review: A love letter to fans and few othersHealbe GoBe review: Can a fitness band really track your calorie intake?See more ?FeaturesLonnie Johnson, the rocket scientist and Super Soaker inventorYear of the Goat: 11 Chinese smartphone brands to watchThe net neutrality war of words wages onAdult Themes: The rise and fall of America's first digital brothelMore Features ?VideosA Look at the Huawei WatchSamsung's Galaxy S6 and Galaxy S6 EdgeLG's Watch Urbane and Watch Urbane LTEA Look at the Alcatel OneTouch Idol 3More Videos ?ForumsGamingJxE Streams: 'Resident Evil: Revelations 2' meets 'Code Veronica'CyberPowerPC takes a second shot at Steam MachinesHBO Go comes to PS4, unless you have Comcast'Liquid VR' is AMD's push into virtual reality with softwareMore on Gaming ?GuidesGalleriesMUST READ:We're ready for Game Developers Conference 2015, are you?DARPA's new tech lets robots learn from YouTube videosbyMariella Moon|@mariella_moon|January 30th 2015 at 4:39 amJanuary 30th 2015 4:39 am32365915523Things would be a lot easier for roboticists if their creations can learn from any instructional video they watch without further programming. While we're still far from teaching robots complicated skills using just a playlist of YouTube clips, a University of Maryland research team is in the very early stages of making that happen. The team's research is funded by DARPA's Mathematics of Sensing, Exploitation and Execution (MSEE) program, which aims to teach machines not only how to collect data, but also how to act on it. For this particular study, the researchers have developed a system that allowed their test robots to learn from a series of \"how-to\" cooking videos on YouTube. During testing, the robots were able to perform the tasks shown in the videos using the right utensils and with zero human input.In addition, the system gives robots the ability to store whatever they've learned from the videos and to build on the knowledge to become better at handing certain tools or performing certain tasks. DARPA believes the robots could eventually learn a lot faster at a fraction of what it currently costs due to this research, especially since it could also allow them to share their knowledge with other machines. We just hope they don't end up becoming sentient and colluding against us. Want to know more? If you don't mind sifting through a document filled with scientific lingo, feel free to pore over University of Maryland's paper for more info.Source: DARPA, University of Maryland (PDF)Tags: DARPA, robot, UniversityOfMaryland, video, youtube Hide Comments23Comments659323153656593231536523 commentsGet LivefyreFAQSign in1 person listening  + FollowSharePost comment as...Custom HTML PreviewLoadingNewest | Oldest | Top CommentsundefinedNew CommentsRefreshjorge1170xyz 5ptsFeaturedJan 31, 2015Those arms look perfect for skull crushing obsolete humans lolFlagShareLikeReplyodipedi 5ptsFeaturedJan 31, 2015please don't let them watch porrn !!!FlagShareLikeReplyodipedi 5ptsFeaturedJan 31, 2015or disney ...FlagShareLikeReplyShow More CommentsFeatured StoriesNikon Coolpix P900 point-and-shoot has a monstrous 83x zoom1 day ago  25Nikon's latest lightweight DSLR is the D72001 day ago  29Alcatel OneTouch Idol 3 can take phone calls even when upside down2 days ago  27HTC's Grip fitness tracker is a promising, puzzling first step2 days ago  6HTC One M9 preview: A battle between polish and progress2 days ago  153Huawei's second-generation wearable gets a stylish makeover2 days ago  8HP teamed up with Microsoft to build its latest flagship laptop2 days ago  115Sponsored LinksGet this amazing value$79.99/mo. + taxes, equip. charges, FDV & other fees w/2-yr. agmt.verizon.comVirginia's NEW RULENew Car Insurance Rule in Virginia Has Drivers Furious!SmarterLifeDaily.com1 Trick FIGHTS Hair Loss\"Breakthrough\" Hair Loss Method Leaves 1000s Wondering.. Watch Video.Consumer-Web-Updates.comBuy a link hereCompare Your GadgetsInstantly compare products side by side and see which one is best for you!Try it now ?Saygus' over-specced phone costs $550 for early birds<img src=\"http://www.engadget.com/traffic/?t=px&bv=JavaScript+Disabled&os=21136978&tz=default&lg=&rv=&rsv=&pw=%2F2015%2F01%2F30%2Fdarpa-robot-videos%2F%3Fncid%3Drss_truncated%2F&cb=1643402816\" alt=\"the end\" width=\"1\" height=\"1\"border=\"0\" />"
+        ],
+        "content_text_length": 6118,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "DARPA's new tech lets robots learn from YouTube videos",
+        "content_encoding": "UTF-8",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 20 63 6c 61 73 73 3d 22 6a 73 20 6e",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "pinterest.com",
+          "support.livefyre.com",
+          "www.engadget.com",
+          "plus.google.com",
+          "www.umiacs.umd.edu",
+          "www.facebook.com",
+          "twitter.com",
+          "www.linkedin.com",
+          "www.darpa.mil",
+          "aoltech.sl.advertising.com",
+          "livefyre.com",
+          "www.reddit.com"
+        ],
+        "links_domains": [
+          "darpa.mil",
+          "pinterest.com",
+          "facebook.com",
+          "reddit.com",
+          "google.com",
+          "twitter.com",
+          "linkedin.com",
+          "engadget.com",
+          "umd.edu",
+          "advertising.com",
+          "livefyre.com"
+        ],
+        "links_public_suffixes": [
+          "mil",
+          "com",
+          "edu"
+        ],
+        "elements_used": [
+          "body",
+          "param",
+          "link",
+          "img",
+          "div",
+          "noscript",
+          "object",
+          "aside",
+          "br",
+          "meta",
+          "time",
+          "title",
+          "style",
+          "h5",
+          "h4",
+          "h1",
+          "head",
+          "h3",
+          "ul",
+          "b",
+          "form",
+          "a",
+          "label",
+          "script",
+          "section",
+          "embed",
+          "header",
+          "i",
+          "footer",
+          "li",
+          "input",
+          "iframe",
+          "article",
+          "strong",
+          "p",
+          "nav",
+          "html",
+          "em",
+          "span"
+        ],
+        "content_type_tika": "text/html; charset=UTF-8",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=UTF-8; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_96": "OtIZ3IuXF0xbC/Tb6vUtr+Yzxez8C4cJ1UaTETTsGqHdiG5WF",
+        "ssdeep_hash_bs_192": "+qIKFEb7jLLOoKYh9iGYF",
+        "ssdeep_hash_ngram_bs_96": "OtIZ3IuXF0xbC/Tb6vUtr+Yzxez8C4cJ1UaTETTsGqHdiG5WF",
+        "ssdeep_hash_ngram_bs_192": "+qIKFEb7jLLOoKYh9iGYF",
+        "crawl_dates": [
+          "2015-03-03T20:24:45Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494672689321738200
+      }
+    ]
+  }
+}

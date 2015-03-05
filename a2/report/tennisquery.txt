@@ -1,0 +1,708 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 2,
+    "params": {
+      "indent": "true",
+      "q": "tennis",
+      "_": "1425431840470",
+      "wt": "json"
+    }
+  },
+  "response": {
+    "numFound": 7,
+    "start": 0,
+    "docs": [
+      {
+        "source_file_s": "20150303204135178.warc@2906688",
+        "url": "http://www.tabletennistable101.com/wp-content/uploads/2014/11/Butterfly-folding-table-tennis-table-297x300.jpg",
+        "content_type_ext": "jpg",
+        "host": "www.tabletennistable101.com",
+        "domain": "tabletennistable101.com",
+        "public_suffix": "com",
+        "server": [
+          "Apache",
+          "W3 Total Cache/0.9.4.1"
+        ],
+        "content_type_served": "image/jpeg",
+        "content_length": 16132,
+        "id": "sha1:5VSY6MVPBTSIIN5UHE5H4LGDDZDAM3Q3/erVTiRi7ZQnnWQRmOw4iZA==",
+        "hash": [
+          "sha1:5VSY6MVPBTSIIN5UHE5H4LGDDZDAM3Q3"
+        ],
+        "crawl_date": "2015-03-03T20:41:35Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303204135",
+        "content": [
+          ""
+        ],
+        "content_text_length": 0,
+        "content_type": [
+          "image/jpeg"
+        ],
+        "content_ffb": "ffd8ffe0",
+        "content_first_bytes": "ff d8 ff e0 00 10 4a 46 49 46 00 01 01 01 00 01 00 01 00 00 ff db 00 43 00 03 02 02 03 02 02 03",
+        "content_type_droid": "image/jpeg; version=1.01",
+        "content_type_tika": "image/jpeg",
+        "content_type_version": "1.01",
+        "content_type_full": "image/jpeg; version=1.01",
+        "content_type_norm": "image",
+        "crawl_dates": [
+          "2015-03-03T20:40:41Z",
+          "2015-03-03T20:41:22Z",
+          "2015-03-03T20:41:35Z"
+        ],
+        "crawl_years": [
+          "2015",
+          "2015",
+          "2015"
+        ],
+        "_version_": 1494673411775922200
+      },
+      {
+        "source_file_s": "20150303204135178.warc@2844109",
+        "url": "http://www.tabletennistable101.com/wp-content/uploads/2014/11/Butterfly-TR26B-Playback-Rollaway-Table-Tennis-Table-1024x621.jpg",
+        "content_type_ext": "jpg",
+        "host": "www.tabletennistable101.com",
+        "domain": "tabletennistable101.com",
+        "public_suffix": "com",
+        "server": [
+          "Apache",
+          "W3 Total Cache/0.9.4.1"
+        ],
+        "content_type_served": "image/jpeg",
+        "content_length": 55045,
+        "id": "sha1:CXVWHA7YH36XXOKA3JOYQZKIYLYY7FMJ/5rYuLTEYQbyK2rhVVPlt5w==",
+        "hash": [
+          "sha1:CXVWHA7YH36XXOKA3JOYQZKIYLYY7FMJ"
+        ],
+        "crawl_date": "2015-03-03T20:41:35Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303204135",
+        "content": [
+          ""
+        ],
+        "content_text_length": 0,
+        "content_type": [
+          "image/jpeg"
+        ],
+        "content_ffb": "ffd8ffe0",
+        "content_first_bytes": "ff d8 ff e0 00 10 4a 46 49 46 00 01 01 01 00 01 00 01 00 00 ff db 00 43 00 03 02 02 03 02 02 03",
+        "content_type_droid": "image/jpeg; version=1.01",
+        "content_type_tika": "image/jpeg",
+        "content_type_version": "1.01",
+        "content_type_full": "image/jpeg; version=1.01",
+        "content_type_norm": "image",
+        "crawl_dates": [
+          "2015-03-03T20:40:41Z",
+          "2015-03-03T20:41:22Z",
+          "2015-03-03T20:41:35Z"
+        ],
+        "crawl_years": [
+          "2015",
+          "2015",
+          "2015"
+        ],
+        "_version_": 1494673411752853500
+      },
+      {
+        "source_file_s": "20150303204041515.warc@35157",
+        "url": "http://www.tabletennistable101.com/butterfly-tr26b",
+        "host": "www.tabletennistable101.com",
+        "domain": "tabletennistable101.com",
+        "public_suffix": "com",
+        "server": [
+          "Apache",
+          "W3 Total Cache/0.9.4.1"
+        ],
+        "content_type_served": "text/html",
+        "content_length": 126440,
+        "id": "sha1:DGK5INPFXHHXBQEZ766VEDTTY2XEG2SV/usCWPZRr42bRf/PYu3pGQA==",
+        "hash": [
+          "sha1:DGK5INPFXHHXBQEZ766VEDTTY2XEG2SV"
+        ],
+        "crawl_date": "2015-03-03T20:40:41Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303204041",
+        "content": [
+          "Ping Pong Table Reviews: Butterfly TR26B Playback Rollaway Table Tennis Table | Table Tennis Table 101SearchEverythingProduct SearchHomeAbout MeContact MeCopyright NoticeDisclaimerDMCA NoticePrivacy PolicySitemapTable Tennis Tables & Accessories Comparison TableTerms of Use « Ping Pong Table Cover Reviews: Butterfly Table Tennis Table CoverPing Pong Table Reviews: Prince Advantage Compreg Outdoor Table Tennis Table »Nov 16Ping Pong Table Reviews: Butterfly TR26B Playback Rollaway Table Tennis TableBegin Table Tennis Training With The Butterfly TR26B Playback Rollaway Table Tennis TableLovers of table tennis do not need to purchase the most expensive table tennis table on the market to enjoy the sport they enjoy. Thanks to quality products like Butterfly TR26B Playback Rollaway Table Tennis Table, it is possible for enthusiasts and budding professionals alike to experience the joys of table tennis.Butterfly is known for making excellent tables without charging their customers exorbitant amounts of money. This particular model, immediately recognizable by its vivid blue hue, is one of the best options available in the sub $700 market. It is ideal as a first table for table tennis enthusiasts who may eventually want to move on to professional-grade tables.Main Features of the Butterfly Playback Rollaway Table Tennis TableThe most immediately noticeable feature of this folding table tennis table is the means by which it can be folded up and stored without removing the net. This is a helpful design element that, while not strictly necessary, makes using your tennis table easier – you do not have to take down the net every time you store the table and put it back on every time you want to play.The dimensions of the Butterfly table, once folded, are of 73.5 inches by 24.5 inches. In normal usage it is 108 inches long by 71 inches wide, with the same 73.5 inches of height. The table stands very straight and is joined using steel legs and connections that ensure long life and durability.The tabletop is finished with wood, providing a consistent, even bounce on all portions of the tabletop. It features two safety levers on each side of the table that provide effective measures of child safety, preventing the young ones from playing with the heavy metal frame.Benefits of Using the Butterfly TR26BThere are numerous advantages to be had by using this Butterfly table tennis table. Beyond the simple product specifications, which are enough to let you know the mundane physical aspects of the product, it has a few clever design elements worth mentioning:The bright blue tabletop is constructed with exceedingly high standards of quality. The surface is coated with a wooden finish that provides the right amount of bounce necessary for a good game of table tennis.The folding mechanism is designed for simplicity, and the foldable table tennis table can be conveniently put away in moments. It would be tempting to say that even a child can do it, but it would be dangerous to let them try, bringing up the next point…Unlike many other tables, the Butterfly Playback Rollaway features child safety levers that really work. While the mechanism is easy to figure out, young children will not be tempted to try for themselves, potentially saving fingers and bones.The manufacturer provides a three year warranty against defects, which include the possibility of an uneven playing surface. If your table begins to warp unnaturally despite you taking the very best care of it, Butterfly will cover the cost of replacement or repair for you.Disadvantages to This Butterfly Playback RollawayNo product is perfect, and this Butterfly table is no exception to the rule. While it performs admirably under a variety of indoor conditions, this table does suffer from a couple of drawbacks:If you are looking for a table to use in an outdoor area, this is probably not the ideal table for you. Granted, the Butterfly Playback Rollaway series is advertised as an indoor table, so you should know that what you are buying is not designed for outdoor use beforehand.Table assembly may take some individuals a fair share of time. My personal experience went by perfectly fine, but I am used to building and collapsing these kinds of table tennis tables, so it would be fair to warn that a newcomer may have to invest a couple of hours in the process.My Experience with This Butterfly Table Tennis TableSince I have quite a bit of experience with various types of table tennis tables, I was quickly able to get a grasp on how this one responds to play. The top of this Butterfly Rollaway table tennis table is very even and consistent, and would do nicely for any friendly table tennis game or amateur player.The net is well attached to the board of the table, which is a great help. I have seen some net-less tables as a result of being designed with a poor attachment apparatus. Butterfly, however, knows well how to design a table to function correctly and without issues.Assembling the table was simple enough – if you do not have an electric hand drill, you should borrow or purchase one, because I could see this being a pretty lengthy procedure without the help of a tool like that. If you have an electric hand drill, however, you are perfectly ready to assemble it and you can do so quickly and easily.As far as the table’s responsiveness to play is concerned, I would see it as being an ideal table for a school or recreation center. It is good enough to introduce a new player to the sport and to have them become an adept player, but there is a significant difference between this table and a tournament-level one.For its price, however, the Butterfly TR26B is perfect for introducing new players, training amateurs, and developing interest in the sport. The board is flat and consistent, and the steel frame is even and totally devoid of undesired wobble. It performs spectacularly in playback mode, as well.The Verdict: Worth Purchasing For Your Home, School or GymIf you are looking for a high quality, effective table tennis table that will do well inside your home, then this is a great investment to make. Likewise, if you are in charge of requesting sports equipment for a school, university or gymnasium, then this table should probably be at the top of your list.There are definitely better tables available on the market, but if you are not looking for tournament-ready performance, you can benefit from the value-on-the-dollar represented by the Butterfly TR26B Playback Rollaway Table Tennis Table. Not many other tennis tables on the market offer as much as this one does for such a low price.Be Sociable, Share!inShare0Related posts:Ping Pong Table Reviews: Butterfly TR26 Playback Rollaway Table Tennis TablePing Pong Table Reviews: Butterfly TW24B Outdoor Playback Rollaway Table Tennis TablePing Pong Table Reviews: Butterfly TR21 Personal Rollaway Table Tennis TablePing Pong Table Reviews: Butterfly TR16 Home Rollaway Table Tennis Table       Product Image- 9%Butterfly TR26B Playback Rollaway Table Tennis Table (Blue)Hathaway Bounce Back Table Tennis Table, Blue- 19%STIGA InstaPlay Table Tennis Table $699.99$769.99$307.99$569.99$699.99 DetailsDetailsDetailsBrand:ButterflyHathawaySTIGAColor:BlueBlueblackItem Dimensions:71 x 73.5 x 108 in1.9 lb60 x 30 x 108 in113 lb60 x 64 x 108 in1 lbLabel:ButterflyBlue Wave Products (dropship)STIGAModel:TR26BBG2325T8288Package Dimensions:55 x 4.5 x 61 in180 lb58 x 4.8 x 62 in198 lb55.5 x 6.5 x 62.5 in263 lbRelease Date:2006-10-20  Size:One Size One SizeManufacturer Minimum Age:  96 DetailsDetailsDetailsProduct prices and availability are accurate as of 03/03/2015 20:39 UTC but are subject to change.Any price and availability information displayed on the merchant site at the time of purchase will apply to the purchase of this product.Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Name: *Email: *Website:Message: *You may use these HTML tags and attributes: <a href=\"\" title=\"\"> <abbr title=\"\"> <acronym title=\"\"> <b> <blockquote cite=\"\"> <cite> <code> <del datetime=\"\"> <em> <i> <q cite=\"\"> <strike> <strong>- 9%Butterfly TR26 Playback Rollaway Table Tennis Table (Green)$699.99- 4%Butterfly ITTF Aproved 3-Star 40mm Table Tennis Balls (12-Pack, Orange)$23.94Butterfly 8181 Table Tennis Racket Care Kit$15.99- 26%Butterfly TC1000 Table Tennis Table Cover$66.99- 9%Butterfly Victory 4-Player Table Tennis Set$49.99- 9%Butterfly 401 Shakehand Table Tennis Racket$39.99- 9%Butterfly TR21 Personal Rollaway Table Tennis Table (Green)$599.99Butterfly Victory 2-Player Table Tennis Set$29.99Butterfly 302 Shakehand Table Tennis Racket$29.99amazon.comRecent PostsPing Pong Table Reviews: Prince Advantage Compreg Outdoor Table Tennis TablePing Pong Table Reviews: Butterfly TR26B Playback Rollaway Table Tennis TablePing Pong Table Cover Reviews: Butterfly Table Tennis Table CoverEnjoying the Fun and Healthy Table Tennis – Is It the Sport for You?Incredible 41 Shot Rally – Men’s Singles Table Tennis at Glasgow 2014 Commonwealth GamesPing Pong Table Reviews: Stiga Ultratec Table Tennis TablePing Pong Table Reviews: Cornilleau Sport 500M Outdoor Table Tennis TableNew Deals Everyday!!!CategoriesPing Pong RobotPing Pong Table CoverPing Pong Table Reviews Butterfly Table Tennis TableCornilleau Ping Pong TableJoola Table Tennis TableKettler Ping Pong TableKillerspin Table Tennis TablePrince Ping Pong TableStiga Table Tennis TablePing Pong Table TipsTable Tennis HistoryTable Tennis Tips- 9%Butterfly TR26 Playback Rollaway Table Tennis Table (Green)$699.99- 4%Butterfly ITTF Aproved 3-Star 40mm Table Tennis Balls (12-Pack, Orange)$23.94Butterfly 8181 Table Tennis Racket Care Kit$15.99- 26%Butterfly TC1000 Table Tennis Table Cover$66.99- 9%Butterfly Victory 4-Player Table Tennis Set$49.99- 9%Butterfly 401 Shakehand Table Tennis Racket$39.99- 9%Butterfly TR21 Personal Rollaway Table Tennis Table (Green)$599.99Butterfly Victory 2-Player Table Tennis Set$29.99Butterfly 302 Shakehand Table Tennis Racket$29.99amazon.comReferencesTable TennisButterfly USAInternational Table Tennis FederationJoolaStiga Table TennisWorld Champions Table Tennis AcademyPagesAbout MeContact MeCopyright NoticeDisclaimerDMCA NoticePrivacy PolicySitemapTable Tennis Tables & Accessories Comparison TableTerms of UseFTC DisclosureTableTennisTable101.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.comCopyright© 2013 - 2015 Table Tennis Table 101.TableTennisTable101.com is a participant in the Amazon EU Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.it, Amazon.esReturn to topPowered by WordPress and the Graphene Theme."
+        ],
+        "content_text_length": 11167,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "Ping Pong Table Reviews: Butterfly TR26B Playback Rollaway Table Tennis Table | Table Tennis Table 101",
+        "keywords": "butterfly tr26b playback rollaway table tennis table,ping pong table,table tennis table,butterfly table,pingpong table,folding table tennis table,butterfly table tennis table,foldable table tennis tab",
+        "content_encoding": "UTF-8",
+        "generator": [
+          "WordPress 3.8.5"
+        ],
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 20 50 55 42 4c 49 43 20 22 2d 2f 2f 57 33 43 2f 2f 44",
+        "content_type_droid": "application/xhtml+xml; version=1.0",
+        "links_hosts": [
+          "www.tabletennistable101.com",
+          "digg.com",
+          "www.blinklist.com",
+          "www.butterflyonline.com",
+          "www.google.com",
+          "wordpress.org",
+          "reddit.com",
+          "mail.google.com",
+          "twitter.com",
+          "www.tumblr.com",
+          "stigatabletennis.com",
+          "www.stumbleupon.com",
+          "posterous.com",
+          "www.ittf.com",
+          "reporter.es.msn.com",
+          "delicious.com",
+          "sphinn.com",
+          "www.graphene-theme.com",
+          "www.amazon.com",
+          "www.linkedin.com",
+          "www.myspace.com",
+          "news.ycombinator.com",
+          "www.facebook.com",
+          "en.wikipedia.org",
+          "www.joola.com"
+        ],
+        "links_domains": [
+          "delicious.com",
+          "digg.com",
+          "sphinn.com",
+          "joola.com",
+          "ittf.com",
+          "graphene-theme.com",
+          "myspace.com",
+          "linkedin.com",
+          "tumblr.com",
+          "butterflyonline.com",
+          "stumbleupon.com",
+          "blinklist.com",
+          "msn.com",
+          "wikipedia.org",
+          "amazon.com",
+          "facebook.com",
+          "wordpress.org",
+          "reddit.com",
+          "google.com",
+          "twitter.com",
+          "tabletennistable101.com",
+          "stigatabletennis.com",
+          "ycombinator.com",
+          "posterous.com"
+        ],
+        "links_public_suffixes": [
+          "com",
+          "org"
+        ],
+        "elements_used": [
+          "body",
+          "tr",
+          "link",
+          "img",
+          "div",
+          "td",
+          "br",
+          "meta",
+          "title",
+          "style",
+          "button",
+          "ol",
+          "head",
+          "h1",
+          "h3",
+          "h2",
+          "ul",
+          "form",
+          "a",
+          "abbr",
+          "label",
+          "code",
+          "table",
+          "script",
+          "li",
+          "input",
+          "iframe",
+          "tbody",
+          "strong",
+          "textarea",
+          "p",
+          "html",
+          "em",
+          "small",
+          "span"
+        ],
+        "content_type_tika": "text/html; charset=UTF-8",
+        "content_type_version": "1.0",
+        "content_type_full": "text/html; charset=UTF-8",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_192": "fkbsMPbSemDRGUxAIaI9WbEiFRZD74vTvuka/AHbJW3ApjycNBfjRTOPxzrzKQQ9",
+        "ssdeep_hash_bs_384": "fkbsMPbSemdGUxA/4niFRd74baoHNW3K",
+        "ssdeep_hash_ngram_bs_192": "fkbsMPbSemDRGUxAIaI9WbEiFRZD74vTvuka/AHbJW3ApjycNBfjRTOPxzrzKQQ9",
+        "ssdeep_hash_ngram_bs_384": "fkbsMPbSemdGUxA/4niFRd74baoHNW3K",
+        "crawl_dates": [
+          "2015-03-03T20:40:41Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494673375069470700
+      },
+      {
+        "source_file_s": "20150303204121965.warc@29546",
+        "url": "http://www.ebay.com/itm/181647390040?rmvSB=true",
+        "host": "www.ebay.com",
+        "domain": "ebay.com",
+        "public_suffix": "com",
+        "server": [
+          "Apache-Coyote/1.1"
+        ],
+        "content_type_served": "text/html;charset=UTF-8",
+        "content_length": 142793,
+        "id": "sha1:WN5XBG6P2CG3REMT2JQDX4MQFZAX2KYN/gDiR+OIffuQ+cUMvKbGJDQ==",
+        "hash": [
+          "sha1:WN5XBG6P2CG3REMT2JQDX4MQFZAX2KYN"
+        ],
+        "crawl_date": "2015-03-03T20:41:22Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303204122",
+        "content": [
+          "Very Old Tennis Racquet Harvard Ladies Choice 14oz | eBaySkip to main contenteBay Shop by categoryEnter your search keywordAll CategoriesAntiquesArtBabyBooksBusiness & IndustrialCameras & PhotoCell Phones & AccessoriesClothing, Shoes & AccessoriesCoins & Paper MoneyCollectiblesComputers/Tablets & NetworkingConsumer ElectronicsCraftsDolls & BearsDVDs & MovieseBay MotorsEntertainment MemorabiliaGift Cards & CouponsHealth & BeautyHome & GardenJewelry & WatchesMusicMusical Instruments & GearPet SuppliesPottery & GlassReal EstateSpecialty ServicesSporting GoodsSports Mem, Cards & Fan ShopStampsTickets & ExperiencesToys & HobbiesTravelVideo Games & ConsolesEverything ElseAdvancedHi! Sign in or registerDaily DealsGift CardsSellHelp & ContactMy eBayExpand My eBay SummaryBids/OffersWatch listWish listAll listsPurchase historySellingMy CollectionsFollowed searchesMessagesNotification Back to previous page|Listed in category: Sporting Goods>Tennis & Racquet Sports>Tennis>RacquetsBidding has ended on this item. Ships to:United States and many other countries| See detailsImport charges:(estimated and based on current bid)To be provided at checkout help icon for Shipping - opens a layerThis amount includes applicable customs duties, taxes, brokerage and other fees. This amount is subject to change until you make payment. For additional information, see the Global Shipping Program terms and conditions- opens in a new window or tabThis amount includes applicable customs duties, taxes, brokerage and other fees. This amount is subject to change until you make payment. If you reside in an EU member state besides UK, import VAT on this purchase is not recoverable. For additional information, see the Global Shipping Program terms and conditions- opens in a new window or tabNo additional import charges on deliveryDelivery:Estimated within 6 business days help icon for Estimated delivery date - opens a layerEstimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptance and will depend on shipping service selected and receipt of cleared payment - opens in a new window or tab. Delivery times may vary, especially during peak periods. Ships to:United States and many other countries| See detailsDetails about  Very old tennis racquet Harvard ladies choice 14ozSee original listingVery old tennis racquet Harvard ladies choice 14ozPhotos not available for this variation<style type=\"text/css\">.vi-hide-mImgThr {display: none;}</style><img id=\"icImg\" class=\"img img140\" itemprop=\"image\" src=\"http://i.ebayimg.com/00/s/NzIwWDk2MA==/z/vSUAAOSw1vlUwZ12/$_1.JPG\" style=\"\" clk=\"\" alt=\"Very-old-tennis-racquet-Harvard-ladies-choice-14oz\"/>Item condition:UsedEnded:Jan 29, 2015, 8:07PM<span>17:07:29 PST</span>Winning bid:US $36.99[ 10 bids]Shipping:$8.99Standard Shipping|See detailsItem location:Clinton, Ohio, United StatesSeller:sdietz.2009(240)|Seller's other itemsSell one like this                        More chances to get what you want Feedback on our suggestionsSee suggestionsVINTAGE 1930s HARVARD SERVICE...$39.00Buy It NowFree shippingMore from the same seller Feedback on our suggestionsSee suggestionsLadies canvas hand bag$12.990 bidsFree shippingSee suggestionsTommy Hilfiger tote or large purse$17.990 bidsFree shippingSee suggestionsVintage knives$3.990 bids See suggestionsRICH MARK LADIES HAND BAG$12.990 bidsFree shippingSee suggestionsSnoopy glass bank$5.000 bids See suggestionsLadies black leather pants, size 7-8 ma...$20.000 bidsFree shippingSee suggestions24 karat gold electro plate four leaf clover$4.000 bids See suggestionsMirage las Vagas pair a dice # A796$0.990 bids See suggestionsJack links display mug$3.990 bids See suggestionsThe greatest show on earth elephant cup$0.991 bid DescriptioneBay item number:181647390040Seller assumes all responsibility for this listing.Item specificsCondition:Used: An item that has been used previously. The item may have some signs of cosmetic wear, but is fullyoperational and functions as intended. This item may be a floor model or store return that has been used. See the sellerâ€™s listing for full details and description of any imperfections.See all condition definitions- opens in a new window or tab... Read moreabout the condition Questions and answers about this itemNo questions or answers have been posted about this item.Ask a question - opens in a new window or tabPlace bidTime left:Current bid:(Approximately ##1##)Shipping:Import charges:(estimated and based on max bid)To be provided at checkoutYour max bid:Your max bid:By clicking Confirm bid, you commit to buy this item from the seller if you are the winning bidder.By clicking Confirm bid, you are committing to buy this item from the seller if you are the winning bidder and have read and agree to the Global Shipping Program terms and conditions - opens in a new window or tab. Import charges previously quoted are subject to change if you increase you maximum bid amount.CancelLoading...Resume bidding, if the page does not update immediately.Place bidReview and confirm your bidBid confirmationdhmsdayhourhoursFREE shippingSee item descriptionCalculate(Approximately ##1##)(Enter ##1## or more)(Enter more than ##1##)Your max bid:Increase max bidPlace bidConfirm bidIncrease max bidCancelChange bidClose, you've been outbid. Don't let it get away - bid again!, you're the highest bidder on this item. Hope you win it!, you're the first bidder. Hope you win!, you're currently the high bidder, but you're close to getting outbid., this auction is almost over and you're currently the high bidder., you're the high bidder, but the reserve price hasn't been met.Please enter your bid again.Please enter a valid number as the bid price.Enter an amount that is equal or greater than the minimum bid required. This can be found under the bid entry box.Maximum bids can't be lowered once they're submitted.This seller requires the buyer to have a PayPal account to purchase this item. Get a PayPal account here .Your bid is greater than or equal to the Buy It Now price. We recommend you purchase this item via Buy It Now. If you still wish to bid, you may do so below.Time left:Current bid:(approximately ##1##)Your maximum bid:(approximately ##1##)Increase your maximum bid:By clicking 1 Click Bid, you commit to buy this item from the seller if you're the winning bidder. Learn moreabout 1-click bid - opens in a new window or tabdayhourminsecdayshoursminssecs(approximately ##1##)Winning bid:Starting bid:CloseCongrats! The auction has ended and you're the winner.The auction has ended, but the reserve price was not met.Sorry, the auction has ended and you were outbid.Good news, you're the high bidder.Sorry, you've been outbid.You're the high bidder, but the reserve price is not met.Please enter a higher amount than the current bid.Maximum bids cannot be lowered once submitted.Please enter a valid number.Sponsored LinksASICS 109 Racquet: ASICS Tennis Racquets$169.00Free ShippingHolabird SportsDiamond Detachable Tennis Racquet Charm$330.00Free ShippingDiamonds InternationalTemagami Tennis Racquet Cover - Park...$295.00Free ShippingNeiman Marcus50% OFFLacoste Girl's Short Sleeve Tennis...$19.99 $40.00Free ShippingLacoste - Official...10% OFFSet of Three Wilkins Tennis Racquet...$89.00 $99.00Grandin Road25% OFFTennis Racquet Drink Stirrers$1.95 $2.59CenturyNovelty.comTemagami Tennis Racquet Cover$295.00Horchow57% OFFTennis Racquet: HEAD TiS6, Size 4 3/8...$99.99 $229.99Sports Authority37% OFF14k Tennis Racquet Charm$70.18 $111.00Sears MarketplaceVery old tennis racquet Harvard ladies choice 14oz9Back to previous pageReturn to topMore to explore :Tennis Racquet,Paddle Tennis Racquet,Head Tennis Racquet Cover,Spalding Tennis Racquets,Wimbledon Tennis Racquet,Wilson BLX Tour Tennis RacquetAdditional site navigationCommunityAbout eBayAnnouncementsSecurity CenterResolution CenterSeller Information CenterPoliciesSite MapeBay official timePreview new featuresContact usTell us what you thinkeBay Money Back GuaranteeCopyright Â© 1995-2015 eBay Inc. All Rights Reserved. User Agreement, Privacy and Cookies."
+        ],
+        "content_text_length": 8489,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "Very Old Tennis Racquet Harvard Ladies Choice 14oz | eBay",
+        "keywords": "Very old tennis racquet Harvard ladies choice 14oz, Sporting Goods, Tennis & Racquet Sports, Tennis",
+        "content_encoding": "ISO-8859-1",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 20 78 6d 6c 6e 73 3a 66 62 3d 22 68",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "announcements.ebay.com",
+          "www.ebay.com",
+          "contact.ebay.com",
+          "qu.ebay.com",
+          "www.ebayinc.com",
+          "resolutioncenter.ebay.com",
+          "pages.ebay.com",
+          "deals.ebay.com",
+          "csr.ebay.com",
+          "reg.ebay.com",
+          "community.ebay.com",
+          "cgi5.ebay.com",
+          "garden.ebay.com",
+          "feedback.ebay.com",
+          "mesgmy.ebay.com",
+          "ocsnext.ebay.com",
+          "offer.ebay.com",
+          "signin.ebay.com",
+          "www.paypal.com",
+          "my.ebay.com",
+          "srx.main.ebayrtm.com",
+          "cart.payments.ebay.com",
+          "viv.ebay.com",
+          "ocs.ebay.com"
+        ],
+        "links_domains": [
+          "ebayinc.com",
+          "ebay.com",
+          "ebayrtm.com",
+          "paypal.com"
+        ],
+        "links_public_suffixes": [
+          "com"
+        ],
+        "elements_used": [
+          "body",
+          "tr",
+          "link",
+          "div",
+          "img",
+          "noscript",
+          "td",
+          "br",
+          "meta",
+          "center",
+          "title",
+          "style",
+          "h1",
+          "head",
+          "h3",
+          "option",
+          "h2",
+          "ul",
+          "b",
+          "form",
+          "select",
+          "a",
+          "o;s++)if(r.test(i[s].classname))n.push(i[s]);return",
+          "label",
+          "table",
+          "script",
+          "header",
+          "i",
+          "footer",
+          "li",
+          "input",
+          "iframe",
+          "tbody",
+          "html",
+          "span"
+        ],
+        "content_type_tika": "text/html; charset=ISO-8859-1",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=ISO-8859-1; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_192": "WfhK2q0ZXqjnMtTIu1CFGzv5FZrPCIDRjOYza2",
+        "ssdeep_hash_bs_384": "WfPq04jC71UGzxFVaIDe2",
+        "ssdeep_hash_ngram_bs_192": "WfhK2q0ZXqjnMtTIu1CFGzv5FZrPCIDRjOYza2",
+        "ssdeep_hash_ngram_bs_384": "WfPq04jC71UGzxFVaIDe2",
+        "crawl_dates": [
+          "2015-03-03T20:41:22Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494673387567448000
+      },
+      {
+        "source_file_s": "20150303204135178.warc@46413",
+        "url": "http://racquetballhq.net/racquet-handling-racquetball-hand-eye-coordination-activities-fine-motor-skill-kids-tennis-training/",
+        "host": "racquetballhq.net",
+        "domain": "racquetballhq.net",
+        "public_suffix": "net",
+        "server": [
+          "Apache/2.4.10 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.9",
+          "W3 Total Cache/0.9.4.1"
+        ],
+        "content_type_served": "text/html",
+        "content_length": 132213,
+        "id": "sha1:GGUPAKPUXQJRNFYA33CJ373EIS2XRPWV/CcS/BS6zrFLjXW0cDWFYMA==",
+        "hash": [
+          "sha1:GGUPAKPUXQJRNFYA33CJ373EIS2XRPWV"
+        ],
+        "crawl_date": "2015-03-03T20:41:35Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303204135",
+        "content": [
+          "Racquet Handling Racquetball: Hand Eye Coordination Activities Fine Motor Skill Kids Tennis Training | Racquetball HQWhere to?MembersAdvanced SearchGroupsGamesVideo LibraryVideosMost Popular LinksMost Popular PostsDirectoryAdd a locationClaim your LocationManage your LocationEventsEvents MapNews and BlogsStoreSupportHomeMembers Advanced SearchGroupsGamesVideo Library VideosMost Popular LinksMost Popular PostsDirectory Add a locationClaim your LocationManage your LocationEvents Events MapNews and BlogsStoreSupportPart of the Rising Flow NetworkJoin HereRacquet Handling Racquetball: Hand Eye Coordination Activities Fine Motor Skill Kids Tennis Training00  Be the 1st to vote.«Ultimate Racquetball Training Commercial\"Drop and Hit\" – Racquetball Drills to Improve Your Forehand: Drill #1»10th January 2013 by Admin under Videos     Sign up to the newsletter over at s, [removed] Racquet Handling Racquetball: Hand Eye Coordination Activities Fine Motor Skill Kids Tenn…<img src=\"//i2.ytimg.com/vi/MDE6qnxHGfs/0.jpg\" border=\"0\" style=\"margin-right:5px;float:left;width:480px;height:360px\">Tags: Share the joy       00  Be the 1st to vote.Related posts:Squash tips and tricks to improve racquet handling using a racquetballKids Squash Lesson 1 for 7 year olds, Catching exercises with a racquetballKids Squash Training: Simple ballcontrol drillsSquash video lessons for kids improving timing using a racquetballRelated posts:Squash tips and tricks to improve racquet handling using a racquetballKids Squash Lesson 1 for 7 year olds, Catching exercises with a racquetballKids Squash Training: Simple ballcontrol drillsSquash video lessons for kids improving timing using a racquetballtags: LessonsLeave a Reply Cancel replyYour email address will not be published. Required fields are marked *Name *Email *WebsiteCommentYou may use these HTML tags and attributes: <a href=\"\" title=\"\"> <abbr title=\"\"> <acronym title=\"\"> <b> <blockquote cite=\"\"> <cite> <code> <del datetime=\"\"> <em> <i> <q cite=\"\"> <strike> <strong>Other Rising Flow Resources Rising Flow MediaAcupressure HQAcupuncture CentralAerobics DailyAikido CentralAngels HQAromatherapy CentralAstrology HQAstronomy CentralAyurvedic HQBadminton HQBaking CentralBase Jumping HQBaseball HQBasketball ZoneBeekeeping HQBelly Dance HQBiking HQBilliards HQBirdwatching HQBowling CentralBoxing HQBudgeting HQCamping HQCapoeira HQCard Games DailyCats DailyChakra HQChess HQChiropractic HQCooking HQCrafts DailyCraniosacral Therapy HQCricket HQCrochet CentralCrystals CentralDIY HQDJ DailyDancing HQDarts HQDiving HQDogs CentralDrumming CentralEFT CentralFencing HQFishing HQFree Energy HQGardening HQGliding HQGolf HQGuitar HQGymnastics CentralHapkido HQHealth Tips HQHiking CentralHome Remedies HQHomeschooling HQHorses CentralHurling CentralHypnotherapy HQInspiration ZoneIridology CentralJiu Jitsu HQJogging HQJuicing CentralKapap HQKarate HQKayaking CentralKendo HQKickboxing HQKnitting CentralKrav Maga CentralMLD CentralMagic CentralManifestation HQMedical Marijuana HQMeditation HQModel Trains HQMotivation HQMuay Thai CentralNLP CentralNaturopathy HQNinjutsu HQNumerology HQOccupational Therapy HQOrigami HQPainting CentralParenting DailyParkour HQPermaculture HQPhotography HQPhysics DailyPhysiotherapy HQPickleball DailyPilates HQPoker CentralPottery ZonePsychic HQPublic Speaking ZoneQi Gong CentralRacquetball HQRaw Food DailyReflexology CentralReiki CentralRemote Control HQRock Climbing HQRolfing HQRoller Coaster HQRollerblading DailyRowing HQRugby CentralRunning HQSUP CentralSailing HQSavate CentralScuba Diving HQSculpture CentralSelf-Help DailySewing CentralShaolin HQShiatsu CentralSinging CentralSkateboarding HQSkiing CentralSkydiving HQSnowshoe CentralSpa DailySpelunking HQStorm Chasers HQSumo HQSuperfoods DailySurfing HQSwimming HQTable Tennis HQTae Kwon Do HQTai Chi HQTarot CentralTea CentralTrack and Field DailyTraveling CentralVegan ZoneVegetarian DailyVolleyball HQWakeboarding HQWater Sports HQWeightlifting DailyWhite Water HQWine CentralWing Chun CentralWorkout DailyYoga HQSearch for:Follow us for regular updatesTopicsSelect TopicDrills/Training (20)How to (23)Lessons (31)Racquetball (33)Racquetball News (44)Techniques (34)Related PostsSquash tips and tricks to improve racquet handling using a racquetballKids Squash Lesson 1 for 7 year olds, Catching exercises with a racquetballKids Squash Training: Simple ballcontrol drillsSquash video lessons for kids improving timing using a racquetballRecent PostsRecent CommentsMost CommentedMost ViewedTags2015 USA Racquetball Doubles Championships - QuarterfinalsLidia tries… Racquetball | lidiatries2015 NW Open | Washington Racquetball AssociationCliff Swain's Racquetball Drive Serve | Racquetball Lessons BlogHigh school racquetball athletes can apply for scholarships | West ...80-year-old man aces in physical health and on the racquetball courtWorld Country Magazines: Mexican Racquetball: Paola Longoria for ...New Winter Racquetball Shuttle at the Racquetball and Fitness ...IPRO Director's Message – January'15 | Racquetball Professional ...Tournament Results | NM Racquetball37th Annual Lewis Drug Racquetball Pro/Am Returns to Sioux Falls ...Racquetball Rabbi Tackles Baltimore Ravens - Tablet MagazineBeginner Racquetball Rules [Racquetball]DIY artificial insemination: How to get pregnant with a racquetball ...Cliff Swain's Racquetball Drive Serve | Racquetball Lessons BlogRacquetball | CrushHow to Get Pregnant With a Racquetball - The New RepublicRacquetball | The Shining StarHow to Hit an Accurate Lob Serve | Racquetball Lessons BlogCold Springs 15-Year-Old Is World Champion At Racquetball ...Drills/TrainingHow toLessonsRacquetballRacquetball NewsTechniques©2015 Rising Flow Media | Terms and Conditions | Privacy Policy http://risingflowmedia.net/Go back to top ?FacebookTwitterGoogle+PinterestEmailLinkedInRedditTumblrWordPressStumbleUponGoogle GmailWhatsAppAIMAmazon Wish ListAOL MailApp.netBaiduBalatarinBibSonomyBitty BrowserBlinklistBlogger PostBlogMarksBookmarks.frBox.netBuddyMarksBufferCare2 NewsCiteULikeDeliciousDesign FloatDiary.RuDiasporaDiggdiHITTDiigoDZoneEvernoteFarkFlipboardFolkdFriendFeedGoogle BookmarksHacker NewsHatenaInstapaperJamespotKakaoKindle ItLineLiveJournalMail.RuMendeleyMeneameMixiMySpaceNetlogNetvouzNewsTrustNewsVineNUjijOdnoklassnikiOknotizieOutlook.comPinboardPlurkPocketPrintPrintFriendlyProtopage BookmarksPushaQzoneRediff MyPageRenrenSegnaloSina WeiboSiteJotSlashdotSpringpadStumpediaSvejoSymbaloo FeedsTuentiTwiddlaTypePad PostViadeoVKWaneloWebnewsWykopXINGYahoo BookmarksYahoo MailYahoo MessengerYoolinkYouMobYummlyAddToAnyFacebookTwitterGoogle+PinterestEmailLinkedInRedditTumblrGoogle GmailAOL MailOutlook.comYahoo MailAny emailEmail appMore…Skip to toolbar HomeLog inRegisterDirectory DashboardOriginal textContribute a better translation"
+        ],
+        "content_text_length": 7121,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "Racquet Handling Racquetball: Hand Eye Coordination Activities Fine Motor Skill Kids Tennis Training | Racquetball HQ",
+        "keywords": "lessons",
+        "content_encoding": "UTF-8",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 20 6c 61 6e 67 3d 22 65 6e 2d 55 53",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "racquetballhq.net",
+          "freevideos.racquetballhq.net",
+          "www.addtoany.com",
+          "www.facebook.com",
+          "www.twitter.com",
+          "rtf.risingflowmedia.net",
+          "risingflowmedia.net"
+        ],
+        "links_domains": [
+          "facebook.com",
+          "racquetballhq.net",
+          "twitter.com",
+          "risingflowmedia.net",
+          "addtoany.com"
+        ],
+        "links_public_suffixes": [
+          "com",
+          "net"
+        ],
+        "elements_used": [
+          "hr",
+          "body",
+          "link",
+          "img",
+          "div",
+          "noscript",
+          "br",
+          "meta",
+          "center",
+          "title",
+          "style",
+          "button",
+          "path",
+          "ol",
+          "head",
+          "h1",
+          "option",
+          "h3",
+          "h2",
+          "ul",
+          "svg",
+          "form",
+          "select",
+          "a",
+          "ins",
+          "abbr",
+          "label",
+          "code",
+          "script",
+          "i",
+          "li",
+          "input",
+          "iframe",
+          "strong",
+          "textarea",
+          "p",
+          "html",
+          "small",
+          "span"
+        ],
+        "content_type_tika": "text/html; charset=UTF-8",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=UTF-8; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_192": "i+7tkevw8/AFHu9sz4kCHQ+nMjwgszcqX2i9",
+        "ssdeep_hash_bs_384": "P7tNnuuwCHwjvszhX2q",
+        "ssdeep_hash_ngram_bs_192": "i+7tkevw8/AFHu9sz4kCHQ+nMjwgszcqX2i9",
+        "ssdeep_hash_ngram_bs_384": "P7tNnuuwCHwjvszhX2q",
+        "crawl_dates": [
+          "2015-03-03T20:41:35Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494673407700107300
+      },
+      {
+        "source_file_s": "20150220165926930-7265.warc@46583",
+        "url": "http://racquetballhq.net/racquet-handling-racquetball-hand-eye-coordination-activities-fine-motor-skill-kids-tennis-training/",
+        "host": "racquetballhq.net",
+        "domain": "racquetballhq.net",
+        "public_suffix": "net",
+        "server": [
+          "Apache/2.4.10 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4 mod_fcgid/2.3.9",
+          "W3 Total Cache/0.9.4.1"
+        ],
+        "content_type_served": "text/html",
+        "content_length": 132979,
+        "id": "sha1:QTOULALQP45FJHZACJFXVKRRWSREDPI7/CcS/BS6zrFLjXW0cDWFYMA==",
+        "hash": [
+          "sha1:QTOULALQP45FJHZACJFXVKRRWSREDPI7"
+        ],
+        "crawl_date": "2015-02-20T16:59:27Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150220165927",
+        "content": [
+          "Racquet Handling Racquetball: Hand Eye Coordination Activities Fine Motor Skill Kids Tennis Training | Racquetball HQWhere to?MembersAdvanced SearchGroupsGamesVideo LibraryVideosMost Popular LinksMost Popular PostsDirectoryAdd a locationClaim your LocationManage your LocationEventsEvents MapNews and BlogsStoreSupportHomeMembers Advanced SearchGroupsGamesVideo Library VideosMost Popular LinksMost Popular PostsDirectory Add a locationClaim your LocationManage your LocationEvents Events MapNews and BlogsStoreSupportPart of the Rising Flow NetworkJoin HereRacquet Handling Racquetball: Hand Eye Coordination Activities Fine Motor Skill Kids Tennis Training00  Be the 1st to vote.«Ultimate Racquetball Training Commercial\"Drop and Hit\" – Racquetball Drills to Improve Your Forehand: Drill #1»10th January 2013 by Admin under Videos     Sign up to the newsletter over at s, [removed] Racquet Handling Racquetball: Hand Eye Coordination Activities Fine Motor Skill Kids Tenn…<img src=\"//i2.ytimg.com/vi/MDE6qnxHGfs/0.jpg\" border=\"0\" style=\"margin-right:5px;float:left;width:480px;height:360px\">Tags: Share the joy       00  Be the 1st to vote.Related posts:Squash tips and tricks to improve racquet handling using a racquetballKids Squash Lesson 1 for 7 year olds, Catching exercises with a racquetballKids Squash Training: Simple ballcontrol drillsSquash video lessons for kids improving timing using a racquetballRelated posts:Squash tips and tricks to improve racquet handling using a racquetballKids Squash Lesson 1 for 7 year olds, Catching exercises with a racquetballKids Squash Training: Simple ballcontrol drillsSquash video lessons for kids improving timing using a racquetballtags: LessonsLeave a Reply Cancel replyYour email address will not be published. Required fields are marked *Name *Email *WebsiteCommentYou may use these HTML tags and attributes: <a href=\"\" title=\"\"> <abbr title=\"\"> <acronym title=\"\"> <b> <blockquote cite=\"\"> <cite> <code> <del datetime=\"\"> <em> <i> <q cite=\"\"> <strike> <strong>Other Rising Flow Resources Rising Flow MediaAcupressure HQAcupuncture CentralAerobics DailyAikido CentralAngels HQAromatherapy CentralAstrology HQAstronomy CentralAyurvedic HQBadminton HQBaking CentralBase Jumping HQBaseball HQBasketball ZoneBeekeeping HQBelly Dance HQBiking HQBilliards HQBirdwatching HQBowling CentralBoxing HQBudgeting HQCamping HQCapoeira HQCard Games DailyCats DailyChakra HQChess HQChiropractic HQCooking HQCrafts DailyCraniosacral Therapy HQCricket HQCrochet CentralCrystals CentralDIY HQDJ DailyDancing HQDarts HQDiving HQDogs CentralDrumming CentralEFT CentralFencing HQFishing HQFree Energy HQGardening HQGliding HQGolf HQGuitar HQGymnastics CentralHapkido HQHealth Tips HQHiking CentralHome Remedies HQHomeschooling HQHorses CentralHurling CentralHypnotherapy HQInspiration ZoneIridology CentralJiu Jitsu HQJogging HQJuicing CentralKapap HQKarate HQKayaking CentralKendo HQKickboxing HQKnitting CentralKrav Maga CentralMLD CentralMagic CentralManifestation HQMedical Marijuana HQMeditation HQModel Trains HQMotivation HQMuay Thai CentralNLP CentralNaturopathy HQNinjutsu HQNumerology HQOccupational Therapy HQOrigami HQPainting CentralParenting DailyParkour HQPermaculture HQPhotography HQPhysics DailyPhysiotherapy HQPickleball DailyPilates HQPoker CentralPottery ZonePsychic HQPublic Speaking ZoneQi Gong CentralRacquetball HQRaw Food DailyReflexology CentralReiki CentralRemote Control HQRock Climbing HQRolfing HQRoller Coaster HQRollerblading DailyRowing HQRugby CentralRunning HQSUP CentralSailing HQSavate CentralScuba Diving HQSculpture CentralSelf-Help DailySewing CentralShaolin HQShiatsu CentralSinging CentralSkateboarding HQSkiing CentralSkydiving HQSnowshoe CentralSpa DailySpelunking HQStorm Chasers HQSumo HQSuperfoods DailySurfing HQSwimming HQTable Tennis HQTae Kwon Do HQTai Chi HQTarot CentralTea CentralTrack and Field DailyTraveling CentralVegan ZoneVegetarian DailyVolleyball HQWakeboarding HQWater Sports HQWeightlifting DailyWhite Water HQWine CentralWing Chun CentralWorkout DailyYoga HQSearch for:Follow us for regular updatesTopicsSelect TopicDrills/Training (20)How to (23)Lessons (31)Racquetball (33)Racquetball News (38)Techniques (34)Related PostsSquash tips and tricks to improve racquet handling using a racquetballKids Squash Lesson 1 for 7 year olds, Catching exercises with a racquetballKids Squash Training: Simple ballcontrol drillsSquash video lessons for kids improving timing using a racquetballRecent PostsRecent CommentsMost CommentedMost ViewedTags80-year-old man aces in physical health and on the racquetball courtNew Winter Racquetball Shuttle at the Racquetball and Fitness ...IPRO Director's Message – January'15 | Racquetball Professional ...Tournament Results | NM RacquetballSexy Racquetball: Yesenia Bustillo - SPORT365Harbor Square Shootout | Washington Racquetball Association2013 MN State Racquetball Singles Final Jake Bredenbeck vs John ...The Racquetball Blog: Longoria & Vargas to meet in final of LPRT ...The Racquetball Blog: WRT 2015 San Diego Open - Round of 64 ...30th Gary Hendren Invitational for area high school racquetball ...37th Annual Lewis Drug Racquetball Pro/Am Returns to Sioux Falls ...Racquetball Rabbi Tackles Baltimore Ravens - Tablet MagazineDIY artificial insemination: How to get pregnant with a racquetball ...Beginner Racquetball Rules [Racquetball]Racquetball | CrushHow to Get Pregnant With a Racquetball - The New RepublicRacquetball | The PowerHow to Hit an Accurate Lob Serve | Racquetball Lessons BlogCold Springs 15-Year-Old Is World Champion At Racquetball ...Racquetball | The Shining StarDrills/TrainingHow toLessonsRacquetballRacquetball NewsTechniques©2015 Rising Flow Media | Terms and Conditions | Privacy Policy http://risingflowmedia.net/Go back to top ?FacebookTwitterGoogle+PinterestEmailLinkedInRedditTumblrWordPressStumbleUponGoogle GmailWhatsAppAIMAmazon Wish ListAOL MailApp.netBaiduBalatarinBibSonomyBitty BrowserBlinklistBlogger PostBlogMarksBookmarks.frBox.netBuddyMarksBufferCare2 NewsCiteULikeDeliciousDesign FloatDiary.RuDiasporaDiggdiHITTDiigoDZoneEvernoteFarkFlipboardFolkdFriendFeedGoogle BookmarksHacker NewsHatenaInstapaperJamespotKakaoKindle ItLineLiveJournalMail.RuMendeleyMeneameMixiMySpaceNetlogNetvouzNewsTrustNewsVineNUjijOdnoklassnikiOknotizieOutlook.comPinboardPlurkPocketPrintPrintFriendlyProtopage BookmarksPushaQzoneRediff MyPageRenrenSegnaloSina WeiboSiteJotSlashdotSpringpadStumpediaSvejoSymbaloo FeedsTuentiTwiddlaTypePad PostViadeoVKWaneloWebnewsWykopXINGYahoo BookmarksYahoo MailYahoo MessengerYoolinkYouMobYummlyAddToAnyFacebookTwitterGoogle+PinterestEmailLinkedInRedditTumblrGoogle GmailAOL MailOutlook.comYahoo MailAny emailEmail appMore…Skip to toolbar HomeLog inRegisterDirectory DashboardOriginal textContribute a better translation"
+        ],
+        "content_text_length": 7103,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "Racquet Handling Racquetball: Hand Eye Coordination Activities Fine Motor Skill Kids Tennis Training | Racquetball HQ",
+        "keywords": "lessons",
+        "content_encoding": "UTF-8",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 20 6c 61 6e 67 3d 22 65 6e 2d 55 53",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "racquetballhq.net",
+          "freevideos.racquetballhq.net",
+          "www.addtoany.com",
+          "www.facebook.com",
+          "www.twitter.com",
+          "rtf.risingflowmedia.net",
+          "risingflowmedia.net"
+        ],
+        "links_domains": [
+          "facebook.com",
+          "racquetballhq.net",
+          "twitter.com",
+          "risingflowmedia.net",
+          "addtoany.com"
+        ],
+        "links_public_suffixes": [
+          "com",
+          "net"
+        ],
+        "elements_used": [
+          "hr",
+          "body",
+          "link",
+          "img",
+          "div",
+          "noscript",
+          "br",
+          "meta",
+          "center",
+          "title",
+          "style",
+          "button",
+          "path",
+          "ol",
+          "head",
+          "h1",
+          "option",
+          "h3",
+          "h2",
+          "ul",
+          "svg",
+          "form",
+          "select",
+          "a",
+          "ins",
+          "abbr",
+          "label",
+          "code",
+          "script",
+          "i",
+          "li",
+          "input",
+          "iframe",
+          "strong",
+          "textarea",
+          "p",
+          "html",
+          "small",
+          "span"
+        ],
+        "content_type_tika": "text/html; charset=UTF-8",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=UTF-8; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_192": "i+7tkevw8/AFHu9sz4fCHFzw5JhDunFOxPQS7L",
+        "ssdeep_hash_bs_384": "P7tNnuubCHFzzFOxP9",
+        "ssdeep_hash_ngram_bs_192": "i+7tkevw8/AFHu9sz4fCHFzw5JhDunFOxPQS7L",
+        "ssdeep_hash_ngram_bs_384": "P7tNnuubCHFzzFOxP9",
+        "crawl_dates": [
+          "2015-02-20T16:59:27Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494673402694205400
+      },
+      {
+        "source_file_s": "1920.warc@97799",
+        "url": "http://deals.ebay.com/5001845200_Case_Logic_17_3__Laptop_and_Tablet_Case___Black_Non_Wheeled_Computer_Case_NEW?rmvSB=true",
+        "host": "deals.ebay.com",
+        "domain": "ebay.com",
+        "public_suffix": "com",
+        "content_type_served": "text/html;charset=UTF-8",
+        "server": [
+          "eBay Server"
+        ],
+        "content_length": 254305,
+        "id": "sha1:YQTPGV3OKFYAZGELFO2WQHYLHPKTB5G5/zo5HoYifsATdB70Pf57hrA==",
+        "hash": [
+          "sha1:YQTPGV3OKFYAZGELFO2WQHYLHPKTB5G5"
+        ],
+        "crawl_date": "2015-03-03T19:42:59Z",
+        "crawl_year": "2015",
+        "wayback_date": "20150303194259",
+        "content": [
+          "eBay Daily Deals: Best Deals of the Day - Plus Free Shipping!Skip to main contenteBay Shop by categoryEnter your search keywordAll CategoriesAll DealsAdvancedHi! Sign in or registerDaily DealsGift CardsSellHelp & ContactMy eBayExpand My eBay SummaryBids/OffersWatch listWish listAll listsPurchase historySellingMy CollectionsFollowed searchesMessagesNotificationDEALSFeatured dealsExpand Featured dealsThis Week's Best in TechCustomer FavoritesBest of Home and GardenUnder $5 DealsBullion DealsCell Phone DealsCameras Up to 60% offTablet DealsComputer DealsHome Electronics DealsTech dealsExpand Tech dealsTrending deals in TechiPads &TabletsCell PhonesLaptopsCameras & DSLRTV, Video & Home AudioHeadphonesCases & CoversGPS Vehicle TechMemory Drives & StorageFashion dealsExpand Fashion dealsTrending deals in FashionWatchesFine JewelryFashion JewelryEngagement & WeddingMen's Shoes & AccessoriesMen's ClothingWomen's ShoesWomen's HandbagsWomen's ClothingHome dealsExpand Home dealsTrending deals in HomeYard, Garden & OutdoorHome ImprovementToolsKitchen, Dining & BarBeddingFurnitureOutdoor SportsGolfHunting EquipmentOther dealsExpand Other dealsTrending in Other dealsCoinsGift CardsCollectiblesAutomotiveMusical InstrumentsTravelOffice FurniturePacking & ShippingBusiness & IndustrialSales & eventsExpand Sales & eventsBaume & Mericer WatchesMobile AccessoriesThese Deals Are Money25% Off All Snow GearUp to 65%Off Auto DealsUp to 50%Off Worx ToolsMen's Essentials EventGift CardsHome Improvement EventKitchen Electrics EventJUST FOR TODAYSamsung Galaxy Note 4 4G LTE GSM (Latest Model) Factory Unlocked 32GBSale Price$479.99List Price$899.99| 47% OFFVizio 42â€? E420i-B0 Smart LED TV 1080p 120HzSale Price$279.99List Price$449.99| 38% OFFAlmost goneFactory Unlocked Apple iPhone 5 32GB iOS S...Sale Price$219.99List Price$699.99| 69% OFFAlmost goneApple iPad Air 16GB Silver and Grey. Manuf...Sale Price$269.99List Price$629.99| 57% OFFGenuine Beats By Dr. Dre Studio Noise Canc...Sale Price$95.99List Price$199.99| 52% OFFSamsung Refurbished Gear Fit Fitness WatchSale Price$74.99List Price$149.99| 50% OFFAsus - 2-in-1 15.6\" Touch-Screen Laptop - ...Sale Price$529.99List Price$799.99| 34% OFFAsus 15.6\" Touch-Screen FHD IPS Core i7-45...Sale Price$579.00List Price$999.99| 42% OFFCanon EOS 6D Digital SLR Camera w/24-105mm...Sale Price$1,699.00List Price$2,499.00| 32% OFFSilverTowne Trademark Bald Eagle 1oz .999 ...Sale Price$184.95List Price$217.95| 15% OFFAlmost gonePAMP Suisse Fortuna 1 Troy Oz .9999 Fine G...Sale Price$1,269.95List Price$1,349.00| 6% OFFNikon D3200 Digital SLR Camera Black Kit w...Sale Price$329.00List Price$659.95| 50% OFFiHome iHM16 Portable Stereo Speaker System...Sale Price$7.99List Price$29.99| 73% OFFTRENDING DEALS See trending deals$25 eBay Gift Card for only $23 - Email Delivery - (8% OFF)Sale Price$23.00List Price$25.00| 8% OFFSee trending dealsSWAT BW8202 XM-L T6 3W CREE 120 Lumens LED FlashlightSale Price$11.99List Price$44.97| 73% OFFSee trending dealsApple MacBook Air 13.3\" Laptop - MD760LL/BSale Price$829.99List Price$1,199.00See trending dealsFor iPhone 6 / 6 Plus Hybrid Shockproof Rugged Rubber Mat...Sale Price$4.99List Price$29.99| 83% OFFSee trending dealsSamsung Alpha G850A. Galaxy Alpha. Factory Unlocked. All ...Sale Price$299.99List Price$699.99| 57% OFFSee trending dealsMotorola Universal Charger Power Pack 3000 for Apple iPho...Sale Price$14.99List Price$99.99| 85% OFFSee trending dealsSamsung Galaxy Note 3 32GB Factory UnlockedSale Price$294.95List Price$800.00| 63% OFFSee trending dealsApple iPad Air 1st Gen 16GB Space Gray or SilverSale Price$279.99List Price$499.99| 44% OFFSee trending deals925 Silver Ruby Red Swarovski Elements Heart Necklace, 18\"Sale Price$6.99List Price$75.00| 91% OFFSee trending dealsPREMIUM REAL TEMPER GLASS SCREEN PROTECTOR FOR APPLE IPHO...Sale Price$3.87List Price$19.99| 81% OFFSee trending dealsIRULU New Tablet PC Multi-Color 7\" Google Android 4.2 Dua...Sale Price$44.99List Price$149.99| 70% OFFSee trending deals3W E27 16 Color 80LM LED RGB Magic Light Bulb Lamp with W...Sale Price$5.19List Price$12.99| 60% OFFSee trending dealsFor iPhone 6 4.7\" Plus 5.5 Premium Ultra Thin Slim TPU Ge...Sale Price$3.95List Price$29.99| 87% OFFSee trending dealsSamsung i545 Galaxy S4 16GB \"Factory Unlocked\" 13MP Camer...Sale Price$197.95List Price$800.00| 75% OFFSee trending dealsHTC Desire 816 Android 4.4 4G LTE Smartphone for Virgin M...Sale Price$169.99List Price$299.99| 43% OFFSee trending dealsAmerican Buffalo 5oz .999 Fine Silver BarSale Price$102.00List Price$117.66| 13% OFFSee trending dealsOEM Authentic Samsung EO-HS3303WE Tangle free wired heads...Sale Price$4.89List Price$24.99| 80% OFFSee trending dealsWilsons Leather Mens Web Buster Wool-Blend HipsterSale Price$29.98List Price$600.00| 95% OFFSee trending dealsLenovo ThinkServer TS140 70A4 - Core i3 4330 3.5 GHz - 4 ...Sale Price$199.99List Price$449.00| 55% OFFSee trending dealsSandisk 8GB Class 4 Micro SD SDHC MicroSD MicroSDHC TF Fl...Sale Price$4.89List Price$29.99| 84% OFFSee trending dealsNew Fashion Lady Women Leather Clutch Wallet Long Card Ho...Sale Price$6.99List Price$24.99| 72% OFFSee trending deals7\" Google Android Tablet with WiFi TouchScreen Camera Net...Sale Price$47.95List Price$179.95| 73% OFFSee trending deals1500W Adjustable Electric Wall Mount Fireplace HeaterSale Price$79.99List Price$259.95| 69% OFFSee trending dealsApple iPhone 5c - 16GB (Unlocked) Smartphone - White Blue...Sale Price$199.88List Price$499.95| 60% OFFSee trending dealsMichael Kors Jet Set Multifunction Logo PVC ToteSale Price$169.99List Price$298.00| 43% OFFSee trending deals1.00ct TDW Diamond S Link Tennis BraceletSale Price$49.99List Price$350.00| 86% OFFSee trending dealsRoku 3 Digital HD Media Video Streamer w/ Headphones + Bo...Sale Price$81.95List Price$104.99| 22% OFFSee trending dealsiRobot Roomba 790 Vacuum Cleaning Robot for Pets & AllergiesSale Price$429.99List Price$699.99| 39% OFFSee trending dealsFor Apple iPhone 6 Plus /iPhone 6 Shockproof Impact Case ...Sale Price$8.59List Price$18.99| 55% OFFSee trending dealsApple iPhone 5C 16GB Factory UnlockedSale Price$214.95List Price$549.00| 61% OFFSee trending dealsThis Week's Best in TechApple iPhone 5C 16GB Factory UnlockedSale Price$214.95List Price$549.00| 61% OFFAlmost gone$25 eBay Gift Card for only $23 - Email De...Sale Price$23.00List Price$25.00| 8% OFFAlmost goneSamsung i545 Galaxy S4 16GB \"Factory Unloc...Sale Price$197.95List Price$800.00| 75% OFFAlmost goneSamsung Alpha G850A. Galaxy Alpha. Factory...Sale Price$299.99List Price$699.99| 57% OFFShow 75morein This Week's Best in TechCustomer FavoritesiRobot Braava 320 Floor Mopping RobotSale Price$119.99List Price$199.99| 40% OFFAlmost goneChevrolet Performance 10067353 GM Goodwren...Sale Price$1,344.99List Price$2,470.63| 46% OFFSamsung Galaxy S5 SM-G900V - 16GB (Verizon) Smartphone - ...Sale Price$309.88List Price$599.95| 48% OFFAlmost goneBaume and Mercier Capeland Chronograph Men...Sale Price$1,299.99List Price$4,350.00| 70% OFFShow 75morein Customer FavoritesBest of Home and GardenLarge Traditional 8x11 Oriental Area Rug Persian Style Ca...Sale Price$89.95List Price$419.95| 79% OFFAlmost goneHammock Hanging Chair Air Deluxe Sky Swing Outdoor Chair ...Sale Price$34.95List Price$84.99| 59% OFFAlmost goneiRobot Roomba 560 Automatic Vacuum Cleaner Robot Includes...Sale Price$239.95List Price$349.99| 31% OFF1.5HP IN GROUND Swimming POOL PUMP MOTOR w...Sale Price$132.99List Price$499.99| 73% OFFKeurig B130 Coffee and Espresso Maker - Co...Sale Price$69.99List Price$129.99| 46% OFFShow 69morein Best of Home and GardenUnder $5 Deals100% Genuine Original OEM 2nd Gen. Apple iPhone 4/4S Head...Sale Price$4.99List Price$19.99| 75% OFFAlmost gone6 ft New Griffin GC17062 Auxiliary Audio A...Sale Price$4.99List Price$12.99| 62% OFFAlmost gone3.5mm Earbud Earphone Headset For Mobile P...Sale Price$3.99List Price$19.99| 80% OFFAlmost goneSandisk 8GB Class 4 Micro SD SDHC MicroSD ...Sale Price$4.89List Price$29.99| 84% OFFShow 80morein Under $5 DealsBullion Deals2015 1 oz Silver American Eagle BU (Lot of...Sale Price$205.09List Price$219.00| 6% OFFValcambi Suisse 50 Gram Gold 99.99% Combi ...Sale Price$2,167.02List Price$2,292.68| 5% OFFAlmost goneRoyal Canadian Mint RCM 1 Troy Oz .9999 Gold BarSale Price$1,279.55List Price$1,369.00| 7% OFFLot of 5 - 2015 1 Troy Oz .999 Silver Amer...Sale Price$104.20List Price$121.67| 14% OFFAlmost goneShow 38morein Bullion DealsCell Phone DealsNokia Lumia 1520 - 16GB Quad Core (AT&T) Windows 8 Smartp...Sale Price$289.99List Price$699.99| 59% OFFAlmost goneApple iPhone 5c - 16GB (AT&T) Smartphone - Blue - Pink - ...Sale Price$188.88List Price$499.95| 62% OFFAlmost goneHTC Desire 816 Android 4.4 4G LTE Smartphone for Virgin M...Sale Price$169.99List Price$299.99| 43% OFFAlmost goneApple iPhone 5c GSM & CDMA Factory Unlocke...Sale Price$224.99List Price$399.99| 44% OFFFactory Unlocked Apple iPhone 5 32GB iOS S...Sale Price$244.99List Price$549.00| 55% OFFAlmost goneShow 74morein Cell Phone DealsCameras Up to 60% offCanon EOS 7D II Digital SLR Camera (MK 2 Mark II DSLR Bod...Sale Price$1,569.99List Price$6,849.99| 77% OFFAlmost goneNikon D3300 Digital SLR DSLR Camera + 3 Le...Sale Price$499.95List Price$1,099.95| 55% OFFAlmost goneCanon EOS 6D Digital SLR DSLR Camera Body ...Sale Price$1,309.99List Price$1,899.99| 31% OFFAlmost goneNikon D3300 Digital SLR Camera + 4 Lens Ki...Sale Price$599.95List Price$825.99| 27% OFFAlmost goneShow 75morein Cameras Up to 60% offTablet DealsiRulu Multi-Color 7\" 8GB Android 4.2 Table...Sale Price$49.08List Price$81.20| 40% OFFIRULU New Tablet PC Multi-Color 7\" Google ...Sale Price$44.99List Price$149.99| 70% OFFApple iPad 4 4th Gen Retina 32GB, Wi-Fi + 4G (AT&T) 9.7in...Sale Price$329.99List Price$629.00| 48% OFFSamsung Galaxy Tab 4 7.0 SM-T235 8GB WiFi ...Sale Price$230.99List Price$299.99| 23% OFFShow 80morein Tablet DealsComputer DealsApple MacBook Air Core i5 1.7GHz 4GB RAM 64GB SSD 11.6\" M...Sale Price$549.99List Price$999.00| 45% OFFApple MacBook Pro Core 2 Duo 2.4GHz 4GB 250GB 13\" MC374LL/ASale Price$569.99List Price$1,199.00| 52% OFFAlmost goneAsus X200MA-BCL0705Z 11.6\" Touchscreen Laptop Intel Celer...Sale Price$219.99List Price$299.99| 27% OFFNEW Toshiba Satellite C55-B5299 Intel Dual...Sale Price$274.99List Price$474.99| 42% OFFAlmost goneHP Envy 15-U011DX x360 Convertible 15.6\" i...Sale Price$619.99List Price$999.99| 38% OFFShow 58morein Computer DealsHome Electronics DealsSamsung S27D360H 27\" LED Monitor White w/ Blue ToC Finish...Sale Price$179.99List Price$399.99| 55% OFFAlmost goneVizio S3820w-C0 38â€? 2.0 Bluetooth Home The...Sale Price$79.99List Price$119.99| 33% OFFAlmost goneVIZIO S4251W-B4C 42\" 5.1 Home Theater Soun...Sale Price$209.99List Price$329.99| 36% OFFSamsung SE-208DB/TSBS 8X External Slim USB...Sale Price$24.99List Price$32.99| 24% OFFAlmost goneShow 69morein Home Electronics DealsFashion for AllMen's Vintage Canvas Leather Satchel Schoo...Sale Price$25.98List Price$69.99| 63% OFFAlmost goneWilsons Leather Mens Suede Hooded JacketSale Price$79.98List Price$600.00| 87% OFFAlmost goneChampion PowerTrain Men's Pullover HoodSale Price$17.49List Price$42.99| 59% OFFMossimo Supply Co. Men's V-Neck T-ShirtSale Price$6.99List Price$9.99| 30% OFFShow 80morein Fashion for AllFine Jewelry Deals1/2CT Diamond Ring Half Eternity 14K White Gold H-I/I1 (N...Sale Price$199.99List Price$650.00| 69% OFF1.10CT Cushion Halo Diamond Engagement Wedding Ring Set 1...Sale Price$699.99List Price$1,800.00| 61% OFF0.50 Carat White Sapphire Infinity Ring in Sterling SilverSale Price$17.99List Price$80.00| 78% OFFAlmost gone14K White Gold 1/5 Carat Round Diamond 4-P...Sale Price$49.99List Price$248.00| 80% OFFAlmost gone1/2cttw Natural Round Diamond Stud Earring...Sale Price$179.00List Price$895.00| 80% OFFShow 74morein Fine Jewelry DealsBest of MotorsEOBD OBD2 OBDII Car Scanner Diagnostic Live Data Code Rea...Sale Price$43.99List Price$79.99| 45% OFFAlmost gone240W 40\" LED Work Light Bar Flood Spot Com...Sale Price$101.99List Price$199.99| 49% OFFAlmost goneOptimaÂ® 8002-002 RedTopÂ® Starting AGM Batt...Sale Price$150.12List Price$209.99| 29% OFFAlmost goneFull HD 1080P G1W 2.7\" Car Dash DVR Camera...Sale Price$46.99List Price$56.99| 18% OFFAlmost goneShow 37morein Best of MotorsPicks in WatchesBaume and Mercier Capeland Alligator Leath...Sale Price$1,249.99List Price$4,350.00| 71% OFFBaume and Mercier Capeland Chronograph Men...Sale Price$1,099.99List Price$4,350.00| 75% OFFBaume and Mercier Stainless Steel Unisex WatchSale Price$499.99List Price$2,850.00| 82% OFFBulova Highbridge Women's Quartz Watch 96R000Sale Price$139.99List Price$575.00| 76% OFFAlmost goneShow 80morein Picks in WatchesFootwear for the FamilyMen's Slip on Dress Shoes Moc Toe Leather Lined Formal Sl...Sale Price$29.99List Price$87.50| 66% OFFFILA Men's Payroll Casual ShoesSale Price$29.99List Price$70.00| 57% OFFMens Wing Tip Ankle Boots Dress Shoes Derby Lace up Oxfor...Sale Price$34.99List Price$115.00| 70% OFFAlmost goneVision Street Wear Mens Suede Hi Retro Fas...Sale Price$29.99List Price$65.00| 54% OFFMens Wing Tip Dress Shoes Lace Up Oxfords ...Sale Price$29.99List Price$87.50| 66% OFFAlmost goneShow 80morein Footwear for the FamilyBest of Sporting GoodsBarnett 78220 Crossbow Ghost 410 Package CRT w/Scope, Arr...Sale Price$749.95List Price$1,199.00| 37% OFFAlmost goneFolding Bike 20\" Shimano 6 Speed Bike Fold...Sale Price$119.95List Price$249.95| 52% OFFNew 15FT Trampoline Combo Bounce Jump Safe...Sale Price$334.99List Price$699.99| 52% OFFTaylormade Golf Club SLDR S Driver - Choos...See price in cartList Price$199.99Show 75morein Best of Sporting GoodsToolsSnap-onÂ® Folding Knife Drop Point - 871007Sale Price$7.95List Price$17.80| 55% OFFAlmost goneWork Bench Tool Storage With Drawers and P...Sale Price$124.95List Price$199.99| 38% OFFGearXS New 7 LED Adjustable Head-Lamp with Pivoting Light...Sale Price$5.00List Price$15.00| 67% OFFPortable Top Chest Rolling Tool Storage Bo...Sale Price$179.99List Price$224.99| 20% OFFShow 64morein ToolsWhat you should know about eBay Daily Deals[ Expand for DetailsHide ]Every day we feature items from some of our trusted sellers who are offering deep discounts (usually between 20% and 90% off) and free shipping. The only catch is that we have limited quantities of these fixed-price items, and at these great prices, they won't last long. Once they're gone, they're gone.We update featured deals at least once a day starting at 8 a.m. Pacific Time. And when we sell out of items during the day, we replace them with brand new deals. On newer deals you'll see a message that says something like \"Added 2 hours ago\" to let you know it's a fresh offer. Check back often to make sure you don't miss out on the latest Daily Deals.Questions and AnswersQ.How is the discount on each Daily Deal item determined?A.The price that is stricken is the \"List Price\" for the item. The List price is the price (excluding shipping and handling fees) the seller of the item has provided at which the same item, or one that is nearly identical to it, is being offered for sale or has been offered for sale in the recent past. The price may be the seller's own price elsewhere or another seller's price. The \"% off\" simply signifies the calculated percentage difference between seller-provided List Price and the seller's price for the Daily Deal item. If you have any questions related to the pricing and/or discount offered in the Daily Deal, please contact the seller.Q.Is it really free shipping?A.Absolutely. All Daily Deals have free shipping, always. Cool, huh?Q.Does each Daily Deal last an entire day?A.Not always. When we sell out, the deal is over. If you see something you want, you'll want to grab it quickly. If you love it, chances are others will too, and we only have so many to go around. Also, eBay may for any reason, such as making room for another great deal, take down a deal before it sells out or before the end of the day.Q.How often are Daily Deals updated?A.We start fresh every morning with four new deals at 8 a.m. Pacific Time. As these items sell out, we replace them with new offers throughout the day, so it's always a good time to check out eBay Daily Deals.Q.How do I know if an item is selling out?A.All Daily Deals items are available for a limited time and in limited quantities. If you see something that catches your eye, pick it up before it sells out. We even have a small \"Almost gone!\" banner that lets you know when an item is almost sold out.Q.What is a \"done deal\"?A.If you see a deal marked \"done deal\", the item has already sold out. Check eBay Daily Deals often to make sure you get your item before it becomes a done deal.Q.Can I purchase multiple quantities of an eBay Deals listing?A. For each eBay Deals listing, a maximum number of units can be purchased. For example, if the maximum allowed is five, you canâ€™t purchase more than this amount. This includes registering new accounts or using other existing accounts to purchase more than the allowed limit. Violations will result in warnings, restrictions, and/or suspension.Please refer to our Site Interference Policy for more information.Additional site navigationCommunityAbout eBayAnnouncementsSecurity CenterResolution CenterSeller Information CenterPoliciesSite MapeBay official timePreview new featuresContact usTell us what you thinkeBay Money Back GuaranteeCopyright Â© 1995-2015 eBay Inc. All Rights Reserved. User Agreement, Privacy and Cookies."
+        ],
+        "content_text_length": 18542,
+        "content_type": [
+          "text/html"
+        ],
+        "title": "eBay Daily Deals: Best Deals of the Day - Plus Free Shipping!",
+        "keywords": "deal, deals",
+        "content_encoding": "ISO-8859-1",
+        "content_ffb": "3c21444f",
+        "content_first_bytes": "3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 3c 68 74 6d 6c 20 6c 61 6e 67 3d 22 65 6e 22 20 63",
+        "content_type_droid": "text/html; version=5",
+        "links_hosts": [
+          "announcements.ebay.com",
+          "www.ebay.com",
+          "qu.ebay.com",
+          "www.ebayinc.com",
+          "resolutioncenter.ebay.com",
+          "pages.ebay.com",
+          "deals.ebay.com",
+          "csr.ebay.com",
+          "reg.ebay.com",
+          "community.ebay.com",
+          "garden.ebay.com",
+          "mesgmy.ebay.com",
+          "ocsnext.ebay.com",
+          "signin.ebay.com",
+          "my.ebay.com",
+          "srx.main.ebayrtm.com",
+          "cart.payments.ebay.com",
+          "viv.ebay.com",
+          "ocs.ebay.com"
+        ],
+        "links_domains": [
+          "ebayinc.com",
+          "ebay.com",
+          "ebayrtm.com"
+        ],
+        "links_public_suffixes": [
+          "com"
+        ],
+        "elements_used": [
+          "body",
+          "optgroup",
+          "tr",
+          "link",
+          "div",
+          "img",
+          "td",
+          "br",
+          "meta",
+          "title",
+          "button",
+          "h1",
+          "head",
+          "h3",
+          "option",
+          "h2",
+          "ul",
+          "b",
+          "form",
+          "select",
+          "a",
+          "label",
+          "table",
+          "script",
+          "header",
+          "i",
+          "footer",
+          "li",
+          "input",
+          "tbody",
+          "p",
+          "html",
+          "span"
+        ],
+        "content_type_tika": "text/html; charset=ISO-8859-1",
+        "content_type_version": "5",
+        "content_type_full": "text/html; charset=ISO-8859-1; version=5",
+        "content_type_norm": "html",
+        "content_language": "en",
+        "ssdeep_hash_bs_384": "SQmbuOAbIomXSPe/W+mF9Qcb2aSdg18C8XU/of",
+        "ssdeep_hash_bs_768": "mbvoSSz+m3TbXqgedU/o",
+        "ssdeep_hash_ngram_bs_384": "SQmbuOAbIomXSPe/W+mF9Qcb2aSdg18C8XU/of",
+        "ssdeep_hash_ngram_bs_768": "mbvoSSz+m3TbXqgedU/o",
+        "crawl_dates": [
+          "2015-03-03T19:42:59Z"
+        ],
+        "crawl_years": [
+          "2015"
+        ],
+        "_version_": 1494671285972631600
+      }
+    ]
+  }
+}
