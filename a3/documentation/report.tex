@@ -8,9 +8,9 @@
 \usepackage{listings}
 \usepackage{indentfirst}
 \usepackage{float}
-\usepackage{url}
 \usepackage{longtable}
 \usepackage[margin=1in]{geometry}
+\usepackage[hyphens]{url}
 
 \bibliography{bib.bib}
 \setlength{\parskip}{\baselineskip}%
@@ -26,15 +26,18 @@
 \date{\today}
 
 \begin{document}
+\sloppy
 \maketitle
 
 \section{Q1}
 For this question we had to set up boilerpipe and run our 10,000 body files we downloaded from assignment 1 through it to remove all html templates.
 
-I used the boilerpipe application suggested in the Assignment 3 powerpoint by Christian Kohlschütter. \nocite{Kohlschütter:2011:boilerpipe}
-\subsection{Picking Files}
-I began by running through all the files I had downloaded. As a reminder from assignment 1, I only downloaded the final unique URIs after all redirects from the original 10000 unique URIs. This did not give me 10,000 final unique pages instead it was 7405 final unique pages. I also was unable to download 477 pages originally. In my testing I also learned that the boilerpipe method did not accept files that were .htm files so I threw those out.  I only ran the 6810 files that ended in .html boilerpipe.
+I used the boilerpipe application suggested in the Assignment 3 powerpoint by Christian Kohlschütter. \cite{Kohlschütter:2011:boilerpipe}
 
+\subsection{Picking Files}
+As a reminder from assignment 1, I only downloaded the final unique URIs after all redirects from the original 10000 unique twitter URIs. This did not give me 10,000 final unique pages. Instead, it was 7405 final unique pages. I also was unable to download 477 of those pages using wget for assignment 1. In my testing of boilerpipe I learned that the boilerpipe method did not accept files that were .htm files so I threw those out.  I only ran the 6810 files that ended in .html through boilerpipe.
+
+I used the below command to get the .html uris.\\
 \begin{lstlisting}[language=bash]
 for line in `ls -d */`; do 
     item=$(ls $line); 
@@ -48,7 +51,7 @@ done > files
 \end{lstlisting}
 
 \subsection{Running Files}
-I wrote a java file to perform my boilerpipe tasks called `A3.java'.  It takes all the file names in the `GoodFiles' and runs the file through boilerpipe ArtifactExtract.  I compiled and ran my java file with the following 2 commands:
+I wrote a java program to perform my boilerpipe tasks called `A3.java'.  It takes all the file names for the uris in the `GoodFiles' file and runs the downloaded html for the uri through boilerpipe using the ArtifactExtract function.  I compiled and ran my java file with the following 2 commands:
 
 \begin{lstlisting}[language=bash]
 javac -d . -cp .:./boilerpipe-1.2.0/boilerpipe-1.2.0.jar: - 
@@ -60,7 +63,7 @@ java -cp .:./boilerpipe-1.2.0/boilerpipe-1.2.0.jar: -
 -1.2.0/xerces-2.4.0.jar:./boilerpipe-1.2.0/* A3
 \end{lstlisting}
 
-I received exceptions on four files.  Three of the files had a non-english character in the name and the java application could not find it.  I am not sure why it could not find the fourth file though.  However, I also could not cat the file directly.  There must be something wrong with the file for the fourth exception received. The exceptions are below.
+I received exceptions on four files.  Three of the files had a non-english character in the name and the java application could not find it.  I was able to find the fourth file in the directory; however, I could not cat the file directly.  There must be something wrong with the file for the fourth exception received. The exceptions are below.
 
 \begin{lstlisting}[language=Java]
 Exception in thread "main" java.io.FileNotFoundException: -
@@ -112,16 +115,16 @@ cat: ../bodies/999/index.html?utm_source=twitterfeed: -
 \end{lstlisting}
 
 \subsection{Unsuccessful Documents After Boilerpipe}
-After running boilerpipe, I had 329 files that returned with no size. Doing a random sampling of the empty files they appear to consist of blogs that only contain photos, iTunes pages, only pictures and sites that used a smaller URI that translated to a longer URI. For example \url{smarturl.it} links.
+After running boilerpipe, I had 329 files that returned with no size. Doing a random sampling of the empty files they appear to consist of blogs that only contain photos, iTunes pages, enlarged pictures and sites that used a smaller URI that translated to a longer URI. For example \url{smarturl.it} links.
 
 A few of the links it was unsuccessful for:\\
 Pictures only:\\
-\url{http://rcobanus.dailyfunnypics.me/young-boy-returns-home-with-a-new-porsche-this-is-priceless}
-\url{http://newzcard.com/card/mBN5VP/singers-usher-l-and-rihanna-arrive-at-the-2010-american-music-awards-held-at-nokia-theatre-l-a-live(mBN5VP)?r=UsherPics}
+\url{http://rcobanus.dailyfunnypics.me/young-boy-returns-home-with-a-new-porsche-this\-is-priceless}\\
+\url{http://newzcard.com/card/mBN5VP/singers-usher-l-and-rihanna-arrive-at-the-2010\-american-music-awards-held-at-nokia-theatre-l-a-live(mBN5VP)?r=UsherPics}
 
 Shortened URLs:\\
-\url{http://smarturl.it/FourFiveSeconds}
-\url{http://smarturl.it/NBBiTunesDLX}
+\url{http://smarturl.it/FourFiveSeconds}\\
+\url{http://smarturl.it/NBBiTunesDLX}\\
 \url{http://nblo.gs/133ljo}
 
 For my sampling of unsuccessful pages, the original sizes for the html download varied between 2000 and 6000 bytes. The HTML web pages also varied from 50 unique words to approximately 250 unique words.
@@ -130,16 +133,16 @@ For my sampling of unsuccessful pages, the original sizes for the html download 
 For my sampling of successful web pages they included:\\
 1. a login page for the New York Times \url{https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwell.blogs.nytimes.com%2F2015%2F01%2F06%2Fjunk-food-in-the-new-year%2F%3Fpartner%3Drss%26emc%3Drss%26utm_content%3Dbuffera524f%26utm_medium%3Dsocial%26utm_source%3Dtwitter.com%26utm_campaign%3Dbuffer%26_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR}\\
 2. a Twitter post \url{https://twitter.com/BernieceBryon/status/561189374608420864}\\
-3. a website about a festival that uses a very common page layout \url{http://www.usafestival.net/?page=details&id=7117}\\
+3. a website with a very common page layout \url{http://www.usafestival.net/?page=details&id=7117}\\
 4. an article from the huffingtonpost \url{http://www.huffingtonpost.com/2015/01/30/super-bowl-trivia_n_6543044.html?utm_hp_ref=religion&ir=Religion&utm_medium=twitter&utm_source=twitterfeed}
 
-The sizes of the web pages that were successful was much larger than the unsuccessful pages with a range from 30,000 bytes to 330,000 bytes.  The unique words before boiler pipe was applied ranged from 600 to just over 9000 words. After boiler pipe was applied the unique words ranged from 20 to 8000 words. This change is indicative of websites that use common html website layouts that the boilerpipe tool can easily identify. The is easily expected just by looking at the random sample of URIs I used for my successful documents. Three out of the four documents originated from very popular websites with a defined layout that includes changing content and not just pictures.
+The sizes of the web pages that were successful was much larger than the unsuccessful pages with a range from 30,000 bytes to 330,000 bytes.  The unique words before boiler pipe was applied ranged from 600 to just over 9000 words. After boiler pipe was applied the unique words ranged from 20 to 8000 words. This change is indicative of websites that use common html website layouts that the boilerpipe tool can easily identify. That is easily expected just by looking at the random sample of URIs I used for my successful documents. Three out of the four documents originated from very popular websites with a defined layout that includes changing content and not just pictures.
 
 \section{Q2}
 For this question we were to get all unique words from the files before and after boilerpipe was applied. We had to graph the word rank vs word frequency and compare it to a Zipf distribution. We also had to apply a stop word list to the most common words.
 
 \subsection{Getting the Unique Words}
-I wrote two python scripts to get the unique words and count for me.  They are called `textStats.py' and `bodyStats.py'.  They essentially performed the same actions with some brief differences in how the files were found and some of the exceptions.  To try to get the most accurate unique word assessment I removed all colons, question marks, exclamation points, commas and periods from the ends of words.  I also took out all new lines and tabs.  Specifically for the html documents I also removed curly brackets, single character words that were not letters, slashes and arrows.  I used the python Counter function to get my word rank.
+I wrote two python scripts to get the unique words and count for me.  They are called `textStats.py' and `bodyStats.py'.  They essentially performed the same actions with some brief differences in how the files were found and character exceptions.  To try to get the most accurate unique word assessment I removed all colons, question marks, exclamation points, commas and periods from the ends of words.  I also took out all new lines and tabs.  Specifically for the html documents I also removed curly brackets, single character words that were not letters, slashes and angle brackets.  I used the python Counter function to get my word rank.
 
 TEXT COMMAND:\\
 \begin{lstlisting}[language=bash]
@@ -270,7 +273,7 @@ HTML COMMAND:\\
 
 \subsection{Stop Words}
 
-I chose to use the stopwords list that is a Default English stopwords list. I found the list at Ranks NL \nocite{Doyle:ranksNL}.  Below are the words in the list.
+I chose to use the stopwords list that is a Default English stopwords list. I found the list at Ranks NL \cite{Doyle:ranksNL}.  Below are the words in the list.
 
 \begin{longtable}{|c|c|c|c|c|}
     \hline
@@ -444,7 +447,7 @@ From the Text list there were 43 words in the stop list.  In the HTML list there
 \end{longtable}
 
 \subsection{Graphs}
-Both graphs follow a zipf distribution.  A zipf distribution has some very popular items followed by a much larger popularion of less popular items.  The graph looks similar to a reverse log graph.
+Both graphs follow a zipf distribution.  A zipf distribution has a small population of very popular items followed by a much larger population of less popular items.  The graph looks similar to a reverse log graph.
 
 \begin{figure}[H]
     \centering

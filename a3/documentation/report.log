@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2014.8.20)  1 APR 2015 11:19
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2014.8.20)  3 APR 2015 08:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -303,9 +303,18 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layoutvoffset=\dimen117
 \Gm@dimlist=\toks20
 )
+
+! LaTeX Error: Option clash for package url.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 
+     
+? 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-
 (/usr/local/texlive/2010/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2010/03/19 v0.9a biblatex localization
 )
@@ -430,9 +439,9 @@ Package biblatex Info: Reference segment=0 on input line 28.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 29.
+(Font)              <14.4> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 29.
+(Font)              <7> on input line 30.
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¼ in font cmr12!
 (/usr/local/texlive/2010/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -441,9 +450,13 @@ File: lstlang1.sty 2004/09/05 1.3 listings language file
 (/usr/local/texlive/2010/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 39.
- [1
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 42.
+[1
 
 {/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/usr/local/texlive/2010/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -462,30 +475,17 @@ Missing character: There is no ï in font cmtt12!
 Missing character: There is no ¿ in font cmtt12!
 Missing character: There is no ½ in font cmtt12!
 
-Overfull \hbox (34.12938pt too wide) in paragraph at lines 68--69
+Overfull \hbox (34.12938pt too wide) in paragraph at lines 71--72
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.71931pt too wide) in paragraph at lines 71--72
+Overfull \hbox (26.71931pt too wide) in paragraph at lines 74--75
 [][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.71931pt too wide) in paragraph at lines 72--73
-[][][][][][][][][][][][][][][][][] 
- []
-
-Missing character: There is no ï in font cmtt12!
-Missing character: There is no ¿ in font cmtt12!
-Missing character: There is no ½ in font cmtt12!
-
-Overfull \hbox (26.71931pt too wide) in paragraph at lines 81--82
-[][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (26.71931pt too wide) in paragraph at lines 82--83
+Overfull \hbox (26.71931pt too wide) in paragraph at lines 75--76
 [][][][][][][][][][][][][][][][][] 
  []
 
@@ -493,104 +493,109 @@ Missing character: There is no ï in font cmtt12!
 Missing character: There is no ¿ in font cmtt12!
 Missing character: There is no ½ in font cmtt12!
 
-Overfull \hbox (26.71931pt too wide) in paragraph at lines 90--91
+Overfull \hbox (26.71931pt too wide) in paragraph at lines 84--85
 [][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.71931pt too wide) in paragraph at lines 91--92
+Overfull \hbox (26.71931pt too wide) in paragraph at lines 85--86
+[][][][][][][][][][][][][][][][][] 
+ []
+
+Missing character: There is no ï in font cmtt12!
+Missing character: There is no ¿ in font cmtt12!
+Missing character: There is no ½ in font cmtt12!
+
+Overfull \hbox (26.71931pt too wide) in paragraph at lines 93--94
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (26.71931pt too wide) in paragraph at lines 94--95
 [][][][][][][][][][][][][][][][][] 
  []
 
 [2]
-Overfull \hbox (26.71931pt too wide) in paragraph at lines 99--100
+Overfull \hbox (26.71931pt too wide) in paragraph at lines 102--103
 [][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (26.71931pt too wide) in paragraph at lines 100--101
+Overfull \hbox (26.71931pt too wide) in paragraph at lines 103--104
 [][][][][][][][][][][][][][][][][] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 115.
+(Font)              <12> on input line 118.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 115.
+(Font)              <8> on input line 118.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 115.
+(Font)              <6> on input line 118.
 
-Overfull \hbox (109.52026pt too wide) in paragraph at lines 117--121
+Overfull \hbox (34.42023pt too wide) in paragraph at lines 120--124
 \OT1/cmtt/m/n/12 http : / / rcobanus . dailyfunnypics . me / young-[]boy-[]retu
-rns-[]home-[]with-[]a-[]new-[]porsche-[]this-[]is-[]priceless$
+rns-[]home-[]with-[]a-[]new-[]porsche-[]this \
  []
 
 
-Overfull \hbox (397.5704pt too wide) in paragraph at lines 117--121
+Overfull \hbox (22.07022pt too wide) in paragraph at lines 120--124
 \OT1/cmtt/m/n/12 http : / / newzcard . com / card / mBN5VP / singers-[]usher-[]
-l-[]and-[]rihanna-[]arrive-[]at-[]the-[]2010-[]american-[]music-[]awards-[]held
--[]at-[]nokia-[]theatre-[]l-[]a-[]live(mBN5VP )
+l-[]and-[]rihanna-[]arrive-[]at-[]the-[]2010 \
  []
 
 
-Overfull \hbox (10.94238pt too wide) in paragraph at lines 122--126
-\OT1/cmtt/m/n/12 http : / / smarturl . it / FourFiveSeconds$ $http : / / smartu
-rl . it / NBBiTunesDLX$ $http : / / nblo .
+Underfull \hbox (badness 4366) in paragraph at lines 133--138
+\OT1/cmr/m/n/12 1. a lo-gin page for the New York Times $\OT1/cmtt/m/n/12 https
+ : / / myaccount . nytimes . com /
  []
 
 
-Overfull \hbox (57.62024pt too wide) in paragraph at lines 130--135
-\OT1/cmtt/m/n/12 URI = http % 3A % 2F % 2Fwell . blogs . nytimes . com % 2F2015
- % 2F01 % 2F06 % 2Fjunk-[]food-[]in-[]the-[]new-[]year %
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
+\OT1/cmtt/m/n/12 auth / login ? URI = http % 3A % 2F % 2Fwell . blogs . nytimes
+ . com % 2F2015 % 2F01 % 2F06 %
  []
 
 
-Overfull \hbox (30.42023pt too wide) in paragraph at lines 130--135
-\OT1/cmtt/m/n/12 2F % 3Fpartner % 3Drss % 26emc % 3Drss % 26utm _ content % 3Db
-uffera524f % 26utm _ medium % 3Dsocial %
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
+\OT1/cmtt/m/n/12 2Fjunk-[]food-[]in-[]the-[]new-[]year % 2F % 3Fpartner % 3Drss
+ % 26emc % 3Drss % 26utm _ content %
  []
 
 
-Overfull \hbox (24.24522pt too wide) in paragraph at lines 130--135
-\OT1/cmtt/m/n/12 26utm _ source % 3Dtwitter . com % 26utm _ campaign % 3Dbuffer
- % 26 _ r % 3D5&REFUSE _ COOKIE _ ERROR =
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
+\OT1/cmtt/m/n/12 3Dbuffera524f % 26utm _ medium % 3Dsocial % 26utm _ source % 3
+Dtwitter . com % 26utm _
  []
 
 
-Overfull \hbox (1.09256pt too wide) in paragraph at lines 130--135
-\OT1/cmr/m/n/12 3. a web-site about a fes-ti-val that uses a very com-mon page 
-lay-out $\OT1/cmtt/m/n/12 http : / / www . usafestival .
- []
-
-
-Overfull \hbox (80.9136pt too wide) in paragraph at lines 130--135
+Underfull \hbox (badness 2035) in paragraph at lines 133--138
 \OT1/cmr/m/n/12 4. an ar-ti-cle from the huff-in-g-ton-post $\OT1/cmtt/m/n/12 h
-ttp : / / www . huffingtonpost . com / 2015 / 01 / 30 / super-[]bowl-[]trivia _
-
+ttp : / / www . huffingtonpost . com / 2015 / 01 /
  []
 
 
-Overfull \hbox (5.72021pt too wide) in paragraph at lines 130--135
-\OT1/cmtt/m/n/12 n _ 6543044 . html ? utm _ hp _ ref = religion&ir = Religion&u
-tm _ medium = twitter&utm _ source =
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
+\OT1/cmtt/m/n/12 30 / super-[]bowl-[]trivia _ n _ 6543044 . html ? utm _ hp _ r
+ef = religion&ir = Religion&utm _
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
 [5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
 
  []
 
@@ -622,13 +627,13 @@ Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¼ in font cmr12!
  [10 <./html.pdf>] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 7552 strings out of 493747
- 114167 string characters out of 3143546
- 283914 words of memory out of 3000000
- 10754 multiletter control sequences out of 15000+200000
+ 7651 strings out of 493747
+ 115962 string characters out of 3143546
+ 283933 words of memory out of 3000000
+ 10853 multiletter control sequences out of 15000+200000
  9318 words of font info for 33 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 38i,7n,51p,812b,1509s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,7n,51p,812b,1503s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2010/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2010/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2010/texmf-dist/fonts/typ
@@ -636,7 +641,7 @@ e1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb>
-Output written on report.pdf (10 pages, 106878 bytes).
+Output written on report.pdf (10 pages, 107181 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
