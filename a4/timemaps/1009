@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ibtimes.co.uk/siberian-brain-surgery-techniques-2300-years-ago-performed-by-scientists-1485885>;rel="original"
+,<http://web.archive.org/web/20150401145848/http://www.ibtimes.co.uk/siberian-brain-surgery-techniques-2300-years-ago-performed-by-scientists-1485885>;rel="memento first"; datetime="Wed, 01 Apr 2015 14:58:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ibtimes.co.uk/siberian-brain-surgery-techniques-2300-years-ago-performed-by-scientists-1485885>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ibtimes.co.uk/siberian-brain-surgery-techniques-2300-years-ago-performed-by-scientists-1485885>;rel="self"; type="application/link-format"; from ="Wed, 01 Apr 2015 14:58:48 GMT";until="Wed, 01 Apr 2015 14:58:48 GMT"

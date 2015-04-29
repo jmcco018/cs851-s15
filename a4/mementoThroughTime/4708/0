@@ -1,0 +1,1207 @@
+
+
+
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app12.us.archive.org";archive_analytics.values.server_ms=365;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+    <title>Project Bags and Knitting Needle Organizers etc by zigzagstitches</title>
+    <meta name="keywords" content="boxy bag pouches, boxy bag sets, sock and go mini cases, knitting needle cases, drawstring bags, spindle bags, knitting, holiday coasters, miscellaneous cases" >
+    <meta name="description" content="I ship from Canada. The recommended shipping dates for guaranteed Christmas delivery have now passed. " >
+    <link rel="canonical" href="http://www.etsy.com/shop/zigzagstitches" />
+
+    <!-- provide a check for js support in CSS -->
+    <script type="text/javascript" charset="utf-8">document.getElementsByTagName("html")[0].className = "js";</script>
+    <link rel="stylesheet" href="/web/20091214092058cs_/http://www.etsy.com/assets/css/base.css?v=1260476669" type="text/css" media="screen">
+
+       <!--[if IE ]><link rel="stylesheet" href="/assets/css/base_IE.css?v=1260476669" type="text/css" media="screen"><![endif]-->
+
+       <script language='javascript' src="/web/20091214092058js_/http://www.etsy.com/assets/1260476669/js/jquery-1.3.2.min.js"></script>
+            
+    <meta name="author"    content="zigzagstitches"> 
+    <meta name="copyright" content="Copyright 2009, zigzagstitches. All rights reserved.">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.etsy.com/rss_shop.php?user_id=5232534">
+    
+    <!-- Css -->
+    <link rel="stylesheet" href="/web/20091214092058cs_/http://www.etsy.com/assets/css/shop.css?v=1260476669" type="text/css" media="screen">
+<!--[if IE ]><link rel="stylesheet" href="/assets/css/shop_IE.css?v=1260476669" type="text/css" media="screen"><![endif]-->
+<link rel="stylesheet" href="/web/20091214092058cs_/http://www.etsy.com/assets/css/toolbox.css?v=1260476669" type="text/css" media="screen">
+
+   
+    <!-- JS -->
+    <script src="/web/20091214092058js_/http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js" type="text/javascript" charset="utf-8"></script>
+    <script language='javascript' src="/web/20091214092058js_/http://www.etsy.com/assets/1260476669/js/etsy.orderator.jquery.util.js"></script>
+    
+        <link rel="shortcut icon" href="/web/20091214092058im_/http://www.etsy.com/images/favicon.ico">
+</head>
+<body >
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.etsy.com/shop/zigzagstitches";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "14";
+var displayMonth = "Dec";
+var displayYear = "2009";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.etsy.com/shop/zigzagstitches" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20091214092058" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    Nov
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 9:20:58 Dec 14, 2009">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20100227202231/http://www.etsy.com/shop/zigzagstitches" title="27 Feb 2010"><strong>FEB</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20091213165410/http://www.etsy.com/shop/zigzagstitches?" title="16:54:10 Dec 13, 2009"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 9:20:58 Dec 14, 2009">14</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20100227202231/http://www.etsy.com/shop/zigzagstitches" title="20:22:31 Feb 27, 2010"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2008
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 9:20:58 Dec 14, 2009">2009</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20110909031625/http://www.etsy.com/shop/zigzagstitches" title="9 Sep 2011"><strong>2011</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20091214092058*/http://www.etsy.com/shop/zigzagstitches" title="See a list of every capture for this URL">25 captures</a>
+           <div class="r" title="Timespan for captures of this URL">13 Dec 09 - 29 Aug 14</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:11:000000000002_2010:-1:011100000000_2011:-1:000000001021_2012:-1:000400000000_2013:-1:000010000203_2014:-1:000003030000_2015:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+    <!-- Calls the Header and assigns the proper values -->
+<!-- Header -->
+<!-- Adding js and hidden divs needed for the facebook nav -->
+    
+<!-- /facebook init -->
+<div id="header">
+	<!-- Logo -->
+            <p id="etsy"><a href="/web/20091214092058/http://www.etsy.com/">Etsy</a></p>
+        <!-- <p id="tagline">Your place to buy and sell all things handmade</p> -->
+	<div id="meta-group">
+		<!-- Cart -->
+		<ul id="cart-nav">
+			<li><a href="/web/20091214092058/http://www.etsy.com/cartcheckout.php" title="Your shopping cart">Cart <em>0 items  </em></a></li>
+				</ul>
+		<!-- User Navigation -->
+		<ul id="user-nav">
+		    			<li><a href="/web/20091214092058/http://help.etsy.com/app/home" title="Help">Help</a></li>
+			<li><a href="/web/20091214092058/http://www.etsy.com/register.php" title="Register">Register</a></li>
+			<li class="last"><a href="/web/20091214092058/http://www.etsy.com/login.php?from_page=http%3A%2F%2Fwww.etsy.com%2Fshop%2Fzigzagstitches" title="Sign in to your Etsy account">Sign In</a></li>
+					</ul>
+	</div>
+	
+	<div id="navigation-group">
+		<!-- Main Navigation -->
+		<ul id="main-nav">
+			<li><a href="/web/20091214092058/http://www.etsy.com/buy.php" title="Buy handmade">Buy</a></li>
+            			<li><a href="/web/20091214092058/http://www.etsy.com/how_selling_works.php" title="Sell handmade">Sell</a></li>
+            			<li><a href="/web/20091214092058/http://www.etsy.com/alchemy/" title="Custom">Custom</a></li>
+			<li><a href="/web/20091214092058/http://www.etsy.com/community.php" title="Participate in our community">Community</a></li>
+			<li><a href="/web/20091214092058/http://www.etsy.com/storque/" title="Check out the latest Etsy news at the Storque">Blog</a></li>
+            <li class="last"><a href="/web/20091214092058/http://www.etsy.com/your_etsy.php" title="Your Etsy">Your Etsy</a></li>
+		</ul>
+	</div>
+	
+	<!-- Search -->
+	<form action="/web/20091214092058/http://www.etsy.com/search.php" id="search-bar">
+		<div class="input-group">
+			<select name="search_type" id="search_select" class="select">
+		                    <option value="user_shop_ttt_id_5232534" >zigzagstitches's shop</option>
+		                    <option value="handmade" >Handmade</option>
+		                    <option value="vintage" >Vintage</option>
+		                    <option value="supplies" >Supplies</option>
+		                    <option value="all" >All Items</option>
+		                    <option value="seller_usernames" >Sellers</option>
+		    			</select>
+			<input type="text" value="" name="search_query" id="search-query" class="text">
+			<input type="image" id="search_submit" alt="Search" src="/web/20091214092058im_/http://www.etsy.com/images/button_search.gif" value="Search" class="submit" >
+		</div>
+		<p class="advanced-search"><a href="/web/20091214092058/http://www.etsy.com/search_advanced.php" title="Advanced Search">Advanced Search</a></p>
+		
+	</form>
+    </div>
+
+	<!-- Content -->
+	<div id="content" class="clear">
+	    	        <ul id="breadcrumbs" class="clear">
+                                    <li>
+                                                    <a href="/web/20091214092058/http://www.etsy.com/">Home</a> &gt;
+                                            </li>
+                                    <li>
+                                                    zigzagstitches.etsy.com
+                                            </li>
+                	        </ul>
+	                        
+        
+    <div id="shop_banner">
+        <img src="/web/20091214092058im_/http://ny-image1.etsy.com//iusb_760x100.6789121.jpg" alt="" width="760" height="100" />
+    </div>
+    
+        
+    <div class="primary">
+        <h1 class="title">Project Bags and Knitting Needle Organizers etc.</h1>
+                <div id="shop-announcement">
+            <h2>zigzagstitches&#x27;s Shop Announcement</h2>
+                            <p>I ship from Canada. The recommended shipping dates for guaranteed Christmas delivery have now passed.<br />
+*************************************************************************************************<br />
+FREE SHIPPING for all Holiday/Christmas/Winter Bags and Coasters, also Knitwear. <br />
+Type EtsyFreeShipping into my shop&#39;s search bar to see all the eligible items.<br />
+*************************************************************************************************<br />
+* Boxy Bags are the perfect size for a small knitting or crochet project. <br />
+* My Drawstring Bags have a padded lining to prevent knitting needles from poking through. <br />
+* The Spindle bags are padded to protect your precious drop spindle. <br />
+* Matching needle cases can be made for most items.</p>
+                    </div>
+                
+                
+                            <!-- listing header -->
+        <div id="listing-header" class="clear">
+            <p class="total">55 items </p>
+            <!-- pager -->
+            <div class="pager-header">
+    
+    <ul class="pages">
+                                    <li class="page-1 active">
+                    <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?page=1">1</a>
+                </li>
+                                                <li class="page-2 ">
+                    <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?page=2">2</a>
+                </li>
+                                                <li class="page-3 ">
+                    <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?page=3">3</a>
+                </li>
+                        </ul>
+        <p class="controls">
+                    <a class="previous-disabled">Previous Page</a>
+                            <a class="next" href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?page=2">Next Page</a>
+            </p>
+</div>
+                        <p class="view-type">view:                 
+                                    <span>gallery</span> / 
+                    <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?view_type=list">list</a>
+                            </p>        
+                    </div>
+        
+                    <div id="featured-listings-header">
+             Featured items from zigzagstitches
+            </div>
+            <ul id="featured-listings" class="listings clear">
+                                                                            
+
+        <li id="lid33550113" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=33550113" title="Boxy Bag Zippered Pouch - Penguins on pink">
+            
+                    <img src="/web/20091214092058im_/http://ny-image2.etsy.com//il_155x125.99271618.jpg" alt="Boxy Bag Zippered Pouch - Penguins on pink" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=33550113" title="Boxy Bag Zippered Pouch - Penguins on pink">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$21.00 USD</p>
+    </li>                                                                            
+
+        <li id="lid33854723" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=33854723" title="Padded Drawstring Bag - Snowman sport">
+            
+                    <img src="/web/20091214092058im_/http://ny-image2.etsy.com//il_155x125.100377322.jpg" alt="Padded Drawstring Bag - Snowman sport" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=33854723" title="Padded Drawstring Bag - Snowman sport">
+                                        	        Padded Drawstring ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$18.50 USD</p>
+    </li>                                                                            
+
+        <li id="lid33851416" 
+        class="listing-card third">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=33851416" title="Boxy Bag Zippered Pouch - Penguins on green">
+            
+                    <img src="/web/20091214092058im_/http://ny-image3.etsy.com//il_155x125.100269887.jpg" alt="Boxy Bag Zippered Pouch - Penguins on green" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=33851416" title="Boxy Bag Zippered Pouch - Penguins on green">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$21.00 USD</p>
+    </li>                            </ul>
+                
+                
+                    
+        <div id="sorting" class="gallery has-featured clear">
+            
+                        
+            <form action="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches" method="get" accept-charset="utf-8" id="ordering">
+                <label for="order">Sort by:</label>
+                <select name="order" id="order">
+                                        <option value="custom" >Custom</option>
+                                        <option value="date_desc"  >Most Recently Listed</option>
+    				<option value="date_asc"  >Least Recently Listed</option>
+    				<option value="price_desc"  >Price: High to Low</option>
+    				<option value="price_asc"   >Price: Low to High</option>
+                </select>
+                <button type="submit">go</button>
+            </form>
+        </div>
+                
+                <div id="listing-wrapper" class="clear">
+            <ul class="clear listings">
+                                                                                                
+
+        <li id="lid27794981" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=27794981" title="Boxy Bag Zippered Pouch - orange and pink leaves">
+            
+                    <img src="/web/20091214092058im_/http://ny-image3.etsy.com//il_155x125.94179775.jpg" alt="Boxy Bag Zippered Pouch - orange and pink leaves" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=27794981" title="Boxy Bag Zippered Pouch - orange and pink leaves">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$21.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid26756794" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=26756794" title="Crafty Girl padded drawstring bag">
+            
+                    <img src="/web/20091214092058im_/http://ny-image3.etsy.com//il_155x125.76559247.jpg" alt="Crafty Girl padded drawstring bag" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=26756794" title="Crafty Girl padded drawstring bag">
+                                        	        Crafty Girl padded...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$22.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid22875373" 
+        class="listing-card third">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=22875373" title="Boxy Bag Zippered Pouch - Peonies and fruit">
+            
+                    <img src="/web/20091214092058im_/http://ny-image2.etsy.com//il_155x125.63447390.jpg" alt="Boxy Bag Zippered Pouch - Peonies and fruit" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=22875373" title="Boxy Bag Zippered Pouch - Peonies and fruit">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$21.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid18087248" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=18087248" title="Circular knitting needle case - black with pansies, fabric designed by Kaffe Fassett">
+            
+                    <img src="/web/20091214092058im_/http://ny-image1.etsy.com//il_155x125.47540761.jpg" alt="Circular knitting needle case - black with pansies, fabric designed by Kaffe Fassett" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=18087248" title="Circular knitting needle case - black with pansies, fabric designed by Kaffe Fassett">
+                                        	        Circular knitting ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$32.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid33943122" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=33943122" title="Cotton Coasters - 4 Batik Holly Leaves">
+            
+                    <img src="/web/20091214092058im_/http://ny-image0.etsy.com//il_155x125.100577592.jpg" alt="Cotton Coasters - 4 Batik Holly Leaves" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=33943122" title="Cotton Coasters - 4 Batik Holly Leaves">
+                                        	        Cotton Coasters - ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$10.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid31823759" 
+        class="listing-card third">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31823759" title="Boxy Bag Zippered Pouch - Imported Japanese fabric">
+            
+                    <img src="/web/20091214092058im_/http://ny-image3.etsy.com//il_155x125.93449239.jpg" alt="Boxy Bag Zippered Pouch - Imported Japanese fabric" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31823759" title="Boxy Bag Zippered Pouch - Imported Japanese fabric">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$24.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid31854342" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31854342" title="Boxy Bag Zippered Pouch - Imported Japanese fabric">
+            
+                    <img src="/web/20091214092058im_/http://ny-image3.etsy.com//il_155x125.93553299.jpg" alt="Boxy Bag Zippered Pouch - Imported Japanese fabric" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31854342" title="Boxy Bag Zippered Pouch - Imported Japanese fabric">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$24.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid32552890" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=32552890" title="Sock and Roll case for double pointed knitting needles or crochet hooks">
+            
+                    <img src="/web/20091214092058im_/http://ny-image3.etsy.com//il_155x125.95896939.jpg" alt="Sock and Roll case for double pointed knitting needles or crochet hooks" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=32552890" title="Sock and Roll case for double pointed knitting needles or crochet hooks">
+                                        	        Sock and Roll case...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$26.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid31823454" 
+        class="listing-card third">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31823454" title="Boxy Bag Zippered Pouch - Imported Japanese fabric">
+            
+                    <img src="/web/20091214092058im_/http://ny-image2.etsy.com//il_155x125.93448330.jpg" alt="Boxy Bag Zippered Pouch - Imported Japanese fabric" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31823454" title="Boxy Bag Zippered Pouch - Imported Japanese fabric">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$24.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid31490490" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31490490" title="Sock and Go knitting tools mini case">
+            
+                    <img src="/web/20091214092058im_/http://ny-image1.etsy.com//il_155x125.100637029.jpg" alt="Sock and Go knitting tools mini case" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31490490" title="Sock and Go knitting tools mini case">
+                                        	        Sock and Go knitti...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$8.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid31490090" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31490090" title="Padded Drop Spindle Bag">
+            
+                    <img src="/web/20091214092058im_/http://ny-image1.etsy.com//il_155x125.92330365.jpg" alt="Padded Drop Spindle Bag" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31490090" title="Padded Drop Spindle Bag">
+                                        	        Padded Drop Spindl...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$20.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid31025269" 
+        class="listing-card third">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31025269" title="Padded Drop Spindle bag, Amy Butler fabric - green">
+            
+                    <img src="/web/20091214092058im_/http://ny-image2.etsy.com//il_155x125.96238290.jpg" alt="Padded Drop Spindle bag, Amy Butler fabric - green" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31025269" title="Padded Drop Spindle bag, Amy Butler fabric - green">
+                                        	        Padded Drop Spindl...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$20.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid30856284" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=30856284" title="Padded Drawstring Bag - knit two">
+            
+                    <img src="/web/20091214092058im_/http://ny-image0.etsy.com//il_155x125.94283432.jpg" alt="Padded Drawstring Bag - knit two" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=30856284" title="Padded Drawstring Bag - knit two">
+                                        	        Padded Drawstring ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$22.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid31821224" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31821224" title="Boxy Bag Zippered Pouch - Imported Japanese fabric">
+            
+                    <img src="/web/20091214092058im_/http://ny-image1.etsy.com//il_155x125.93443229.jpg" alt="Boxy Bag Zippered Pouch - Imported Japanese fabric" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31821224" title="Boxy Bag Zippered Pouch - Imported Japanese fabric">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$24.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid34433987" 
+        class="listing-card third">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=34433987" title="Padded Drawstring Bag for a knitting or crochet project, yarn balls and paw prints on blue">
+            
+                    <img src="/web/20091214092058im_/http://ny-image2.etsy.com//il_155x125.102237038.jpg" alt="Padded Drawstring Bag for a knitting or crochet project, yarn balls and paw prints on blue" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=34433987" title="Padded Drawstring Bag for a knitting or crochet project, yarn balls and paw prints on blue">
+                                        	        Padded Drawstring ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$18.50 USD</p>
+    </li>                                                                                                
+
+        <li id="lid31393410" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31393410" title="Boxy Bag Zippered Pouch - Maple Leaves on black">
+            
+                    <img src="/web/20091214092058im_/http://ny-image1.etsy.com//il_155x125.97826633.jpg" alt="Boxy Bag Zippered Pouch - Maple Leaves on black" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=31393410" title="Boxy Bag Zippered Pouch - Maple Leaves on black">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$21.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid30678362" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=30678362" title="Padded Drawstring Bag - Kitty">
+            
+                    <img src="/web/20091214092058im_/http://ny-image3.etsy.com//il_155x125.89611123.jpg" alt="Padded Drawstring Bag - Kitty" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=30678362" title="Padded Drawstring Bag - Kitty">
+                                        	        Padded Drawstring ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$18.50 USD</p>
+    </li>                                                                                                
+
+        <li id="lid30935119" 
+        class="listing-card third">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=30935119" title="Padded Drawstring Bag, for a knitting or crochet project">
+            
+                    <img src="/web/20091214092058im_/http://ny-image1.etsy.com//il_155x125.90471085.jpg" alt="Padded Drawstring Bag, for a knitting or crochet project" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=30935119" title="Padded Drawstring Bag, for a knitting or crochet project">
+                                        	        Padded Drawstring ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$18.50 USD</p>
+    </li>                                                                                                
+
+        <li id="lid30852685" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=30852685" title="Padded Drop Spindle bag, Amy Butler fabric - brown">
+            
+                    <img src="/web/20091214092058im_/http://ny-image1.etsy.com//il_155x125.90194993.jpg" alt="Padded Drop Spindle bag, Amy Butler fabric - brown" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=30852685" title="Padded Drop Spindle bag, Amy Butler fabric - brown">
+                                        	        Padded Drop Spindl...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$20.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid34080031" 
+        class="listing-card">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=34080031" title="Boxy Bag Zippered Pouch - Imported Japanese fabric, Owls on navy blue">
+            
+                    <img src="/web/20091214092058im_/http://ny-image0.etsy.com//il_155x125.101046332.jpg" alt="Boxy Bag Zippered Pouch - Imported Japanese fabric, Owls on navy blue" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=34080031" title="Boxy Bag Zippered Pouch - Imported Japanese fabric, Owls on navy blue">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$24.00 USD</p>
+    </li>                                                                                                
+
+        <li id="lid32621839" 
+        class="listing-card third">
+                <a class="listing-thumb" href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=32621839" title="Boxy Bag Zippered Pouch - yarn balls and paw prints on red">
+            
+                    <img src="/web/20091214092058im_/http://ny-image2.etsy.com//il_155x125.100637518.jpg" alt="Boxy Bag Zippered Pouch - yarn balls and paw prints on red" width="155" height="125" />
+                </a>
+        <div class="listing-detail">
+            <p class="listing-title">
+                        	    <a href="/web/20091214092058/http://www.etsy.com/view_listing.php?listing_id=32621839" title="Boxy Bag Zippered Pouch - yarn balls and paw prints on red">
+                                        	        Boxy Bag Zippered ...
+        	            	    </a>
+        	</p>
+        	<p class="listing-maker">
+    	        	        
+                <a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5232534" title="Check out zigzagstitches's store">
+                                            zigzagsti...
+					                </a>
+    	                </p>
+        </div>
+        
+    	<p class="listing-price">$21.00 USD</p>
+    </li>                            </ul>
+        </div>
+                <!-- Pager -->
+        <div id="pager-wrapper" align="center">
+                <!--[if lte IE 7]>
+<table class="pager-table" alig="center">
+<tr><td>
+<![endif]-->
+<div class="pager">
+    <p>Pages:</p>
+    
+    <ul class="pages">
+                                    <li class="page-1 active">
+                    <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?page=1">1</a>
+                </li>
+                                                <li class="page-2 ">
+                    <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?page=2">2</a>
+                </li>
+                                                <li class="page-3 ">
+                    <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?page=3">3</a>
+                </li>
+                        </ul>
+            <form action="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches" id="jumper_form" method="get" accept-charset="utf-8">
+            <label for="page">Jump to:</label>
+                        <input type="text" name="page" value="" id="jumper_page">
+            <button type="submit" id="jumper_button">Go</button> 
+        </form>
+        <p class="controls">
+                    <a class="previous-disabled">Previous Page</a>
+                            <a class="next" href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?page=2">Next Page</a>
+            </p>
+</div>
+<!--[if lte IE 7]>
+</td></tr>
+</table>    
+<![endif]-->
+ 
+        </div>
+            </div>
+    
+    <div class="secondary">
+        <h3 class="title">Sections in this shop</h3>
+        <ul class="shop-panel" id="shop-sections">
+            <li class="active">
+                <span><a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches">Shop home</a> (all items)</span>
+            </li>
+                            <li>
+                    <span>
+                        <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?section_id=5140782">Boxy Bag Pouches</a> 
+                        (21)
+                    </span>
+                </li>
+                            <li>
+                    <span>
+                        <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?section_id=5218280">Boxy Bag Sets</a> 
+                        (0)
+                    </span>
+                </li>
+                            <li>
+                    <span>
+                        <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?section_id=5208087">Sock and Go Mini Cases</a> 
+                        (2)
+                    </span>
+                </li>
+                            <li>
+                    <span>
+                        <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?section_id=5140789">Knitting Needle Cases</a> 
+                        (6)
+                    </span>
+                </li>
+                            <li>
+                    <span>
+                        <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?section_id=5305735">Drawstring Bags</a> 
+                        (9)
+                    </span>
+                </li>
+                            <li>
+                    <span>
+                        <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?section_id=6084584">Spindle Bags</a> 
+                        (4)
+                    </span>
+                </li>
+                            <li>
+                    <span>
+                        <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?section_id=6426532">Knitting</a> 
+                        (2)
+                    </span>
+                </li>
+                            <li>
+                    <span>
+                        <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?section_id=6538069">Holiday Coasters</a> 
+                        (9)
+                    </span>
+                </li>
+                            <li>
+                    <span>
+                        <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches?section_id=6412191">Miscellaneous Cases</a> 
+                        (2)
+                    </span>
+                </li>
+                    </ul>
+        <ul class="shop-panel" id="shop-info">
+            <li class="avatar clear">
+                <img src="/web/20091214092058im_/http://ny-image1.etsy.com//iusa_50x50.6340997.jpg" alt="" width="50" height="50" />
+                <a href="/web/20091214092058/http://www.etsy.com/shop/zigzagstitches">zigzagstitches</a>
+            </li>
+            <li class="profile">
+                <span class="icon"></span>
+                <a href="/web/20091214092058/http://www.etsy.com/profile.php?user_id=5232534">Profile</a>
+            </li>
+            <li class="policies">
+                <span class="icon"></span>
+                <a href="/web/20091214092058/http://www.etsy.com/shop_policy.php?user_id=5232534">Shop Policies</a>
+            </li>
+            <li class="favorites">
+                <span class="icon"></span>
+                <a href="/web/20091214092058/http://www.etsy.com/favorite_listings_public.php?user_id=5232534">Favorites</a>
+            </li>
+            <li class="feedback">
+                <span class="icon"></span>
+                <a href="/web/20091214092058/http://www.etsy.com/feedback_public.php?user_id=5232534">Feedback</a>
+                <em class="feedback">1039, 100% pos.</em>
+            </li>
+            <li class="custom">
+                <span class="icon"></span>
+                <a href="/web/20091214092058/http://www.etsy.com/shop_alchemy.php?user_id=5232534">Request Custom Item</a>
+            </li>
+        </ul>
+        
+        <div class="shop-panel" id="toolbox">
+  <h3>zigzagstitches&#x27;s info</h3>
+
+  
+  <div class="seller-info clear">
+    <div class="seller-rating">rating:</div>
+    <div class="seller-rating-data">
+      <a href="/web/20091214092058/http://www.etsy.com/feedback_public.php?user_id=5232534">1039, 100% pos.</a>
+    </div>
+
+    <div class="seller-joined">joined:</div>
+    <div class="seller-joined-data">July 25, 2007</div>    
+
+    <div class="seller-location">location:</div>
+    <div class="seller-location-data">
+      <a href="/web/20091214092058/http://www.etsy.com/geolocator.php#/places/sarnia,+ontario,+canada/1/">Sarnia, Ontario, Canada</a>
+    </div> 
+
+        <div class="seller-contact">
+      <a href="/web/20091214092058/http://www.etsy.com/convo_new.php?to_username=zigzagstitches">contact zigzagstitches</a>
+    </div>
+      </div>
+
+  
+    <h3>other items</h3>
+<div class="other-items">
+      <p>
+              55 items for sale
+      </p>
+  <p>
+        <a href="/web/20091214092058/http://www.etsy.com/shop_sold.php?user_id=5232534">1299 sales</a>
+      </p>
+</div>    
+  <h3>favorites</h3>
+  <ul class="hearts-faves">
+
+                   <li id="favorite-seller">
+          <span class="icon"></span>
+                                          <a href="/web/20091214092058/http://www.etsy.com/login.php?from_page=http%3A%2F%2Fwww.etsy.com%2Fshop%2Fzigzagstitches">Add seller to favorites</a>
+                                </li>
+
+             
+
+    <li id="hearts-me">
+      <span class="icon"></span>
+      <a href="/web/20091214092058/http://www.etsy.com/hearts_me.php?user_id=5232534">See who hearts this shop</a>
+    </li>
+  </ul>
+
+  
+  <h3>page tools</h3>
+  <ul class="page-tools">
+    <li id="tell-friend">
+      <span class="icon"></span>
+                            <a href="mailto:?subject=Check out this shop on Etsy&amp;body=Hi there,%0D%0A%0D%0AI saw this on Etsy and I liked it so much I wanted to share it with you.%0D%0A%0D%0Ahttp://zigzagstitches.etsy.com %0D%0A%0D%0AEtsy is an online marketplace for buying and selling all things handmade.">Email</a>
+    </li>
+        <li id="bookmark-share">
+      <span class="icon"></span>
+      <a href="#">Share</a>
+      <div class="share-tools">
+    <ul>
+            <li class="facebook" data-url="http://www.etsy.com/shop/zigzagstitches?utm_source=Facebook&utm_medium=PageTools&utm_campaign=Share"><a href="/web/20091214092058/http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.etsy.com%2Fshop%2Fzigzagstitches%3Futm_source%3DFacebook%26utm_medium%3DPageTools%26utm_campaign%3DShare&amp;t=Project+Bags+and+Knitting+Needle+Organizers+etc+by+zigzagstitches" title="Share this page with your friends on Facebook" target="_blank">Facebook</a></li>
+            <li class="twitter shorten" data-url="http://www.etsy.com/shop/zigzagstitches?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share"><a href="/web/20091214092058/http://twitter.com/home?status=Project+Bags+and+Knitting+Needle+Organizers+etc+by+zigzagstitches+http%3A%2F%2Fwww.etsy.com%2Fshop%2Fzigzagstitches%3Futm_source%3DTwitter%26utm_medium%3DPageTools%26utm_campaign%3DShare" title="Share this page with your followers on Twitter" target="_blank">Twitter</a></li>
+            <li class="kaboodle" data-url="http://www.etsy.com/shop/zigzagstitches?utm_source=Kaboodle&utm_medium=PageTools&utm_campaign=Share"><a href="/web/20091214092058/http://www.kaboodle.com/grab/addItemWithUrl?url=http%3A%2F%2Fwww.etsy.com%2Fshop%2Fzigzagstitches%3Futm_source%3DKaboodle%26utm_medium%3DPageTools%26utm_campaign%3DShare&amp;redirectToKPage=true" title="Share this page with your friends on Kaboodle" target="_blank">Kaboodle</a></li>
+            <li class="tumblr" data-url="http://www.etsy.com/shop/zigzagstitches?utm_source=Tumblr&utm_medium=PageTools&utm_campaign=Share"><a href="/web/20091214092058/http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fwww.etsy.com%2Fshop%2Fzigzagstitches%3Futm_source%3DTumblr%26utm_medium%3DPageTools%26utm_campaign%3DShare&amp;t=Project+Bags+and+Knitting+Needle+Organizers+etc+by+zigzagstitches" title="Share this page on your Tumblr blog" target="_blank">Tumblr</a></li>
+            <li class="stumbleupon" data-url="http://www.etsy.com/shop/zigzagstitches?utm_source=StumbleUpon&utm_medium=PageTools&utm_campaign=Share"><a href="/web/20091214092058/http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.etsy.com%2Fshop%2Fzigzagstitches%3Futm_source%3DStumbleUpon%26utm_medium%3DPageTools%26utm_campaign%3DShare&amp;title=Project+Bags+and+Knitting+Needle+Organizers+etc+by+zigzagstitches" title="Share this page with the world at StumbleUpon" target="_blank">StumbleUpon</a></li>
+        </ul>
+</div>
+
+<link rel="stylesheet" href="/web/20091214092058cs_/http://www.etsy.com/assets/css/share-tools.css?v=1260476669" type="text/css" media="screen">
+
+   <script language='javascript' src="/web/20091214092058js_/http://www.etsy.com/assets/1260476669/js/etsy.sharetools.js"></script>
+<script type="text/javascript" charset="utf-8">
+    jQuery('#bookmark-share > a').sharetools();
+</script>
+    </li>
+        <li id="subscribe-feed">
+      <span class="icon"></span>
+      <a href="/web/20091214092058/http://www.etsy.com/rss_shop.php?user_id=5232534">Subscribe to shop feed</a>
+    </li>
+  </ul>
+
+</div>    </div>
+    
+    
+
+        	</div>
+	
+	<!-- Footer -->
+	<div id="footer">
+		<p id="trust">
+			Shopping on Etsy is Secure and Safe
+		</p>  	
+		<ul class="clear">
+			<li class="first"><a href="/web/20091214092058/http://www.etsy.com/about.php">About</a></li>
+			<li><a href="/web/20091214092058/http://press.etsy.com/">Press</a></li>
+			<li><a href="/web/20091214092058/http://www.etsy.com/contact.php">Contact</a></li>
+			<li><a href="/web/20091214092058/http://team.etsy.com/">Teams</a></li>
+			<li><a href="/web/20091214092058/http://www.etsy.com/jobs">Jobs</a></li>
+			<li><a href="/web/20091214092058/http://www.etsy.com/shop.php?user_id=5029420">Etsy Store</a></li>
+			<li><a href="/web/20091214092058/http://developer.etsy.com/">Developers</a></li>
+			<li class="first"><a href="/web/20091214092058/http://www.etsy.com/terms_of_use.php">Terms of Use</a></li>
+			<li><a href="/web/20091214092058/http://www.etsy.com/privacy_policy.php">Privacy Policy</a></li>
+			<li><a href="/web/20091214092058/http://www.etsy.com/copyright_policy.php">Copyright Policy</a></li>
+		</ul>
+		<p id="copy">&copy; 2009 Etsy Inc.</p>
+	</div>
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "/web/20091214092058/https://ssl." : "/web/20091214092058/http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>    
+  <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-2409779-1");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+  </script>
+                <script type="text/javascript">
+  var sellerPageTracker = _gat._getTracker("UA-6940747-1");
+  sellerPageTracker._setDomainName("www.etsy.com");
+  sellerPageTracker._setAllowLinker(true);
+  sellerPageTracker._initData();
+  sellerPageTracker._trackPageview();
+</script>
+    <script type="text/javascript">
+        jQuery(function($) {
+            $("#favorite-seller button").click(function(){
+                pageTracker._trackEvent("Favorites",
+                                        "Favorites Shop", 
+                                        "zigzagstitches");
+            });
+        }); 
+    </script>
+
+    
+         
+</body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 9:20:58 Dec 14, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:45:06 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:37:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ebay.co.uk?clk_rvr_id=772295100857&item=111581319613&lgeo=1&utm_medium=twitter&utm_source=dlvr.it&vectorid=229508&siteId=3&AdChoicePreference=true&rmvSB=true>;rel="original"
+,<http://www.webarchive.org.uk:80/wayback/archive/20080305085619/http://www.ebay.co.uk/>;rel="memento first"; datetime="Wed, 05 Mar 2008 08:56:19 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081008220753/http://www.ebay.co.uk/>;rel="memento"; datetime="Wed, 08 Oct 2008 22:07:53 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081021140451/http://www.ebay.co.uk/>;rel="memento"; datetime="Tue, 21 Oct 2008 14:04:51 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20090208021840/http://www.ebay.co.uk/>;rel="memento"; datetime="Sun, 08 Feb 2009 02:18:40 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20090708080137/http://www.ebay.co.uk/>;rel="memento"; datetime="Wed, 08 Jul 2009 08:01:37 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20100320211502/http://www.ebay.co.uk/>;rel="memento"; datetime="Sat, 20 Mar 2010 21:15:02 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20100407115536/http://www.ebay.co.uk/>;rel="memento"; datetime="Wed, 07 Apr 2010 11:55:36 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20100504151053/http://www.ebay.co.uk/>;rel="memento"; datetime="Tue, 04 May 2010 15:10:53 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20101007115536/http://www.ebay.co.uk/>;rel="memento last"; datetime="Thu, 07 Oct 2010 11:55:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ebay.co.uk?clk_rvr_id=772295100857&item=111581319613&lgeo=1&utm_medium=twitter&utm_source=dlvr.it&vectorid=229508&siteId=3&AdChoicePreference=true&rmvSB=true>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ebay.co.uk?clk_rvr_id=772295100857&item=111581319613&lgeo=1&utm_medium=twitter&utm_source=dlvr.it&vectorid=229508&siteId=3&AdChoicePreference=true&rmvSB=true>;rel="self"; type="application/link-format"; from ="Wed, 05 Mar 2008 08:56:19 GMT";until="Thu, 07 Oct 2010 11:55:36 GMT"

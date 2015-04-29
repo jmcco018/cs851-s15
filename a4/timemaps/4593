@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:43 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://navylive.dodlive.mil/2015/01/30/navy-recruit-graduation-jan-30-2015/>;rel="original"
+,<http://web.archive.org/web/20150203012426/http://navylive.dodlive.mil/2015/01/30/navy-recruit-graduation-jan-30-2015/>;rel="memento first"; datetime="Tue, 03 Feb 2015 01:24:26 GMT"
+,<http://web.archive.org/web/20150329185143/http://navylive.dodlive.mil/2015/01/30/navy-recruit-graduation-jan-30-2015/>;rel="memento last"; datetime="Sun, 29 Mar 2015 18:51:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://navylive.dodlive.mil/2015/01/30/navy-recruit-graduation-jan-30-2015/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://navylive.dodlive.mil/2015/01/30/navy-recruit-graduation-jan-30-2015/>;rel="self"; type="application/link-format"; from ="Tue, 03 Feb 2015 01:24:26 GMT";until="Sun, 29 Mar 2015 18:51:43 GMT"

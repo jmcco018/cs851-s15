@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:44:19 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="original"
+,<http://web.archive.org/web/20121027004335/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento first"; datetime="Sat, 27 Oct 2012 00:43:35 GMT"
+,<http://web.archive.org/web/20121028164016/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Sun, 28 Oct 2012 16:40:16 GMT"
+,<http://web.archive.org/web/20121126062039/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Mon, 26 Nov 2012 06:20:39 GMT"
+,<http://web.archive.org/web/20121230205526/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Sun, 30 Dec 2012 20:55:26 GMT"
+,<http://web.archive.org/web/20130203215350/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Sun, 03 Feb 2013 21:53:50 GMT"
+,<http://web.archive.org/web/20130508033337/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Wed, 08 May 2013 03:33:37 GMT"
+,<http://web.archive.org/web/20131114034716/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Thu, 14 Nov 2013 03:47:16 GMT"
+,<http://web.archive.org/web/20140126004907/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Sun, 26 Jan 2014 00:49:07 GMT"
+,<http://web.archive.org/web/20140226113019/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Wed, 26 Feb 2014 11:30:19 GMT"
+,<http://web.archive.org/web/20140329075500/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Sat, 29 Mar 2014 07:55:00 GMT"
+,<http://web.archive.org/web/20140428204627/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Mon, 28 Apr 2014 20:46:27 GMT"
+,<http://web.archive.org/web/20140530074050/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento"; datetime="Fri, 30 May 2014 07:40:50 GMT"
+,<http://web.archive.org/web/20150405030530/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="memento last"; datetime="Sun, 05 Apr 2015 03:05:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blog.world-mysteries.com/science/the-great-pyramid-and-the-speed-of-light/>;rel="self"; type="application/link-format"; from ="Sat, 27 Oct 2012 00:43:35 GMT";until="Sun, 05 Apr 2015 03:05:30 GMT"

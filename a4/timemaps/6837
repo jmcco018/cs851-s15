@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nba.com/heat/video/channels/allstar/2015/01/29/20150129-all-star-east-dwyane-wade.nba/>;rel="original"
+,<http://archive.is/20150130190735/http://www.nba.com/heat/video/channels/allstar/2015/01/29/20150129-all-star-east-dwyane-wade.nba/>;rel="memento first"; datetime="Fri, 30 Jan 2015 19:07:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nba.com/heat/video/channels/allstar/2015/01/29/20150129-all-star-east-dwyane-wade.nba/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nba.com/heat/video/channels/allstar/2015/01/29/20150129-all-star-east-dwyane-wade.nba/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 19:07:35 GMT";until="Fri, 30 Jan 2015 19:07:35 GMT"

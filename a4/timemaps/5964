@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:54:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ctvnews.ca/sci-tech/nasa-scrubs-satellite-launch-due-to-excessive-winds-1.2213249>;rel="original"
+,<http://web.archive.org/web/20150202100034/http://www.ctvnews.ca/sci-tech/nasa-scrubs-satellite-launch-due-to-excessive-winds-1.2213249>;rel="memento first"; datetime="Mon, 02 Feb 2015 10:00:34 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ctvnews.ca/sci-tech/nasa-scrubs-satellite-launch-due-to-excessive-winds-1.2213249>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ctvnews.ca/sci-tech/nasa-scrubs-satellite-launch-due-to-excessive-winds-1.2213249>;rel="self"; type="application/link-format"; from ="Mon, 02 Feb 2015 10:00:34 GMT";until="Mon, 02 Feb 2015 10:00:34 GMT"

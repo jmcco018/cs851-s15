@@ -1,0 +1,1557 @@
+<!DOCTYPE html>
+
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app14.us.archive.org";archive_analytics.values.server_ms=132;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201c/web/20140802181818/https://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="/web/20140802181818js_/http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=c65abde67782d19ef9d6ba2e8362ef98"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--
+     Theme: The Minimalist v1.
+     Design: The Minimalist (/web/20140802181818/http://minimalist.co)
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+     <title>MISTER MEAN</title>	
+     <meta name="description" content="" />
+     <meta name="if:Show description" content="1" />	
+     <meta name="if:Show search" content="1" />
+     <meta name="text:Twitter name" content="" />
+     <meta name="text:Disqus Shortname" content="" />
+     <meta name="text:Google Analytics ID" content="" />	
+     <link rel="shortcut icon" href="/web/20140802181818im_/http://38.media.tumblr.com/avatar_3b20909ba449_128.png" />
+     <link rel="alternate" type="application/rss+xml" title="MISTER MEAN" href="http://mrmean.tumblr.com/rss" />
+
+<!-- Styles -->
+
+<link rel="stylesheet" href="/web/20140802181818cs_/http://static.tumblr.com/f1whv92/Mp9l6ewcg/reset.css" />
+<style type="text/css">
+
+/*----- GENERAL -----*/
+
+     header, footer, section, article, nav, aside {
+        display: block;
+     }
+
+     body {
+        background: #ffffff;
+        color: #222;
+        font: 12px/20px Georgia, "Times New Roman", Times, serif;
+        padding-top: 25px;
+        text-align: center;
+        width:500px;
+        margin: 0 auto;
+     }
+
+     h1, h2, h3, hQ {
+        font-family: Cufon;
+     }
+
+     h1 {
+        font-size: 50px;
+        line-height: 50px;
+     }
+
+     h2 {
+        font-size: 31px;
+        line-height: 37px; 
+     }
+
+     h3 {
+        font-size: 21px;
+        line-height: 27px; 
+     }
+
+     a:link, a:visited {
+        color: #000000;
+        font-weight: bold;
+        text-decoration: none;
+     }
+     
+     a:hover, a:active {
+        text-decoration: underline;
+     }
+
+     hr{
+        border:0 #ccc solid;
+        border-top-width:1px;
+        clear:both;
+        height:0;
+     }
+
+     ol{list-style:decimal}
+
+     ul{list-style:disc}
+
+     li{margin-left:30px}
+
+     p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:15px}
+
+     #main {
+        padding: 0px;
+     }
+
+/*----- MASTHEAD -----*/
+
+     .noMeta > div {
+        padding: 0px;
+     }
+
+     #masthead {
+        margin-bottom: 0px;
+        margin-top:25px;
+        
+     }
+
+     #masthead h1 {
+        margin-bottom: 0;
+     }
+
+     #masthead h1 a:link, #masthead h1 a:visited {
+        text-transform: Uppercase;
+        color: #222;
+        text-decoration: none;
+     }
+
+     #masthead h1 a:active {
+        outline: 0;
+     }
+
+     #masthead p {
+        font-family: Georgia, serif;
+        font-size: 20px;
+        color: #fff;
+        margin-bottom: 0;
+     }
+
+     #masthead a:link, #masthead a:visited {
+        color: #fff;
+     }
+
+     #siteDescription{
+        font-size: 13px;
+        color: #222;
+        text-transform: Uppercase;
+        border-top: 1px solid #222;
+        margin-top: 20px;
+        margin-bottom: -5px;
+        padding: 15px 0 0 0;
+        font-family: Cufon;
+     }
+
+/*----- SEARCH FORM -----*/
+
+     #frmSearch {
+        padding-top: 20px; 
+        display: none;
+     }
+
+     #txtSearch {
+        background: url(/web/20140802181818im_/http://static.tumblr.com/bpryy0m/6lRl6gmys/search.jpg) left no-repeat;
+        width: 225px;
+        padding: 2px 0 0 20px;
+        font: 12px/12px Georgia, "Times New Roman", Times, serif;
+        color: #222;
+        border: 0px;
+     }
+
+/*----- MAIN HEADER NAV STRIP -----*/
+
+     #mainNav {
+        border-top: 1px solid #222;
+        border-bottom: 2px solid #222;
+        margin-top: 20px;
+        padding: 15px;
+        font-family: Cufon;
+     }
+
+     #mainNav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+     }
+
+     #mainNav li {
+        margin: 5px;
+        display: inline;
+        padding: 0;
+     }
+
+     #mainNav a:link, #mainNav a:visited {
+        padding: 0;
+        font-size: 14px;
+        line-height: 14px;
+        margin: 0 2px;
+        text-decoration: none;
+        color: #222;
+        text-transform: Uppercase;
+     }
+
+     #mainNav a:hover, #mainNav a:active {
+        outline: none;
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     #mainNav a.active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+/*----- ARTICLE META INFO -----*/
+
+     #designline {
+        margin-top: 50px;
+     }
+
+     h5{
+        position: relative;
+        top: -35px;
+        margin-bottom: 0px;
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        text-transform: Uppercase;
+        font-weight: bold;
+        border-bottom: 1px solid #bca474;
+        background: #fff;
+     }
+
+     h5 a:link, .line a:visited{
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        text-transform: Uppercase;
+        font-weight: bold;
+     }
+
+     h5 a:hover{
+        text-decoration: underline;
+     }
+
+     h5 abbr{
+        display: inline-block;
+        position: relative;
+        margin: 0 auto;
+        padding: 0 8px;
+        background: #fff;
+        top: 10px;
+     }
+
+     h5.postDate a{
+        color: #bca474;
+     }
+
+/*----- ARTICLE -----*/
+
+     article {
+        background: #fff;
+        margin-bottom: 20px;
+        text-align: left;
+       position: relative;
+      }
+
+     article img {
+        border: none;
+        margin-bottom: 15px;
+        max-width: 500px;
+     }
+
+     article p img {
+        margin: 0;
+     }
+     article > div {
+        padding: 0px;
+        overflow: hidden;
+     }
+     article .searchPage {
+        margin: 35px 0 0 0;
+     }
+
+     .searchPageText {
+        margin: 0 0 30px 0;
+     }
+
+     article .meta a:link, article .meta a:visited {
+        text-decoration: none;
+     }
+
+     article .meta a:hover, article .meta a:active {
+        text-decoration: underline;
+     }
+
+     article h2 {
+        text-align: center;
+        color: #222222;
+     }
+
+     article h2 a:link, article h2 a:visited {
+        text-transform: Uppercase;
+        color: #222;
+        text-decoration: none;
+     }
+
+     article h2 a:hover, article h2 a:active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     blockquote {
+        border-left: 2px solid #bca474;
+        margin-left: 0;
+        padding-left: 1em;
+     }
+
+     #quoteSource{
+        margin: 0 auto;
+        text-align: left;
+     }
+
+     #quoteText h2 {
+        text-align: left;
+        color: #222222;
+     }
+
+     article .chat {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+     }
+
+     article .chat li {
+        margin: 0 0 2px;
+        padding: 2px 0 2px 0;
+     }
+
+     .photoCaption {
+        text-align: center;
+     }
+
+
+
+/*----- AUDIO PLAYER -----*/
+
+     .audio {
+        height: 28px;
+        width: 26px;
+        overflow: hidden;
+        margin: auto;
+        padding-top: 7px;
+     }
+
+     .audioc {
+        background-image:url('/web/20140802181818im_/http://static.tumblr.com/f1whv92/9iCl6bfgp/audiocircle.png');
+        background-repeat: no-repeat; 
+        height: 41px;
+        width: 41px;
+     }
+
+     .audioCaption {
+        margin-top: 1px;
+     }
+
+     .audioleft {
+        width: 41px;
+        float: left;
+      }
+
+     .audioright {
+        width: 444px;
+        float: right;
+      }
+
+     .audioContainer {
+        margin-top: 5px;
+     }
+
+     .audioClear {
+        clear:both;
+     }
+
+/*----- ARTICLE NOTES -----*/
+
+     .notes {
+        border-top: 1px solid #bca474;
+        list-style: none;
+        padding: 20px 0 5px 0;
+        margin: 30px 0 0 0;
+     }
+     .notes li {
+        margin: 0;
+     }
+
+     .notes .avatar {
+        margin: 0 5px 0 0;
+        position: relative;
+        top: 5px;
+     }
+
+     .notes blockquote {
+        margin: 10px 0 0 35px;
+        padding-left: 10px;
+        border-left: 2px solid #222222;
+     }
+
+     .media {
+        width: 500px;
+        margin-bottom: 20px;
+     }
+
+/*----- PAGE NAVIGATION -----*/
+
+     #pageNav {
+        margin-top: 20px;
+        border-top: 1px solid #222;
+     }
+
+     #pageNav ul {
+        list-style: none;
+        padding: 10px 15px;
+        margin: 10px 0;
+     }
+
+     #pageNav li {
+        margin: 0;
+        display: inline;
+     }
+
+     #pageNav a:link, #pageNav a:visited {
+        font: 11px Georgia, "Times New Roman", Times, serif;
+        padding: 0;
+        margin: 0 2px;
+        background: #34hdf5;
+        color: #222;
+        text-decoration: none;
+     }
+
+     #pageNav a:hover, #pageNav a:active, #pageNav a.active:link, #pageNav a.active:visited {
+        text-decoration: underline;
+     }
+
+     #pageNavOlder:after {
+        content: " »";
+        font-size: 10px;
+     }
+
+     #pageNavNewer:before {
+        content: "« ";
+     }
+
+/*----- FOOTER META -----*/
+
+     #sitemeta {
+        border-top: 2px solid #222;
+        color: #222;
+        padding: 20px 0 32px 0;
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: 11px;
+     }
+
+     #sitemeta p {
+        margin: 0;
+     }
+
+     #sitemeta a:link, #sitemeta a:visited {
+        color: #222;
+        font-weight: bold;
+     }
+
+
+</style>
+
+<!-- Scripts -->
+
+<!--[if IE]>
+     <script src="/web/20140802181818/http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+     <script src="/web/20140802181818js_/http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+     <script src="/web/20140802181818js_/http://static.tumblr.com/q9z1v7k/dgEkijh8r/cufon-yui.js" type="text/javascript"></script>
+     <script src="/web/20140802181818js_/http://static.tumblr.com/f1whv92/fgIl65bo1/cufon_300.font.js" type="text/javascript"></script>
+
+     <script type="text/javascript">
+        Cufon.replace('h1',{ fontFamily: "Cufon" });
+        Cufon.replace('h2',{ fontFamily: "Cufon" });
+        Cufon.replace('h3',{ fontFamily: "Cufon" });
+        Cufon.replace('#mainNav',{ fontFamily: "Cufon" });
+        Cufon.replace('#siteDescription',{ fontFamily: "Cufon" });
+     </script>
+
+<script>
+     $(function() {
+        var search = $("#txtSearch").val();
+        var placeholder = "Search...";
+        var fadeToOpacity = 0.4;
+        $("#txtSearch").fadeTo("normal", fadeToOpacity);
+        if (search == "") {
+     $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").blur(function() {
+        search = $("#txtSearch").val();
+        if (!(search != "" && search != placeholder)) {
+        $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").fadeTo("normal", fadeToOpacity);
+     });
+     $("#txtSearch").focus(function() {
+        search = $("#txtSearch").val();
+        if (search == placeholder) {
+        $("#txtSearch").val("");
+     }
+     $("#txtSearch").fadeTo("normal", 1);
+     });
+     $("#btnSearch").click(function() {
+     $("#frmSearch").slideToggle("normal");
+     $(this).toggleClass("active");
+ //  $("#txtSearch").focus();
+     });
+     });
+</script>
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=mrmean" />
+<script src="/web/20140802181818js_/http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=01da904aa1515a5ccb68a7107eb907d5"></script>
+<link rel="stylesheet" type="text/css" href="/web/20140802181818cs_/http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: /web/20140802181818/http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="MISTER MEAN" /><meta property="og:url" content="http://mrmean.tumblr.com/?og=1" /><meta property="og:description" content="" /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="http://38.media.tumblr.com/avatar_3b20909ba449_128.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=mrmean" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=mrmean" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="mrmean" /><meta name="twitter:description" content="&lt;!-- Start of StatCounter Code --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+var sc_project=7246010; 
+var sc_invisible=0; 
+var sc_security=&quot;cb1999dc&quot;; 
+var sc_text=4; 
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;
+src=&quot;http://www.statcounter.com/counter/counter.js&quot;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;div
+class=&quot;statcounter&quot;&gt;&lt;a title=&quot;counter for tumblr&quot;
+href=&quot;http://statcounter.com/tumblr/&quot; target=&quot;_blank&quot;&gt;&lt;img
+class=&quot;statcounter&quot;
+src=&quot;http://c.statcounter.com/7246010/0/cb1999dc/0/&quot;
+alt=&quot;counter for tumblr&quot; &gt;&lt;/a&gt;&lt;/div&gt;&lt;/noscript&gt;
+&lt;!-- End of StatCounter Code --&gt;" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=mrmean&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=mrmean&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=mrmean&amp;referrer=twitter-cards" />
+
+</head>
+<body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://mrmean.tumblr.com/";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "2";
+var displayMonth = "Aug";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://mrmean.tumblr.com/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20140802181818" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20130901061726/http://mrmean.tumblr.com/" title="1 Sep 2013">SEP</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 18:18:18 Aug 2, 2014">AUG</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20140904115812/http://mrmean.tumblr.com/" title="4 Sep 2014"><strong>SEP</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130901061726/http://mrmean.tumblr.com/" title="6:17:26 Sep 1, 2013"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 18:18:18 Aug 2, 2014">2</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20140904115812/http://mrmean.tumblr.com/" title="11:58:12 Sep 4, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130513060029/http://mrmean.tumblr.com/" title="13 May 2013"><strong>2013</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 18:18:18 Aug 2, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2015
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20140802181818*/http://mrmean.tumblr.com/" title="See a list of every capture for this URL">24 captures</a>
+           <div class="r" title="Timespan for captures of this URL">8 Sep 11 - 19 Feb 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000002200_2012:-1:800000000030_2013:-1:300010011000_2014:7:000000011000_2015:-1:010000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+
+
+
+
+     <header id="masthead" class="clearfix">
+        <div id="thehead">          
+              <h1 class="cufon"><a href="/web/20140802181818/http://mrmean.tumblr.com/">MISTER MEAN</a></h1>
+              <form action="/web/20140802181818/http://mrmean.tumblr.com/search" method="get" id="frmSearch">
+              <input type="text" id="txtSearch" name="q" value="" />
+              </form>    
+
+     
+        <div id="siteDescription"><!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=7246010; 
+var sc_invisible=0; 
+var sc_security="cb1999dc"; 
+var sc_text=4; 
+</script>
+
+<script type="text/javascript"
+src="/web/20140802181818js_/http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="counter for tumblr"
+href="/web/20140802181818/http://statcounter.com/tumblr/" target="_blank"><img
+class="statcounter"
+src="/web/20140802181818im_/http://c.statcounter.com/7246010/0/cb1999dc/0/"
+alt="counter for tumblr" ></a></div></noscript>
+<!-- End of StatCounter Code --></div>
+     
+
+           <nav id="mainNav">        
+              
+              <li><a href="/web/20140802181818/http://mrmean.tumblr.com/ask">Ask</a></li>
+              <li><a href="/web/20140802181818/http://mrmean.tumblr.com/submit">Submit</a></li>                 
+              <li><a href="/web/20140802181818/http://mrmean.tumblr.com/archive">Archive</a></li>
+              <li><a href="/web/20140802181818/http://mrmean.tumblr.com/random">Random</a></li>
+              <li><a href="/web/20140802181818/http://mrmean.tumblr.com/rss">RSS</a></li>
+              <li><a href="javascript:;" id="btnSearch">Search</a></li>
+              
+           </nav>         
+        </div>
+     </header>
+
+     <section id="main" class="clearfix">
+     <div class="layout">           
+     
+      
+           
+
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/90276578888">29th Jun 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/90276578888#notes">12 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <img src="/web/20140802181818im_/http://38.media.tumblr.com/836e5a3aaaa1fc40895d8c4dc08802be/tumblr_n7y3r2lr7P1qiug3co1_500.jpg" alt="" />
+              <div class="photoCaption"><p>(Source: <a href="/web/20140802181818/http://instagram.com/joshmadden" title="instagram.com">instagram.com</a>)</p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/89689760513/week-in-italy-on-paper-com-now">23rd Jun 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/89689760513/week-in-italy-on-paper-com-now#notes">3 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+              <h2><a href="/web/20140802181818/http://mrmean.tumblr.com/post/89689760513/week-in-italy-on-paper-com-now">WEEK IN ITALY ON PAPER.COM NOW!!</a></h2>
+              <p><img src="/web/20140802181818im_/http://media.tumblr.com/860bea28debc37bec2158c05b80532d5/tumblr_inline_n7n49g20H91qhnlpe.png"/><a href="/web/20140802181818/http://bit.ly/1rrzHzi" target="_blank">CLICK HERE CHECK IT OUT!!</a></p>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/87707289003/look-at-this">3rd Jun 2014</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20140802181818/http://mrmean.tumblr.com/image/87707289003"><img src="/web/20140802181818im_/http://31.media.tumblr.com/06cd375c32c357d4bbc093bced64d2a1/tumblr_n6lr2bxMW81qiug3co1_500.png" alt="look at this." /></a>
+              <div class="photoCaption"><p>look at <a href="/web/20140802181818/http://www.nylonguysmag.com/treated-crew-x-sussy-x-saint-alfred/" target="_blank">this</a>.</p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/82864230995/whats-the-thing-you-do-the-most-in-a-day">16th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/82864230995/whats-the-thing-you-do-the-most-in-a-day#notes">11 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+             <h3><a href="/web/20140802181818/http://oxbloodyxo.tumblr.com/" class="asker">oxbloodyxo</a> asked: What&#039;s the thing you do the most in a day ?</h3>
+             <p>breathe</p>
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/82864165151/how-does-one-acquire-a-graphic-design-job-i-think">16th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/82864165151/how-does-one-acquire-a-graphic-design-job-i-think#notes">5 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+             <h3><a href="/web/20140802181818/http://catsquatch.tumblr.com/" class="asker">catsquatch</a> asked: HOW DOES ONE ACQUIRE A GRAPHIC DESIGN JOB? I think Gmail is sending my resumes into a black hole.</h3>
+             <p>do graffiti</p>
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/82864120566/i-went-to-see-the-cabin-in-the-woods-last-night-and-the">16th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/82864120566/i-went-to-see-the-cabin-in-the-woods-last-night-and-the#notes">1 note</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+             <h3><a href="/web/20140802181818/http://prinnny.tumblr.com/" class="asker">prinnny</a> asked: I went to see The Cabin in the Woods last night and the guy who&#039;s always stoned in it looks really like you ha</h3>
+             <p>i actually hung out with that dude one time at arlene&#8217;s grocery…super nice guy</p>
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/82863599248/did-you-ever-think-about-moving-in-a-other-country">16th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/82863599248/did-you-ever-think-about-moving-in-a-other-country#notes">4 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+             <h3><a href="/web/20140802181818/http://catodyssee.tumblr.com/" class="asker">catodyssee</a> asked: did you ever think about moving in a other country?</h3>
+             <p>every day.</p>
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/82598916451">13th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/82598916451#notes">3 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20140802181818/http://mrmean.tumblr.com/image/82598916451"><img src="/web/20140802181818im_/http://31.media.tumblr.com/9d7dcf33f3eddec7912d85c4411d05cc/tumblr_n3zd9ewZ0F1qiug3co1_500.png" alt="" /></a>
+              <div class="photoCaption"><p><a href="/web/20140802181818/https://soundcloud.com/adam-smith" target="_blank"></a></p></div>
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/81745102444">5th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/81745102444#notes">7 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+             <div class="media"><iframe width="500" height="374" src="/web/20140802181818if_/https://www.youtube.com/embed/zh175GnxvL4?feature=oembed" frameborder="0" allowfullscreen></iframe></div>
+              
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/81745086779">5th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/81745086779#notes">8 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20140802181818/https://twitter.com/Joshmadden"><img src="/web/20140802181818im_/http://38.media.tumblr.com/53a3b35c3188b6aa93f57e0600ead078/tumblr_n3jhy8xm5K1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/81703994991">4th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/81703994991#notes">21 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20140802181818/http://web.stagram.com/n/nylonguysmag/"><img src="/web/20140802181818im_/http://31.media.tumblr.com/9cffcf2795b48f5ce1e49e53a08f66e0/tumblr_n3ivf6eYaW1qiug3co1_500.png" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/81696662720">4th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/81696662720#notes">4 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20140802181818/http://basisny.com/studio-2/"><img src="/web/20140802181818im_/http://31.media.tumblr.com/dfac243177cbfe5f2790d286f0fa1af0/tumblr_n3ir6faIcL1qiug3co1_500.png" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/81693533556">4th Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/81693533556#notes">3 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20140802181818/https://www.facebook.com/photo.php?fbid=675477225847881&amp;set=a.190098461052429.50495.190072251055050&amp;type=1&amp;stream_ref=10"><img src="/web/20140802181818im_/http://38.media.tumblr.com/cbb236ed34dbcf11aa8abe25be0ec6a0/tumblr_n3ip71XbHp1qiug3co1_500.png" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/81517528002">2nd Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/81517528002#notes">2 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+             <div class="media"><iframe width="500" height="374" src="/web/20140802181818if_/https://www.youtube.com/embed/Gpnz4i5rAzo?feature=oembed" frameborder="0" allowfullscreen></iframe></div>
+              
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20140802181818/http://mrmean.tumblr.com/post/81406748815">1st Apr 2014</a> | <a href="/web/20140802181818/http://mrmean.tumblr.com/post/81406748815#notes">4 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20140802181818/http://www.youtube.com/watch?v=rBo2Kn8iBxA"><img src="/web/20140802181818im_/http://31.media.tumblr.com/2ec2815b17e585849cb2501227b10f3d/tumblr_n3d78jvfrm1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+
+     
+      
+     
+        <nav id="pageNav">
+           <ul class="clearfix">
+              
+             
+             <li><a href="" class="active">1</a></li>
+             
+             
+             
+             <li><a href="/web/20140802181818/http://mrmean.tumblr.com/page/2">2</a></li>
+             
+             
+             <li><a href="/web/20140802181818/http://mrmean.tumblr.com/page/3">3</a></li>
+             
+             
+             <li><a href="/web/20140802181818/http://mrmean.tumblr.com/page/4">4</a></li>
+             
+             
+             <li><a href="/web/20140802181818/http://mrmean.tumblr.com/page/5">5</a></li>
+             
+             <li><a href="/web/20140802181818/http://mrmean.tumblr.com/page/2" id="pageNavOlder">Older</a></li> 
+           </ul>
+        </nav>
+      
+      
+     
+     
+     </div><!-- END layout -->
+     </section>
+
+     <footer id="sitemeta">
+        <div class="clearfix">
+           <div class="thefooter">
+              <p><a href="/web/20140802181818/http://www.tumblr.com/theme/12051">The Minimalist Theme</a> designed by <a href="/web/20140802181818/http://minimalist.co/">The Minimalist</a> | Powered by <a href="/web/20140802181818/http://tumblr.com/">Tumblr</a></p>
+           </div>
+        </div>
+     </footer>
+
+     
+
+<!-- BEGIN TUMBLR CODE --><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "/web/20140802181818/https://secure.assets.tumblr.com/analytics.html?3e91d63d5994bffc6ac211967f138b2c#/web/20140802181818/http://mrmean.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script>
+            var _qevents = _qevents || [];
+            (function() {
+                var s = document.createElement('script');
+                var el = document.getElementsByTagName('script')[0];
+                s.src = (document.location.protocol == "https:" ? "/web/20140802181818/https://secure" : "/web/20140802181818/http://edge") + ".quantserve.com/quant.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        </script><script type="text/javascript">
+            _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+        </script><noscript><div style="display: none;"><img src="/web/20140802181818im_/http://pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='/web/20140802181818/http://www.tumblr.com/impixu?T=1407003498&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbXJtZWFuLnR1bWJsci5jb21cLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8ifQ==&U=HOAMILFPDP&K=4b7bfcaace0890f889c8f9d12ec9736ea563a4933c4df723c9a164156544a3f1&R=http%3A%2F%2Firanbm.tumblr.com%2F'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="/web/20140802181818im_/http://www.tumblr.com/impixu?T=1407003498&amp;J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvbXJtZWFuLnR1bWJsci5jb21cLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8iLCJub3NjcmlwdCI6MX0=&amp;U=HOAMILFPDP&amp;K=f0370e8fc23fec1ac11b1c73339f41589116781f6092e4885473ed5ee439fdef&amp;R=http%3A%2F%2Firanbm.tumblr.com%2F"></noscript><script type="text/javascript">!function(s){s.src='/web/20140802181818/http://www.tumblr.com/impixu?T=1407003498&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL21ybWVhbi50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwicG9zdHMiOlt7InBvc3RpZCI6IjkwMjc2NTc4ODg4IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6Ijg5Njg5NzYwNTEzIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6Ijg3NzA3Mjg5MDAzIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyODY0MjMwOTk1IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyODY0MTY1MTUxIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyODY0MTIwNTY2IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyODYzNTk5MjQ4IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyNTk4OTE2NDUxIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNzQ1MTAyNDQ0IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNzQ1MDg2Nzc5IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNzAzOTk0OTkxIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNjk2NjYyNzIwIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNjkzNTMzNTU2IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNTE3NTI4MDAyIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNDA2NzQ4ODE1IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfV19&U=JDANCIOCEB&K=03bb65507fe052c3dccc40305a4ccfd81aed7d6114a2d7d6e145fe4ea5da44df&R=http%3A%2F%2Firanbm.tumblr.com%2F'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="/web/20140802181818im_/http://www.tumblr.com/impixu?T=1407003498&amp;J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL21ybWVhbi50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwicG9zdHMiOlt7InBvc3RpZCI6IjkwMjc2NTc4ODg4IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6Ijg5Njg5NzYwNTEzIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6Ijg3NzA3Mjg5MDAzIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyODY0MjMwOTk1IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyODY0MTY1MTUxIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyODY0MTIwNTY2IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyODYzNTk5MjQ4IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgyNTk4OTE2NDUxIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNzQ1MTAyNDQ0IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNzQ1MDg2Nzc5IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNzAzOTk0OTkxIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNjk2NjYyNzIwIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNjkzNTMzNTU2IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNTE3NTI4MDAyIiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjgxNDA2NzQ4ODE1IiwiYmxvZ2lkIjoiMTU3NDE1ODkiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&amp;U=JDANCIOCEB&amp;K=c511d5432b1f0f04f2ced5117c5a859ead68e6ec3f6f44f722d0895db56ec5d6&amp;R=http%3A%2F%2Firanbm.tumblr.com%2F"></noscript><script>
+                    (function() {
+                        var s = document.createElement('script');
+                        var el = document.getElementsByTagName('script')[0];
+                        s.src = ('https:' == document.location.protocol ? '/web/20140802181818/https://s' : '/web/20140802181818/http://l') + '.yimg.com/ss/rapid-3.18.1.js';
+                        s.onload = function(){
+                            var YAHOO = window.YAHOO;
+                            if (YAHOO) {
+                                var keys = {
+                                    pd:'/',
+                                    _li:0,
+                                    b_id:15741589,
+                                    i_rad:0,
+                                    i_strm:0
+                                };
+                                var conf = {
+                                                                        spaceid:1197716038,
+                                    client_only:1,
+                                    yql_enabled:false,
+                                    keys:keys,
+                                    nol:1
+                                };
+                                YAHOO.rapid = new YAHOO.i13n.Rapid(conf);
+                            }
+                        };
+                        el.parentNode.insertBefore(s, el);
+                    })();
+                </script><iframe id="tumblr_controls" class="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" src="/web/20140802181818if_/https://secure.assets.tumblr.com/assets/html/iframe/o.html?_v=b53cb2ee4dd73f398b2283f98955f769#src=http%3A%2F%2Fmrmean.tumblr.com%2F&amp;lang=en_US&amp;name=mrmean&amp;avatar=http%3A%2F%2F37.media.tumblr.com%2Favatar_3b20909ba449_64.png&amp;title=MISTER+MEAN&amp;url=http%3A%2F%2Fmrmean.tumblr.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="/web/20140802181818if_/https://www.tumblr.com/assets/html/iframe/teaser.html?_v=59ace5ce306da43ad80c8d8f95fa4c36#src=http%3A%2F%2Fmrmean.tumblr.com%2F&amp;lang=en_US&amp;name=mrmean&amp;avatar=http%3A%2F%2F37.media.tumblr.com%2Favatar_3b20909ba449_64.png&amp;title=MISTER+MEAN&amp;url=http%3A%2F%2Fmrmean.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><script type="text/javascript">
+    (function(Tumblr){
+        var follow_iframe_initialized = false;
+        if (Tumblr.FollowTeaser && Tumblr.PostMessageListener) {
+            // Don't do anything until the first initialize event
+            Tumblr.PostMessageListener.initialize(function(message, origin) {
+                if (follow_iframe_initialized || message.length < 2) return;
+
+                if (message[0] === 'follow_iframe' && message[1] === 'enable') {
+                    Tumblr.FollowTeaser.current_page = 1;
+                    Tumblr.FollowTeaser.infer_infinite_scroll = true;
+                    Tumblr.FollowTeaser.create_from_tumblr_controls("/web/20140802181818/http://assets.tumblr.com\/assets\/html\/iframe\/follow.html?_v=979414759fed9e24ba6f8e4e4db8e9cb");
+                    Tumblr.FollowTeaser.scroll_listener(true);
+                    follow_iframe_initialized = true;
+                }
+            });
+        }
+    })(this.Tumblr || (this.Tumblr = {}));
+</script><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><!-- END TUMBLR CODE -->
+
+</body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 18:18:18 Aug 2, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:45:04 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

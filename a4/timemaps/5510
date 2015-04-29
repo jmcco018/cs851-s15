@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.urbanspoon.com/r/338/1717276/restaurant/Perth/Harvest-Espresso-Victoria-Park>;rel="original"
+,<http://web.archive.org/web/20130114224431/http://www.urbanspoon.com/r/338/1717276/restaurant/Perth/Harvest-Espresso-Victoria-Park>;rel="memento first"; datetime="Mon, 14 Jan 2013 22:44:31 GMT"
+,<http://web.archive.org/web/20130116151434/http://www.urbanspoon.com/r/338/1717276/restaurant/Perth/Harvest-Espresso-Victoria-Park>;rel="memento"; datetime="Wed, 16 Jan 2013 15:14:34 GMT"
+,<http://web.archive.org/web/20130712022930/http://www.urbanspoon.com/r/338/1717276/restaurant/Perth/Harvest-Espresso-Victoria-Park>;rel="memento"; datetime="Fri, 12 Jul 2013 02:29:30 GMT"
+,<http://web.archive.org/web/20131207124113/http://www.urbanspoon.com/r/338/1717276/restaurant/Perth/Harvest-Espresso-Victoria-Park>;rel="memento"; datetime="Sat, 07 Dec 2013 12:41:13 GMT"
+,<http://web.archive.org/web/20140624004407/http://www.urbanspoon.com/r/338/1717276/restaurant/Perth/Harvest-Espresso-Victoria-Park>;rel="memento"; datetime="Tue, 24 Jun 2014 00:44:07 GMT"
+,<http://web.archive.org/web/20140720165932/http://www.urbanspoon.com/r/338/1717276/restaurant/Perth/Harvest-Espresso-Victoria-Park>;rel="memento last"; datetime="Sun, 20 Jul 2014 16:59:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.urbanspoon.com/r/338/1717276/restaurant/Perth/Harvest-Espresso-Victoria-Park>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.urbanspoon.com/r/338/1717276/restaurant/Perth/Harvest-Espresso-Victoria-Park>;rel="self"; type="application/link-format"; from ="Mon, 14 Jan 2013 22:44:31 GMT";until="Sun, 20 Jul 2014 16:59:32 GMT"

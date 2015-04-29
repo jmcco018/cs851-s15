@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:17:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://rt.com/news/227747-balloon-pacific-pilots-journey/>;rel="original"
+,<http://web.archive.org/web/20150406055825/http://rt.com/news/227747-balloon-pacific-pilots-journey/>;rel="memento first"; datetime="Mon, 06 Apr 2015 05:58:25 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://rt.com/news/227747-balloon-pacific-pilots-journey/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://rt.com/news/227747-balloon-pacific-pilots-journey/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 05:58:25 GMT";until="Mon, 06 Apr 2015 05:58:25 GMT"

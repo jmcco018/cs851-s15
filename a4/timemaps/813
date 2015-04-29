@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:23:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thecreativepenn.com/2015/01/29/productive-writer/>;rel="original"
+,<http://web.archive.org/web/20150323081610/http://www.thecreativepenn.com/2015/01/29/productive-writer/>;rel="memento first"; datetime="Mon, 23 Mar 2015 08:16:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thecreativepenn.com/2015/01/29/productive-writer/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thecreativepenn.com/2015/01/29/productive-writer/>;rel="self"; type="application/link-format"; from ="Mon, 23 Mar 2015 08:16:10 GMT";until="Mon, 23 Mar 2015 08:16:10 GMT"

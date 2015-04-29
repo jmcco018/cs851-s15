@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:32:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.runningtothekitchen.com/chopped-carrot-citrus-salad/>;rel="original"
+,<http://web.archive.org/web/20150404150915/http://www.runningtothekitchen.com/chopped-carrot-citrus-salad/>;rel="memento first"; datetime="Sat, 04 Apr 2015 15:09:15 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.runningtothekitchen.com/chopped-carrot-citrus-salad/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.runningtothekitchen.com/chopped-carrot-citrus-salad/>;rel="self"; type="application/link-format"; from ="Sat, 04 Apr 2015 15:09:15 GMT";until="Sat, 04 Apr 2015 15:09:15 GMT"

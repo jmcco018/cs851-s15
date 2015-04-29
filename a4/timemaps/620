@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:19:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://allthingsfulfilling.com/2015/01/30/themes-from-the-bathtub/>;rel="original"
+,<http://web.archive.org/web/20150405155632/http://allthingsfulfilling.com/2015/01/30/themes-from-the-bathtub/>;rel="memento first"; datetime="Sun, 05 Apr 2015 15:56:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://allthingsfulfilling.com/2015/01/30/themes-from-the-bathtub/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://allthingsfulfilling.com/2015/01/30/themes-from-the-bathtub/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 15:56:32 GMT";until="Sun, 05 Apr 2015 15:56:32 GMT"

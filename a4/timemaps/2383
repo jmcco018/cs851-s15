@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:48:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://earthsky.org/space/asteroid-that-flew-past-earth-january-26-2015-has-a-moon>;rel="original"
+,<http://archive.is/20150128134726/http://earthsky.org/space/asteroid-that-flew-past-earth-january-26-2015-has-a-moon>;rel="memento first"; datetime="Wed, 28 Jan 2015 13:47:26 GMT"
+,<http://web.archive.org/web/20150326114816/http://earthsky.org/space/asteroid-that-flew-past-earth-january-26-2015-has-a-moon>;rel="memento last"; datetime="Thu, 26 Mar 2015 11:48:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://earthsky.org/space/asteroid-that-flew-past-earth-january-26-2015-has-a-moon>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://earthsky.org/space/asteroid-that-flew-past-earth-january-26-2015-has-a-moon>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 13:47:26 GMT";until="Thu, 26 Mar 2015 11:48:16 GMT"

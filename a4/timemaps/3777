@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://theconversation.com/secrets-of-the-orchid-mantis-revealed-it-doesnt-mimic-an-orchid-after-all-36715>;rel="original"
+,<http://web.archive.org/web/20150321132729/https://theconversation.com/secrets-of-the-orchid-mantis-revealed-it-doesnt-mimic-an-orchid-after-all-36715>;rel="memento first"; datetime="Sat, 21 Mar 2015 13:27:29 GMT"
+,<http://web.archive.org/web/20150330050026/http://theconversation.com/secrets-of-the-orchid-mantis-revealed-it-doesnt-mimic-an-orchid-after-all-36715>;rel="memento"; datetime="Mon, 30 Mar 2015 05:00:26 GMT"
+,<http://web.archive.org/web/20150407030310/https://theconversation.com/secrets-of-the-orchid-mantis-revealed-it-doesnt-mimic-an-orchid-after-all-36715>;rel="memento last"; datetime="Tue, 07 Apr 2015 03:03:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://theconversation.com/secrets-of-the-orchid-mantis-revealed-it-doesnt-mimic-an-orchid-after-all-36715>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://theconversation.com/secrets-of-the-orchid-mantis-revealed-it-doesnt-mimic-an-orchid-after-all-36715>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 13:27:29 GMT";until="Tue, 07 Apr 2015 03:03:10 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ebay.com/itm/like/121538060518?item=121538060518&lgeo=1&vectorid=229466&rmvSB=true>;rel="original"
+,<//wayback.archive-it.org/all/20150110083949/http://www.ebay.com/itm/like/121538060518?item=121538060518&lgeo=1&vectorid=229466&rmvSB=true>;rel="memento first"; datetime="Sat, 10 Jan 2015 08:39:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ebay.com/itm/like/121538060518?item=121538060518&lgeo=1&vectorid=229466&rmvSB=true>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ebay.com/itm/like/121538060518?item=121538060518&lgeo=1&vectorid=229466&rmvSB=true>;rel="self"; type="application/link-format"; from ="Sat, 10 Jan 2015 08:39:49 GMT";until="Sat, 10 Jan 2015 08:39:49 GMT"

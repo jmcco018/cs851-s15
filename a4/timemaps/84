@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:10:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://plus.google.com/106428240276364211288/posts/URh4FicVbaH?pid=6110079431605214914&oid=106428240276364211288>;rel="original"
+,<http://archive.is/20150130190936/https://plus.google.com/106428240276364211288/posts/URh4FicVbaH?pid=6110079431605214914&oid=106428240276364211288>;rel="memento first"; datetime="Fri, 30 Jan 2015 19:09:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://plus.google.com/106428240276364211288/posts/URh4FicVbaH?pid=6110079431605214914&oid=106428240276364211288>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://plus.google.com/106428240276364211288/posts/URh4FicVbaH?pid=6110079431605214914&oid=106428240276364211288>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 19:09:36 GMT";until="Fri, 30 Jan 2015 19:09:36 GMT"

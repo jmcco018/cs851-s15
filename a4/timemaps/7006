@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:12:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://extremehomes.living-tv.com/videos/las-vegas-swimming-pool-jaw-drop>;rel="original"
+,<http://web.archive.org/web/20150317041512/http://extremehomes.living-tv.com/videos/las-vegas-swimming-pool-jaw-drop/>;rel="memento first"; datetime="Tue, 17 Mar 2015 04:15:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://extremehomes.living-tv.com/videos/las-vegas-swimming-pool-jaw-drop>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://extremehomes.living-tv.com/videos/las-vegas-swimming-pool-jaw-drop>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 04:15:12 GMT";until="Tue, 17 Mar 2015 04:15:12 GMT"

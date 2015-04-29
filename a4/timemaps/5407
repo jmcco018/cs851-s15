@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="original"
+,<http://web.archive.org/web/20150123180334/http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="memento first"; datetime="Fri, 23 Jan 2015 18:03:34 GMT"
+,<http://archive.is/20150123184847/http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="memento"; datetime="Fri, 23 Jan 2015 18:48:47 GMT"
+,<http://archive.is/20150123203510/http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="memento"; datetime="Fri, 23 Jan 2015 20:35:10 GMT"
+,<http://archive.is/20150124004504/http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="memento"; datetime="Sat, 24 Jan 2015 00:45:04 GMT"
+,<http://web.archive.org/web/20150130125656/http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="memento"; datetime="Fri, 30 Jan 2015 12:56:56 GMT"
+,<http://web.archive.org/web/20150212120143/http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="memento"; datetime="Thu, 12 Feb 2015 12:01:43 GMT"
+,<http://web.archive.org/web/20150315062058/http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="memento last"; datetime="Sun, 15 Mar 2015 06:20:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 18:03:34 GMT";until="Sun, 15 Mar 2015 06:20:58 GMT"

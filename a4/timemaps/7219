@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:15:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://deadline.com/2015/01/problem-child-comedy-pilot-order-nbc-1201362692/>;rel="original"
+,<http://archive.is/20150129232635/http://deadline.com/2015/01/problem-child-comedy-pilot-order-nbc-1201362692/>;rel="memento first"; datetime="Thu, 29 Jan 2015 23:26:35 GMT"
+,<http://web.archive.org/web/20150402110512/http://deadline.com/2015/01/problem-child-comedy-pilot-order-nbc-1201362692/>;rel="memento"; datetime="Thu, 02 Apr 2015 11:05:12 GMT"
+,<http://web.archive.org/web/20150405012557/http://deadline.com/2015/01/problem-child-comedy-pilot-order-nbc-1201362692>;rel="memento last"; datetime="Sun, 05 Apr 2015 01:25:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://deadline.com/2015/01/problem-child-comedy-pilot-order-nbc-1201362692/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://deadline.com/2015/01/problem-child-comedy-pilot-order-nbc-1201362692/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 23:26:35 GMT";until="Sun, 05 Apr 2015 01:25:57 GMT"

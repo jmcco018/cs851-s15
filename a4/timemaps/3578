@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:10:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://dressagetoday.com/article/dressage-101-26342>;rel="original"
+,<http://web.archive.org/web/20150317112840/http://dressagetoday.com/article/dressage-101-26342>;rel="memento first"; datetime="Tue, 17 Mar 2015 11:28:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://dressagetoday.com/article/dressage-101-26342>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://dressagetoday.com/article/dressage-101-26342>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 11:28:40 GMT";until="Tue, 17 Mar 2015 11:28:40 GMT"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.streethunters.net/blog/2015/01/30/romeo-dumpit-street-photo/>;rel="original"
+,<http://web.archive.org/web/20150405034943/http://www.streethunters.net/blog/2015/01/30/romeo-dumpit-street-photo/>;rel="memento first"; datetime="Sun, 05 Apr 2015 03:49:43 GMT"
+,<http://web.archive.org/web/20150408180111/http://www.streethunters.net/blog/2015/01/30/romeo-dumpit-street-photo/>;rel="memento last"; datetime="Wed, 08 Apr 2015 18:01:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.streethunters.net/blog/2015/01/30/romeo-dumpit-street-photo/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.streethunters.net/blog/2015/01/30/romeo-dumpit-street-photo/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 03:49:43 GMT";until="Wed, 08 Apr 2015 18:01:11 GMT"

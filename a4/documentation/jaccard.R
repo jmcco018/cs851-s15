@@ -1,0 +1,5 @@
+#data <- as.matrix(read.table("redirectsData",header=TRUE, sep=","))
+args <- commandArgs(trailingOnly = TRUE)
+data <- read.table(args[1],header=FALSE,sep=",")
+pdf(args[2], height=4.0, width=4.5)
+plot(as.matrix(data), type="o", main="Jaccard",col="blue",ylab="Jaccard Distance",xlab="Time")

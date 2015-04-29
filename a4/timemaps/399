@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:15:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="original"
+,<http://archive.is/20150129164016/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="memento first"; datetime="Thu, 29 Jan 2015 16:40:16 GMT"
+,<http://archive.is/20150129174023/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="memento"; datetime="Thu, 29 Jan 2015 17:40:23 GMT"
+,<http://archive.is/20150129235313/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="memento"; datetime="Thu, 29 Jan 2015 23:53:13 GMT"
+,<http://archive.is/20150130094531/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="memento"; datetime="Fri, 30 Jan 2015 09:45:31 GMT"
+,<http://web.archive.org/web/20150130114518/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="memento"; datetime="Fri, 30 Jan 2015 11:45:18 GMT"
+,<http://web.archive.org/web/20150130114545/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="memento"; datetime="Fri, 30 Jan 2015 11:45:45 GMT"
+,<http://web.archive.org/web/20150210161531/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="memento"; datetime="Tue, 10 Feb 2015 16:15:31 GMT"
+,<http://web.archive.org/web/20150406125107/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="memento last"; datetime="Mon, 06 Apr 2015 12:51:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.5.ua/ato-na-shodi/myjenko-ykrajna-ne-maye-dokaziv-masovoj-ychasti-zbroinih-sil-rf-y-boyah-na-donbasi-68687.html>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 16:40:16 GMT";until="Mon, 06 Apr 2015 12:51:07 GMT"

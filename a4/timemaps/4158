@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:24:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.groceryshopforfree.com/10-free-custom-cards-or-free-magnet-from-shutterfly/>;rel="original"
+,<http://web.archive.org/web/20150406035856/http://www.groceryshopforfree.com/10-free-custom-cards-or-free-magnet-from-shutterfly/>;rel="memento first"; datetime="Mon, 06 Apr 2015 03:58:56 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.groceryshopforfree.com/10-free-custom-cards-or-free-magnet-from-shutterfly/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.groceryshopforfree.com/10-free-custom-cards-or-free-magnet-from-shutterfly/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 03:58:56 GMT";until="Mon, 06 Apr 2015 03:58:56 GMT"

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="original"
+,<http://web.archive.org/web/20140325202903/http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="memento first"; datetime="Tue, 25 Mar 2014 20:29:03 GMT"
+,<http://web.archive.org/web/20140327221244/http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="memento"; datetime="Thu, 27 Mar 2014 22:12:44 GMT"
+,<http://web.archive.org/web/20140702033143/http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="memento"; datetime="Wed, 02 Jul 2014 03:31:43 GMT"
+,<http://web.archive.org/web/20140702211456/http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="memento"; datetime="Wed, 02 Jul 2014 21:14:56 GMT"
+,<http://web.archive.org/web/20140812044403/http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="memento"; datetime="Tue, 12 Aug 2014 04:44:03 GMT"
+,<//wayback.archive-it.org/all/20150108141133/http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="memento"; datetime="Thu, 08 Jan 2015 14:11:33 GMT"
+,<http://web.archive.org/web/20150420165710/http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="memento last"; datetime="Mon, 20 Apr 2015 16:57:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thepetitionsite.com/805/082/951/stop-killing-dogs-for-annual-yulin-dog-eating-festival/>;rel="self"; type="application/link-format"; from ="Tue, 25 Mar 2014 20:29:03 GMT";until="Mon, 20 Apr 2015 16:57:10 GMT"

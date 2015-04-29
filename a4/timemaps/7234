@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:15:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.adweek.com/news/television/how-foxs-marketing-fanned-flames-empire-one-biggest-new-shows-years-162612>;rel="original"
+,<http://web.archive.org/web/20150202011704/http://www.adweek.com/news/television/how-foxs-marketing-fanned-flames-empire-one-biggest-new-shows-years-162612>;rel="memento first"; datetime="Mon, 02 Feb 2015 01:17:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.adweek.com/news/television/how-foxs-marketing-fanned-flames-empire-one-biggest-new-shows-years-162612>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.adweek.com/news/television/how-foxs-marketing-fanned-flames-empire-one-biggest-new-shows-years-162612>;rel="self"; type="application/link-format"; from ="Mon, 02 Feb 2015 01:17:04 GMT";until="Mon, 02 Feb 2015 01:17:04 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:42:05 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://goodsasyst.net/cell-phones/huawei/luxury-crystal-rhinestone-camellia-leather-card-flip-card-holder-wallet-case-cover-for-huawei-w1-ascend-w1-h883g-straight-talk-tracfone-net-10-rosedark-pink.html>;rel="original"
+,<http://web.archive.org/web/20150406005124/http://goodsasyst.net/cell-phones/huawei/luxury-crystal-rhinestone-camellia-leather-card-flip-card-holder-wallet-case-cover-for-huawei-w1-ascend-w1-h883g-straight-talk-tracfone-net-10-rosedark-pink.html>;rel="memento first"; datetime="Mon, 06 Apr 2015 00:51:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://goodsasyst.net/cell-phones/huawei/luxury-crystal-rhinestone-camellia-leather-card-flip-card-holder-wallet-case-cover-for-huawei-w1-ascend-w1-h883g-straight-talk-tracfone-net-10-rosedark-pink.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://goodsasyst.net/cell-phones/huawei/luxury-crystal-rhinestone-camellia-leather-card-flip-card-holder-wallet-case-cover-for-huawei-w1-ascend-w1-h883g-straight-talk-tracfone-net-10-rosedark-pink.html>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 00:51:24 GMT";until="Mon, 06 Apr 2015 00:51:24 GMT"

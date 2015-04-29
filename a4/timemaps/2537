@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bbc.co.uk/news/science-environment-30929047>;rel="original"
+,<http://web.archive.org/web/20150122102259/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento first"; datetime="Thu, 22 Jan 2015 10:22:59 GMT"
+,<http://web.archive.org/web/20150123174650/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento"; datetime="Fri, 23 Jan 2015 17:46:50 GMT"
+,<http://web.archive.org/web/20150124232220/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento"; datetime="Sat, 24 Jan 2015 23:22:20 GMT"
+,<http://web.archive.org/web/20150125050211/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento"; datetime="Sun, 25 Jan 2015 05:02:11 GMT"
+,<http://web.archive.org/web/20150126045209/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento"; datetime="Mon, 26 Jan 2015 04:52:09 GMT"
+,<http://web.archive.org/web/20150127101631/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento"; datetime="Tue, 27 Jan 2015 10:16:31 GMT"
+,<http://web.archive.org/web/20150128133542/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento"; datetime="Wed, 28 Jan 2015 13:35:42 GMT"
+,<http://web.archive.org/web/20150225092539/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento"; datetime="Wed, 25 Feb 2015 09:25:39 GMT"
+,<http://web.archive.org/web/20150319033410/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento"; datetime="Thu, 19 Mar 2015 03:34:10 GMT"
+,<//wayback.archive-it.org/all/20150321011258/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento"; datetime="Sat, 21 Mar 2015 01:12:58 GMT"
+,<http://web.archive.org/web/20150404182654/http://www.bbc.co.uk/news/science-environment-30929047>;rel="memento last"; datetime="Sat, 04 Apr 2015 18:26:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bbc.co.uk/news/science-environment-30929047>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bbc.co.uk/news/science-environment-30929047>;rel="self"; type="application/link-format"; from ="Thu, 22 Jan 2015 10:22:59 GMT";until="Sat, 04 Apr 2015 18:26:54 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:02:09 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.etsy.com/listing/150834222/luxe-gemstone-ethnic-statement-necklace>;rel="original"
+,<http://web.archive.org/web/20150109015603/https://www.etsy.com/listing/150834222/luxe-gemstone-ethnic-statement-necklace>;rel="memento first"; datetime="Fri, 09 Jan 2015 01:56:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.etsy.com/listing/150834222/luxe-gemstone-ethnic-statement-necklace>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.etsy.com/listing/150834222/luxe-gemstone-ethnic-statement-necklace>;rel="self"; type="application/link-format"; from ="Fri, 09 Jan 2015 01:56:03 GMT";until="Fri, 09 Jan 2015 01:56:03 GMT"

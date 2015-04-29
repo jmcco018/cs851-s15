@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:41:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="original"
+,<http://web.archive.org/web/20150113090250/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento first"; datetime="Tue, 13 Jan 2015 09:02:50 GMT"
+,<http://archive.is/20150113094849/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 13 Jan 2015 09:48:49 GMT"
+,<http://web.archive.org/web/20150113131159/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 13 Jan 2015 13:11:59 GMT"
+,<http://web.archive.org/web/20150113185049/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 13 Jan 2015 18:50:49 GMT"
+,<http://archive.is/20150113233739/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 13 Jan 2015 23:37:39 GMT"
+,<http://web.archive.org/web/20150113233840/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 13 Jan 2015 23:38:40 GMT"
+,<http://web.archive.org/web/20150114013812/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Wed, 14 Jan 2015 01:38:12 GMT"
+,<http://webcitation.org/query?id=1421328287832932>;rel="memento"; datetime="Thu, 15 Jan 2015 13:25:11 GMT"
+,<http://web.archive.org/web/20150115143453/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Thu, 15 Jan 2015 14:34:53 GMT"
+,<http://web.archive.org/web/20150116114321/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Fri, 16 Jan 2015 11:43:21 GMT"
+,<http://web.archive.org/web/20150120011146/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 20 Jan 2015 01:11:46 GMT"
+,<http://web.archive.org/web/20150120062846/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 20 Jan 2015 06:28:46 GMT"
+,<http://web.archive.org/web/20150123071108/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Fri, 23 Jan 2015 07:11:08 GMT"
+,<http://web.archive.org/web/20150128075759/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Wed, 28 Jan 2015 07:57:59 GMT"
+,<http://web.archive.org/web/20150216192721/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Mon, 16 Feb 2015 19:27:21 GMT"
+,<http://web.archive.org/web/20150224051325/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 24 Feb 2015 05:13:25 GMT"
+,<http://archive.is/20150227233209/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Fri, 27 Feb 2015 23:32:09 GMT"
+,<http://web.archive.org/web/20150310091306/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 10 Mar 2015 09:13:06 GMT"
+,<http://web.archive.org/web/20150314015643/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Sat, 14 Mar 2015 01:56:43 GMT"
+,<http://web.archive.org/web/20150315083326/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Sun, 15 Mar 2015 08:33:26 GMT"
+,<http://web.archive.org/web/20150317212439/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 17 Mar 2015 21:24:39 GMT"
+,<http://web.archive.org/web/20150323165628/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Mon, 23 Mar 2015 16:56:28 GMT"
+,<http://web.archive.org/web/20150324050202/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento"; datetime="Tue, 24 Mar 2015 05:02:02 GMT"
+,<http://web.archive.org/web/20150414035133/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="memento last"; datetime="Tue, 14 Apr 2015 03:51:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://boingboing.net/2015/01/13/what-david-cameron-just-propos.html>;rel="self"; type="application/link-format"; from ="Tue, 13 Jan 2015 09:02:50 GMT";until="Tue, 14 Apr 2015 03:51:33 GMT"

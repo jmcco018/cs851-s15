@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:18:46 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mindbodygreen.com/0-14354/10-green-smoothies-that-wont-break-the-bank.html>;rel="original"
+,<http://web.archive.org/web/20140712033424/http://www.mindbodygreen.com/0-14354/10-green-smoothies-that-wont-break-the-bank.html>;rel="memento first"; datetime="Sat, 12 Jul 2014 03:34:24 GMT"
+,<http://web.archive.org/web/20140714012837/http://www.mindbodygreen.com/0-14354/10-green-smoothies-that-wont-break-the-bank.html>;rel="memento"; datetime="Mon, 14 Jul 2014 01:28:37 GMT"
+,<http://web.archive.org/web/20140915010704/http://www.mindbodygreen.com/0-14354/10-green-smoothies-that-wont-break-the-bank.html>;rel="memento last"; datetime="Mon, 15 Sep 2014 01:07:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mindbodygreen.com/0-14354/10-green-smoothies-that-wont-break-the-bank.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mindbodygreen.com/0-14354/10-green-smoothies-that-wont-break-the-bank.html>;rel="self"; type="application/link-format"; from ="Sat, 12 Jul 2014 03:34:24 GMT";until="Mon, 15 Sep 2014 01:07:04 GMT"

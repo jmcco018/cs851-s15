@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:28:43 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://time.com/3687893/volcanoes-climate-change/>;rel="original"
+,<http://web.archive.org/web/20150129234623/http://time.com/3687893/volcanoes-climate-change/>;rel="memento first"; datetime="Thu, 29 Jan 2015 23:46:23 GMT"
+,<http://web.archive.org/web/20150130015320/http://time.com/3687893/volcanoes-climate-change/>;rel="memento"; datetime="Fri, 30 Jan 2015 01:53:20 GMT"
+,<http://archive.is/20150130184100/http://time.com/3687893/volcanoes-climate-change/>;rel="memento"; datetime="Fri, 30 Jan 2015 18:41:00 GMT"
+,<http://web.archive.org/web/20150310032737/http://time.com/3687893/volcanoes-climate-change/>;rel="memento"; datetime="Tue, 10 Mar 2015 03:27:37 GMT"
+,<http://web.archive.org/web/20150317052553/http://time.com/3687893/volcanoes-climate-change/>;rel="memento"; datetime="Tue, 17 Mar 2015 05:25:53 GMT"
+,<http://web.archive.org/web/20150324034618/http://time.com/3687893/volcanoes-climate-change/>;rel="memento"; datetime="Tue, 24 Mar 2015 03:46:18 GMT"
+,<http://web.archive.org/web/20150331033212/http://time.com/3687893/volcanoes-climate-change/>;rel="memento"; datetime="Tue, 31 Mar 2015 03:32:12 GMT"
+,<http://web.archive.org/web/20150407074747/http://time.com/3687893/volcanoes-climate-change>;rel="memento last"; datetime="Tue, 07 Apr 2015 07:47:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://time.com/3687893/volcanoes-climate-change/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://time.com/3687893/volcanoes-climate-change/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 23:46:23 GMT";until="Tue, 07 Apr 2015 07:47:47 GMT"

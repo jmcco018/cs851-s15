@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://weburbanist.com/2015/01/28/skinny-portable-house-for-singles-takes-one-day-to-build/>;rel="original"
+,<http://archive.is/20150130052734/http://weburbanist.com/2015/01/28/skinny-portable-house-for-singles-takes-one-day-to-build/>;rel="memento first"; datetime="Fri, 30 Jan 2015 05:27:34 GMT"
+,<http://web.archive.org/web/20150319202930/http://weburbanist.com/2015/01/28/skinny-portable-house-for-singles-takes-one-day-to-build/>;rel="memento"; datetime="Thu, 19 Mar 2015 20:29:30 GMT"
+,<http://web.archive.org/web/20150405213535/http://weburbanist.com/2015/01/28/skinny-portable-house-for-singles-takes-one-day-to-build/>;rel="memento last"; datetime="Sun, 05 Apr 2015 21:35:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://weburbanist.com/2015/01/28/skinny-portable-house-for-singles-takes-one-day-to-build/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://weburbanist.com/2015/01/28/skinny-portable-house-for-singles-takes-one-day-to-build/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 05:27:34 GMT";until="Sun, 05 Apr 2015 21:35:35 GMT"

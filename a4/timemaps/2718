@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:54:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theportugalnews.com/news/portuguese-artist-to-headline-at-major-festival-in-former-colony/33833>;rel="original"
+,<http://web.archive.org/web/20150204182556/http://www.theportugalnews.com/news/portuguese-artist-to-headline-at-major-festival-in-former-colony/33833>;rel="memento first"; datetime="Wed, 04 Feb 2015 18:25:56 GMT"
+,<http://web.archive.org/web/20150204195411/http://theportugalnews.com/news/portuguese-artist-to-headline-at-major-festival-in-former-colony/33833>;rel="memento last"; datetime="Wed, 04 Feb 2015 19:54:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theportugalnews.com/news/portuguese-artist-to-headline-at-major-festival-in-former-colony/33833>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theportugalnews.com/news/portuguese-artist-to-headline-at-major-festival-in-former-colony/33833>;rel="self"; type="application/link-format"; from ="Wed, 04 Feb 2015 18:25:56 GMT";until="Wed, 04 Feb 2015 19:54:11 GMT"

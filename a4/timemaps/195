@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:12:30 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/us/album/wassup-single/id961218030>;rel="original"
+,<//wayback.archive-it.org/all/20150401013550/https://itunes.apple.com/us/album/wassup-single/id961218030>;rel="memento first"; datetime="Wed, 01 Apr 2015 01:35:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/us/album/wassup-single/id961218030>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/us/album/wassup-single/id961218030>;rel="self"; type="application/link-format"; from ="Wed, 01 Apr 2015 01:35:50 GMT";until="Wed, 01 Apr 2015 01:35:50 GMT"

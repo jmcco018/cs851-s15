@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:59:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="original"
+,<http://web.archive.org/web/20110925233442/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento first"; datetime="Sun, 25 Sep 2011 23:34:42 GMT"
+,<http://web.archive.org/web/20111026081024/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Wed, 26 Oct 2011 08:10:24 GMT"
+,<http://web.archive.org/web/20111125203935/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Fri, 25 Nov 2011 20:39:35 GMT"
+,<http://web.archive.org/web/20111227024235/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Tue, 27 Dec 2011 02:42:35 GMT"
+,<http://web.archive.org/web/20120130115357/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Mon, 30 Jan 2012 11:53:57 GMT"
+,<http://web.archive.org/web/20120302172049/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Fri, 02 Mar 2012 17:20:49 GMT"
+,<http://web.archive.org/web/20120419083042/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Thu, 19 Apr 2012 08:30:42 GMT"
+,<http://web.archive.org/web/20120627171113/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Wed, 27 Jun 2012 17:11:13 GMT"
+,<http://web.archive.org/web/20120830015804/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Thu, 30 Aug 2012 01:58:04 GMT"
+,<http://web.archive.org/web/20121105163338/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Mon, 05 Nov 2012 16:33:38 GMT"
+,<http://web.archive.org/web/20121231073923/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento"; datetime="Mon, 31 Dec 2012 07:39:23 GMT"
+,<http://web.archive.org/web/20130601063429/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="memento last"; datetime="Sat, 01 Jun 2013 06:34:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.howtoimproveyourgolfgame.co.uk/PowerGolfTrainingProgram.html>;rel="self"; type="application/link-format"; from ="Sun, 25 Sep 2011 23:34:42 GMT";until="Sat, 01 Jun 2013 06:34:29 GMT"

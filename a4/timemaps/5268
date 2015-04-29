@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:42:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.handsoffcain.info/news/index.php?iddocumento=19300593>;rel="original"
+,<http://web.archive.org/web/20150204104900/http://www.handsoffcain.info/news/index.php?iddocumento=19300593>;rel="memento first"; datetime="Wed, 04 Feb 2015 10:49:00 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.handsoffcain.info/news/index.php?iddocumento=19300593>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.handsoffcain.info/news/index.php?iddocumento=19300593>;rel="self"; type="application/link-format"; from ="Wed, 04 Feb 2015 10:49:00 GMT";until="Wed, 04 Feb 2015 10:49:00 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:55:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mediamatters.org/blog/2015/01/29/hot-seat-how-will-2016-campaign-press-handle-go/202302>;rel="original"
+,<http://web.archive.org/web/20150129163725/http://mediamatters.org/blog/2015/01/29/hot-seat-how-will-2016-campaign-press-handle-go/202302>;rel="memento first"; datetime="Thu, 29 Jan 2015 16:37:25 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mediamatters.org/blog/2015/01/29/hot-seat-how-will-2016-campaign-press-handle-go/202302>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mediamatters.org/blog/2015/01/29/hot-seat-how-will-2016-campaign-press-handle-go/202302>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 16:37:25 GMT";until="Thu, 29 Jan 2015 16:37:25 GMT"

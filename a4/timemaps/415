@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:15:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.army.mil/article/141860/Army_EOD_troops_train_with_Congolese_forces_in_Africa/>;rel="original"
+,<http://web.archive.org/web/20150201195123/http://www.army.mil/article/141860/Army_EOD_troops_train_with_Congolese_forces_in_Africa/>;rel="memento first"; datetime="Sun, 01 Feb 2015 19:51:23 GMT"
+,<//wayback.archive-it.org/all/20150208032053/http://www.army.mil/article/141860/Army_EOD_troops_train_with_Congolese_forces_in_Africa/>;rel="memento"; datetime="Sun, 08 Feb 2015 03:20:53 GMT"
+,<http://web.archive.org/web/20150215112523/http://www.army.mil/article/141860/Army_EOD_troops_train_with_Congolese_forces_in_Africa/>;rel="memento"; datetime="Sun, 15 Feb 2015 11:25:23 GMT"
+,<http://web.archive.org/web/20150301150925/http://www.army.mil/article/141860/Army_EOD_troops_train_with_Congolese_forces_in_Africa/>;rel="memento last"; datetime="Sun, 01 Mar 2015 15:09:25 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.army.mil/article/141860/Army_EOD_troops_train_with_Congolese_forces_in_Africa/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.army.mil/article/141860/Army_EOD_troops_train_with_Congolese_forces_in_Africa/>;rel="self"; type="application/link-format"; from ="Sun, 01 Feb 2015 19:51:23 GMT";until="Sun, 01 Mar 2015 15:09:25 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:57:59 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blog.crashdump.io/hello-n2o.html>;rel="original"
+,<http://archive.is/20150106161155/http://blog.crashdump.io/hello-n2o.html>;rel="memento first"; datetime="Tue, 06 Jan 2015 16:11:55 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blog.crashdump.io/hello-n2o.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blog.crashdump.io/hello-n2o.html>;rel="self"; type="application/link-format"; from ="Tue, 06 Jan 2015 16:11:55 GMT";until="Tue, 06 Jan 2015 16:11:55 GMT"

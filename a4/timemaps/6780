@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:08:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://artspiritvillage.com/2015/01/14/climbing-the-golden-staircase/>;rel="original"
+,<http://web.archive.org/web/20150405212132/http://artspiritvillage.com/2015/01/14/climbing-the-golden-staircase/>;rel="memento first"; datetime="Sun, 05 Apr 2015 21:21:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://artspiritvillage.com/2015/01/14/climbing-the-golden-staircase/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://artspiritvillage.com/2015/01/14/climbing-the-golden-staircase/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 21:21:32 GMT";until="Sun, 05 Apr 2015 21:21:32 GMT"

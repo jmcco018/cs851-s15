@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:02:30 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://spectrum.ieee.org/semiconductors/materials/what-will-electronics-be-made-of-silk-and-snails-and-the-eggs-of-quails>;rel="original"
+,<http://web.archive.org/web/20150315032952/http://spectrum.ieee.org/semiconductors/materials/what-will-electronics-be-made-of-silk-and-snails-and-the-eggs-of-quails>;rel="memento first"; datetime="Sun, 15 Mar 2015 03:29:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://spectrum.ieee.org/semiconductors/materials/what-will-electronics-be-made-of-silk-and-snails-and-the-eggs-of-quails>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://spectrum.ieee.org/semiconductors/materials/what-will-electronics-be-made-of-silk-and-snails-and-the-eggs-of-quails>;rel="self"; type="application/link-format"; from ="Sun, 15 Mar 2015 03:29:52 GMT";until="Sun, 15 Mar 2015 03:29:52 GMT"

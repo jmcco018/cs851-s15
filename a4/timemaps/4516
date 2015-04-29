@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:30:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.emptymirrorbooks.com/features/poems/poems-by-conley-lowrance.html>;rel="original"
+,<http://web.archive.org/web/20150329215152/http://www.emptymirrorbooks.com/features/poems/poems-by-conley-lowrance.html>;rel="memento first"; datetime="Sun, 29 Mar 2015 21:51:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.emptymirrorbooks.com/features/poems/poems-by-conley-lowrance.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.emptymirrorbooks.com/features/poems/poems-by-conley-lowrance.html>;rel="self"; type="application/link-format"; from ="Sun, 29 Mar 2015 21:51:52 GMT";until="Sun, 29 Mar 2015 21:51:52 GMT"

@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:44:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="original"
+,<http://web.archive.org/web/20130925135525/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento first"; datetime="Wed, 25 Sep 2013 13:55:25 GMT"
+,<http://web.archive.org/web/20130926143334/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Thu, 26 Sep 2013 14:33:34 GMT"
+,<http://web.archive.org/web/20130927103631/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Fri, 27 Sep 2013 10:36:31 GMT"
+,<http://web.archive.org/web/20131001112244/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Tue, 01 Oct 2013 11:22:44 GMT"
+,<http://web.archive.org/web/20131203015931/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Tue, 03 Dec 2013 01:59:31 GMT"
+,<http://web.archive.org/web/20140327192821/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Thu, 27 Mar 2014 19:28:21 GMT"
+,<http://web.archive.org/web/20140418213115/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk?>;rel="memento"; datetime="Fri, 18 Apr 2014 21:31:15 GMT"
+,<http://web.archive.org/web/20140420062850/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Sun, 20 Apr 2014 06:28:50 GMT"
+,<http://web.archive.org/web/20140628224020/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Sat, 28 Jun 2014 22:40:20 GMT"
+,<http://web.archive.org/web/20141111013920/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Tue, 11 Nov 2014 01:39:20 GMT"
+,<http://web.archive.org/web/20150121045759/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Wed, 21 Jan 2015 04:57:59 GMT"
+,<http://web.archive.org/web/20150122071645/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Thu, 22 Jan 2015 07:16:45 GMT"
+,<http://web.archive.org/web/20150123083231/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Fri, 23 Jan 2015 08:32:31 GMT"
+,<http://web.archive.org/web/20150124083442/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Sat, 24 Jan 2015 08:34:42 GMT"
+,<http://web.archive.org/web/20150125090530/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Sun, 25 Jan 2015 09:05:30 GMT"
+,<http://web.archive.org/web/20150126103722/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Mon, 26 Jan 2015 10:37:22 GMT"
+,<http://web.archive.org/web/20150127111003/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Tue, 27 Jan 2015 11:10:03 GMT"
+,<http://web.archive.org/web/20150128111226/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Wed, 28 Jan 2015 11:12:26 GMT"
+,<http://web.archive.org/web/20150129114137/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento"; datetime="Thu, 29 Jan 2015 11:41:37 GMT"
+,<http://web.archive.org/web/20150318105550/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="memento last"; datetime="Wed, 18 Mar 2015 10:55:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://greatist.com/happiness/ultimate-guide-to-feng-shui-for-desk>;rel="self"; type="application/link-format"; from ="Wed, 25 Sep 2013 13:55:25 GMT";until="Wed, 18 Mar 2015 10:55:50 GMT"

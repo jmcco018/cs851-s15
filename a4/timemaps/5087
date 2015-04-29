@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.stampstampede.org/pages/about-stamping>;rel="original"
+,<http://web.archive.org/web/20150316123729/http://www.stampstampede.org/pages/about-stamping>;rel="memento first"; datetime="Mon, 16 Mar 2015 12:37:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.stampstampede.org/pages/about-stamping>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.stampstampede.org/pages/about-stamping>;rel="self"; type="application/link-format"; from ="Mon, 16 Mar 2015 12:37:29 GMT";until="Mon, 16 Mar 2015 12:37:29 GMT"

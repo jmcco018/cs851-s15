@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:15:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blogs.scientificamerican.com/observations/2015/01/27/planet-hunters-bet-big-on-a-small-telescope-to-image-alien-earths/>;rel="original"
+,<http://web.archive.org/web/20150128161814/http://blogs.scientificamerican.com/observations/2015/01/27/planet-hunters-bet-big-on-a-small-telescope-to-image-alien-earths/>;rel="memento first"; datetime="Wed, 28 Jan 2015 16:18:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blogs.scientificamerican.com/observations/2015/01/27/planet-hunters-bet-big-on-a-small-telescope-to-image-alien-earths/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blogs.scientificamerican.com/observations/2015/01/27/planet-hunters-bet-big-on-a-small-telescope-to-image-alien-earths/>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 16:18:14 GMT";until="Wed, 28 Jan 2015 16:18:14 GMT"

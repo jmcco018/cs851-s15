@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:33:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="original"
+,<http://web.archive.org/web/20120517132317/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento first"; datetime="Thu, 17 May 2012 13:23:17 GMT"
+,<http://web.archive.org/web/20121008192404/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Mon, 08 Oct 2012 19:24:04 GMT"
+,<http://web.archive.org/web/20121111081353/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Sun, 11 Nov 2012 08:13:53 GMT"
+,<http://web.archive.org/web/20130224074146/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Sun, 24 Feb 2013 07:41:46 GMT"
+,<http://web.archive.org/web/20130809201804/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Fri, 09 Aug 2013 20:18:04 GMT"
+,<http://web.archive.org/web/20131209112105/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Mon, 09 Dec 2013 11:21:05 GMT"
+,<http://web.archive.org/web/20140222013559/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Sat, 22 Feb 2014 01:35:59 GMT"
+,<http://archive.is/20140223190733/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Sun, 23 Feb 2014 19:07:33 GMT"
+,<http://web.archive.org/web/20140328194331/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Fri, 28 Mar 2014 19:43:31 GMT"
+,<http://web.archive.org/web/20140628062435/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Sat, 28 Jun 2014 06:24:35 GMT"
+,<http://web.archive.org/web/20150314015605/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento"; datetime="Sat, 14 Mar 2015 01:56:05 GMT"
+,<http://web.archive.org/web/20150321113559/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="memento last"; datetime="Sat, 21 Mar 2015 11:35:59 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree>;rel="self"; type="application/link-format"; from ="Thu, 17 May 2012 13:23:17 GMT";until="Sat, 21 Mar 2015 11:35:59 GMT"

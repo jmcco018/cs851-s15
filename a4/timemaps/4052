@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:22:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.pinkvilla.com/entertainmenttags/katrina-kaif/katrina-kaif-resumes-shooting-kashmir-fitoor-cast-today>;rel="original"
+,<http://web.archive.org/web/20150324165548/http://www.pinkvilla.com/entertainmenttags/katrina-kaif/katrina-kaif-resumes-shooting-kashmir-fitoor-cast-today>;rel="memento first"; datetime="Tue, 24 Mar 2015 16:55:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.pinkvilla.com/entertainmenttags/katrina-kaif/katrina-kaif-resumes-shooting-kashmir-fitoor-cast-today>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.pinkvilla.com/entertainmenttags/katrina-kaif/katrina-kaif-resumes-shooting-kashmir-fitoor-cast-today>;rel="self"; type="application/link-format"; from ="Tue, 24 Mar 2015 16:55:48 GMT";until="Tue, 24 Mar 2015 16:55:48 GMT"

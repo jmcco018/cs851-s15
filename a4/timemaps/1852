@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:40:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162>;rel="original"
+,<http://archive.is/20150128184900/http://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162>;rel="memento first"; datetime="Wed, 28 Jan 2015 18:49:00 GMT"
+,<http://web.archive.org/web/20150129045522/http://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162>;rel="memento"; datetime="Thu, 29 Jan 2015 04:55:22 GMT"
+,<http://web.archive.org/web/20150203043217/http://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162>;rel="memento"; datetime="Tue, 03 Feb 2015 04:32:17 GMT"
+,<http://web.archive.org/web/20150312091538/http://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162>;rel="memento"; datetime="Thu, 12 Mar 2015 09:15:38 GMT"
+,<http://web.archive.org/web/20150313112941/http://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162>;rel="memento"; datetime="Fri, 13 Mar 2015 11:29:41 GMT"
+,<http://web.archive.org/web/20150318055758/http://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162>;rel="memento last"; datetime="Wed, 18 Mar 2015 05:57:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.laweekly.com/music/why-cds-may-actually-sound-better-than-vinyl-5352162>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 18:49:00 GMT";until="Wed, 18 Mar 2015 05:57:58 GMT"

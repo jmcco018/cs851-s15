@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:19:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://llumage.com/free-photo/food/junk-food-featuring-burger-chili-fries-raspberry-lemonade/>;rel="original"
+,<http://web.archive.org/web/20141014050133/http://llumage.com/free-photo/food/junk-food-featuring-burger-chili-fries-raspberry-lemonade/>;rel="memento first"; datetime="Tue, 14 Oct 2014 05:01:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://llumage.com/free-photo/food/junk-food-featuring-burger-chili-fries-raspberry-lemonade/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://llumage.com/free-photo/food/junk-food-featuring-burger-chili-fries-raspberry-lemonade/>;rel="self"; type="application/link-format"; from ="Tue, 14 Oct 2014 05:01:33 GMT";until="Tue, 14 Oct 2014 05:01:33 GMT"

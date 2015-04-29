@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:30:46 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.trueactivist.com/nigerian-student-converts-his-vw-beetle-into-a-solar-wind-powered-car/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TrueActivist+%28True+Activist%29>;rel="original"
+,<http://archive.is/20150131011718/http://www.trueactivist.com/nigerian-student-converts-his-vw-beetle-into-a-solar-wind-powered-car/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TrueActivist+(True+Activist)>;rel="memento first"; datetime="Sat, 31 Jan 2015 01:17:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.trueactivist.com/nigerian-student-converts-his-vw-beetle-into-a-solar-wind-powered-car/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TrueActivist+%28True+Activist%29>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.trueactivist.com/nigerian-student-converts-his-vw-beetle-into-a-solar-wind-powered-car/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TrueActivist+%28True+Activist%29>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 01:17:18 GMT";until="Sat, 31 Jan 2015 01:17:18 GMT"

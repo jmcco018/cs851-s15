@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:09:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.iradiando.com>;rel="original"
+,<http://web.archive.org/web/20060823073039/http://www.iradiando.com/>;rel="memento first"; datetime="Wed, 23 Aug 2006 07:30:39 GMT"
+,<http://web.archive.org/web/20060826015918/http://www.iradiando.com/>;rel="memento"; datetime="Sat, 26 Aug 2006 01:59:18 GMT"
+,<http://web.archive.org/web/20060826020208/http://www.iradiando.com/>;rel="memento"; datetime="Sat, 26 Aug 2006 02:02:08 GMT"
+,<http://web.archive.org/web/20130605050327/http://iradiando.com/>;rel="memento"; datetime="Wed, 05 Jun 2013 05:03:27 GMT"
+,<http://web.archive.org/web/20140104000702/http://iradiando.com/>;rel="memento"; datetime="Sat, 04 Jan 2014 00:07:02 GMT"
+,<http://web.archive.org/web/20140517100249/http://iradiando.com/>;rel="memento"; datetime="Sat, 17 May 2014 10:02:49 GMT"
+,<http://web.archive.org/web/20140816070008/http://www.iradiando.com/>;rel="memento"; datetime="Sat, 16 Aug 2014 07:00:08 GMT"
+,<http://web.archive.org/web/20141202023705/http://www.iradiando.com/>;rel="memento"; datetime="Tue, 02 Dec 2014 02:37:05 GMT"
+,<http://web.archive.org/web/20141217134509/http://iradiando.com/>;rel="memento last"; datetime="Wed, 17 Dec 2014 13:45:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.iradiando.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.iradiando.com>;rel="self"; type="application/link-format"; from ="Wed, 23 Aug 2006 07:30:39 GMT";until="Wed, 17 Dec 2014 13:45:09 GMT"

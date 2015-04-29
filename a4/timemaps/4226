@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:25:49 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.whitehouse.gov/blog/2015/01/26/map-heres-how-presidents-actions-immigration-will-impact-your-state>;rel="original"
+,<http://web.archive.org/web/20150127101629/http://www.whitehouse.gov/blog/2015/01/26/map-heres-how-presidents-actions-immigration-will-impact-your-state>;rel="memento first"; datetime="Tue, 27 Jan 2015 10:16:29 GMT"
+,<http://web.archive.org/web/20150209160024/http://www.whitehouse.gov/blog/2015/01/26/map-heres-how-presidents-actions-immigration-will-impact-your-state>;rel="memento"; datetime="Mon, 09 Feb 2015 16:00:24 GMT"
+,<http://web.archive.org/web/20150228175503/http://www.whitehouse.gov/blog/2015/01/26/map-heres-how-presidents-actions-immigration-will-impact-your-state>;rel="memento last"; datetime="Sat, 28 Feb 2015 17:55:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.whitehouse.gov/blog/2015/01/26/map-heres-how-presidents-actions-immigration-will-impact-your-state>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.whitehouse.gov/blog/2015/01/26/map-heres-how-presidents-actions-immigration-will-impact-your-state>;rel="self"; type="application/link-format"; from ="Tue, 27 Jan 2015 10:16:29 GMT";until="Sat, 28 Feb 2015 17:55:03 GMT"

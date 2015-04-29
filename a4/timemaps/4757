@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:33:46 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/books/australia-books-blog/2015/jan/30/myozobituary-colleen-mccullough-fans-mock-the-australians-churlish-obit>;rel="original"
+,<http://archive.is/20150130201846/http://www.theguardian.com/books/australia-books-blog/2015/jan/30/myozobituary-colleen-mccullough-fans-mock-the-australians-churlish-obit>;rel="memento first"; datetime="Fri, 30 Jan 2015 20:18:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/books/australia-books-blog/2015/jan/30/myozobituary-colleen-mccullough-fans-mock-the-australians-churlish-obit>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/books/australia-books-blog/2015/jan/30/myozobituary-colleen-mccullough-fans-mock-the-australians-churlish-obit>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 20:18:46 GMT";until="Fri, 30 Jan 2015 20:18:46 GMT"

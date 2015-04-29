@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mommyisboring.com/?p=599>;rel="original"
+,<http://web.archive.org/web/20150111081140/http://www.mommyisboring.com/?p=599>;rel="memento first"; datetime="Sun, 11 Jan 2015 08:11:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mommyisboring.com/?p=599>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mommyisboring.com/?p=599>;rel="self"; type="application/link-format"; from ="Sun, 11 Jan 2015 08:11:40 GMT";until="Sun, 11 Jan 2015 08:11:40 GMT"

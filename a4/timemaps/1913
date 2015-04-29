@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:41:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thestar.com/news/canada/2015/01/30/internal-memo-shows-welfare-computer-system-problems-drag-on.html>;rel="original"
+,<http://web.archive.org/web/20150130130615/http://www.thestar.com/news/canada/2015/01/30/internal-memo-shows-welfare-computer-system-problems-drag-on.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 13:06:15 GMT"
+,<http://archive.is/20150130130622/http://www.thestar.com/news/canada/2015/01/30/internal-memo-shows-welfare-computer-system-problems-drag-on.html>;rel="memento last"; datetime="Fri, 30 Jan 2015 13:06:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thestar.com/news/canada/2015/01/30/internal-memo-shows-welfare-computer-system-problems-drag-on.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thestar.com/news/canada/2015/01/30/internal-memo-shows-welfare-computer-system-problems-drag-on.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 13:06:15 GMT";until="Fri, 30 Jan 2015 13:06:22 GMT"

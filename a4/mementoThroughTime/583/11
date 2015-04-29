@@ -1,0 +1,606 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="de">
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app17.us.archive.org";archive_analytics.values.server_ms=288;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<title>Chili-Produkte - BBQTop - Barbecue Gew&uuml;rze, Grillger&auml;te und Zubeh&ouml;r</title> 
+
+<meta http-equiv="content-language" content="de" /> 
+<meta http-equiv="cache-control" content="no-cache" /> 
+
+<meta name="keywords" content="chili, chilis, chili extrakt, habanero, chilipulver, scharf, scoville" /> 
+<meta name="description" content="Unser scharfer Bereich mit verschiedenen Chili-Produkten. Chili-Extrakt, Chili am St&uuml;ck und Chili-Pulver." /> 
+
+<meta name="robots" content="index,follow" />
+<meta name="language" content="de" />
+<meta name="author" content="BBQTop" />
+<meta name="publisher" content="BBQTop" />
+<meta name="company" content="BBQTop" />
+<meta name="page-topic" content="shopping" />
+<meta name="reply-to" content="kontakt@bbqtop.de" />
+<meta name="distribution" content="global" />
+<meta name="revisit-after" content="5" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" /> 
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="shortcut icon" href="/web/20110903140800im_/http://bbqtop.de/templates/xtc5/favicon.ico" type="image/x-icon" />
+
+<!--
+	This OnlineStore is brought to you by XT-Commerce, Community made shopping
+	XTC is a free open source e-Commerce System
+	created by Mario Zanier & Guido Winger and licensed under GNU/GPL.
+	Information and contribution at /web/20110903140800/http://www.xt-commerce.com
+-->
+<meta name="generator" content="(c) by xtcModified ----- http://www.xtc-modified.org" />
+<base href="/web/20110903140800/http://bbqtop.de/" />
+    <link rel="stylesheet" type="text/css" href="templates/xtc5/speed4projectde/shopbewertung/stylesheetbox.css" />
+<link rel="stylesheet" href="templates/xtc5/stylesheet.css" type="text/css" />
+<link rel="stylesheet" href="templates/xtc5/css/thickbox.css" type="text/css" media="screen" />
+
+
+<script type="text/javascript"><!--
+var selected;
+var submitter = null;
+
+function submitFunction() {
+    submitter = 1;
+}
+function popupWindow(url) {
+  window.open(url,'popupWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=100,height=100,screenX=150,screenY=150,top=150,left=150')
+}  
+
+function selectRowEffect(object, buttonSelect) {
+  if (!selected) {
+    if (document.getElementById) {
+      selected = document.getElementById('defaultSelected');
+    } else {
+      selected = document.all['defaultSelected'];
+    }
+  }
+
+  if (selected) selected.className = 'moduleRow';
+  object.className = 'moduleRowSelected';
+  selected = object;
+
+// one button is not an array
+  if (document.getElementById('payment'[0])) {
+    document.getElementById('payment'[buttonSelect]).checked=true;
+  } else {
+    //document.getElementById('payment'[selected]).checked=true;
+  }
+}
+
+function rowOverEffect(object) {
+  if (object.className == 'moduleRow') object.className = 'moduleRowOver';
+}
+
+function rowOutEffect(object) {
+  if (object.className == 'moduleRowOver') object.className = 'moduleRow';
+}
+
+function popupImageWindow(url) {
+  window.open(url,'popupImageWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=100,height=100,screenX=150,screenY=150,top=150,left=150')
+}
+//--></script>
+<script src="templates/xtc5/javascript/jquery.js" type="text/javascript"></script>
+<script src="templates/xtc5/javascript/thickbox.js" type="text/javascript"></script>
+
+</head>
+<body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://bbqtop.de/Chili-Produkte:::2.html";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "3";
+var displayMonth = "Sep";
+var displayYear = "2011";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://bbqtop.de/Chili-Produkte:::2.html" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20110903140800" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20110704223142/http://bbqtop.de/Chili-Produkte:::2.html" title="4 Jul 2011">JUL</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 14:08:00 Sep 3, 2011">SEP</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20111106000805/http://bbqtop.de/Chili-Produkte:::2.html" title="6 Nov 2011"><strong>NOV</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20110809191950/http://bbqtop.de/Chili-Produkte:::2.html" title="19:19:50 Aug 9, 2011"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 14:08:00 Sep 3, 2011">3</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20111106000805/http://bbqtop.de/Chili-Produkte:::2.html" title="0:08:05 Nov 6, 2011"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2010
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 14:08:00 Sep 3, 2011">2011</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20121101164323/http://bbqtop.de/Chili-Produkte:::2.html" title="1 Nov 2012"><strong>2012</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20110903140800*/http://bbqtop.de/Chili-Produkte:::2.html" title="See a list of every capture for this URL">25 captures</a>
+           <div class="r" title="Timespan for captures of this URL">4 Dec 10 - 4 Feb 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000005_2011:8:002111111021_2012:-1:100020000010_2013:-1:000001010000_2014:-1:000100010000_2015:-1:010000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+
+
+<div id="wrap">
+    <div id="header">
+        <div id="logo"><a href="/web/20110903140800/http://bbqtop.de/" title="BBQTop.de - Barbecue Gewürze, Grillgeräte und Zubehör"><img src="templates/xtc5/img/spacer.gif" width="400" alt="BBQTop - Barbecue Gewürze, Grillgeräte und Zubehör" /></a></div>
+        <div id="search" align="right"><a href="/web/20110903140800/http://bbqtop.de/redirect.php?action=banner&amp;goto=4" onclick="window.open(this.href); return false;"><img src="images/banner/banner_grillgeraete_grillzubehoer.gif" alt="Grillgeräte und Zubehör" width="468" height="50" /></a><br />
+<form id="quick_find" action="/web/20110903140800/http://bbqtop.de/advanced_search_result.php" method="get">
+<table border="0" class="search_header" cellspacing="0" cellpadding="0">
+     <tr>
+          <td colspan="2"><strong>Suche:</strong></td>
+     </tr>
+     <tr>
+          <td><input type="text" name="keywords" value="Suchen" style="width:160px;" maxlength="30" onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;" /></td>
+          <td><input type="image" src="templates/xtc5/buttons/german/button_quick_find.gif" alt="Suchen" title=" Suchen " /></td>
+     </tr>
+     <tr>
+          <td colspan="2"><a href="/web/20110903140800/http://bbqtop.de/advanced_search.php">Erweiterte Suche &raquo;</a></td>
+     </tr>
+</table>
+</form> </div>
+    </div>
+    <div id="topmenuwrap">
+        <ul id="topmenu">
+            <li><a href="/web/20110903140800/http://bbqtop.de/index.php">Startseite</a></li>
+            <li><a href="/web/20110903140800/http://bbqtop.de/shopping_cart.php">Warenkorb</a></li>
+                        <li><a href="/web/20110903140800/http://bbqtop.de/account.php">Ihr Konto</a></li>
+                                     
+            <li><a href="/web/20110903140800/http://bbqtop.de/create_account.php">Neukunde?</a></li>             
+                        <li><a href="/web/20110903140800/http://bbqtop.de/checkout_shipping.php">Kasse</a></li>
+                        <li><a href="/web/20110903140800/http://bbqtop.de/login.php">Anmelden</a></li>
+            			<li><a href="/web/20110903140800/http://bbqtop.de/blog">Blog</a></li>
+        </ul>
+        <div id="languages"></div>
+    </div>
+    <div id="breadcrumb"><a href="/web/20110903140800/http://bbqtop.de/" class="headerNavigation">Startseite</a> &raquo; <a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte:::2.html" class="headerNavigation">Chili-Produkte</a></div>
+    <div id="contentwrap">         <div id="leftcol">
+<h2 class="categoryheader">Kategorien</h2>
+<ul id="categorymenu"><li class="level1"><a href="/web/20110903140800/http://bbqtop.de/Barbecue-Gewuerze:::1.html">Barbecue Gewürze</a></li><li class="level1"><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte:::2.html">Chili-Produkte</a></li><li class="level1"><a href="/web/20110903140800/http://bbqtop.de/Gewuerze:::5.html">Gewürze</a></li><li class="level1"><a href="/web/20110903140800/http://bbqtop.de/Kraeuter:::15.html">Kräuter</a></li><li class="level1"><a href="/web/20110903140800/http://bbqtop.de/Grillgeraete:::9.html">Grillgeräte</a></li><li class="level1"><a href="/web/20110903140800/http://bbqtop.de/Behaelter:::6.html">Behälter</a></li><li class="level1"><a href="/web/20110903140800/http://bbqtop.de/Rauchhoelzer:::8.html">Rauchhölzer</a></li><li class="level1"><a href="/web/20110903140800/http://bbqtop.de/Sparpakete:::4.html">Sparpakete</a></li><li class="level1"><a href="/web/20110903140800/http://bbqtop.de/Fachliteratur:::3.html">Fachliteratur</a></li></ul>
+<h2 class="boxheader">Bestseller</h2>
+<div class="boxbody">
+		
+	<table width="100%">
+	<tr><td valign="top" width="40px"><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Habanero-Chilipulver-25g::4.html"><img src="images/product_images/thumbnail_images/4_0.jpg" alt="" title="" width="40px"/></a></td><td valign="top"><h3>01. <a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Habanero-Chilipulver-25g::4.html">Habanero Chilipulver (25g)</a></h3> 3,49 EUR</td></tr>
+	<tr><td valign="top" colspan="2">Grundpreis  13,96 EUR pro 100g<br />	(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</td></tr>
+	</table>
+	
+	
+	
+	<!--
+	<dl><dt><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Habanero-Chilipulver-25g::4.html"><img src="images/product_images/thumbnail_images/4_0.jpg" alt="" title="" /></a></dt><dd><h3>01. <a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Habanero-Chilipulver-25g::4.html">Habanero Chilipulver (25g)</a></h3>
+	<p> 3,49 EUR<br />
+	Grundpreis  13,96 EUR pro 100g<br />	(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</p>
+	
+	//-->
+	
+	
+	<div class="hrlightgrey"></div>
+    <!-- </dd></dl> //-->
+   <div style="clear:both"></div>    		
+	<table width="100%">
+	<tr><td valign="top" width="40px"><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Special-Chili-Bundle::19.html"><img src="images/product_images/thumbnail_images/19_0.gif" alt="" title="" width="40px"/></a></td><td valign="top"><h3>02. <a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Special-Chili-Bundle::19.html">BBQTop Special Chili-Bundle</a></h3> 13,49 EUR</td></tr>
+	<tr><td valign="top" colspan="2">	(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</td></tr>
+	</table>
+	
+	
+	
+	<!--
+	<dl><dt><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Special-Chili-Bundle::19.html"><img src="images/product_images/thumbnail_images/19_0.gif" alt="" title="" /></a></dt><dd><h3>02. <a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Special-Chili-Bundle::19.html">BBQTop Special Chili-Bundle</a></h3>
+	<p> 13,49 EUR<br />
+		(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</p>
+	
+	//-->
+	
+	
+	<div class="hrlightgrey"></div>
+    <!-- </dd></dl> //-->
+   <div style="clear:both"></div>    		
+	<table width="100%">
+	<tr><td valign="top" width="40px"><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Birdeye-Chili-getrocknet-25g::3.html"><img src="images/product_images/thumbnail_images/3_0.jpg" alt="" title="" width="40px"/></a></td><td valign="top"><h3>03. <a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Birdeye-Chili-getrocknet-25g::3.html">Birdeye Chili, getrocknet (25g)</a></h3> 2,99 EUR</td></tr>
+	<tr><td valign="top" colspan="2">Grundpreis  11,96 EUR pro 100g<br />	(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</td></tr>
+	</table>
+	
+	
+	
+	<!--
+	<dl><dt><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Birdeye-Chili-getrocknet-25g::3.html"><img src="images/product_images/thumbnail_images/3_0.jpg" alt="" title="" /></a></dt><dd><h3>03. <a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Birdeye-Chili-getrocknet-25g::3.html">Birdeye Chili, getrocknet (25g)</a></h3>
+	<p> 2,99 EUR<br />
+	Grundpreis  11,96 EUR pro 100g<br />	(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</p>
+	
+	//-->
+	
+	
+	<div class="hrlightgrey"></div>
+    <!-- </dd></dl> //-->
+   <div style="clear:both"></div>    		
+	<table width="100%">
+	<tr><td valign="top" width="40px"><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Chili-Extrakt-30ml::2.html"><img src="images/product_images/thumbnail_images/2_0.jpg" alt="" title="" width="40px"/></a></td><td valign="top"><h3>04. <a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Chili-Extrakt-30ml::2.html">BBQTop Chili-Extrakt (30ml)</a></h3> 8,99 EUR</td></tr>
+	<tr><td valign="top" colspan="2">Grundpreis  29,97 EUR pro 100ml<br />	(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</td></tr>
+	</table>
+	
+	
+	
+	<!--
+	<dl><dt><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Chili-Extrakt-30ml::2.html"><img src="images/product_images/thumbnail_images/2_0.jpg" alt="" title="" /></a></dt><dd><h3>04. <a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Chili-Extrakt-30ml::2.html">BBQTop Chili-Extrakt (30ml)</a></h3>
+	<p> 8,99 EUR<br />
+	Grundpreis  29,97 EUR pro 100ml<br />	(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</p>
+	
+	//-->
+	
+	
+	<div class="hrlightgrey"></div>
+    <!-- </dd></dl> //-->
+   <div style="clear:both"></div>    	</div>
+<h2 class="boxheader">Informationen</h2>
+<div class="boxbody"><ul class="contentlist"><li><a href="/web/20110903140800/http://bbqtop.de/Spareribs-Rezept:_:20.html"><strong>Spareribs Rezept</strong></a></li><li><a href="/web/20110903140800/http://bbqtop.de/Interessante-Links:_:21.html"><strong>Interessante Links</strong></a></li><li><a href="/web/20110903140800/http://bbqtop.de/Sitemap:_:8.html"><strong>Sitemap</strong></a></li></ul></div>
+<h2 class="boxheader">Mehr &uuml;ber...</h2>
+<div class="boxbody"><ul class="contentlist"><li><a href="/web/20110903140800/http://bbqtop.de/Zahlungs-und-Versandbedingungen:_:1.html"><strong>Zahlungs- und Versandbedingungen</strong></a></li><li><a href="/web/20110903140800/http://bbqtop.de/Datenschutzerklaerung:_:2.html"><strong>Datenschutzerklärung</strong></a></li><li><a href="/web/20110903140800/http://bbqtop.de/AGB:_:3.html"><strong>AGB</strong></a></li><li><a href="/web/20110903140800/http://bbqtop.de/Live-Support:_:22.html"><strong>Live Support</strong></a></li><li><a href="/web/20110903140800/http://bbqtop.de/Kontakt:_:7.html"><strong>Kontakt</strong></a></li><li><a href="/web/20110903140800/http://bbqtop.de/Impressum:_:4.html"><strong>Impressum</strong></a></li><li><a href="/web/20110903140800/http://bbqtop.de/Widerrufsbelehrung:_:9.html"><strong>Widerrufsbelehrung</strong></a></li></ul></div></div>
+                <div
+					id="content"
+				 >
+                                    
+  <h1>Chili-Produkte</h1>
+  		<img src="images/categories/2.jpg" alt="Chili-Produkte" class="imgLeft" /><br />		<p>&nbsp;In unserem &quot;scharfen&quot; Bereich f&uuml;hren wir ausgew&auml;hlte Chili-Produkte f&uuml;r Kenner und Liebhaber des scharfen Geschmacks.</p>
+<p>Bitte beachten Sie, dass diese Produkte <u>wirklich scharf sind</u> und nur in gering dosierten Mengen verwendet werden sollten!</p>
+<p>Eine Einf&uuml;hrung zum Thema &quot;Chili&quot; haben wir <a href="/web/20110903140800/http://bbqtop.de/chili-saucen.php">hier f&uuml;r Sie zusammengestellt</a>.</p><br />		
+		<table border="0" width="100%" cellspacing="0" cellpadding="2">
+		  <tr>
+		    <td class="smallText">Zeige <strong>1</strong> bis <strong>4</strong> (von insgesamt <strong>4</strong> Artikeln)</td>
+		    <td class="smallText" align="right">Seiten: &nbsp;<strong>1</strong>&nbsp;</td>
+		  </tr>
+		</table>
+<div class="hrproductpreview"></div>
+<table class="productPreview" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" class="productPreviewImage"><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Chili-Extrakt-30ml::2.html"><img src="images/product_images/thumbnail_images/2_0.jpg" alt="BBQTop Chili-Extrakt (30ml)" class="productImageBorder" /></a></td>
+    <td class="productPreviewContent">
+		<h2><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Chili-Extrakt-30ml::2.html">BBQTop Chili-Extrakt (30ml)</a></h2>
+		<p><p>Unser BBQTop Chili-Extrakt zeichnet sich durch ein nat&uuml;rliches, scharfes Chili-Aroma aus. Der Sch&auml;rfegrad betr&auml;gt 500.000+ Scoville! Sie erhalten 30ml des Chili-Extrakts, welches durch die hohe Konzentration extrem ergiebig ist.</p></p>
+		<p class="price"> 8,99 EUR</p><p class="taxandshippinginfo">(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</p>
+		                <p class="shippingtime">Lagerbestand:<img src="admin/images/icons/stat_green.gif" alt="Artikel vorrätig" title="Artikel vorrätig" /> Artikel vorrätig<br /></p>
+                        <p><a href="shop_content.php?coID=7&amp;products_id=2&amp;products_name=BBQTop Chili-Extrakt (30ml)&amp;products_model=CS-10000&amp;question=Frage zum Produkt" class="product_question"/>Frage zum Produkt</a></p>				
+<p class="vpe">Grundpreis:  29,97 EUR pro 100ml<br /></p>
+		<p class="shippingtime">Lieferzeit:			1-3 Tage</p>
+						<p><a href="/web/20110903140800/http://bbqtop.de/index.php?action=buy_now&amp;BUYproducts_id=2&amp;cPath=2"><img src="templates/xtc5/buttons/german/button_buy_now.gif" alt="1 x 'BBQTop Chili-Extrakt (30ml)' bestellen" width="160" height="24" /></a>&nbsp;<a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Chili-Extrakt-30ml::2.html"><img src="templates/xtc5/buttons/german/button_product_more.gif" alt="Details" border="0" /></a></p>
+	</td>
+  </tr>
+</table>
+<div class="hrproductpreview"></div>
+<table class="productPreview" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" class="productPreviewImage"><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Birdeye-Chili-getrocknet-25g::3.html"><img src="images/product_images/thumbnail_images/3_0.jpg" alt="Birdeye Chili, getrocknet (25g)" class="productImageBorder" /></a></td>
+    <td class="productPreviewContent">
+		<h2><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Birdeye-Chili-getrocknet-25g::3.html">Birdeye Chili, getrocknet (25g)</a></h2>
+		<p><p>Getrocknete Birdeye Chili, sehr scharf. 100.000+ Scoville Einheiten.</p></p>
+		<p class="price"> 2,99 EUR</p><p class="taxandshippinginfo">(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</p>
+		                <p class="shippingtime">Lagerbestand:<img src="admin/images/icons/stat_green.gif" alt="Artikel vorrätig" title="Artikel vorrätig" /> Artikel vorrätig<br /></p>
+                        <p><a href="shop_content.php?coID=7&amp;products_id=3&amp;products_name=Birdeye Chili, getrocknet (25g)&amp;products_model=CS-10001&amp;question=Frage zum Produkt" class="product_question"/>Frage zum Produkt</a></p>				
+<p class="vpe">Grundpreis:  11,96 EUR pro 100g<br /></p>
+		<p class="shippingtime">Lieferzeit:			1-3 Tage</p>
+						<p><a href="/web/20110903140800/http://bbqtop.de/index.php?action=buy_now&amp;BUYproducts_id=3&amp;cPath=2"><img src="templates/xtc5/buttons/german/button_buy_now.gif" alt="1 x 'Birdeye Chili, getrocknet (25g)' bestellen" width="160" height="24" /></a>&nbsp;<a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Birdeye-Chili-getrocknet-25g::3.html"><img src="templates/xtc5/buttons/german/button_product_more.gif" alt="Details" border="0" /></a></p>
+	</td>
+  </tr>
+</table>
+<div class="hrproductpreview"></div>
+<table class="productPreview" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" class="productPreviewImage"><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Habanero-Chilipulver-25g::4.html"><img src="images/product_images/thumbnail_images/4_0.jpg" alt="Habanero Chilipulver (25g)" class="productImageBorder" /></a></td>
+    <td class="productPreviewContent">
+		<h2><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Habanero-Chilipulver-25g::4.html">Habanero Chilipulver (25g)</a></h2>
+		<p><p>Habaneros sind besonders bekannt f&uuml;r ihre au&szlig;ergew&ouml;hnlich hohe Sch&auml;rfe; sie geh&ouml;ren zu den sch&auml;rfsten Chilis der Welt - also etwas f&uuml;r echte Kenner und Liebhaber der besonderen Sch&auml;rfe. Unser Habanero-Chilipulver besitzt 250.000+ Scoville-Einheiten!</p></p>
+		<p class="price"> 3,49 EUR</p><p class="taxandshippinginfo">(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</p>
+		                <p class="shippingtime">Lagerbestand:<img src="admin/images/icons/stat_green.gif" alt="Artikel vorrätig" title="Artikel vorrätig" /> Artikel vorrätig<br /></p>
+                        <p><a href="shop_content.php?coID=7&amp;products_id=4&amp;products_name=Habanero Chilipulver (25g)&amp;products_model=CS-10002&amp;question=Frage zum Produkt" class="product_question"/>Frage zum Produkt</a></p>				
+<p class="vpe">Grundpreis:  13,96 EUR pro 100g<br /></p>
+		<p class="shippingtime">Lieferzeit:			1-3 Tage</p>
+						<p><a href="/web/20110903140800/http://bbqtop.de/index.php?action=buy_now&amp;BUYproducts_id=4&amp;cPath=2"><img src="templates/xtc5/buttons/german/button_buy_now.gif" alt="1 x 'Habanero Chilipulver (25g)' bestellen" width="160" height="24" /></a>&nbsp;<a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/Habanero-Chilipulver-25g::4.html"><img src="templates/xtc5/buttons/german/button_product_more.gif" alt="Details" border="0" /></a></p>
+	</td>
+  </tr>
+</table>
+<div class="hrproductpreview"></div>
+<table class="productPreview" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" class="productPreviewImage"><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Special-Chili-Bundle::19.html"><img src="images/product_images/thumbnail_images/19_0.gif" alt="BBQTop Special Chili-Bundle" class="productImageBorder" /></a></td>
+    <td class="productPreviewContent">
+		<h2><a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Special-Chili-Bundle::19.html">BBQTop Special Chili-Bundle</a></h2>
+		<p><p>Kaufen Sie unsere drei Chili-Produkte im Bundle: <strong>Chili-Extrakt, Birdeye-Chili und Habanero-Chilipulver und sparen Sie zus&auml;tzlich!<br />
+</strong></p></p>
+		<p class="price"> 13,49 EUR</p><p class="taxandshippinginfo">(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</p>
+		                <p class="shippingtime">Lagerbestand:<img src="admin/images/icons/stat_green.gif" alt="Artikel vorrätig" title="Artikel vorrätig" /> Artikel vorrätig<br /></p>
+                        <p><a href="shop_content.php?coID=7&amp;products_id=19&amp;products_name=BBQTop Special Chili-Bundle&amp;products_model=CS-10003&amp;question=Frage zum Produkt" class="product_question"/>Frage zum Produkt</a></p>				
+<p class="vpe"></p>
+		<p class="shippingtime">Lieferzeit:			1-3 Tage</p>
+						<p><a href="/web/20110903140800/http://bbqtop.de/index.php?action=buy_now&amp;BUYproducts_id=19&amp;cPath=2"><img src="templates/xtc5/buttons/german/button_buy_now.gif" alt="1 x 'BBQTop Special Chili-Bundle' bestellen" width="160" height="24" /></a>&nbsp;<a href="/web/20110903140800/http://bbqtop.de/Chili-Produkte/BBQTop-Special-Chili-Bundle::19.html"><img src="templates/xtc5/buttons/german/button_product_more.gif" alt="Details" border="0" /></a></p>
+	</td>
+  </tr>
+</table>
+<div class="hrproductpreview"></div>
+ 
+
+		<table border="0" width="100%" cellspacing="0" cellpadding="2">
+		  <tr>
+		    <td class="smallText">Zeige <strong>1</strong> bis <strong>4</strong> (von insgesamt <strong>4</strong> Artikeln)</td>
+		    <td class="smallText" align="right">Seiten: &nbsp;<strong>1</strong>&nbsp;</td>
+		  </tr>
+		</table></div>
+        <div id="rightcol">
+	<h2 class="boxcartheader">Warenkorb</h2>
+	<div class="boxcartbody" >
+					 <!-- cart has no content -->
+		<p>Ihr Warenkorb ist leer.</p>
+		</div>
+
+<h2 class="boxheader">Kundensupport</h2>
+<div class="boxbody" align="center">
+
+<!-- /web/20110903140800/http://www.livezilla.net Chat Button Link Code --><div style="text-align:center;width:128px;"><a href="javascript:void(window.open('/web/20110903140800/http://bbqtop.de/livezilla/chat.php','','width=590,height=580,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="/web/20110903140800im_/http://bbqtop.de/livezilla/image.php?id=03" width="128" height="42" border="0" alt="LiveZilla Live Help" /></a><noscript><div><a href="/web/20110903140800/http://bbqtop.de/livezilla/chat.php" target="_blank">Start Live Help Chat</a></div></noscript></div><!-- /web/20110903140800/http://www.livezilla.net Chat Button Link Code --><!-- /web/20110903140800/http://www.livezilla.net Tracking Code --><div id="livezilla_tracking" style="display:none"></div><script type="text/javascript">
+<!-- DON'T PLACE IN HEAD ELEMENT -->
+var script = document.createElement("script");script.type="text/javascript";var src = "/web/20110903140800/http://bbqtop.de/livezilla/server.php?request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><!-- /web/20110903140800/http://www.livezilla.net Tracking Code -->
+
+<center><a href="shop_content.php?coID=22">Was ist Live Support?</a></center>
+</div>
+<h2 class="boxheader">Willkommen zur&uuml;ck!</h2>
+<div class="boxbody"> <form id="loginbox" method="post" action="/web/20110903140800/http://bbqtop.de/login.php?action=process">
+  <table width="100%"  border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td colspan="2">E-Mail-Adresse:</td>
+    </tr>
+    <tr>
+      <td colspan="2"><input type="text" name="email_address" maxlength="50" style="width:170px;" /></td>
+    </tr>
+    <tr>
+      <td colspan="2">Passwort:</td>
+    </tr>
+    <tr>
+      <td><input type="password" name="password" maxlength="30" style="width:80px;" /></td>
+      <td><input type="image" src="templates/xtc5/buttons/german/button_login_small.gif" alt="Anmelden" title=" Anmelden " /></td>
+    </tr>
+    <tr>
+      <td colspan="2"><div class="hr"></div>
+        <a href="/web/20110903140800/http://bbqtop.de/password_double_opt.php">Passwort vergessen?</a></td>
+    </tr>
+  </table>
+  </form> </div>
+<h2 class="boxheader"><a href="/web/20110903140800/http://bbqtop.de/products_new.php">Neue Artikel</a></h2>
+<div class="boxbody">
+	<p class="center"><a href="/web/20110903140800/http://bbqtop.de/Fachliteratur/FIRE-FOOD-Heft-2-11-August::94.html"><img src="images/product_images/thumbnail_images/94_0.jpg" alt="FIRE&amp;FOOD - Heft 2/11 (August)" class="productboximage"/></a></p>	<p class="center"><center><a href="/web/20110903140800/http://bbqtop.de/Fachliteratur/FIRE-FOOD-Heft-2-11-August::94.html"><strong>FIRE&amp;FOOD - Heft 2/11 (August)</strong></a><br /> 3,90 EUR
+	<div style="font-size: 11px;">	(inkl. Mwst., zzgl. <a target="_blank" href="/web/20110903140800/http://bbqtop.de/popup_content.php?coID=1&amp;KeepThis=true&amp;TB_iframe=true&amp;height=400&amp;width=600" title="Information" class="thickbox">Versandkosten</a>)</div></center></p>
+</div>
+<div class="bewertungsboxsmall">
+    <h2>Shopbewertungen</h2>
+    <a href="/web/20110903140800/http://bbqtop.de/shop-bewertungen.php" title="Shopbewertungen lesen"><img src="templates/xtc5/speed4projectde/shopbewertung/img/pix.gif" height="110" width="200" alt="Shopbewertungen lesen" title="Shopbewertungen lesen" /></a>
+	<p class="textdurchschnitt">4.83 / 5.00</p>
+    <img src="templates/xtc5/speed4projectde/shopbewertung/img/star_1.jpg" alt="Stern 1" width="21" height="20" /> <img src="templates/xtc5/speed4projectde/shopbewertung/img/star_1.jpg" alt="Stern 2" width="21" height="20" /> <img src="templates/xtc5/speed4projectde/shopbewertung/img/star_1.jpg" alt="Stern 3" width="21" height="20" /> <img src="templates/xtc5/speed4projectde/shopbewertung/img/star_1.jpg" alt="Stern 4" width="21" height="20" /> <img src="templates/xtc5/speed4projectde/shopbewertung/img/star_5.jpg" alt="Stern 0.83" width="21" height="20" /> 
+	<p class="bewerttext"> <a href="/web/20110903140800/http://bbqtop.de/shop-bewertungen.php" title="Vielen Dank, ich bin sehr zufrieden mit der Ware.
+
+Liebe Grüße!">Vielen Dank, ich bin sehr zufrieden mit der Ware.
+
+Liebe Grüße!</a></p>
+    
+</div>
+<h2 class="boxheader">Bewertungen</h2>
+<div class="boxbody"><div align="center" class="bewert"><a href="/web/20110903140800/http://bbqtop.de/product_reviews_info.php?products_id=15&amp;reviews_id=10"><img src="images/product_images/thumbnail_images/15_0.jpg" alt="Barbecue Rub Gewürz - Classic Rub (500g)" width="55" height="80" /></a></div><a href="/web/20110903140800/http://bbqtop.de/product_reviews_info.php?products_id=15&amp;reviews_id=10">Meine Spareribs waren mit dem Classic Rub behandelt und  mit ..</a><br /><div align="center"><img src="templates/xtc5/img/stars_5.gif" alt="5 von 5 Sternen!" width="70" height="14" /></div></div>
+<h2 class="boxheader">Newsletter-Anmeldung</h2>
+<div class="boxbody">
+<form id="sign_in" action="/web/20110903140800/http://bbqtop.de/newsletter.php" method="post">
+<p>E-Mail-Adresse:</p>
+<p><input type="text" name="email" maxlength="50" style="width:170px;" /></p>
+<p><input type="image" src="templates/xtc5/buttons/german/button_login_newsletter.gif" alt="Anmelden" title=" Anmelden " /></p>
+</form>
+</div>
+<h2 class="boxheader">Hersteller</h2>
+<div class="boxbody"><form id="manufacturers" action="/web/20110903140800/http://bbqtop.de/index.php" method="get"><select name="manufacturers_id" onchange="if (form.manufacturers_id.selectedIndex != 0)
+      location = form.manufacturers_id.options[form.manufacturers_id.selectedIndex].value;" size="1" style="width: 100%"><option value="" selected="selected">Bitte w&auml;hlen</option><option value="http://bbqtop.de/BBQTop:.:1.html">BBQTop</option><option value="http://bbqtop.de/Camp-Chef:.:3.html">Camp Chef</option><option value="http://bbqtop.de/Char-Griller:.:2.html">Char-Griller</option></select></form></div>
+</div>
+     </div>
+	
+
+<table width="100%">
+<tr><td colspan="2"><hr class="line" /></td></tr>
+<tr><td width="50%" align="center"><b>Bezahl- und Versandmethoden</b></td><td width="50%" align="center"><b>Vertrauen schaffen</b></td></tr>
+<tr><td valign="top" align="center">
+<table border="0">
+<tr><td><img src="images/icons/mb-trusted-de.gif" title="Bezahlen mit moneybookers"/><img src="images/icons/pp_logo_100x31.gif" title="Bezahlen mit PayPal"/><img src="images/icons/ueberweisung.gif" title="Überweisung / Vorauskasse"/></td>
+<td><br /><img src="images/icons/shipping_dhl.gif" title="Versand mit DHL"/><br /><br /><img src="images/icons/shipping_dp.gif" title="Versand mit Deutsche Post"/></td></tr></table>
+</td>
+<td valign="top" align="center">
+<!-- Beginn des Händlerbund HTML-Code -->
+<!-- Der HTML-Code darf im Sinne der einwandfreien Funktionalität nicht verändert werden! -->
+<a href="/web/20110903140800/http://siegel.haendlerbund.de/index.php?ident=727&amp;sig_n=Kay_Molkenthin" target="_blank"><img src="/web/20110903140800im_/https://www.haendlerbund.de/images/guetesiegel/gtesiegel.png" title="Geprüftes Mitglied" alt="Geprüftes Mitglied im Händlerbund" hspace="5" vspace="5" border="0" /></a>
+<!-- Ende des Händlerbund HTML-Code -->
+</td></tr>
+</table>
+<p class="footer">BBQTop - Barbecue Gewürze, Grillgeräte und Zubehör &copy; 2011 | Template &copy; 2009 by xtcModified eCommerce Shopsoftware</p>
+</div><div class="copyright"><a href="/web/20110903140800/http://www.xtc-modified.org/" target="_blank">xtcModified</a>&nbsp;&copy;2011&nbsp;provides no warranty and is redistributable under the <a href="/web/20110903140800/http://www.fsf.org/licensing/licenses/gpl.txt" target="_blank">GNU General Public License</a><br />eCommerce Engine 2006 based on <a href="/web/20110903140800/http://www.xt-commerce.com/" rel="nofollow" target="_blank">xt:Commerce</a></div><div class="parseTime">Parse Time: 0.402s</div><!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "/web/20110903140800/https://bbqtop.de/piwik/" : "/web/20110903140800/http://bbqtop.de/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="/web/20110903140800im_/http://bbqtop.de/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+</body></html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 14:08:00 Sep 3, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:45:55 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

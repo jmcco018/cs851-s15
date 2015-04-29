@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:22:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="original"
+,<http://web.archive.org/web/20150107024810/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento first"; datetime="Wed, 07 Jan 2015 02:48:10 GMT"
+,<http://web.archive.org/web/20150108183108/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Thu, 08 Jan 2015 18:31:08 GMT"
+,<http://web.archive.org/web/20150112074115/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Mon, 12 Jan 2015 07:41:15 GMT"
+,<http://web.archive.org/web/20150112075204/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Mon, 12 Jan 2015 07:52:04 GMT"
+,<http://web.archive.org/web/20150112111951/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Mon, 12 Jan 2015 11:19:51 GMT"
+,<http://web.archive.org/web/20150112112606/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Mon, 12 Jan 2015 11:26:06 GMT"
+,<http://web.archive.org/web/20150113230055/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Tue, 13 Jan 2015 23:00:55 GMT"
+,<http://web.archive.org/web/20150113231207/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Tue, 13 Jan 2015 23:12:07 GMT"
+,<http://web.archive.org/web/20150124021349/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Sat, 24 Jan 2015 02:13:49 GMT"
+,<http://web.archive.org/web/20150125093836/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Sun, 25 Jan 2015 09:38:36 GMT"
+,<http://web.archive.org/web/20150125094239/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Sun, 25 Jan 2015 09:42:39 GMT"
+,<http://web.archive.org/web/20150125110306/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Sun, 25 Jan 2015 11:03:06 GMT"
+,<http://archive.is/20150217014414/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Tue, 17 Feb 2015 01:44:14 GMT"
+,<http://web.archive.org/web/20150324185621/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Tue, 24 Mar 2015 18:56:21 GMT"
+,<http://web.archive.org/web/20150326170039/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Thu, 26 Mar 2015 17:00:39 GMT"
+,<http://archive.is/20150409004416/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento"; datetime="Thu, 09 Apr 2015 00:44:16 GMT"
+,<http://web.archive.org/web/20150418001709/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="memento last"; datetime="Sat, 18 Apr 2015 00:17:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.leg.state.co.us/clics/cslFrontPages.nsf/HomeSplash?OpenForm>;rel="self"; type="application/link-format"; from ="Wed, 07 Jan 2015 02:48:10 GMT";until="Sat, 18 Apr 2015 00:17:09 GMT"

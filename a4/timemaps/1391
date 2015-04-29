@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:32:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.rawstory.com/rs/2015/01/sarah-palin-inadvertently-becomes-co-chair-of-hillary-pac-after-disastrous-iowa-speech-raises-25k/>;rel="original"
+,<http://web.archive.org/web/20150130223053/http://www.rawstory.com/rs/2015/01/sarah-palin-inadvertently-becomes-co-chair-of-hillary-pac-after-disastrous-iowa-speech-raises-25k/>;rel="memento first"; datetime="Fri, 30 Jan 2015 22:30:53 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.rawstory.com/rs/2015/01/sarah-palin-inadvertently-becomes-co-chair-of-hillary-pac-after-disastrous-iowa-speech-raises-25k/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.rawstory.com/rs/2015/01/sarah-palin-inadvertently-becomes-co-chair-of-hillary-pac-after-disastrous-iowa-speech-raises-25k/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 22:30:53 GMT";until="Fri, 30 Jan 2015 22:30:53 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:31:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bluecross.org.uk/478-138459/wanted-astroturf-and-logs-for-dogs-at-northiam-rehoming-centre.html>;rel="original"
+,<http://web.archive.org/web/20150317120902/http://www.bluecross.org.uk/478-138459/wanted-astroturf-and-logs-for-dogs-at-northiam-rehoming-centre.html>;rel="memento first"; datetime="Tue, 17 Mar 2015 12:09:02 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bluecross.org.uk/478-138459/wanted-astroturf-and-logs-for-dogs-at-northiam-rehoming-centre.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bluecross.org.uk/478-138459/wanted-astroturf-and-logs-for-dogs-at-northiam-rehoming-centre.html>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 12:09:02 GMT";until="Tue, 17 Mar 2015 12:09:02 GMT"

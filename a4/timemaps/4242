@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:26:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://rare.us/story/when-a-malfunctioning-weather-map-turned-up-the-heat-this-hilarious-weatherman-kept-his-cool/>;rel="original"
+,<http://web.archive.org/web/20150203095705/http://rare.us/story/when-a-malfunctioning-weather-map-turned-up-the-heat-this-hilarious-weatherman-kept-his-cool/>;rel="memento first"; datetime="Tue, 03 Feb 2015 09:57:05 GMT"
+,<http://web.archive.org/web/20150405235505/http://rare.us/story/when-a-malfunctioning-weather-map-turned-up-the-heat-this-hilarious-weatherman-kept-his-cool>;rel="memento"; datetime="Sun, 05 Apr 2015 23:55:05 GMT"
+,<http://web.archive.org/web/20150412141436/http://rare.us/story/when-a-malfunctioning-weather-map-turned-up-the-heat-this-hilarious-weatherman-kept-his-cool/>;rel="memento last"; datetime="Sun, 12 Apr 2015 14:14:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://rare.us/story/when-a-malfunctioning-weather-map-turned-up-the-heat-this-hilarious-weatherman-kept-his-cool/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://rare.us/story/when-a-malfunctioning-weather-map-turned-up-the-heat-this-hilarious-weatherman-kept-his-cool/>;rel="self"; type="application/link-format"; from ="Tue, 03 Feb 2015 09:57:05 GMT";until="Sun, 12 Apr 2015 14:14:36 GMT"

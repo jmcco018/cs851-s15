@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.philly.com/philly/news/20150130_Was_paramedic_in_scandal_the_perfect_prey_.html>;rel="original"
+,<//wayback.archive-it.org/all/20150401221525/http://www.philly.com/philly/news/20150130_Was_paramedic_in_scandal_the_perfect_prey_.html>;rel="memento first"; datetime="Wed, 01 Apr 2015 22:15:25 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.philly.com/philly/news/20150130_Was_paramedic_in_scandal_the_perfect_prey_.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.philly.com/philly/news/20150130_Was_paramedic_in_scandal_the_perfect_prey_.html>;rel="self"; type="application/link-format"; from ="Wed, 01 Apr 2015 22:15:25 GMT";until="Wed, 01 Apr 2015 22:15:25 GMT"

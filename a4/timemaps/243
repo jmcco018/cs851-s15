@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.macrumors.com/2015/01/29/apple-productivity-app-sale/>;rel="original"
+,<http://archive.is/20150130011700/http://www.macrumors.com/2015/01/29/apple-productivity-app-sale/>;rel="memento first"; datetime="Fri, 30 Jan 2015 01:17:00 GMT"
+,<http://web.archive.org/web/20150406001549/http://www.macrumors.com/2015/01/29/apple-productivity-app-sale/>;rel="memento last"; datetime="Mon, 06 Apr 2015 00:15:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.macrumors.com/2015/01/29/apple-productivity-app-sale/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.macrumors.com/2015/01/29/apple-productivity-app-sale/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 01:17:00 GMT";until="Mon, 06 Apr 2015 00:15:49 GMT"

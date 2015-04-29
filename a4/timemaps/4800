@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:34:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.walesonline.co.uk/whats-on/arts-culture-news/what-no-paintbrush-artist-whos-8547239>;rel="original"
+,<http://web.archive.org/web/20150201041259/http://www.walesonline.co.uk/whats-on/arts-culture-news/what-no-paintbrush-artist-whos-8547239>;rel="memento first"; datetime="Sun, 01 Feb 2015 04:12:59 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.walesonline.co.uk/whats-on/arts-culture-news/what-no-paintbrush-artist-whos-8547239>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.walesonline.co.uk/whats-on/arts-culture-news/what-no-paintbrush-artist-whos-8547239>;rel="self"; type="application/link-format"; from ="Sun, 01 Feb 2015 04:12:59 GMT";until="Sun, 01 Feb 2015 04:12:59 GMT"

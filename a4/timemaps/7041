@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:12:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://preciouspearl.hubpages.com/hub/Wielding-The-Sexual-Sword>;rel="original"
+,<http://web.archive.org/web/20120218115517/http://preciouspearl.hubpages.com/hub/Wielding-The-Sexual-Sword>;rel="memento first"; datetime="Sat, 18 Feb 2012 11:55:17 GMT"
+,<http://web.archive.org/web/20120427052008/http://preciouspearl.hubpages.com/hub/Wielding-The-Sexual-Sword>;rel="memento"; datetime="Fri, 27 Apr 2012 05:20:08 GMT"
+,<http://web.archive.org/web/20120628034831/http://preciouspearl.hubpages.com/hub/Wielding-The-Sexual-Sword>;rel="memento"; datetime="Thu, 28 Jun 2012 03:48:31 GMT"
+,<http://web.archive.org/web/20130706135356/http://preciouspearl.hubpages.com/hub/Wielding-The-Sexual-Sword>;rel="memento"; datetime="Sat, 06 Jul 2013 13:53:56 GMT"
+,<http://web.archive.org/web/20140718210013/http://preciouspearl.hubpages.com/hub/Wielding-The-Sexual-Sword>;rel="memento last"; datetime="Fri, 18 Jul 2014 21:00:13 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://preciouspearl.hubpages.com/hub/Wielding-The-Sexual-Sword>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://preciouspearl.hubpages.com/hub/Wielding-The-Sexual-Sword>;rel="self"; type="application/link-format"; from ="Sat, 18 Feb 2012 11:55:17 GMT";until="Fri, 18 Jul 2014 21:00:13 GMT"

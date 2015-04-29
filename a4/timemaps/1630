@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:37:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://variety.com/2015/film/news/george-lucas-says-movies-are-too-much-circus-no-substance-1201419058/>;rel="original"
+,<http://web.archive.org/web/20150130035554/http://variety.com/2015/film/news/george-lucas-says-movies-are-too-much-circus-no-substance-1201419058/>;rel="memento first"; datetime="Fri, 30 Jan 2015 03:55:54 GMT"
+,<http://web.archive.org/web/20150130073607/http://variety.com/2015/film/news/george-lucas-says-movies-are-too-much-circus-no-substance-1201419058/>;rel="memento"; datetime="Fri, 30 Jan 2015 07:36:07 GMT"
+,<http://archive.is/20150130222135/http://variety.com/2015/film/news/george-lucas-says-movies-are-too-much-circus-no-substance-1201419058/>;rel="memento last"; datetime="Fri, 30 Jan 2015 22:21:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://variety.com/2015/film/news/george-lucas-says-movies-are-too-much-circus-no-substance-1201419058/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://variety.com/2015/film/news/george-lucas-says-movies-are-too-much-circus-no-substance-1201419058/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 03:55:54 GMT";until="Fri, 30 Jan 2015 22:21:35 GMT"

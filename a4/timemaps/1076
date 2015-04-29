@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:27:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.prolificnorth.co.uk/2015/01/citypress-gets-international-pr-brief-from-odgers-berndtson/>;rel="original"
+,<http://web.archive.org/web/20150206033654/http://www.prolificnorth.co.uk/2015/01/citypress-gets-international-pr-brief-from-odgers-berndtson/>;rel="memento first"; datetime="Fri, 06 Feb 2015 03:36:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.prolificnorth.co.uk/2015/01/citypress-gets-international-pr-brief-from-odgers-berndtson/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.prolificnorth.co.uk/2015/01/citypress-gets-international-pr-brief-from-odgers-berndtson/>;rel="self"; type="application/link-format"; from ="Fri, 06 Feb 2015 03:36:54 GMT";until="Fri, 06 Feb 2015 03:36:54 GMT"

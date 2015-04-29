@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:18:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="original"
+,<http://web.archive.org/web/20140130014407/http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="memento first"; datetime="Thu, 30 Jan 2014 01:44:07 GMT"
+,<http://web.archive.org/web/20140209084110/http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="memento"; datetime="Sun, 09 Feb 2014 08:41:10 GMT"
+,<http://web.archive.org/web/20140221062445/http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="memento"; datetime="Fri, 21 Feb 2014 06:24:45 GMT"
+,<http://web.archive.org/web/20140617075945/http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="memento"; datetime="Tue, 17 Jun 2014 07:59:45 GMT"
+,<http://web.archive.org/web/20140628074003/http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="memento"; datetime="Sat, 28 Jun 2014 07:40:03 GMT"
+,<http://web.archive.org/web/20140817083151/http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="memento"; datetime="Sun, 17 Aug 2014 08:31:51 GMT"
+,<http://web.archive.org/web/20150316121744/http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="memento last"; datetime="Mon, 16 Mar 2015 12:17:44 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://tcbmag.com/Opinion/Columns/Explanation-of-Benefits>;rel="self"; type="application/link-format"; from ="Thu, 30 Jan 2014 01:44:07 GMT";until="Mon, 16 Mar 2015 12:17:44 GMT"

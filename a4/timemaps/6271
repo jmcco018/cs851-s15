@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:58:55 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/money/2015/jan/28/snail-mucus-facials-thailand>;rel="original"
+,<http://archive.is/20150128162339/http://www.theguardian.com/money/2015/jan/28/snail-mucus-facials-thailand>;rel="memento first"; datetime="Wed, 28 Jan 2015 16:23:39 GMT"
+,<http://web.archive.org/web/20150128231422/http://www.theguardian.com/money/2015/jan/28/snail-mucus-facials-thailand>;rel="memento"; datetime="Wed, 28 Jan 2015 23:14:22 GMT"
+,<http://web.archive.org/web/20150129064139/http://www.theguardian.com/money/2015/jan/28/snail-mucus-facials-thailand>;rel="memento"; datetime="Thu, 29 Jan 2015 06:41:39 GMT"
+,<http://web.archive.org/web/20150406093826/http://www.theguardian.com/money/2015/jan/28/snail-mucus-facials-thailand>;rel="memento last"; datetime="Mon, 06 Apr 2015 09:38:26 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/money/2015/jan/28/snail-mucus-facials-thailand>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/money/2015/jan/28/snail-mucus-facials-thailand>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 16:23:39 GMT";until="Mon, 06 Apr 2015 09:38:26 GMT"

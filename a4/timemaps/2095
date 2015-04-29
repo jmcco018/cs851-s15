@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:44:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://2decorateyourhome.com/how-to-decorate-your-loft/>;rel="original"
+,<http://web.archive.org/web/20131207054228/http://2decorateyourhome.com/how-to-decorate-your-loft/>;rel="memento first"; datetime="Sat, 07 Dec 2013 05:42:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://2decorateyourhome.com/how-to-decorate-your-loft/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://2decorateyourhome.com/how-to-decorate-your-loft/>;rel="self"; type="application/link-format"; from ="Sat, 07 Dec 2013 05:42:28 GMT";until="Sat, 07 Dec 2013 05:42:28 GMT"

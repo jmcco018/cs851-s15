@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:32 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://arstechnica.com/apple/2015/01/itunes-connect-bug-logs-developers-into-other-developers-accounts-at-random/>;rel="original"
+,<http://web.archive.org/web/20150129235338/http://arstechnica.com/apple/2015/01/itunes-connect-bug-logs-developers-into-other-developers-accounts-at-random/>;rel="memento first"; datetime="Thu, 29 Jan 2015 23:53:38 GMT"
+,<http://archive.is/20150131205015/http://arstechnica.com/apple/2015/01/itunes-connect-bug-logs-developers-into-other-developers-accounts-at-random/>;rel="memento"; datetime="Sat, 31 Jan 2015 20:50:15 GMT"
+,<http://web.archive.org/web/20150207083238/http://arstechnica.com/apple/2015/01/itunes-connect-bug-logs-developers-into-other-developers-accounts-at-random/>;rel="memento last"; datetime="Sat, 07 Feb 2015 08:32:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://arstechnica.com/apple/2015/01/itunes-connect-bug-logs-developers-into-other-developers-accounts-at-random/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://arstechnica.com/apple/2015/01/itunes-connect-bug-logs-developers-into-other-developers-accounts-at-random/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 23:53:38 GMT";until="Sat, 07 Feb 2015 08:32:38 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:50:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.rod-serling.com/wav/tzone/seas1/episod35/09_casey.wav>;rel="original"
+,<http://web.archive.org/web/20051226035049/http://www.rod-serling.com/wav/tzone/seas1/episod35/09_casey.wav>;rel="memento first"; datetime="Mon, 26 Dec 2005 03:50:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.rod-serling.com/wav/tzone/seas1/episod35/09_casey.wav>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.rod-serling.com/wav/tzone/seas1/episod35/09_casey.wav>;rel="self"; type="application/link-format"; from ="Mon, 26 Dec 2005 03:50:49 GMT";until="Mon, 26 Dec 2005 03:50:49 GMT"

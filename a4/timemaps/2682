@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:53:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="original"
+,<http://web.archive.org/web/20150129211339/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento first"; datetime="Thu, 29 Jan 2015 21:13:39 GMT"
+,<//wayback.archive-it.org/all/20150129231604/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Thu, 29 Jan 2015 23:16:04 GMT"
+,<http://web.archive.org/web/20150130232257/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 30 Jan 2015 23:22:57 GMT"
+,<http://web.archive.org/web/20150130234058/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 30 Jan 2015 23:40:58 GMT"
+,<//wayback.archive-it.org/all/20150204143103/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Wed, 04 Feb 2015 14:31:03 GMT"
+,<//wayback.archive-it.org/all/20150206083158/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 06 Feb 2015 08:31:58 GMT"
+,<//wayback.archive-it.org/all/20150213010757/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 13 Feb 2015 01:07:57 GMT"
+,<//wayback.archive-it.org/all/20150220020219/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 20 Feb 2015 02:02:19 GMT"
+,<//wayback.archive-it.org/all/20150227011651/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 27 Feb 2015 01:16:51 GMT"
+,<//wayback.archive-it.org/all/20150306020138/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 06 Mar 2015 02:01:38 GMT"
+,<//wayback.archive-it.org/all/20150310012549/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Tue, 10 Mar 2015 01:25:49 GMT"
+,<//wayback.archive-it.org/all/20150313015406/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 13 Mar 2015 01:54:06 GMT"
+,<//wayback.archive-it.org/all/20150320021929/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 20 Mar 2015 02:19:29 GMT"
+,<//wayback.archive-it.org/all/20150327005636/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 27 Mar 2015 00:56:36 GMT"
+,<//wayback.archive-it.org/all/20150403011643/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 03 Apr 2015 01:16:43 GMT"
+,<//wayback.archive-it.org/all/20150410010412/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento"; datetime="Fri, 10 Apr 2015 01:04:12 GMT"
+,<//wayback.archive-it.org/all/20150417011627/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="memento last"; datetime="Fri, 17 Apr 2015 01:16:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.democracynow.org/2015/1/29/it_started_as_just_a_hope>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 21:13:39 GMT";until="Fri, 17 Apr 2015 01:16:27 GMT"

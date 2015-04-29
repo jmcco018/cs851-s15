@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:16:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="original"
+,<http://archive.is/20150130151201/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 15:12:01 GMT"
+,<http://archive.is/20150130205645/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Fri, 30 Jan 2015 20:56:45 GMT"
+,<http://archive.is/20150130211330/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Fri, 30 Jan 2015 21:13:30 GMT"
+,<http://archive.is/20150130222812/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Fri, 30 Jan 2015 22:28:12 GMT"
+,<http://archive.is/20150130235927/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Fri, 30 Jan 2015 23:59:27 GMT"
+,<http://archive.is/20150131000612/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Sat, 31 Jan 2015 00:06:12 GMT"
+,<http://archive.is/20150131022157/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Sat, 31 Jan 2015 02:21:57 GMT"
+,<http://web.archive.org/web/20150204065119/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Wed, 04 Feb 2015 06:51:19 GMT"
+,<http://archive.is/20150205213319/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Thu, 05 Feb 2015 21:33:19 GMT"
+,<http://archive.is/20150206221834/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Fri, 06 Feb 2015 22:18:34 GMT"
+,<http://archive.is/20150208052045/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Sun, 08 Feb 2015 05:20:45 GMT"
+,<http://archive.is/20150211041843/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Wed, 11 Feb 2015 04:18:43 GMT"
+,<http://archive.is/20150221123845/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Sat, 21 Feb 2015 12:38:45 GMT"
+,<http://web.archive.org/web/20150221123937/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Sat, 21 Feb 2015 12:39:37 GMT"
+,<http://web.archive.org/web/20150313130655/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento"; datetime="Fri, 13 Mar 2015 13:06:55 GMT"
+,<http://web.archive.org/web/20150413191546/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="memento last"; datetime="Mon, 13 Apr 2015 19:15:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cracked.com/article_21884_5-awful-realities-being-man-who-was-raped-by-woman.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 15:12:01 GMT";until="Mon, 13 Apr 2015 19:15:46 GMT"

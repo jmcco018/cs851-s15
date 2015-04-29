@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:03:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://qz.com/335784/whole-foods-founder-health-care/>;rel="original"
+,<http://web.archive.org/web/20150406075657/http://qz.com/335784/whole-foods-founder-health-care>;rel="memento first"; datetime="Mon, 06 Apr 2015 07:56:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://qz.com/335784/whole-foods-founder-health-care/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://qz.com/335784/whole-foods-founder-health-care/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 07:56:57 GMT";until="Mon, 06 Apr 2015 07:56:57 GMT"

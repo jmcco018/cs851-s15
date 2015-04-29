@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:37:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://DIYBinge.com>;rel="original"
+,<http://web.archive.org/web/20150107101009/http://diybinge.com/>;rel="memento first"; datetime="Wed, 07 Jan 2015 10:10:09 GMT"
+,<http://web.archive.org/web/20150108181152/http://diybinge.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 18:11:52 GMT"
+,<http://web.archive.org/web/20150109204610/http://diybinge.com/>;rel="memento"; datetime="Fri, 09 Jan 2015 20:46:10 GMT"
+,<http://web.archive.org/web/20150402053401/http://diybinge.com/>;rel="memento last"; datetime="Thu, 02 Apr 2015 05:34:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://DIYBinge.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://DIYBinge.com>;rel="self"; type="application/link-format"; from ="Wed, 07 Jan 2015 10:10:09 GMT";until="Thu, 02 Apr 2015 05:34:01 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/society/2015/jan/30/harriet-harman-sarah-vine-rape-comments>;rel="original"
+,<http://web.archive.org/web/20150405130316/http://www.theguardian.com/society/2015/jan/30/harriet-harman-sarah-vine-rape-comments>;rel="memento first"; datetime="Sun, 05 Apr 2015 13:03:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/society/2015/jan/30/harriet-harman-sarah-vine-rape-comments>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/society/2015/jan/30/harriet-harman-sarah-vine-rape-comments>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 13:03:16 GMT";until="Sun, 05 Apr 2015 13:03:16 GMT"

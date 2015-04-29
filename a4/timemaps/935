@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:25:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.fastcocreate.com/3041680/super-bowl-xlix/always-is-bringing-like-a-girl-to-the-super-bowl>;rel="original"
+,<http://web.archive.org/web/20150203025736/http://www.fastcocreate.com/3041680/super-bowl-xlix/always-is-bringing-like-a-girl-to-the-super-bowl>;rel="memento first"; datetime="Tue, 03 Feb 2015 02:57:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.fastcocreate.com/3041680/super-bowl-xlix/always-is-bringing-like-a-girl-to-the-super-bowl>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.fastcocreate.com/3041680/super-bowl-xlix/always-is-bringing-like-a-girl-to-the-super-bowl>;rel="self"; type="application/link-format"; from ="Tue, 03 Feb 2015 02:57:36 GMT";until="Tue, 03 Feb 2015 02:57:36 GMT"

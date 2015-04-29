@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:28:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://latesttrickz.com/10-award-winning-microscope-images-mind-blowing/>;rel="original"
+,<http://web.archive.org/web/20150317203048/http://latesttrickz.com/10-award-winning-microscope-images-mind-blowing/>;rel="memento first"; datetime="Tue, 17 Mar 2015 20:30:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://latesttrickz.com/10-award-winning-microscope-images-mind-blowing/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://latesttrickz.com/10-award-winning-microscope-images-mind-blowing/>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 20:30:48 GMT";until="Tue, 17 Mar 2015 20:30:48 GMT"

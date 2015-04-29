@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.urbanspoon.com/r/16/200493/restaurant/Cleveland/Blazin-Bills-Burton>;rel="original"
+,<http://web.archive.org/web/20130818044052/http://www.urbanspoon.com/r/16/200493/restaurant/Cleveland/Blazin-Bills-Burton>;rel="memento first"; datetime="Sun, 18 Aug 2013 04:40:52 GMT"
+,<http://web.archive.org/web/20130822055846/http://www.urbanspoon.com/r/16/200493/restaurant/Cleveland/Blazin-Bills-Burton>;rel="memento"; datetime="Thu, 22 Aug 2013 05:58:46 GMT"
+,<http://web.archive.org/web/20140114190749/http://www.urbanspoon.com/r/16/200493/restaurant/Cleveland/Blazin-Bills-Burton>;rel="memento"; datetime="Tue, 14 Jan 2014 19:07:49 GMT"
+,<http://web.archive.org/web/20140811222807/http://www.urbanspoon.com/r/16/200493/restaurant/Cleveland/Blazin-Bills-Burton>;rel="memento"; datetime="Mon, 11 Aug 2014 22:28:07 GMT"
+,<http://web.archive.org/web/20150217134322/http://www.urbanspoon.com/r/16/200493/restaurant/Cleveland/Blazin-Bills-Burton>;rel="memento last"; datetime="Tue, 17 Feb 2015 13:43:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.urbanspoon.com/r/16/200493/restaurant/Cleveland/Blazin-Bills-Burton>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.urbanspoon.com/r/16/200493/restaurant/Cleveland/Blazin-Bills-Burton>;rel="self"; type="application/link-format"; from ="Sun, 18 Aug 2013 04:40:52 GMT";until="Tue, 17 Feb 2015 13:43:22 GMT"

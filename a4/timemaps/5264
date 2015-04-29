@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:42:34 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/society/2015/jan/30/new-hall-womens-prison-inmates-equals>;rel="original"
+,<http://web.archive.org/web/20150317203303/http://www.theguardian.com/society/2015/jan/30/new-hall-womens-prison-inmates-equals>;rel="memento first"; datetime="Tue, 17 Mar 2015 20:33:03 GMT"
+,<http://web.archive.org/web/20150324143346/http://www.theguardian.com/society/2015/jan/30/new-hall-womens-prison-inmates-equals>;rel="memento"; datetime="Tue, 24 Mar 2015 14:33:46 GMT"
+,<http://web.archive.org/web/20150403222649/http://www.theguardian.com/society/2015/jan/30/new-hall-womens-prison-inmates-equals>;rel="memento last"; datetime="Fri, 03 Apr 2015 22:26:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/society/2015/jan/30/new-hall-womens-prison-inmates-equals>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/society/2015/jan/30/new-hall-womens-prison-inmates-equals>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 20:33:03 GMT";until="Fri, 03 Apr 2015 22:26:49 GMT"

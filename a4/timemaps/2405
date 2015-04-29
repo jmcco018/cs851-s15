@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:49:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://news.nationalpost.com/2015/01/30/toronto-fertility-clinic-offers-controversial-egg-treatment-for-women-that-can-extend-child-bearing-years/>;rel="original"
+,<http://web.archive.org/web/20150130232511/http://news.nationalpost.com/2015/01/30/toronto-fertility-clinic-offers-controversial-egg-treatment-for-women-that-can-extend-child-bearing-years/>;rel="memento first"; datetime="Fri, 30 Jan 2015 23:25:11 GMT"
+,<http://web.archive.org/web/20150322062424/http://news.nationalpost.com/2015/01/30/toronto-fertility-clinic-offers-controversial-egg-treatment-for-women-that-can-extend-child-bearing-years/>;rel="memento last"; datetime="Sun, 22 Mar 2015 06:24:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://news.nationalpost.com/2015/01/30/toronto-fertility-clinic-offers-controversial-egg-treatment-for-women-that-can-extend-child-bearing-years/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://news.nationalpost.com/2015/01/30/toronto-fertility-clinic-offers-controversial-egg-treatment-for-women-that-can-extend-child-bearing-years/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 23:25:11 GMT";until="Sun, 22 Mar 2015 06:24:24 GMT"

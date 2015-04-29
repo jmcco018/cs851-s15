@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:50:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.yourdaily.bargains/2015-new-7-in-1-set-anna-stationery-pencil-eraser-bag-book-sharpener-q/>;rel="original"
+,<http://web.archive.org/web/20150408025253/http://www.yourdaily.bargains/2015-new-7-in-1-set-anna-stationery-pencil-eraser-bag-book-sharpener-q/>;rel="memento first"; datetime="Wed, 08 Apr 2015 02:52:53 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.yourdaily.bargains/2015-new-7-in-1-set-anna-stationery-pencil-eraser-bag-book-sharpener-q/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.yourdaily.bargains/2015-new-7-in-1-set-anna-stationery-pencil-eraser-bag-book-sharpener-q/>;rel="self"; type="application/link-format"; from ="Wed, 08 Apr 2015 02:52:53 GMT";until="Wed, 08 Apr 2015 02:52:53 GMT"

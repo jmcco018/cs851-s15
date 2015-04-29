@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:26:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://today.duke.edu/2015/01/neuropods>;rel="original"
+,<http://web.archive.org/web/20150106175113/http://today.duke.edu/2015/01/neuropods>;rel="memento first"; datetime="Tue, 06 Jan 2015 17:51:13 GMT"
+,<http://web.archive.org/web/20150203220327/http://today.duke.edu/2015/01/neuropods>;rel="memento"; datetime="Tue, 03 Feb 2015 22:03:27 GMT"
+,<http://web.archive.org/web/20150320004344/http://today.duke.edu/2015/01/neuropods>;rel="memento"; datetime="Fri, 20 Mar 2015 00:43:44 GMT"
+,<http://web.archive.org/web/20150414142331/http://today.duke.edu/2015/01/neuropods>;rel="memento last"; datetime="Tue, 14 Apr 2015 14:23:31 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://today.duke.edu/2015/01/neuropods>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://today.duke.edu/2015/01/neuropods>;rel="self"; type="application/link-format"; from ="Tue, 06 Jan 2015 17:51:13 GMT";until="Tue, 14 Apr 2015 14:23:31 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:49:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://englishwithkatie.com/five-ways-say-friday-electricity/>;rel="original"
+,<http://web.archive.org/web/20150406052227/http://englishwithkatie.com/five-ways-say-friday-electricity/>;rel="memento first"; datetime="Mon, 06 Apr 2015 05:22:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://englishwithkatie.com/five-ways-say-friday-electricity/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://englishwithkatie.com/five-ways-say-friday-electricity/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 05:22:27 GMT";until="Mon, 06 Apr 2015 05:22:27 GMT"

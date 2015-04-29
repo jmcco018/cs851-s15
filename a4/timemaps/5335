@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:43:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thegospelcoalition.org/article/why-the-prosperity-gospel-is-the-worst-pyramid-scheme-ever>;rel="original"
+,<http://archive.is/20150128142838/http://www.thegospelcoalition.org/article/why-the-prosperity-gospel-is-the-worst-pyramid-scheme-ever>;rel="memento first"; datetime="Wed, 28 Jan 2015 14:28:38 GMT"
+,<http://web.archive.org/web/20150316161322/http://www.thegospelcoalition.org/article/why-the-prosperity-gospel-is-the-worst-pyramid-scheme-ever>;rel="memento last"; datetime="Mon, 16 Mar 2015 16:13:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thegospelcoalition.org/article/why-the-prosperity-gospel-is-the-worst-pyramid-scheme-ever>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thegospelcoalition.org/article/why-the-prosperity-gospel-is-the-worst-pyramid-scheme-ever>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 14:28:38 GMT";until="Mon, 16 Mar 2015 16:13:22 GMT"

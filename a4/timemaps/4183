@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:25:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.instila.com/collections/instila-magnets/products/instila-inspirational-magnet-courage>;rel="original"
+,<http://web.archive.org/web/20131129095429/http://www.instila.com/collections/instila-magnets/products/instila-inspirational-magnet-courage>;rel="memento first"; datetime="Fri, 29 Nov 2013 09:54:29 GMT"
+,<http://web.archive.org/web/20131211235259/http://www.instila.com/collections/instila-magnets/products/instila-inspirational-magnet-courage?>;rel="memento"; datetime="Wed, 11 Dec 2013 23:52:59 GMT"
+,<http://web.archive.org/web/20140704205337/http://www.instila.com/collections/instila-magnets/products/instila-inspirational-magnet-courage>;rel="memento last"; datetime="Fri, 04 Jul 2014 20:53:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.instila.com/collections/instila-magnets/products/instila-inspirational-magnet-courage>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.instila.com/collections/instila-magnets/products/instila-inspirational-magnet-courage>;rel="self"; type="application/link-format"; from ="Fri, 29 Nov 2013 09:54:29 GMT";until="Fri, 04 Jul 2014 20:53:37 GMT"

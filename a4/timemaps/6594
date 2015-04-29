@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:32 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.luxuriousprototype.com/fashion/old-spice-fresher-collection-nature/>;rel="original"
+,<http://web.archive.org/web/20150406011217/http://www.luxuriousprototype.com/fashion/old-spice-fresher-collection-nature/>;rel="memento first"; datetime="Mon, 06 Apr 2015 01:12:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.luxuriousprototype.com/fashion/old-spice-fresher-collection-nature/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.luxuriousprototype.com/fashion/old-spice-fresher-collection-nature/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 01:12:17 GMT";until="Mon, 06 Apr 2015 01:12:17 GMT"

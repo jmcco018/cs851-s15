@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:21:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.bible.com/reading-plans/904-my-utmost-for-his-highest-holy-week>;rel="original"
+,<http://web.archive.org/web/20140416040131/http://www.bible.com/reading-plans/904-my-utmost-for-his-highest-holy-week>;rel="memento first"; datetime="Wed, 16 Apr 2014 04:01:31 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.bible.com/reading-plans/904-my-utmost-for-his-highest-holy-week>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.bible.com/reading-plans/904-my-utmost-for-his-highest-holy-week>;rel="self"; type="application/link-format"; from ="Wed, 16 Apr 2014 04:01:31 GMT";until="Wed, 16 Apr 2014 04:01:31 GMT"

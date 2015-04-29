@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:12:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/us/album/christmas-in-blue/id947467999>;rel="original"
+,<http://web.archive.org/web/20150108082458/https://itunes.apple.com/us/album/christmas-in-blue/id947467999>;rel="memento first"; datetime="Thu, 08 Jan 2015 08:24:58 GMT"
+,<http://web.archive.org/web/20150109182535/https://itunes.apple.com/us/album/christmas-in-blue/id947467999>;rel="memento last"; datetime="Fri, 09 Jan 2015 18:25:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/us/album/christmas-in-blue/id947467999>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/us/album/christmas-in-blue/id947467999>;rel="self"; type="application/link-format"; from ="Thu, 08 Jan 2015 08:24:58 GMT";until="Fri, 09 Jan 2015 18:25:35 GMT"

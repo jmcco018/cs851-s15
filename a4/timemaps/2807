@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:55:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://wric.com/2015/01/20/fire-at-mondelez-nabisco-factory-in-henrico/>;rel="original"
+,<http://web.archive.org/web/20150405130617/http://wric.com/2015/01/20/fire-at-mondelez-nabisco-factory-in-henrico>;rel="memento first"; datetime="Sun, 05 Apr 2015 13:06:17 GMT"
+,<http://web.archive.org/web/20150411214724/http://wric.com/2015/01/20/fire-at-mondelez-nabisco-factory-in-henrico/>;rel="memento last"; datetime="Sat, 11 Apr 2015 21:47:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://wric.com/2015/01/20/fire-at-mondelez-nabisco-factory-in-henrico/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://wric.com/2015/01/20/fire-at-mondelez-nabisco-factory-in-henrico/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 13:06:17 GMT";until="Sat, 11 Apr 2015 21:47:24 GMT"

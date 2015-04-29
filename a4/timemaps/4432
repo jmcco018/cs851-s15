@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:28:49 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://localbuzznetwork.com/sacramento-california-5-day-weather-forecast/>;rel="original"
+,<http://web.archive.org/web/20141021124939/http://localbuzznetwork.com/sacramento-california-5-day-weather-forecast/>;rel="memento first"; datetime="Tue, 21 Oct 2014 12:49:39 GMT"
+,<http://web.archive.org/web/20150108224753/http://localbuzznetwork.com/sacramento-california-5-day-weather-forecast/>;rel="memento last"; datetime="Thu, 08 Jan 2015 22:47:53 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://localbuzznetwork.com/sacramento-california-5-day-weather-forecast/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://localbuzznetwork.com/sacramento-california-5-day-weather-forecast/>;rel="self"; type="application/link-format"; from ="Tue, 21 Oct 2014 12:49:39 GMT";until="Thu, 08 Jan 2015 22:47:53 GMT"

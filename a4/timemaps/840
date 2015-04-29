@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:23:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="original"
+,<http://archive.is/20150130130258/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento first"; datetime="Fri, 30 Jan 2015 13:02:58 GMT"
+,<http://web.archive.org/web/20150130150905/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento"; datetime="Fri, 30 Jan 2015 15:09:05 GMT"
+,<//wayback.archive-it.org/all/20150131140355/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento"; datetime="Sat, 31 Jan 2015 14:03:55 GMT"
+,<http://web.archive.org/web/20150201110553/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento"; datetime="Sun, 01 Feb 2015 11:05:53 GMT"
+,<http://web.archive.org/web/20150202155130/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento"; datetime="Mon, 02 Feb 2015 15:51:30 GMT"
+,<http://web.archive.org/web/20150316123105/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento"; datetime="Mon, 16 Mar 2015 12:31:05 GMT"
+,<http://web.archive.org/web/20150321184647/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento"; datetime="Sat, 21 Mar 2015 18:46:47 GMT"
+,<http://web.archive.org/web/20150407041105/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento"; datetime="Tue, 07 Apr 2015 04:11:05 GMT"
+,<http://web.archive.org/web/20150412011056/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento"; datetime="Sun, 12 Apr 2015 01:10:56 GMT"
+,<http://web.archive.org/web/20150413051558/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento"; datetime="Mon, 13 Apr 2015 05:15:58 GMT"
+,<http://web.archive.org/web/20150413225457/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="memento last"; datetime="Mon, 13 Apr 2015 22:54:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/books/2015/jan/30/george-rr-martin-the-winds-of-winter-publication>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 13:02:58 GMT";until="Mon, 13 Apr 2015 22:54:57 GMT"

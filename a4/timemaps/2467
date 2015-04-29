@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:50:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://forcechange.com/137627/save-elephant-from-cruel-zoo/>;rel="original"
+,<http://web.archive.org/web/20150302125953/http://forcechange.com/137627/save-elephant-from-cruel-zoo/>;rel="memento first"; datetime="Mon, 02 Mar 2015 12:59:53 GMT"
+,<http://web.archive.org/web/20150401124032/http://forcechange.com/137627/save-elephant-from-cruel-zoo/>;rel="memento last"; datetime="Wed, 01 Apr 2015 12:40:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://forcechange.com/137627/save-elephant-from-cruel-zoo/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://forcechange.com/137627/save-elephant-from-cruel-zoo/>;rel="self"; type="application/link-format"; from ="Mon, 02 Mar 2015 12:59:53 GMT";until="Wed, 01 Apr 2015 12:40:32 GMT"

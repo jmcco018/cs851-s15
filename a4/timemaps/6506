@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/a-mobius-strip-made-of-light>;rel="original"
+,<http://archive.is/20150131155643/http://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/a-mobius-strip-made-of-light>;rel="memento first"; datetime="Sat, 31 Jan 2015 15:56:43 GMT"
+,<http://web.archive.org/web/20150401112959/http://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/a-mobius-strip-made-of-light>;rel="memento last"; datetime="Wed, 01 Apr 2015 11:29:59 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/a-mobius-strip-made-of-light>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/a-mobius-strip-made-of-light>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 15:56:43 GMT";until="Wed, 01 Apr 2015 11:29:59 GMT"

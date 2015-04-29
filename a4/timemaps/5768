@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:51:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cultura.va/content/cultura/en/plenarie/2015-women/outline.html>;rel="original"
+,<http://web.archive.org/web/20150226183742/http://www.cultura.va/content/cultura/en/plenarie/2015-women/outline.html>;rel="memento first"; datetime="Thu, 26 Feb 2015 18:37:42 GMT"
+,<http://web.archive.org/web/20150226183747/http://www.cultura.va/content/cultura/en/plenarie/2015-women/outline.html>;rel="memento"; datetime="Thu, 26 Feb 2015 18:37:47 GMT"
+,<http://web.archive.org/web/20150329084519/http://www.cultura.va/content/cultura/en/plenarie/2015-women/outline.html>;rel="memento"; datetime="Sun, 29 Mar 2015 08:45:19 GMT"
+,<http://web.archive.org/web/20150404061711/http://www.cultura.va/content/cultura/en/plenarie/2015-women/outline.html>;rel="memento last"; datetime="Sat, 04 Apr 2015 06:17:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cultura.va/content/cultura/en/plenarie/2015-women/outline.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cultura.va/content/cultura/en/plenarie/2015-women/outline.html>;rel="self"; type="application/link-format"; from ="Thu, 26 Feb 2015 18:37:42 GMT";until="Sat, 04 Apr 2015 06:17:11 GMT"

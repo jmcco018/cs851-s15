@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://apps.facebook.com/playairport/>;rel="original"
+,<http://web.archive.org/web/20140112040429/http://apps.facebook.com/playairport/>;rel="memento first"; datetime="Sun, 12 Jan 2014 04:04:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://apps.facebook.com/playairport/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://apps.facebook.com/playairport/>;rel="self"; type="application/link-format"; from ="Sun, 12 Jan 2014 04:04:29 GMT";until="Sun, 12 Jan 2014 04:04:29 GMT"

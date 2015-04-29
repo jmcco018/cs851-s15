@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:16:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://en.rocketnews24.com/2015/01/09/samurai-tennis-professional-kei-nishikori-trades-racquet-for-a-sword-in-this-awesome-new-ad/>;rel="original"
+,<http://web.archive.org/web/20150123211743/http://en.rocketnews24.com/2015/01/09/samurai-tennis-professional-kei-nishikori-trades-racquet-for-a-sword-in-this-awesome-new-ad/>;rel="memento first"; datetime="Fri, 23 Jan 2015 21:17:43 GMT"
+,<http://web.archive.org/web/20150326101635/http://en.rocketnews24.com/2015/01/09/samurai-tennis-professional-kei-nishikori-trades-racquet-for-a-sword-in-this-awesome-new-ad/>;rel="memento"; datetime="Thu, 26 Mar 2015 10:16:35 GMT"
+,<http://web.archive.org/web/20150404143303/http://en.rocketnews24.com/2015/01/09/samurai-tennis-professional-kei-nishikori-trades-racquet-for-a-sword-in-this-awesome-new-ad>;rel="memento last"; datetime="Sat, 04 Apr 2015 14:33:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://en.rocketnews24.com/2015/01/09/samurai-tennis-professional-kei-nishikori-trades-racquet-for-a-sword-in-this-awesome-new-ad/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://en.rocketnews24.com/2015/01/09/samurai-tennis-professional-kei-nishikori-trades-racquet-for-a-sword-in-this-awesome-new-ad/>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 21:17:43 GMT";until="Sat, 04 Apr 2015 14:33:03 GMT"

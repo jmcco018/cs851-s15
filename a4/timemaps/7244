@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:16:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.vanityfair.com/vf-hollywood/2015/01/parks-and-recreation-final-season-best-on-tv?mbid=social_twitter>;rel="original"
+,<http://web.archive.org/web/20150130053218/http://www.vanityfair.com/vf-hollywood/2015/01/parks-and-recreation-final-season-best-on-tv?mbid=social_twitter>;rel="memento first"; datetime="Fri, 30 Jan 2015 05:32:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.vanityfair.com/vf-hollywood/2015/01/parks-and-recreation-final-season-best-on-tv?mbid=social_twitter>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.vanityfair.com/vf-hollywood/2015/01/parks-and-recreation-final-season-best-on-tv?mbid=social_twitter>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 05:32:18 GMT";until="Fri, 30 Jan 2015 05:32:18 GMT"

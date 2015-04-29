@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/us/podcast/doubt-doubts-crazy-cool-people/id677677309?mt=2&ign-mpt=uo%3D4>;rel="original"
+,<http://web.archive.org/web/20150203023350/https://itunes.apple.com/us/podcast/doubt-doubts-crazy-cool-people/id677677309?mt=2&ign-mpt=uo%3D4>;rel="memento first"; datetime="Tue, 03 Feb 2015 02:33:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/us/podcast/doubt-doubts-crazy-cool-people/id677677309?mt=2&ign-mpt=uo%3D4>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/us/podcast/doubt-doubts-crazy-cool-people/id677677309?mt=2&ign-mpt=uo%3D4>;rel="self"; type="application/link-format"; from ="Tue, 03 Feb 2015 02:33:50 GMT";until="Tue, 03 Feb 2015 02:33:50 GMT"

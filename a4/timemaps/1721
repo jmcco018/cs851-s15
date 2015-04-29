@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:38:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://wreckingballradio.net>;rel="original"
+,<http://web.archive.org/web/20130728155922/http://www.wreckingballradio.net>;rel="memento first"; datetime="Sun, 28 Jul 2013 15:59:22 GMT"
+,<http://web.archive.org/web/20130925214226/http://www.wreckingballradio.net/>;rel="memento"; datetime="Wed, 25 Sep 2013 21:42:26 GMT"
+,<http://web.archive.org/web/20131005075010/http://www.wreckingballradio.net/>;rel="memento"; datetime="Sat, 05 Oct 2013 07:50:10 GMT"
+,<http://web.archive.org/web/20141218123245/http://wreckingballradio.net/>;rel="memento"; datetime="Thu, 18 Dec 2014 12:32:45 GMT"
+,<http://web.archive.org/web/20141223191954/http://www.wreckingballradio.net/>;rel="memento last"; datetime="Tue, 23 Dec 2014 19:19:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://wreckingballradio.net>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://wreckingballradio.net>;rel="self"; type="application/link-format"; from ="Sun, 28 Jul 2013 15:59:22 GMT";until="Tue, 23 Dec 2014 19:19:54 GMT"

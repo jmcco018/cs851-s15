@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:44:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://iosetc.com/2014/12/05/build-your-tomb-in-pyramid-jumble-app-duel.html>;rel="original"
+,<http://web.archive.org/web/20150327115128/http://iosetc.com/2014/12/05/build-your-tomb-in-pyramid-jumble-app-duel.html>;rel="memento first"; datetime="Fri, 27 Mar 2015 11:51:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://iosetc.com/2014/12/05/build-your-tomb-in-pyramid-jumble-app-duel.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://iosetc.com/2014/12/05/build-your-tomb-in-pyramid-jumble-app-duel.html>;rel="self"; type="application/link-format"; from ="Fri, 27 Mar 2015 11:51:28 GMT";until="Fri, 27 Mar 2015 11:51:28 GMT"

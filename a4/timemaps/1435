@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:33:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="original"
+,<http://web.archive.org/web/20150311132517/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento first"; datetime="Wed, 11 Mar 2015 13:25:17 GMT"
+,<http://web.archive.org/web/20150318032711/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Wed, 18 Mar 2015 03:27:11 GMT"
+,<http://web.archive.org/web/20150319083634/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Thu, 19 Mar 2015 08:36:34 GMT"
+,<http://web.archive.org/web/20150320103517/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Fri, 20 Mar 2015 10:35:17 GMT"
+,<http://web.archive.org/web/20150321145111/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Sat, 21 Mar 2015 14:51:11 GMT"
+,<http://web.archive.org/web/20150322215527/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Sun, 22 Mar 2015 21:55:27 GMT"
+,<http://web.archive.org/web/20150324083917/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Tue, 24 Mar 2015 08:39:17 GMT"
+,<http://web.archive.org/web/20150325235852/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Wed, 25 Mar 2015 23:58:52 GMT"
+,<http://web.archive.org/web/20150327033208/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Fri, 27 Mar 2015 03:32:08 GMT"
+,<http://web.archive.org/web/20150328042706/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Sat, 28 Mar 2015 04:27:06 GMT"
+,<http://web.archive.org/web/20150329085803/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Sun, 29 Mar 2015 08:58:03 GMT"
+,<http://web.archive.org/web/20150330120117/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Mon, 30 Mar 2015 12:01:17 GMT"
+,<http://web.archive.org/web/20150331160238/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Tue, 31 Mar 2015 16:02:38 GMT"
+,<http://web.archive.org/web/20150401202957/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Wed, 01 Apr 2015 20:29:57 GMT"
+,<http://web.archive.org/web/20150403062156/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Fri, 03 Apr 2015 06:21:56 GMT"
+,<http://web.archive.org/web/20150404050808/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Sat, 04 Apr 2015 05:08:08 GMT"
+,<http://web.archive.org/web/20150407081650/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Tue, 07 Apr 2015 08:16:50 GMT"
+,<http://web.archive.org/web/20150408105733/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Wed, 08 Apr 2015 10:57:33 GMT"
+,<http://web.archive.org/web/20150409144132/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Thu, 09 Apr 2015 14:41:32 GMT"
+,<http://web.archive.org/web/20150410171031/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Fri, 10 Apr 2015 17:10:31 GMT"
+,<http://web.archive.org/web/20150412014246/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Sun, 12 Apr 2015 01:42:46 GMT"
+,<http://web.archive.org/web/20150413055222/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Mon, 13 Apr 2015 05:52:22 GMT"
+,<http://web.archive.org/web/20150414080720/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Tue, 14 Apr 2015 08:07:20 GMT"
+,<http://web.archive.org/web/20150415110934/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Wed, 15 Apr 2015 11:09:34 GMT"
+,<http://web.archive.org/web/20150416155336/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Thu, 16 Apr 2015 15:53:36 GMT"
+,<http://web.archive.org/web/20150417193710/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Fri, 17 Apr 2015 19:37:10 GMT"
+,<http://web.archive.org/web/20150419001154/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Sun, 19 Apr 2015 00:11:54 GMT"
+,<http://web.archive.org/web/20150420084132/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento"; datetime="Mon, 20 Apr 2015 08:41:32 GMT"
+,<http://web.archive.org/web/20150421134429/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="memento last"; datetime="Tue, 21 Apr 2015 13:44:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ndtv.com/video/player/kya-hai-aapki-choice/vip-culture-should-have-been-abolished-at-the-time-of-independence-kejriwal/354653>;rel="self"; type="application/link-format"; from ="Wed, 11 Mar 2015 13:25:17 GMT";until="Tue, 21 Apr 2015 13:44:29 GMT"

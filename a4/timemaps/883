@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.viptravelvegas.net/>;rel="original"
+,<http://web.archive.org/web/20150107194111/http://www.viptravelvegas.net/>;rel="memento first"; datetime="Wed, 07 Jan 2015 19:41:11 GMT"
+,<http://web.archive.org/web/20150108114401/http://www.viptravelvegas.net/>;rel="memento"; datetime="Thu, 08 Jan 2015 11:44:01 GMT"
+,<http://web.archive.org/web/20150109180309/http://www.viptravelvegas.net/>;rel="memento"; datetime="Fri, 09 Jan 2015 18:03:09 GMT"
+,<http://web.archive.org/web/20150109191420/http://www.viptravelvegas.net/>;rel="memento"; datetime="Fri, 09 Jan 2015 19:14:20 GMT"
+,<http://web.archive.org/web/20150110045821/http://www.viptravelvegas.net/>;rel="memento"; datetime="Sat, 10 Jan 2015 04:58:21 GMT"
+,<http://web.archive.org/web/20150402011905/http://viptravelvegas.net/>;rel="memento"; datetime="Thu, 02 Apr 2015 01:19:05 GMT"
+,<http://web.archive.org/web/20150402011907/http://www.viptravelvegas.net/>;rel="memento last"; datetime="Thu, 02 Apr 2015 01:19:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.viptravelvegas.net/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.viptravelvegas.net/>;rel="self"; type="application/link-format"; from ="Wed, 07 Jan 2015 19:41:11 GMT";until="Thu, 02 Apr 2015 01:19:07 GMT"

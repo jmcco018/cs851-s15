@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:23:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.newindianexpress.com/nation/Congress-Defender-Allegedly-Faked-Relationship-with-Vadras-Cousin/2015/01/02/article2599812.ece>;rel="original"
+,<http://web.archive.org/web/20150102122548/http://www.newindianexpress.com/nation/Congress-Defender-Allegedly-Faked-Relationship-with-Vadras-Cousin/2015/01/02/article2599812.ece>;rel="memento first"; datetime="Fri, 02 Jan 2015 12:25:48 GMT"
+,<http://web.archive.org/web/20150104102651/http://www.newindianexpress.com/nation/Congress-Defender-Allegedly-Faked-Relationship-with-Vadras-Cousin/2015/01/02/article2599812.ece>;rel="memento last"; datetime="Sun, 04 Jan 2015 10:26:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.newindianexpress.com/nation/Congress-Defender-Allegedly-Faked-Relationship-with-Vadras-Cousin/2015/01/02/article2599812.ece>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.newindianexpress.com/nation/Congress-Defender-Allegedly-Faked-Relationship-with-Vadras-Cousin/2015/01/02/article2599812.ece>;rel="self"; type="application/link-format"; from ="Fri, 02 Jan 2015 12:25:48 GMT";until="Sun, 04 Jan 2015 10:26:51 GMT"

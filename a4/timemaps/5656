@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mt4forexrobot.com>;rel="original"
+,<http://web.archive.org/web/20140302042205/http://mt4forexrobot.com/>;rel="memento first"; datetime="Sun, 02 Mar 2014 04:22:05 GMT"
+,<http://web.archive.org/web/20140315235207/http://mt4forexrobot.com/>;rel="memento"; datetime="Sat, 15 Mar 2014 23:52:07 GMT"
+,<http://web.archive.org/web/20140317034803/http://mt4forexrobot.com/>;rel="memento"; datetime="Mon, 17 Mar 2014 03:48:03 GMT"
+,<http://web.archive.org/web/20140404094548/http://www.mt4forexrobot.com/>;rel="memento"; datetime="Fri, 04 Apr 2014 09:45:48 GMT"
+,<http://web.archive.org/web/20140422210156/http://www.mt4forexrobot.com/>;rel="memento"; datetime="Tue, 22 Apr 2014 21:01:56 GMT"
+,<http://web.archive.org/web/20140515094311/http://www.mt4forexrobot.com/>;rel="memento"; datetime="Thu, 15 May 2014 09:43:11 GMT"
+,<http://web.archive.org/web/20140603223528/http://www.mt4forexrobot.com/>;rel="memento"; datetime="Tue, 03 Jun 2014 22:35:28 GMT"
+,<http://web.archive.org/web/20140705084019/http://www.mt4forexrobot.com/>;rel="memento"; datetime="Sat, 05 Jul 2014 08:40:19 GMT"
+,<http://web.archive.org/web/20140805034808/http://www.mt4forexrobot.com/>;rel="memento"; datetime="Tue, 05 Aug 2014 03:48:08 GMT"
+,<http://web.archive.org/web/20140905143004/http://www.mt4forexrobot.com/>;rel="memento"; datetime="Fri, 05 Sep 2014 14:30:04 GMT"
+,<http://web.archive.org/web/20141217213820/http://www.mt4forexrobot.com/>;rel="memento"; datetime="Wed, 17 Dec 2014 21:38:20 GMT"
+,<http://web.archive.org/web/20150216045847/http://www.mt4forexrobot.com/>;rel="memento last"; datetime="Mon, 16 Feb 2015 04:58:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mt4forexrobot.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mt4forexrobot.com>;rel="self"; type="application/link-format"; from ="Sun, 02 Mar 2014 04:22:05 GMT";until="Mon, 16 Feb 2015 04:58:47 GMT"

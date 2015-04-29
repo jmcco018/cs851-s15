@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blog.paddypower.com/2015/01/30/narrow-the-field-the-141-shot-who-can-prove-a-real-hero-on-saturday/>;rel="original"
+,<http://web.archive.org/web/20150406071417/http://blog.paddypower.com/2015/01/30/narrow-the-field-the-141-shot-who-can-prove-a-real-hero-on-saturday/>;rel="memento first"; datetime="Mon, 06 Apr 2015 07:14:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blog.paddypower.com/2015/01/30/narrow-the-field-the-141-shot-who-can-prove-a-real-hero-on-saturday/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blog.paddypower.com/2015/01/30/narrow-the-field-the-141-shot-who-can-prove-a-real-hero-on-saturday/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 07:14:17 GMT";until="Mon, 06 Apr 2015 07:14:17 GMT"

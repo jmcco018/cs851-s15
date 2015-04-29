@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:08:38 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.grammy.com/photos/smokey-robinson-stevie-wonder-ken-ehrlich-ll-cool-j-and-john-legend>;rel="original"
+,<http://web.archive.org/web/20150211101558/http://www.grammy.com/photos/smokey-robinson-stevie-wonder-ken-ehrlich-ll-cool-j-and-john-legend>;rel="memento first"; datetime="Wed, 11 Feb 2015 10:15:58 GMT"
+,<http://web.archive.org/web/20150321221315/http://www.grammy.com/photos/smokey-robinson-stevie-wonder-ken-ehrlich-ll-cool-j-and-john-legend>;rel="memento"; datetime="Sat, 21 Mar 2015 22:13:15 GMT"
+,<http://web.archive.org/web/20150404103204/http://www.grammy.com/photos/smokey-robinson-stevie-wonder-ken-ehrlich-ll-cool-j-and-john-legend>;rel="memento last"; datetime="Sat, 04 Apr 2015 10:32:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.grammy.com/photos/smokey-robinson-stevie-wonder-ken-ehrlich-ll-cool-j-and-john-legend>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.grammy.com/photos/smokey-robinson-stevie-wonder-ken-ehrlich-ll-cool-j-and-john-legend>;rel="self"; type="application/link-format"; from ="Wed, 11 Feb 2015 10:15:58 GMT";until="Sat, 04 Apr 2015 10:32:04 GMT"

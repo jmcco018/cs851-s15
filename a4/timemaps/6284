@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:02 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="original"
+,<http://web.archive.org/web/20150129190440/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento first"; datetime="Thu, 29 Jan 2015 19:04:40 GMT"
+,<//wayback.archive-it.org/all/20150129215738/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Thu, 29 Jan 2015 21:57:38 GMT"
+,<http://archive.is/20150129220409/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Thu, 29 Jan 2015 22:04:09 GMT"
+,<http://web.archive.org/web/20150129223142/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Thu, 29 Jan 2015 22:31:42 GMT"
+,<//wayback.archive-it.org/all/20150130215947/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Fri, 30 Jan 2015 21:59:47 GMT"
+,<//wayback.archive-it.org/all/20150131151156/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Sat, 31 Jan 2015 15:11:56 GMT"
+,<http://web.archive.org/web/20150131221633/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Sat, 31 Jan 2015 22:16:33 GMT"
+,<http://web.archive.org/web/20150201051447/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Sun, 01 Feb 2015 05:14:47 GMT"
+,<http://web.archive.org/web/20150201110319/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Sun, 01 Feb 2015 11:03:19 GMT"
+,<http://webcitation.org/query?id=1422864701101249>;rel="memento"; datetime="Mon, 02 Feb 2015 08:11:43 GMT"
+,<http://archive.is/20150202081526/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Mon, 02 Feb 2015 08:15:26 GMT"
+,<//wayback.archive-it.org/all/20150212220042/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Thu, 12 Feb 2015 22:00:42 GMT"
+,<http://web.archive.org/web/20150225171355/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Wed, 25 Feb 2015 17:13:55 GMT"
+,<//wayback.archive-it.org/all/20150226014025/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Thu, 26 Feb 2015 01:40:25 GMT"
+,<//wayback.archive-it.org/all/20150309221431/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Mon, 09 Mar 2015 22:14:31 GMT"
+,<http://web.archive.org/web/20150310151740/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Tue, 10 Mar 2015 15:17:40 GMT"
+,<http://web.archive.org/web/20150311165344/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Wed, 11 Mar 2015 16:53:44 GMT"
+,<//wayback.archive-it.org/all/20150311224457/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Wed, 11 Mar 2015 22:44:57 GMT"
+,<http://web.archive.org/web/20150312180109/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Thu, 12 Mar 2015 18:01:09 GMT"
+,<http://web.archive.org/web/20150313201818/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Fri, 13 Mar 2015 20:18:18 GMT"
+,<http://web.archive.org/web/20150314210517/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Sat, 14 Mar 2015 21:05:17 GMT"
+,<http://web.archive.org/web/20150315054335/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Sun, 15 Mar 2015 05:43:35 GMT"
+,<http://web.archive.org/web/20150316061621/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Mon, 16 Mar 2015 06:16:21 GMT"
+,<http://web.archive.org/web/20150317063524/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Tue, 17 Mar 2015 06:35:24 GMT"
+,<http://web.archive.org/web/20150325131113/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Wed, 25 Mar 2015 13:11:13 GMT"
+,<http://web.archive.org/web/20150326175131/http://pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Thu, 26 Mar 2015 17:51:31 GMT"
+,<http://web.archive.org/web/20150326175132/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Thu, 26 Mar 2015 17:51:32 GMT"
+,<//wayback.archive-it.org/all/20150402225855/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento"; datetime="Thu, 02 Apr 2015 22:58:55 GMT"
+,<//wayback.archive-it.org/all/20150412155401/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="memento last"; datetime="Sun, 12 Apr 2015 15:54:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 19:04:40 GMT";until="Sun, 12 Apr 2015 15:54:01 GMT"

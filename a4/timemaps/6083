@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:56:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.blogwithmom.com/2015/01/therafit-shoes-review/>;rel="original"
+,<http://web.archive.org/web/20150404085822/http://www.blogwithmom.com/2015/01/therafit-shoes-review/>;rel="memento first"; datetime="Sat, 04 Apr 2015 08:58:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.blogwithmom.com/2015/01/therafit-shoes-review/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.blogwithmom.com/2015/01/therafit-shoes-review/>;rel="self"; type="application/link-format"; from ="Sat, 04 Apr 2015 08:58:22 GMT";until="Sat, 04 Apr 2015 08:58:22 GMT"

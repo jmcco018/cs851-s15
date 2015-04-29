@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:42:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://3dprintingindustry.com/2014/11/17/xyzprinting-food-3d-printer-announced/>;rel="original"
+,<http://web.archive.org/web/20141202184634/http://3dprintingindustry.com/2014/11/17/xyzprinting-food-3d-printer-announced/>;rel="memento first"; datetime="Tue, 02 Dec 2014 18:46:34 GMT"
+,<http://web.archive.org/web/20150317123820/http://3dprintingindustry.com/2014/11/17/xyzprinting-food-3d-printer-announced/>;rel="memento last"; datetime="Tue, 17 Mar 2015 12:38:20 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://3dprintingindustry.com/2014/11/17/xyzprinting-food-3d-printer-announced/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://3dprintingindustry.com/2014/11/17/xyzprinting-food-3d-printer-announced/>;rel="self"; type="application/link-format"; from ="Tue, 02 Dec 2014 18:46:34 GMT";until="Tue, 17 Mar 2015 12:38:20 GMT"

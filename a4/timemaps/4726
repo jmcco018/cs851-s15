@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:33:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.seahawks.com/videos-photos/photo-gallery/Photo-Gallery---Space-Needle-12-Flag-Raising/79a8796a-e79f-4836-ad5e-98945fe4453c>;rel="original"
+,<http://web.archive.org/web/20150203140136/http://www.seahawks.com/videos-photos/photo-gallery/Photo-Gallery---Space-Needle-12-Flag-Raising/79a8796a-e79f-4836-ad5e-98945fe4453c>;rel="memento first"; datetime="Tue, 03 Feb 2015 14:01:36 GMT"
+,<//wayback.archive-it.org/all/20150204064551/http://www.seahawks.com/videos-photos/photo-gallery/Photo-Gallery---Space-Needle-12-Flag-Raising/79a8796a-e79f-4836-ad5e-98945fe4453c>;rel="memento last"; datetime="Wed, 04 Feb 2015 06:45:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.seahawks.com/videos-photos/photo-gallery/Photo-Gallery---Space-Needle-12-Flag-Raising/79a8796a-e79f-4836-ad5e-98945fe4453c>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.seahawks.com/videos-photos/photo-gallery/Photo-Gallery---Space-Needle-12-Flag-Raising/79a8796a-e79f-4836-ad5e-98945fe4453c>;rel="self"; type="application/link-format"; from ="Tue, 03 Feb 2015 14:01:36 GMT";until="Wed, 04 Feb 2015 06:45:51 GMT"

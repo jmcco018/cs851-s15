@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:58:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.smithsonianmag.com/smart-news/vampire-grave-bulgaria-holds-skeleton-stake-through-its-heart-180953004/?no-ist>;rel="original"
+,<http://archive.is/20141014102941/http://www.smithsonianmag.com/smart-news/vampire-grave-bulgaria-holds-skeleton-stake-through-its-heart-180953004/?no-ist>;rel="memento first"; datetime="Tue, 14 Oct 2014 10:29:41 GMT"
+,<http://web.archive.org/web/20150128205920/http://www.smithsonianmag.com/smart-news/vampire-grave-bulgaria-holds-skeleton-stake-through-its-heart-180953004/?no-ist>;rel="memento"; datetime="Wed, 28 Jan 2015 20:59:20 GMT"
+,<http://web.archive.org/web/20150316024538/http://www.smithsonianmag.com/smart-news/vampire-grave-bulgaria-holds-skeleton-stake-through-its-heart-180953004/?no-ist>;rel="memento"; datetime="Mon, 16 Mar 2015 02:45:38 GMT"
+,<http://web.archive.org/web/20150321193927/http://www.smithsonianmag.com/smart-news/vampire-grave-bulgaria-holds-skeleton-stake-through-its-heart-180953004/?no-ist>;rel="memento last"; datetime="Sat, 21 Mar 2015 19:39:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.smithsonianmag.com/smart-news/vampire-grave-bulgaria-holds-skeleton-stake-through-its-heart-180953004/?no-ist>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.smithsonianmag.com/smart-news/vampire-grave-bulgaria-holds-skeleton-stake-through-its-heart-180953004/?no-ist>;rel="self"; type="application/link-format"; from ="Tue, 14 Oct 2014 10:29:41 GMT";until="Sat, 21 Mar 2015 19:39:27 GMT"

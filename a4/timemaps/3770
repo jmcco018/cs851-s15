@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.coolpicturegallery.net/2010/08/cool-pictures-of-alien-insects-insect.html>;rel="original"
+,<http://web.archive.org/web/20110812035545/http://www.coolpicturegallery.net/2010/08/cool-pictures-of-alien-insects-insect.html>;rel="memento first"; datetime="Fri, 12 Aug 2011 03:55:45 GMT"
+,<http://web.archive.org/web/20110813091815/http://www.coolpicturegallery.net/2010/08/cool-pictures-of-alien-insects-insect.html>;rel="memento"; datetime="Sat, 13 Aug 2011 09:18:15 GMT"
+,<http://web.archive.org/web/20120923033909/http://www.coolpicturegallery.net/2010/08/cool-pictures-of-alien-insects-insect.html>;rel="memento"; datetime="Sun, 23 Sep 2012 03:39:09 GMT"
+,<http://web.archive.org/web/20130609130211/http://www.coolpicturegallery.net/2010/08/cool-pictures-of-alien-insects-insect.html>;rel="memento"; datetime="Sun, 09 Jun 2013 13:02:11 GMT"
+,<http://web.archive.org/web/20130711060428/http://www.coolpicturegallery.net/2010/08/cool-pictures-of-alien-insects-insect.html>;rel="memento last"; datetime="Thu, 11 Jul 2013 06:04:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.coolpicturegallery.net/2010/08/cool-pictures-of-alien-insects-insect.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.coolpicturegallery.net/2010/08/cool-pictures-of-alien-insects-insect.html>;rel="self"; type="application/link-format"; from ="Fri, 12 Aug 2011 03:55:45 GMT";until="Thu, 11 Jul 2013 06:04:28 GMT"

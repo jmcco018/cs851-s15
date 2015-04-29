@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:35:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bizjournals.com/louisville/news/2015/01/28/from-bean-to-bar-cellar-door-chocolates-to-make.html>;rel="original"
+,<http://web.archive.org/web/20150204064100/http://www.bizjournals.com/louisville/news/2015/01/28/from-bean-to-bar-cellar-door-chocolates-to-make.html>;rel="memento first"; datetime="Wed, 04 Feb 2015 06:41:00 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bizjournals.com/louisville/news/2015/01/28/from-bean-to-bar-cellar-door-chocolates-to-make.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bizjournals.com/louisville/news/2015/01/28/from-bean-to-bar-cellar-door-chocolates-to-make.html>;rel="self"; type="application/link-format"; from ="Wed, 04 Feb 2015 06:41:00 GMT";until="Wed, 04 Feb 2015 06:41:00 GMT"

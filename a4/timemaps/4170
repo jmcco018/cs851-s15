@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:24:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://magnet.ccsd.net/apply-now/>;rel="original"
+,<http://web.archive.org/web/20150214100040/http://magnet.ccsd.net/apply-now/>;rel="memento first"; datetime="Sat, 14 Feb 2015 10:00:40 GMT"
+,<http://web.archive.org/web/20150224185341/http://magnet.ccsd.net/apply-now/>;rel="memento"; datetime="Tue, 24 Feb 2015 18:53:41 GMT"
+,<http://web.archive.org/web/20150322002242/http://magnet.ccsd.net/apply-now/>;rel="memento last"; datetime="Sun, 22 Mar 2015 00:22:42 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://magnet.ccsd.net/apply-now/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://magnet.ccsd.net/apply-now/>;rel="self"; type="application/link-format"; from ="Sat, 14 Feb 2015 10:00:40 GMT";until="Sun, 22 Mar 2015 00:22:42 GMT"

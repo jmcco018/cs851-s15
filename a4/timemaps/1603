@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:36:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://play.google.com/store/apps/details?id=com.ketchapp.circle>;rel="original"
+,<http://archive.is/20141110164610/https://play.google.com/store/apps/details?id=com.ketchapp.circle>;rel="memento first"; datetime="Mon, 10 Nov 2014 16:46:10 GMT"
+,<http://web.archive.org/web/20141224080048/https://play.google.com/store/apps/details?id=com.ketchapp.circle>;rel="memento"; datetime="Wed, 24 Dec 2014 08:00:48 GMT"
+,<http://web.archive.org/web/20150325051042/https://play.google.com/store/apps/details?id=com.ketchapp.circle>;rel="memento last"; datetime="Wed, 25 Mar 2015 05:10:42 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://play.google.com/store/apps/details?id=com.ketchapp.circle>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://play.google.com/store/apps/details?id=com.ketchapp.circle>;rel="self"; type="application/link-format"; from ="Mon, 10 Nov 2014 16:46:10 GMT";until="Wed, 25 Mar 2015 05:10:42 GMT"

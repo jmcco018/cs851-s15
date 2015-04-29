@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:41:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.youtube.com/results?search_type=&search_query=DISKPREPT4+Aphex+Twin>;rel="original"
+,<http://webcitation.org/query?id=1263820999792170>;rel="memento first"; datetime="Mon, 18 Jan 2010 13:23:21 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20101012141549/http://www.youtube.com/results>;rel="memento last"; datetime="Tue, 12 Oct 2010 14:15:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.youtube.com/results?search_type=&search_query=DISKPREPT4+Aphex+Twin>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.youtube.com/results?search_type=&search_query=DISKPREPT4+Aphex+Twin>;rel="self"; type="application/link-format"; from ="Mon, 18 Jan 2010 13:23:21 GMT";until="Tue, 12 Oct 2010 14:15:49 GMT"

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:57:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.smokingnfashion.com>;rel="original"
+,<http://web.archive.org/web/20141216224543/http://smokingnfashion.com/>;rel="memento first"; datetime="Tue, 16 Dec 2014 22:45:43 GMT"
+,<http://web.archive.org/web/20141216224544/http://www.smokingnfashion.com/>;rel="memento"; datetime="Tue, 16 Dec 2014 22:45:44 GMT"
+,<http://web.archive.org/web/20141217030008/http://smokingnfashion.com/>;rel="memento"; datetime="Wed, 17 Dec 2014 03:00:08 GMT"
+,<http://web.archive.org/web/20141217030009/http://www.smokingnfashion.com/>;rel="memento"; datetime="Wed, 17 Dec 2014 03:00:09 GMT"
+,<http://web.archive.org/web/20150108151716/http://www.smokingnfashion.com/>;rel="memento last"; datetime="Thu, 08 Jan 2015 15:17:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.smokingnfashion.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.smokingnfashion.com>;rel="self"; type="application/link-format"; from ="Tue, 16 Dec 2014 22:45:43 GMT";until="Thu, 08 Jan 2015 15:17:16 GMT"

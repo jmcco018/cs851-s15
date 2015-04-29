@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://spectrum.ieee.org/biomedical/bionics/smart-neural-stimulators-listen-to-the-body>;rel="original"
+,<http://archive.is/20150128083548/http://spectrum.ieee.org/biomedical/bionics/smart-neural-stimulators-listen-to-the-body>;rel="memento first"; datetime="Wed, 28 Jan 2015 08:35:48 GMT"
+,<http://web.archive.org/web/20150321012451/http://spectrum.ieee.org/biomedical/bionics/smart-neural-stimulators-listen-to-the-body>;rel="memento last"; datetime="Sat, 21 Mar 2015 01:24:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://spectrum.ieee.org/biomedical/bionics/smart-neural-stimulators-listen-to-the-body>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://spectrum.ieee.org/biomedical/bionics/smart-neural-stimulators-listen-to-the-body>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 08:35:48 GMT";until="Sat, 21 Mar 2015 01:24:51 GMT"

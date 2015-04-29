@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:50:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://fortune.com/2015/01/27/spacex-reusable-rocket-failure/>;rel="original"
+,<http://web.archive.org/web/20150127184039/http://fortune.com/2015/01/27/spacex-reusable-rocket-failure/>;rel="memento first"; datetime="Tue, 27 Jan 2015 18:40:39 GMT"
+,<http://archive.is/20150128085729/http://fortune.com/2015/01/27/spacex-reusable-rocket-failure/>;rel="memento"; datetime="Wed, 28 Jan 2015 08:57:29 GMT"
+,<http://web.archive.org/web/20150406025242/http://fortune.com/2015/01/27/spacex-reusable-rocket-failure>;rel="memento last"; datetime="Mon, 06 Apr 2015 02:52:42 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://fortune.com/2015/01/27/spacex-reusable-rocket-failure/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://fortune.com/2015/01/27/spacex-reusable-rocket-failure/>;rel="self"; type="application/link-format"; from ="Tue, 27 Jan 2015 18:40:39 GMT";until="Mon, 06 Apr 2015 02:52:42 GMT"

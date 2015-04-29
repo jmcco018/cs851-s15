@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:58:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://psmgradio.com/>;rel="original"
+,<http://web.archive.org/web/20130605103534/http://psmgradio.com>;rel="memento first"; datetime="Wed, 05 Jun 2013 10:35:34 GMT"
+,<http://web.archive.org/web/20130716085552/http://psmgradio.com/>;rel="memento"; datetime="Tue, 16 Jul 2013 08:55:52 GMT"
+,<http://web.archive.org/web/20130829072907/http://www.psmgradio.com/>;rel="memento"; datetime="Thu, 29 Aug 2013 07:29:07 GMT"
+,<http://web.archive.org/web/20130929091006/http://www.psmgradio.com/>;rel="memento"; datetime="Sun, 29 Sep 2013 09:10:06 GMT"
+,<http://web.archive.org/web/20131101003546/http://www.psmgradio.com/>;rel="memento"; datetime="Fri, 01 Nov 2013 00:35:46 GMT"
+,<http://web.archive.org/web/20131105114706/http://www.psmgradio.com/>;rel="memento"; datetime="Tue, 05 Nov 2013 11:47:06 GMT"
+,<http://web.archive.org/web/20131208190431/http://psmgradio.com/>;rel="memento"; datetime="Sun, 08 Dec 2013 19:04:31 GMT"
+,<http://web.archive.org/web/20140117145306/http://www.psmgradio.com/>;rel="memento"; datetime="Fri, 17 Jan 2014 14:53:06 GMT"
+,<http://web.archive.org/web/20140218094528/http://www.psmgradio.com/>;rel="memento"; datetime="Tue, 18 Feb 2014 09:45:28 GMT"
+,<http://web.archive.org/web/20140219200141/http://www.psmgradio.com/>;rel="memento last"; datetime="Wed, 19 Feb 2014 20:01:41 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://psmgradio.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://psmgradio.com/>;rel="self"; type="application/link-format"; from ="Wed, 05 Jun 2013 10:35:34 GMT";until="Wed, 19 Feb 2014 20:01:41 GMT"

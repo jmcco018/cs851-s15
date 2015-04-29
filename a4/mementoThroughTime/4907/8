@@ -1,0 +1,839 @@
+
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app18.us.archive.org";archive_analytics.values.server_ms=177;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta name="viewport"
+              content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimal-ui">
+
+                    <meta name="author" content="NEVERBLAND">
+                    <meta name="twitter:description" content="The daily awards platform for moving image content creators, as voted by the public and esteemed judges.">
+                    <meta name="twitter:image" content="http://votd.tv/public/img/logos/landing.gif">
+                    <meta name="title" content="VOTD.tv - Recognising a talented industry.">
+                    <meta name="description" content="VOTD - The daily awards site for video content creators, as voted by the community and esteemed judges.">
+        
+                    <meta property="author" content="NEVERBLAND">
+                    <meta property="og:description" content="The daily awards platform for moving image content creators, as voted by the public and esteemed judges.">
+                    <meta property="og:image" content="http://votd.tv/public/img/logos/landing.gif">
+        
+        <title>VOTD.tv - Recognising a talented industry.</title>
+
+        <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <link rel="image_src" href="//votd.tv/public/img/logos/landing.gif"/>
+        <meta property="og:image" content="//votd.tv/public/img/logos/landing.gif"/>
+
+        <link rel="icon" type="image/png" href="/public/img/front/favicon.png"/>
+        <link rel="shortcut icon" href="/web/20140625103017im_/http://votd.tv/public/img/front/favicon.png"/>
+        <script type="text/javascript"
+                src="/web/20140625103017js_/http://fast.fonts.net/jsapi/919d4f84-8ff9-4a13-b2a1-269204272896.js"></script>
+        <link rel="stylesheet" type="text/css" href="/web/20140625103017cs_/http://cloud.typography.com/7790252/721024/css/fonts.css"/>
+
+        <link href="/web/20140625103017cs_/http://votd.tv/assets/d339e022654d80cf38beafc850d3ed57.css" type="text/css" rel="stylesheet" />
+
+    </head>
+
+    <body
+        class=" frontpage"
+                >
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://votd.tv/";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "25";
+var displayMonth = "Jun";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://votd.tv/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20140625103017" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20140516041749/http://www.votd.tv/" title="16 May 2014">MAY</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 10:30:17 Jun 25, 2014">JUN</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20140919011607/http://votd.tv/" title="19 Sep 2014"><strong>SEP</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20140625035648/http://votd.tv/" title="3:56:48 Jun 25, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 10:30:17 Jun 25, 2014">25</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20140626062343/http://votd.tv/" title="6:23:43 Jun 26, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130625094354/http://votd.tv/" title="25 Jun 2013"><strong>2013</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 10:30:17 Jun 25, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2015
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20140625103017*/http://votd.tv/" title="See a list of every capture for this URL">22 captures</a>
+           <div class="r" title="Timespan for captures of this URL">16 Oct 08 - 15 Mar 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000112_2009:-1:010000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000001000000_2014:5:000015002001_2015:-1:007000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+        <!-- <div data-votd-particles></div>
+        <div class="inner-solid-color"></div> -->
+        <div class="loading-overlay">
+            <div class="inner"></div>
+        </div>
+
+
+		<header class="out">
+    <div class="top-bar">
+        <div class="first-time">
+            <h5>VOTD is The first daily awards for video, recognising a talented industry</h5><a href="/web/20140625103017/http://votd.tv/submission">Learn More</a>
+        </div>
+    </div>
+    <div class="inner">
+        <div class="navigation">
+    <div class="logo">
+        <a data-ajax-load href="/web/20140625103017/http://votd.tv/"><img src="/web/20140625103017im_/http://votd.tv/public/img/logos/landing.gif" alt="VOTD"></a>
+    </div>
+    <nav class="desktop-nav">
+        <ul>
+                        <li>
+                <a data-ajax-load class="active" href="/web/20140625103017/http://votd.tv/">Home</a>
+            </li>
+                        <li>
+                <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees">Nominees</a>
+            </li>
+                        <li>
+                <a data-ajax-load href="/web/20140625103017/http://votd.tv/judges">Judges</a>
+            </li>
+                        <li>
+                <a data-ajax-load href="/web/20140625103017/http://votd.tv/about">About</a>
+            </li>
+                    </ul>
+    </nav>
+
+    <nav class="mobile-nav">
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </nav>
+</div>
+
+<div class="mobile-menu">
+    <div class="inner">
+        <div class="close-mobile-nav">
+            <div></div>
+            <div></div>
+        </div>
+        <ul>
+                        <li>
+                <a data-ajax-load class="active" href="/web/20140625103017/http://votd.tv/">Home</a>
+            </li>
+                        <li>
+                <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees">Nominees</a>
+            </li>
+                        <li>
+                <a data-ajax-load href="/web/20140625103017/http://votd.tv/judges">Judges</a>
+            </li>
+                        <li>
+                <a data-ajax-load href="/web/20140625103017/http://votd.tv/about">About</a>
+            </li>
+                    </ul>
+    </div>
+    <div class="bottom">
+        <ul class="clearfix">
+            <li>
+                <a target="_blank" href="/web/20140625103017/http://facebook.com/votdtv">
+                    <svg x="0px" y="0px" width="26px" height="26px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                        <path id="facebook-icon" d="M204.067,184.692h-43.144v70.426h43.144V462h82.965V254.238h57.882l6.162-69.546h-64.044 c0,0,0-25.97,0-39.615c0-16.398,3.302-22.89,19.147-22.89c12.766,0,44.896,0,44.896,0V50c0,0-47.326,0-57.441,0 c-61.734,0-89.567,27.179-89.567,79.231C204.067,174.566,204.067,184.692,204.067,184.692z"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a target="_blank" href="/web/20140625103017/http://twitter.com/votdtv">
+                    <svg x="0px" y="0px" width="26px" height="26px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                        <path d="M462,128.223c-15.158,6.724-31.449,11.269-48.547,13.31c17.449-10.461,30.854-27.025,37.164-46.764
+                        c-16.333,9.687-34.422,16.721-53.676,20.511c-15.418-16.428-37.386-26.691-61.698-26.691c-54.56,0-94.668,50.916-82.337,103.787
+                        c-70.25-3.524-132.534-37.177-174.223-88.314c-22.142,37.983-11.485,87.691,26.158,112.85c-13.854-0.438-26.891-4.241-38.285-10.574
+                        c-0.917,39.162,27.146,75.781,67.795,83.949c-11.896,3.237-24.926,3.978-38.17,1.447c10.754,33.58,41.972,58.018,78.96,58.699
+                        C139.604,378.282,94.846,390.721,50,385.436c37.406,23.982,81.837,37.977,129.571,37.977c156.932,0,245.595-132.551,240.251-251.435
+                        C436.339,160.061,450.668,145.174,462,128.223z"/>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="mailto:gemma@votd.tv">
+                    <svg x="0px" y="0px" width="26px" height="26px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                        <path id="email-11-icon" d="M373.945,148.019c-2.779,9.269-11.122,37.539-13.439,47.735l-27.807,102.884
+                        c-1.39,5.097-1.854,9.732-1.854,13.903c0,7.414,4.171,11.586,12.05,11.586c8.806,0,19.928-4.636,29.196-12.05
+                        c22.709-17.61,37.538-51.906,37.538-87.591c0-42.636-19.928-79.713-53.295-100.566c-20.854-12.514-50.051-19.465-82.956-19.465
+                        c-97.785,0-166.375,64.882-166.375,156.644c0,88.981,61.638,147.374,154.789,147.374c24.1,0,49.588-3.707,70.906-10.196
+                        c18.074-5.561,29.66-11.122,51.906-24.562l28.271,40.782c-25.027,14.831-36.149,20.393-57.932,26.879
+                        c-31.514,9.734-64.881,14.831-98.248,14.831c-65.346,0-116.326-18.538-152.937-55.149C69.001,366.763,50,317.638,50,263.879
+                        c0-57.467,19.466-107.056,56.54-144.595c42.637-42.636,98.714-63.491,170.546-63.491C385.069,55.793,462,125.31,462,222.169
+                        c0,43.563-15.757,83.419-44.027,111.689c-24.1,24.1-55.613,38.003-86.663,38.003c-18.074,0-32.904-6.952-39.856-18.074
+                        c-2.317-3.707-2.781-6.025-4.171-14.367c-17.611,20.392-36.149,29.196-62.1,29.196c-45.882,0-75.078-34.294-75.078-87.127
+                        c0-78.321,51.441-143.202,113.078-143.202c25.953,0,38.931,6.486,51.442,25.953l4.635-16.222H373.945z M278.478,285.66
+                        c11.122-21.781,18.536-50.051,18.536-71.37c0-19-10.657-31.976-26.878-31.976c-17.611,0-33.832,11.586-45.418,33.367
+                        c-11.123,20.854-18.538,48.197-18.538,69.515c0,24.563,9.269,37.539,26.881,37.539C250.207,322.735,266.428,309.296,278.478,285.66z
+                        "/>
+                    </svg>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="right-nav">
+    <a class="submit-link" data-ajax-load href="/web/20140625103017/http://votd.tv/submission/step-one/">Submit</a>
+    <div class="profile-box" data-ajax-target="user_box">
+                    <ul>
+                            <li>
+                    <a href="/web/20140625103017/http://votd.tv/login/" data-ajax-load title="Login">
+                        Login
+                    </a>
+                </li>
+                    </ul>
+    
+    </div> 
+</div>
+    </div>
+    <div class="clearfix"></div>
+</header>
+    <div class="page-loader" data-page-loader></div>
+    <article class="content-wrap" >
+    	<div class="background-image"></div>
+    	<section class="content-inner" data-ajax-target="html">
+
+
+<section class="right_wrap">
+
+		<div class="welcome-wrap">
+    <div class="welcome">
+        <div class="illustrations">
+            <img class="img1" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/camera.svg" alt="Camera">
+            <img class="img2" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/champagne.svg" alt="Champagne">
+            <img class="img3" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/westside.svg" alt="westside">
+            <img class="img4" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/cool.svg" alt="cool">
+            <img class="img5" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/cup.svg" alt="cup">
+            <img class="img6" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/score.svg" alt="score">
+            <img class="img7" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/hammer.svg" alt="hammer">
+            <img class="img8" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/tv.svg" alt="tv">
+            <img class="img9" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/ribbon.svg" alt="ribbon">
+            <img class="img10" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/drag.svg" alt="drag">
+            <img class="img11" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/reel.svg" alt="reel">
+            <img class="img12" src="/web/20140625103017im_/http://votd.tv/public/img/illustrations/computer.svg" alt="computer">
+        </div>
+        <h1 class="one">VOTD is the first daily awards for video,</h1>
+        <h1 class="two">recognising a talented industry</h1>
+        <div class="three">
+            <a data-close-tab data-ajax-load href="/web/20140625103017/http://votd.tv/login">Sign Up</a>
+            <a data-close-tab data-ajax-load class="more" href="/web/20140625103017/http://votd.tv/about/">Learn more</a>
+        </div>
+        <img data-close-tab class="close-tab" src="/web/20140625103017im_/http://votd.tv/public/img/cross.svg" alt="close">
+    </div>
+</div>
+
+
+<section class="featured-video">
+    <div class="title maintitle">
+        <h6>Today's video of the day</h6>
+        <h1>Daily Drum Beat</h1>
+        <h2>Job, Joris & Marieke</h2>
+    </div>
+
+    <div class="video-wrap">
+    <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/1/a02dde880d07684c731ec776f2b3281df0e67e10.jpg?width=960&amp;height=540&amp;quality=80&amp;crop=0&amp;method=crop');">
+        <div data-clip-id="1" class="play">
+        </div>
+        <div class="award-icon">
+            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/winner-ribbon.svg" alt="Video Of The Day">
+        </div>
+        <div class="flowplayer is-splash" data-video-player>
+            <video id="video" controls preload="none">
+                                    <source src="http://votd.s3.amazonaws.com/submissions/1/video/webm/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.webm" type="video/webm">
+                                    <source src="http://votd.s3.amazonaws.com/submissions/1/video/mp4/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mp4" type="video/mp4">
+                            </video>
+        </div>
+    </div>
+    <div class="winner-score">
+        <ul class="clearfix">
+                            <li>
+                    <h5>9.5</h5>
+                    <h6>Idea</h6>
+                </li>
+
+                                            <li>
+                    <h5>8.8</h5>
+                    <h6>Innovation</h6>
+                </li>
+
+                                    <li class="overall">
+                        <h5>8.7</h5>
+                        <h6>Overall</h6>
+                    </li>
+                                            <li>
+                    <h5>7.9</h5>
+                    <h6>Execution</h6>
+                </li>
+
+                                            <li>
+                    <h5>8.7</h5>
+                    <h6>Design</h6>
+                </li>
+
+                                    </ul>
+
+        <div class="social">
+            <a data-share="facebook" data-click="true" data-text="Daily Drum Beat is the Video Of The Day on @VOTDtv" class="share">Share</a>
+            <a data-share="twitter" data-click="true" data-text="Daily Drum Beat is the Video Of The Day on @VOTDtv" class="tweet">Tweet</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="winner-info clearfix">
+    <div class="left">
+        <h2>Daily Drum Beat</h2>
+        <h3>Job, Joris & Marieke</h3>
+            </div>
+
+    <div class="right">
+        <ul class="credits">
+                                                                                                                                                                                            <div class="clearfix"></div>
+</ul>
+
+        <h6 class="tag">Tags</h6>
+<ul class="tags">
+                <li>
+                        <a class="tag-link" data-ajax-load href="/web/20140625103017/http://votd.tv/tags/clips/animation">animation</a>
+        </li>
+            <li>
+                        <a class="tag-link" data-ajax-load href="/web/20140625103017/http://votd.tv/tags/clips/character+design">character design</a>
+        </li>
+            <li>
+                        <a class="tag-link" data-ajax-load href="/web/20140625103017/http://votd.tv/tags/clips/3d">3d</a>
+        </li>
+            <li>
+                        <a class="tag-link" data-ajax-load href="/web/20140625103017/http://votd.tv/tags/clips/cinema+4d">cinema 4d</a>
+        </li>
+    </ul>
+    </div>
+</section>
+
+<section class="winners grey-bg">
+    <div class="inner clearfix">
+        <h2>Winners</h2>
+        <a class="see-all" href="/web/20140625103017/http://votd.tv/winners/">See all winners</a>
+
+	    <div>
+		    			    <div data-item class="item">
+				    <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/43/MVI_9065.jpeg?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+					    <a data-ajax-load href="/web/20140625103017/http://votd.tv/winners/43/rounds" class="overlay">
+                            <div class="inner"></div>
+                            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                        </a>
+                        <div class="ribbon">
+                            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/blank-ribbon.svg" alt="ribbon">
+                            <h4>23</h4>
+                            <h5>jun</h5>
+                        </div>
+				    </div>
+				    <div class="clip-info">
+					    <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/winners/43/rounds">Rounds</a></h3>
+					    <h4 class="client">SIBLING</h4>
+					    <h6>7.4</h6>
+				    </div>
+			    </div>
+		    			    <div data-item class="item">
+				    <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/62/biplane.jpg?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+					    <a data-ajax-load href="/web/20140625103017/http://votd.tv/winners/62/unlimited-biplane" class="overlay">
+                            <div class="inner"></div>
+                            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                        </a>
+                        <div class="ribbon">
+                            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/blank-ribbon.svg" alt="ribbon">
+                            <h4>18</h4>
+                            <h5>jun</h5>
+                        </div>
+				    </div>
+				    <div class="clip-info">
+					    <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/winners/62/unlimited-biplane">Unlimited 'Biplane'</a></h3>
+					    <h4 class="client">Studio AKA</h4>
+					    <h6>7.5</h6>
+				    </div>
+			    </div>
+		    			    <div data-item class="item">
+				    <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/70/still.png?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+					    <a data-ajax-load href="/web/20140625103017/http://votd.tv/winners/70/hibernot" class="overlay">
+                            <div class="inner"></div>
+                            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                        </a>
+                        <div class="ribbon">
+                            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/blank-ribbon.svg" alt="ribbon">
+                            <h4>17</h4>
+                            <h5>jun</h5>
+                        </div>
+				    </div>
+				    <div class="clip-info">
+					    <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/winners/70/hibernot">Hibernot</a></h3>
+					    <h4 class="client">Simon Ratigan</h4>
+					    <h6>8.9</h6>
+				    </div>
+			    </div>
+		    			    <div data-item class="item">
+				    <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/56/SaveTheChildren2.jpg?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+					    <a data-ajax-load href="/web/20140625103017/http://votd.tv/winners/56/the-most-shocking-second-a-day-video" class="overlay">
+                            <div class="inner"></div>
+                            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                        </a>
+                        <div class="ribbon">
+                            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/blank-ribbon.svg" alt="ribbon">
+                            <h4>12</h4>
+                            <h5>jun</h5>
+                        </div>
+				    </div>
+				    <div class="clip-info">
+					    <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/winners/56/the-most-shocking-second-a-day-video">The Most Shocking Second A Day Video</a></h3>
+					    <h4 class="client">Martin Stirling</h4>
+					    <h6>8.5</h6>
+				    </div>
+			    </div>
+		    	    </div>
+    </div>
+</section>
+
+<section class="nominees grey-bg">
+	<div class="inner clearfix">
+		<h2>Nominees</h2>
+		<a data-ajax-load class="see-all" href="/web/20140625103017/http://votd.tv/nominees/">See all nominees</a>
+
+		<div>
+			<div class="clear-wrap">
+                                                                                                                        <div data-item class="item">
+                        <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/101/Screen%20Shot%202014-06-16%20at%2010.23.22.png?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/101/silver-lady" class="overlay">
+                                <div class="inner"></div>
+                                <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                            </a>
+                        </div>
+                        <div class="clip-info">
+                            <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/101/silver-lady">Silver Lady</a></h3>
+                            <h4 class="client">Olly Williams</h4>
+                            <h6></h6>
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/101/silver-lady" class="vote-now">Vote now</a>
+                            <h5 class="time-left">7 days left</h5>
+                        </div>
+                    </div>
+                                                                            <div data-item class="item">
+                        <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/99/Aff_16-9.jpg?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/99/ma-rencontre-a-short-encounter" class="overlay">
+                                <div class="inner"></div>
+                                <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                            </a>
+                        </div>
+                        <div class="clip-info">
+                            <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/99/ma-rencontre-a-short-encounter">Ma Rencontre ( A short encounter)</a></h3>
+                            <h4 class="client">Samir Hamiche & Justin Pechberty</h4>
+                            <h6>10.0</h6>
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/99/ma-rencontre-a-short-encounter" class="vote-now">Vote now</a>
+                            <h5 class="time-left">7 days left</h5>
+                        </div>
+                    </div>
+                                                                            <div data-item class="item">
+                        <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/100/Screen%20Shot%202014-06-16%20at%2011.22.51.png?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/100/the-heat" class="overlay">
+                                <div class="inner"></div>
+                                <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                            </a>
+                        </div>
+                        <div class="clip-info">
+                            <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/100/the-heat">The Heat</a></h3>
+                            <h4 class="client">Chris Cairns</h4>
+                            <h6>7.0</h6>
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/100/the-heat" class="vote-now">Vote now</a>
+                            <h5 class="time-left">6 days left</h5>
+                        </div>
+                    </div>
+                                                                            <div data-item class="item">
+                        <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/111/Screen%20Shot%202014-06-20%20at%2012.33.50%20PM.png?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/111/a-game-of-social-thrones" class="overlay">
+                                <div class="inner"></div>
+                                <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                            </a>
+                        </div>
+                        <div class="clip-info">
+                            <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/111/a-game-of-social-thrones">A Game of Social Thrones</a></h3>
+                            <h4 class="client">Evan Aagaard</h4>
+                            <h6>8.3</h6>
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/111/a-game-of-social-thrones" class="vote-now">Vote now</a>
+                            <h5 class="time-left">6 days left</h5>
+                        </div>
+                    </div>
+                                                                                                            </div>
+                            <div class="clear-wrap">
+                                                                <div data-item class="item">
+                        <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/89/vlcsnap-2014-06-12-13h52m46s52.png?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/89/lena-luce-gaite" class="overlay">
+                                <div class="inner"></div>
+                                <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                            </a>
+                        </div>
+                        <div class="clip-info">
+                            <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/89/lena-luce-gaite">Lena Luce - Gaîté</a></h3>
+                            <h4 class="client">Gilles Munten & François Houbart</h4>
+                            <h6>6.7</h6>
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/89/lena-luce-gaite" class="vote-now">Vote now</a>
+                            <h5 class="time-left">4 days left</h5>
+                        </div>
+                    </div>
+                                                                            <div data-item class="item">
+                        <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/82/th01.jpg?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/82/alameda-new-leaf" class="overlay">
+                                <div class="inner"></div>
+                                <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                            </a>
+                        </div>
+                        <div class="clip-info">
+                            <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/82/alameda-new-leaf">Alameda - New Leaf</a></h3>
+                            <h4 class="client">Legwork</h4>
+                            <h6>7.8</h6>
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/82/alameda-new-leaf" class="vote-now">Vote now</a>
+                            <h5 class="time-left">4 days left</h5>
+                        </div>
+                    </div>
+                                                                            <div data-item class="item">
+                        <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/83/Pie_News_r1.jpg?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/83/pie" class="overlay">
+                                <div class="inner"></div>
+                                <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                            </a>
+                        </div>
+                        <div class="clip-info">
+                            <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/83/pie">Pie</a></h3>
+                            <h4 class="client">Gus Filgate</h4>
+                            <h6>6.7</h6>
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/83/pie" class="vote-now">Vote now</a>
+                            <h5 class="time-left">4 days left</h5>
+                        </div>
+                    </div>
+                                                                            <div data-item class="item">
+                        <div class="image" style="background-image: url('/web/20140625103017im_/http://votd.s3.nbcdn.io/submissions/85/Navigator%20Meet%20Bill%20screenshot1.png?width=600&amp;height=338&amp;quality=80&amp;crop=0&amp;method=crop');">
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/85/meet-bill" class="overlay">
+                                <div class="inner"></div>
+                                <img src="/web/20140625103017im_/http://votd.tv/public/img/front/play-white.svg" alt="Play">
+                            </a>
+                        </div>
+                        <div class="clip-info">
+                            <h3 class="title"><a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/85/meet-bill">Meet Bill</a></h3>
+                            <h4 class="client">A EQUIPA</h4>
+                            <h6>6.8</h6>
+                            <a data-ajax-load href="/web/20140625103017/http://votd.tv/nominees/85/meet-bill" class="vote-now">Vote now</a>
+                            <h5 class="time-left">2 days left</h5>
+                        </div>
+                    </div>
+                            </div>
+		</div>
+	</div>
+</section>
+
+
+</section>
+
+		    </section> <!-- content inner -->
+</article> <!-- content wrap -->
+
+<!-- <div class="form-messages error" data-form-messages-main>
+    <h5 class="saving">Saving</h5>
+    <h5 class="message">Error</h5>
+</div> -->
+
+<div class="dots-loading-overlay" data-loading-overlay>
+    <div class="loading">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+
+<footer class="gradient">
+    <div class="inner clearfix">
+        
+        <ul class="social">
+            <li>
+                <a target="_blank" href="/web/20140625103017/http://facebook.com/votdtv">
+                    <svg x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                        <path id="facebook-icon" d="M204.067,184.692h-43.144v70.426h43.144V462h82.965V254.238h57.882l6.162-69.546h-64.044 c0,0,0-25.97,0-39.615c0-16.398,3.302-22.89,19.147-22.89c12.766,0,44.896,0,44.896,0V50c0,0-47.326,0-57.441,0 c-61.734,0-89.567,27.179-89.567,79.231C204.067,174.566,204.067,184.692,204.067,184.692z"/>
+                    </svg>
+                </a>
+            </li>
+
+            <li>
+                <a target="_blank" href="/web/20140625103017/http://twitter.com/votdtv">
+                    <svg x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                        <path id="twitter-icon" d="M462,128.223c-15.158,6.724-31.449,11.269-48.547,13.31c17.449-10.461,30.854-27.025,37.164-46.764 c-16.333,9.687-34.422,16.721-53.676,20.511c-15.418-16.428-37.386-26.691-61.698-26.691c-54.56,0-94.668,50.916-82.337,103.787 c-70.25-3.524-132.534-37.177-174.223-88.314c-22.142,37.983-11.485,87.691,26.158,112.85c-13.854-0.438-26.891-4.241-38.285-10.574 c-0.917,39.162,27.146,75.781,67.795,83.949c-11.896,3.237-24.926,3.978-38.17,1.447c10.754,33.58,41.972,58.018,78.96,58.699 C139.604,378.282,94.846,390.721,50,385.436c37.406,23.982,81.837,37.977,129.571,37.977c156.932,0,245.595-132.551,240.251-251.435 C436.339,160.061,450.668,145.174,462,128.223z"/>
+                    </svg>
+                </a>
+            </li>
+        </ul>
+        
+        <div class="left">
+            <h5><a href="mailto:hi@votd.tv">Contact Us</a></h5>
+            <h5><a data-ajax-load data-url='/terms-and-conditions/'>Terms &amp; Conditions</a></h5>
+        </div>
+
+        <div class="middle">
+            <h6 class="stay">Stay</h6>
+            <h6 class="cool">Cool</h6>
+            <img src="/web/20140625103017im_/http://votd.tv/public/img/front/sunglasses-white.svg" alt="Gangstaa">
+        </div>
+
+        <div class="details">
+            <h5 class="slate">powered by <a target="_blank" href="/web/20140625103017/http://slateapp.com/"><img src="/web/20140625103017im_/http://votd.tv/public/img/front/slate.png" alt="Slate App"></a></h5>
+            <h5 class="neverbland">A product by <a target="_blank" href="/web/20140625103017/http://neverbland.com/"><img src="/web/20140625103017im_/http://votd.tv/public/img/front/neverbland.png" alt="NEVERBLAND"></a></h5>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+<!-- !Javascript - at the bottom for fast page loading -->
+<script src="/web/20140625103017js_/http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/public/js/libs/jquery.min.js"><\/script>')</script>
+<script type="text/javascript" src="/web/20140625103017js_/https://js.stripe.com/v2/"></script>
+
+<!-- Javascripts -->
+<script type="text/javascript">
+	var EvisuaBridge = {"module":"frontpage","controller":"frontpageComponents","action":"navigation","domain":"votd.tv","url":null,"uri":"\/","baseUrl":"\/","name":null,"baseUri":"\/frontpage\/frontpageComponents\/navigation\/"};
+	var DataBridge = {"env":"live","isDeveloper":true,"flow_key":"$338799824343691","form_keys":["data-login-form","data-registration-form","data-edit-form"],"voter_config":{"valid_ids":[2,3,4,1],"save_url":"\/voting\/index\/vote\/","min_value":1,"max_value":10,"post_name":"values","entity_id_name":"entity_id"},"dropzone_params":{"clipMaxFilesize":500,"thumbMaxFilesize":10,"clickable":true,"target":"/web/20140625103017/https://votd.s3.amazonaws.com","prepare":"/web/20140625103017/https://votd.s3.amazonaws.com","clipExtensions":"mp4,acc,avi,3gp,flv,mov,mp3,mpeg,ogg,wav,webm,wma,wmv","thumbExtensions":"jpg,jpeg,png,gif","clipParamName":"clip","thumbParamName":"thumb"},"stripe_publishable_key":"pk_test_VMeJZ0I50eWIwzfjukl94VL4","page_data":{"module":"frontpage","action":"index"},"clips":{"1":{"id":"1","name":"Daily Drum Beat","urlname":"daily-drum-beat","description":"","clip":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mov","thumbnail":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/a02dde880d07684c731ec776f2b3281df0e67e10.jpg","postStamp":"1401456632","changedStamp":"0","published":"1","deleted":"0","is_video_processed":"1","duration":"0","default_encoding":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/video\/mp4\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mp4","encoding_media_id":"25945803","user_id":"0","preset":"default","delete_original":"0","ommit_encoding":"0","uploaded_stamp":"1401456632","director":"Job, Joris & Marieke","extra_credits":"Happy Camper","is_rejected":"0","content_types":[],"content_types_ids":[],"content_types_titles":[],"encodings":{"video\/webm":{"id":"31","clip_id":"1","profile_name":"video\/webm","link":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/video\/webm\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.webm"},"video\/mp4":{"id":"32","clip_id":"1","profile_name":"video\/mp4","link":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/video\/mp4\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mp4"}},"picture":{"normal":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/a02dde880d07684c731ec776f2b3281df0e67e10.jpg","thumb":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/a02dde880d07684c731ec776f2b3281df0e67e10.jpg","bigThumb":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/a02dde880d07684c731ec776f2b3281df0e67e10.jpg","thumb_grid":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/a02dde880d07684c731ec776f2b3281df0e67e10\/a02dde880d07684c731ec776f2b3281df0e67e10_222_125_crop.jpg"},"image_generic_name":"a02dde880d07684c731ec776f2b3281df0e67e10","image_generic_path":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/a02dde880d07684c731ec776f2b3281df0e67e10\/a02dde880d07684c731ec776f2b3281df0e67e10_","image_generic_extension":"jpg","video":{"path":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mov","full_path":"/web/20140625103017/http://votd.tvhttp\/\/votd.s3.amazonaws.com\/submissions\/1\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mov"},"video_file":"ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mov","video_path":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/video\/mp4\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mp4","file_name":"ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mp4","full_path":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/video\/mp4\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mp4","poster":"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/a02dde880d07684c731ec776f2b3281df0e67e10\/a02dde880d07684c731ec776f2b3281df0e67e10_710_430_crop.jpg","urlname_id":"daily-drum-beat-1","contentTypeTitle":"","date":"2014-05-30","upload_date":"2014-05-30","date_created":"30\/05\/2014","url":"\/clips\/1\/daily-drum-beat","short_description":"","stripped_description":"","duration_time":"00:00:00"}},"initial_page_state":{"html":"<div class=\"welcome-wrap\">\n    <div class=\"welcome\">\n        <div class=\"illustrations\">\n            <img class=\"img1\" src=\"\/public\/img\/illustrations\/camera.svg\" alt=\"Camera\">\n            <img class=\"img2\" src=\"\/public\/img\/illustrations\/champagne.svg\" alt=\"Champagne\">\n            <img class=\"img3\" src=\"\/public\/img\/illustrations\/westside.svg\" alt=\"westside\">\n            <img class=\"img4\" src=\"\/public\/img\/illustrations\/cool.svg\" alt=\"cool\">\n            <img class=\"img5\" src=\"\/public\/img\/illustrations\/cup.svg\" alt=\"cup\">\n            <img class=\"img6\" src=\"\/public\/img\/illustrations\/score.svg\" alt=\"score\">\n            <img class=\"img7\" src=\"\/public\/img\/illustrations\/hammer.svg\" alt=\"hammer\">\n            <img class=\"img8\" src=\"\/public\/img\/illustrations\/tv.svg\" alt=\"tv\">\n            <img class=\"img9\" src=\"\/public\/img\/illustrations\/ribbon.svg\" alt=\"ribbon\">\n            <img class=\"img10\" src=\"\/public\/img\/illustrations\/drag.svg\" alt=\"drag\">\n            <img class=\"img11\" src=\"\/public\/img\/illustrations\/reel.svg\" alt=\"reel\">\n            <img class=\"img12\" src=\"\/public\/img\/illustrations\/computer.svg\" alt=\"computer\">\n        <\/div>\n        <h1 class=\"one\">VOTD is the first daily awards for video,<\/h1>\n        <h1 class=\"two\">recognising a talented industry<\/h1>\n        <div class=\"three\">\n            <a data-close-tab data-ajax-load href=\"\/login\">Sign Up<\/a>\n            <a data-close-tab data-ajax-load class=\"more\" href=\"\/about\/\">Learn more<\/a>\n        <\/div>\n        <img data-close-tab class=\"close-tab\" src=\"\/public\/img\/cross.svg\" alt=\"close\">\n    <\/div>\n<\/div>\n\n\n<section class=\"featured-video\">\n    <div class=\"title maintitle\">\n        <h6>Today's video of the day<\/h6>\n        <h1>Daily Drum Beat<\/h1>\n        <h2>Job, Joris & Marieke<\/h2>\n    <\/div>\n\n    <div class=\"video-wrap\">\n    <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/1\/a02dde880d07684c731ec776f2b3281df0e67e10.jpg?width=960&height=540&quality=80&crop=0&method=crop');\">\n        <div data-clip-id=\"1\" class=\"play\">\n        <\/div>\n        <div class=\"award-icon\">\n            <img src=\"\/public\/img\/front\/winner-ribbon.svg\" alt=\"Video Of The Day\">\n        <\/div>\n        <div class=\"flowplayer is-splash\" data-video-player>\n            <video id=\"video\" controls preload=\"none\">\n                                    <source src=\"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/video\/webm\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.webm\" type=\"video\/webm\">\n                                    <source src=\"/web/20140625103017/http://votd.s3.amazonaws.com\/submissions\/1\/video\/mp4\/ff9ffdd5e9925be8813e10ca3775fe88a2325b14.mp4\" type=\"video\/mp4\">\n                            <\/video>\n        <\/div>\n    <\/div>\n    <div class=\"winner-score\">\n        <ul class=\"clearfix\">\n                            <li>\n                    <h5>9.5<\/h5>\n                    <h6>Idea<\/h6>\n                <\/li>\n\n                                            <li>\n                    <h5>8.8<\/h5>\n                    <h6>Innovation<\/h6>\n                <\/li>\n\n                                    <li class=\"overall\">\n                        <h5>8.7<\/h5>\n                        <h6>Overall<\/h6>\n                    <\/li>\n                                            <li>\n                    <h5>7.9<\/h5>\n                    <h6>Execution<\/h6>\n                <\/li>\n\n                                            <li>\n                    <h5>8.7<\/h5>\n                    <h6>Design<\/h6>\n                <\/li>\n\n                                    <\/ul>\n\n        <div class=\"social\">\n            <a data-share=\"facebook\" data-click=\"true\" data-text=\"Daily Drum Beat is the Video Of The Day on @VOTDtv\" class=\"share\">Share<\/a>\n            <a data-share=\"twitter\" data-click=\"true\" data-text=\"Daily Drum Beat is the Video Of The Day on @VOTDtv\" class=\"tweet\">Tweet<\/a>\n        <\/div>\n    <\/div>\n<\/div>\n\n\n<div class=\"winner-info clearfix\">\n    <div class=\"left\">\n        <h2>Daily Drum Beat<\/h2>\n        <h3>Job, Joris & Marieke<\/h3>\n            <\/div>\n\n    <div class=\"right\">\n        <ul class=\"credits\">\n                                                                                                                                                                                            <div class=\"clearfix\"><\/div>\n<\/ul>\n\n        <h6 class=\"tag\">Tags<\/h6>\n<ul class=\"tags\">\n                <li>\n                        <a class=\"tag-link\" data-ajax-load href=\"\/tags\/clips\/animation\">animation<\/a>\n        <\/li>\n            <li>\n                        <a class=\"tag-link\" data-ajax-load href=\"\/tags\/clips\/character+design\">character design<\/a>\n        <\/li>\n            <li>\n                        <a class=\"tag-link\" data-ajax-load href=\"\/tags\/clips\/3d\">3d<\/a>\n        <\/li>\n            <li>\n                        <a class=\"tag-link\" data-ajax-load href=\"\/tags\/clips\/cinema+4d\">cinema 4d<\/a>\n        <\/li>\n    <\/ul>\n    <\/div>\n<\/section>\n\n<section class=\"winners grey-bg\">\n    <div class=\"inner clearfix\">\n        <h2>Winners<\/h2>\n        <a class=\"see-all\" href=\"\/winners\/\">See all winners<\/a>\n\n\t    <div>\n\t\t    \t\t\t    <div data-item class=\"item\">\n\t\t\t\t    <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/43\/MVI_9065.jpeg?width=600&height=338&quality=80&crop=0&method=crop');\">\n\t\t\t\t\t    <a data-ajax-load href=\"\/winners\/43\/rounds\" class=\"overlay\">\n                            <div class=\"inner\"><\/div>\n                            <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                        <\/a>\n                        <div class=\"ribbon\">\n                            <img src=\"\/public\/img\/front\/blank-ribbon.svg\" alt=\"ribbon\">\n                            <h4>23<\/h4>\n                            <h5>jun<\/h5>\n                        <\/div>\n\t\t\t\t    <\/div>\n\t\t\t\t    <div class=\"clip-info\">\n\t\t\t\t\t    <h3 class=\"title\"><a data-ajax-load href=\"\/winners\/43\/rounds\">Rounds<\/a><\/h3>\n\t\t\t\t\t    <h4 class=\"client\">SIBLING<\/h4>\n\t\t\t\t\t    <h6>7.4<\/h6>\n\t\t\t\t    <\/div>\n\t\t\t    <\/div>\n\t\t    \t\t\t    <div data-item class=\"item\">\n\t\t\t\t    <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/62\/biplane.jpg?width=600&height=338&quality=80&crop=0&method=crop');\">\n\t\t\t\t\t    <a data-ajax-load href=\"\/winners\/62\/unlimited-biplane\" class=\"overlay\">\n                            <div class=\"inner\"><\/div>\n                            <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                        <\/a>\n                        <div class=\"ribbon\">\n                            <img src=\"\/public\/img\/front\/blank-ribbon.svg\" alt=\"ribbon\">\n                            <h4>18<\/h4>\n                            <h5>jun<\/h5>\n                        <\/div>\n\t\t\t\t    <\/div>\n\t\t\t\t    <div class=\"clip-info\">\n\t\t\t\t\t    <h3 class=\"title\"><a data-ajax-load href=\"\/winners\/62\/unlimited-biplane\">Unlimited 'Biplane'<\/a><\/h3>\n\t\t\t\t\t    <h4 class=\"client\">Studio AKA<\/h4>\n\t\t\t\t\t    <h6>7.5<\/h6>\n\t\t\t\t    <\/div>\n\t\t\t    <\/div>\n\t\t    \t\t\t    <div data-item class=\"item\">\n\t\t\t\t    <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/70\/still.png?width=600&height=338&quality=80&crop=0&method=crop');\">\n\t\t\t\t\t    <a data-ajax-load href=\"\/winners\/70\/hibernot\" class=\"overlay\">\n                            <div class=\"inner\"><\/div>\n                            <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                        <\/a>\n                        <div class=\"ribbon\">\n                            <img src=\"\/public\/img\/front\/blank-ribbon.svg\" alt=\"ribbon\">\n                            <h4>17<\/h4>\n                            <h5>jun<\/h5>\n                        <\/div>\n\t\t\t\t    <\/div>\n\t\t\t\t    <div class=\"clip-info\">\n\t\t\t\t\t    <h3 class=\"title\"><a data-ajax-load href=\"\/winners\/70\/hibernot\">Hibernot<\/a><\/h3>\n\t\t\t\t\t    <h4 class=\"client\">Simon Ratigan<\/h4>\n\t\t\t\t\t    <h6>8.9<\/h6>\n\t\t\t\t    <\/div>\n\t\t\t    <\/div>\n\t\t    \t\t\t    <div data-item class=\"item\">\n\t\t\t\t    <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/56\/SaveTheChildren2.jpg?width=600&height=338&quality=80&crop=0&method=crop');\">\n\t\t\t\t\t    <a data-ajax-load href=\"\/winners\/56\/the-most-shocking-second-a-day-video\" class=\"overlay\">\n                            <div class=\"inner\"><\/div>\n                            <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                        <\/a>\n                        <div class=\"ribbon\">\n                            <img src=\"\/public\/img\/front\/blank-ribbon.svg\" alt=\"ribbon\">\n                            <h4>12<\/h4>\n                            <h5>jun<\/h5>\n                        <\/div>\n\t\t\t\t    <\/div>\n\t\t\t\t    <div class=\"clip-info\">\n\t\t\t\t\t    <h3 class=\"title\"><a data-ajax-load href=\"\/winners\/56\/the-most-shocking-second-a-day-video\">The Most Shocking Second A Day Video<\/a><\/h3>\n\t\t\t\t\t    <h4 class=\"client\">Martin Stirling<\/h4>\n\t\t\t\t\t    <h6>8.5<\/h6>\n\t\t\t\t    <\/div>\n\t\t\t    <\/div>\n\t\t    \t    <\/div>\n    <\/div>\n<\/section>\n\n<section class=\"nominees grey-bg\">\n\t<div class=\"inner clearfix\">\n\t\t<h2>Nominees<\/h2>\n\t\t<a data-ajax-load class=\"see-all\" href=\"\/nominees\/\">See all nominees<\/a>\n\n\t\t<div>\n\t\t\t<div class=\"clear-wrap\">\n                                                                                                                        <div data-item class=\"item\">\n                        <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/101\/Screen%20Shot%202014-06-16%20at%2010.23.22.png?width=600&height=338&quality=80&crop=0&method=crop');\">\n                            <a data-ajax-load href=\"\/nominees\/101\/silver-lady\" class=\"overlay\">\n                                <div class=\"inner\"><\/div>\n                                <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                            <\/a>\n                        <\/div>\n                        <div class=\"clip-info\">\n                            <h3 class=\"title\"><a data-ajax-load href=\"\/nominees\/101\/silver-lady\">Silver Lady<\/a><\/h3>\n                            <h4 class=\"client\">Olly Williams<\/h4>\n                            <h6><\/h6>\n                            <a data-ajax-load href=\"\/nominees\/101\/silver-lady\" class=\"vote-now\">Vote now<\/a>\n                            <h5 class=\"time-left\">7 days left<\/h5>\n                        <\/div>\n                    <\/div>\n                                                                            <div data-item class=\"item\">\n                        <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/99\/Aff_16-9.jpg?width=600&height=338&quality=80&crop=0&method=crop');\">\n                            <a data-ajax-load href=\"\/nominees\/99\/ma-rencontre-a-short-encounter\" class=\"overlay\">\n                                <div class=\"inner\"><\/div>\n                                <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                            <\/a>\n                        <\/div>\n                        <div class=\"clip-info\">\n                            <h3 class=\"title\"><a data-ajax-load href=\"\/nominees\/99\/ma-rencontre-a-short-encounter\">Ma Rencontre ( A short encounter)<\/a><\/h3>\n                            <h4 class=\"client\">Samir Hamiche & Justin Pechberty<\/h4>\n                            <h6>10.0<\/h6>\n                            <a data-ajax-load href=\"\/nominees\/99\/ma-rencontre-a-short-encounter\" class=\"vote-now\">Vote now<\/a>\n                            <h5 class=\"time-left\">7 days left<\/h5>\n                        <\/div>\n                    <\/div>\n                                                                            <div data-item class=\"item\">\n                        <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/100\/Screen%20Shot%202014-06-16%20at%2011.22.51.png?width=600&height=338&quality=80&crop=0&method=crop');\">\n                            <a data-ajax-load href=\"\/nominees\/100\/the-heat\" class=\"overlay\">\n                                <div class=\"inner\"><\/div>\n                                <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                            <\/a>\n                        <\/div>\n                        <div class=\"clip-info\">\n                            <h3 class=\"title\"><a data-ajax-load href=\"\/nominees\/100\/the-heat\">The Heat<\/a><\/h3>\n                            <h4 class=\"client\">Chris Cairns<\/h4>\n                            <h6>7.0<\/h6>\n                            <a data-ajax-load href=\"\/nominees\/100\/the-heat\" class=\"vote-now\">Vote now<\/a>\n                            <h5 class=\"time-left\">6 days left<\/h5>\n                        <\/div>\n                    <\/div>\n                                                                            <div data-item class=\"item\">\n                        <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/111\/Screen%20Shot%202014-06-20%20at%2012.33.50%20PM.png?width=600&height=338&quality=80&crop=0&method=crop');\">\n                            <a data-ajax-load href=\"\/nominees\/111\/a-game-of-social-thrones\" class=\"overlay\">\n                                <div class=\"inner\"><\/div>\n                                <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                            <\/a>\n                        <\/div>\n                        <div class=\"clip-info\">\n                            <h3 class=\"title\"><a data-ajax-load href=\"\/nominees\/111\/a-game-of-social-thrones\">A Game of Social Thrones<\/a><\/h3>\n                            <h4 class=\"client\">Evan Aagaard<\/h4>\n                            <h6>8.3<\/h6>\n                            <a data-ajax-load href=\"\/nominees\/111\/a-game-of-social-thrones\" class=\"vote-now\">Vote now<\/a>\n                            <h5 class=\"time-left\">6 days left<\/h5>\n                        <\/div>\n                    <\/div>\n                                                                                                            <\/div>\n                            <div class=\"clear-wrap\">\n                                                                <div data-item class=\"item\">\n                        <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/89\/vlcsnap-2014-06-12-13h52m46s52.png?width=600&height=338&quality=80&crop=0&method=crop');\">\n                            <a data-ajax-load href=\"\/nominees\/89\/lena-luce-gaite\" class=\"overlay\">\n                                <div class=\"inner\"><\/div>\n                                <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                            <\/a>\n                        <\/div>\n                        <div class=\"clip-info\">\n                            <h3 class=\"title\"><a data-ajax-load href=\"\/nominees\/89\/lena-luce-gaite\">Lena Luce - Ga\u00eet\u00e9<\/a><\/h3>\n                            <h4 class=\"client\">Gilles Munten & Fran\u00e7ois Houbart<\/h4>\n                            <h6>6.7<\/h6>\n                            <a data-ajax-load href=\"\/nominees\/89\/lena-luce-gaite\" class=\"vote-now\">Vote now<\/a>\n                            <h5 class=\"time-left\">4 days left<\/h5>\n                        <\/div>\n                    <\/div>\n                                                                            <div data-item class=\"item\">\n                        <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/82\/th01.jpg?width=600&height=338&quality=80&crop=0&method=crop');\">\n                            <a data-ajax-load href=\"\/nominees\/82\/alameda-new-leaf\" class=\"overlay\">\n                                <div class=\"inner\"><\/div>\n                                <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                            <\/a>\n                        <\/div>\n                        <div class=\"clip-info\">\n                            <h3 class=\"title\"><a data-ajax-load href=\"\/nominees\/82\/alameda-new-leaf\">Alameda - New Leaf<\/a><\/h3>\n                            <h4 class=\"client\">Legwork<\/h4>\n                            <h6>7.8<\/h6>\n                            <a data-ajax-load href=\"\/nominees\/82\/alameda-new-leaf\" class=\"vote-now\">Vote now<\/a>\n                            <h5 class=\"time-left\">4 days left<\/h5>\n                        <\/div>\n                    <\/div>\n                                                                            <div data-item class=\"item\">\n                        <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/83\/Pie_News_r1.jpg?width=600&height=338&quality=80&crop=0&method=crop');\">\n                            <a data-ajax-load href=\"\/nominees\/83\/pie\" class=\"overlay\">\n                                <div class=\"inner\"><\/div>\n                                <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                            <\/a>\n                        <\/div>\n                        <div class=\"clip-info\">\n                            <h3 class=\"title\"><a data-ajax-load href=\"\/nominees\/83\/pie\">Pie<\/a><\/h3>\n                            <h4 class=\"client\">Gus Filgate<\/h4>\n                            <h6>6.7<\/h6>\n                            <a data-ajax-load href=\"\/nominees\/83\/pie\" class=\"vote-now\">Vote now<\/a>\n                            <h5 class=\"time-left\">4 days left<\/h5>\n                        <\/div>\n                    <\/div>\n                                                                            <div data-item class=\"item\">\n                        <div class=\"image\" style=\"background-image: url('/web/20140625103017/http://votd.s3.nbcdn.io\/submissions\/85\/Navigator%20Meet%20Bill%20screenshot1.png?width=600&height=338&quality=80&crop=0&method=crop');\">\n                            <a data-ajax-load href=\"\/nominees\/85\/meet-bill\" class=\"overlay\">\n                                <div class=\"inner\"><\/div>\n                                <img src=\"\/public\/img\/front\/play-white.svg\" alt=\"Play\">\n                            <\/a>\n                        <\/div>\n                        <div class=\"clip-info\">\n                            <h3 class=\"title\"><a data-ajax-load href=\"\/nominees\/85\/meet-bill\">Meet Bill<\/a><\/h3>\n                            <h4 class=\"client\">A EQUIPA<\/h4>\n                            <h6>6.8<\/h6>\n                            <a data-ajax-load href=\"\/nominees\/85\/meet-bill\" class=\"vote-now\">Vote now<\/a>\n                            <h5 class=\"time-left\">2 days left<\/h5>\n                        <\/div>\n                    <\/div>\n                            <\/div>\n\t\t<\/div>\n\t<\/div>\n<\/section>\n","title":"VOTD.tv - Recognising a talented industry.","page":{"module":"frontpage","action":"index"}}};
+	var Text = {"global":{"submit":"Submit","edit":"Edit","delete":"Delete","remove":"Remove","view":"View","add":"Add","save":"Save","saveChanges":"Save Changes","upload":"Upload","browse":"Browse","search":"Search","share":"Share","saving":"Saving...","adding":"Adding...","removing":"Removing...","checking":"Checking...","searching":"Searching...","uploading":"Uploading...","loading":"Loading...","previous":"Previous","next":"Next","of":"of","page":"Page","showing":"Currently displaying","readMore":"Read More","moreNews":"More News","comments":"Comments","buttons":{"submit":"Submit","ok":"OK","cancel":"Cancel","yes":"Yes","no":"No","close":"Close"},"commentDeleted":"* This comment has been deleted *","options":"Options","categories":"Categories","category":"Category","all":"All","login":"Log In","invalidLogin":"Invalid Login!","errors":{"generic":"An error occurred while processing this form.","notFilled":"Not all of the required fields have been filled properly!","alreadyExists":"Such entry already exists in our database!","noAccess":"You have no access to enter this part of our site or no rights to perform this action. Make sure you are logged in.","antiSpam":"You can't post a new comment so soon after one another. Please wait a few seconds.","notLoggedIn":"You need to be logged in to perform this action! Please login at the top of the page."}}};
+</script>
+
+<script src="/web/20140625103017js_/http://votd.tv/assets/77192f3411deea0c4de7f83b8a56c836.js" type="text/javascript"></script>
+
+
+
+
+
+<!--[if lt IE 8 ]>
+<script src="/devlink/shared/js/libs/polyfills/imgsizer.js"></script>
+<![endif]-->
+
+<!--[if lt IE 7 ]>
+<script src="/devlink/shared/js/libs/polyfills/dd_belatedpng.js"></script>
+<script>DD_belatedPNG.fix("#logo, #header img");</script>
+<![endif]-->
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6. chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7 ]>
+<script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script defer>window.attachEvent('onload', function() {
+	CFInstall.check({mode:'overlay'})
+})</script>
+<![endif]-->
+
+<noscript>Your browser does not support JavaScript. Please turn it on for the best experience.</noscript>
+
+
+
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-283964-48']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? '/web/20140625103017/https://ssl' : '/web/20140625103017/http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+
+		</script>
+	
+
+    </body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 10:30:17 Jun 25, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:44:38 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

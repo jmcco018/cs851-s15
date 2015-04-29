@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:17:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://insurance.mo.gov/consumers/wc/wc.php>;rel="original"
+,<http://web.archive.org/web/20120109103809/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento first"; datetime="Mon, 09 Jan 2012 10:38:09 GMT"
+,<http://web.archive.org/web/20120209152634/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Thu, 09 Feb 2012 15:26:34 GMT"
+,<http://web.archive.org/web/20120311201553/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Sun, 11 Mar 2012 20:15:53 GMT"
+,<http://web.archive.org/web/20120418145701/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Wed, 18 Apr 2012 14:57:01 GMT"
+,<http://web.archive.org/web/20120530054050/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Wed, 30 May 2012 05:40:50 GMT"
+,<http://web.archive.org/web/20120701102230/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Sun, 01 Jul 2012 10:22:30 GMT"
+,<http://web.archive.org/web/20120826122428/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Sun, 26 Aug 2012 12:24:28 GMT"
+,<http://web.archive.org/web/20121105153444/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Mon, 05 Nov 2012 15:34:44 GMT"
+,<http://web.archive.org/web/20121229080935/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Sat, 29 Dec 2012 08:09:35 GMT"
+,<http://web.archive.org/web/20130328202538/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Thu, 28 Mar 2013 20:25:38 GMT"
+,<http://web.archive.org/web/20130529200540/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Wed, 29 May 2013 20:05:40 GMT"
+,<http://web.archive.org/web/20130803002926/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Sat, 03 Aug 2013 00:29:26 GMT"
+,<http://web.archive.org/web/20140323094810/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Sun, 23 Mar 2014 09:48:10 GMT"
+,<http://web.archive.org/web/20140821221643/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento"; datetime="Thu, 21 Aug 2014 22:16:43 GMT"
+,<http://web.archive.org/web/20150317124535/http://insurance.mo.gov/consumers/wc/wc.php>;rel="memento last"; datetime="Tue, 17 Mar 2015 12:45:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://insurance.mo.gov/consumers/wc/wc.php>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://insurance.mo.gov/consumers/wc/wc.php>;rel="self"; type="application/link-format"; from ="Mon, 09 Jan 2012 10:38:09 GMT";until="Tue, 17 Mar 2015 12:45:35 GMT"

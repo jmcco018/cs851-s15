@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:47:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://wonkette.com/574438/crazy-anti-energy-drinks-lady-horning-in-on-nice-texas-bigots-anti-muslim-protests>;rel="original"
+,<http://web.archive.org/web/20150405032440/http://wonkette.com/574438/crazy-anti-energy-drinks-lady-horning-in-on-nice-texas-bigots-anti-muslim-protests>;rel="memento first"; datetime="Sun, 05 Apr 2015 03:24:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://wonkette.com/574438/crazy-anti-energy-drinks-lady-horning-in-on-nice-texas-bigots-anti-muslim-protests>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://wonkette.com/574438/crazy-anti-energy-drinks-lady-horning-in-on-nice-texas-bigots-anti-muslim-protests>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 03:24:40 GMT";until="Sun, 05 Apr 2015 03:24:40 GMT"

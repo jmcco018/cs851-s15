@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://encorecollectibles.com/award.aspx?ID=435>;rel="original"
+,<http://web.archive.org/web/20080316072537/http://www.encorecollectibles.com/award.aspx?ID=435>;rel="memento first"; datetime="Sun, 16 Mar 2008 07:25:37 GMT"
+,<http://web.archive.org/web/20081215052044/http://www.encorecollectibles.com/award.aspx?ID=435>;rel="memento"; datetime="Mon, 15 Dec 2008 05:20:44 GMT"
+,<http://web.archive.org/web/20100315050058/http://www.encorecollectibles.com/award.aspx?ID=435>;rel="memento last"; datetime="Mon, 15 Mar 2010 05:00:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://encorecollectibles.com/award.aspx?ID=435>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://encorecollectibles.com/award.aspx?ID=435>;rel="self"; type="application/link-format"; from ="Sun, 16 Mar 2008 07:25:37 GMT";until="Mon, 15 Mar 2010 05:00:58 GMT"

@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:48:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="original"
+,<http://web.archive.org/web/20141109013153/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento first"; datetime="Sun, 09 Nov 2014 01:31:53 GMT"
+,<http://archive.is/20141109022703/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Sun, 09 Nov 2014 02:27:03 GMT"
+,<http://web.archive.org/web/20141111170141/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Tue, 11 Nov 2014 17:01:41 GMT"
+,<http://web.archive.org/web/20141114105111/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Fri, 14 Nov 2014 10:51:11 GMT"
+,<http://web.archive.org/web/20141115132913/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Sat, 15 Nov 2014 13:29:13 GMT"
+,<http://web.archive.org/web/20141116090312/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Sun, 16 Nov 2014 09:03:12 GMT"
+,<http://web.archive.org/web/20141116123735/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Sun, 16 Nov 2014 12:37:35 GMT"
+,<http://web.archive.org/web/20141117111136/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Mon, 17 Nov 2014 11:11:36 GMT"
+,<http://web.archive.org/web/20141122042242/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Sat, 22 Nov 2014 04:22:42 GMT"
+,<http://web.archive.org/web/20141208222729/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Mon, 08 Dec 2014 22:27:29 GMT"
+,<http://web.archive.org/web/20150111150051/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento"; datetime="Sun, 11 Jan 2015 15:00:51 GMT"
+,<http://web.archive.org/web/20150319184543/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="memento last"; datetime="Thu, 19 Mar 2015 18:45:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mirror.co.uk/news/uk-news/mi6-chief-shamed-diplomat-raped-4596308>;rel="self"; type="application/link-format"; from ="Sun, 09 Nov 2014 01:31:53 GMT";until="Thu, 19 Mar 2015 18:45:43 GMT"

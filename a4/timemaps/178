@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:12:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thefourohfive.com/news/article/courtney-barnett-announces-new-album-sometimes-i-sit-and-think-and-sometimes-i-just-sit-shares-pedestrian-at-best-142>;rel="original"
+,<http://web.archive.org/web/20150317210421/http://www.thefourohfive.com/news/article/courtney-barnett-announces-new-album-sometimes-i-sit-and-think-and-sometimes-i-just-sit-shares-pedestrian-at-best-142>;rel="memento first"; datetime="Tue, 17 Mar 2015 21:04:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thefourohfive.com/news/article/courtney-barnett-announces-new-album-sometimes-i-sit-and-think-and-sometimes-i-just-sit-shares-pedestrian-at-best-142>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thefourohfive.com/news/article/courtney-barnett-announces-new-album-sometimes-i-sit-and-think-and-sometimes-i-just-sit-shares-pedestrian-at-best-142>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 21:04:21 GMT";until="Tue, 17 Mar 2015 21:04:21 GMT"

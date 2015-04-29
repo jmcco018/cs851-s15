@@ -1,0 +1,4044 @@
+<!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"  itemscope itemtype="http://schema.org/Article" lang="en-US">
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app19.us.archive.org";archive_analytics.values.server_ms=860;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+  <!-- r2828 -->
+  <!-- This is Squarespace. -->
+<!-- eric-vonspreckelsen -->
+<meta charset="utf-8" />
+<title>Coupons &mdash; PriceMATCHERZ</title>
+<meta property="og:site_name" content="PriceMATCHERZ"/>
+<meta property="og:title" content="Coupons"/>
+<meta itemprop="name" content="Coupons"/>
+<meta property="og:url" content="http://www.pricematcherz.com/coupons"/>
+<meta itemprop="url" content="http://www.pricematcherz.com/coupons"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://www.pricematcherz.com/item/508de707e4b044ecf46bc884?format=500w"/>
+<meta itemprop="image" content="http://www.pricematcherz.com/item/508de707e4b044ecf46bc884?format=500w"/>
+<link rel="image_src" href="http://www.pricematcherz.com/item/508de707e4b044ecf46bc884?format=500w" />
+<script>(function() {var k=!1,n=[1500,1E3,750,500,300,100],q=new function(){this.load=function(a,c){a.getDOMNode&&(a=a.getDOMNode());var b=this._getDataFromNode(a,c),d=!(!b.a||!b.a.width||!b.a.height),e=b.load+"";if("false"===e)return k;var j=b.mode;if(d&&("fit"==j||"fill"==j)){j=a.parentNode;if(!j)return console.error("Not doing anything, parentNode not found."),k;if(!this.refresh(a,c,j))return k}j=this.g(a,b);if("string"==typeof j&&"viewport"!==e){var g=this.k(j,b);a.getAttribute("src")!==g&&(a.onload=function(){a.className=a.className.replace("loading"," ").trim()},!a.getAttribute("src")&&-1===a.className.indexOf("loading")&&(a.className+=(a.className?" ":"")+"loading"),!a.getAttribute("src")&&d?a.setAttribute("src",g):(b=new Image,b.onload=function(){d?a.setAttribute("src",g):(a.setAttribute("data-image-dimensions",this.width+"x"+this.height),q.load(a,c))},b.onerror=function(){a.className=a.className.replace("loading"," ").trim();a.setAttribute("src",g)},b.src=g));return!0}return j};this.refresh=function(a,c,b){a.getDOMNode&&(a=a.getDOMNode());b&&b.getDOMNode&&(b=b.getDOMNode());b=b||a.parentNode;if(!b)return console.error("Not doing anything, parentNode not found."),k;var d=this._getDataFromNode(a,c),e=b.offsetWidth,j=b.offsetHeight;c=d.mode;if("none"!=c){var g=d.a.width,p=d.a.height,u=g/p,v=e/j,h;"fill"===c?h=u>v?j/p:e/g:"fit"===c&&(h=u<v?j/p:e/g);!d.d&&("fit"==c&&1<h)&&(h=1);g=Math.floor(g*h);h=Math.floor(p*h);var m,l;"fill"===c?(m=Math.min(Math.max(e/2-g*d.b.x,e-g),0),l=Math.min(Math.max(j/2-h*d.b.y,j-h),0)):"fit"===c&&(l=d.e,m=l.left?0:l.right?e-g:g<e?(e-g)/2:0,l=l.top?0:l.bottom?j-h:h<j?(j-h)/2:0,"inline"==this.c(a,"display")&&(a.style.fontSize="0px"),g-=a.offsetHeight-a.clientHeight,h-=a.offsetWidth-a.clientWidth);if(0===g||0===h)return console.warn("targetWidth("+g+") and targetHeight("+h+"). bailing."),k;a.style.top=Math.floor(l)+"px";a.style.left=Math.floor(m)+"px";a.style.width=Math.floor(g)+"px";a.style.height=Math.floor(h)+"px";m=this.c(b,"position");a.style.position="relative"==m?"absolute":"relative";if("fill"==c&&(a=this.c(b,"overflow"),!a||"hidden"!=a))b.style.overflow="hidden";return!0}};this.g=function(a,c){function b(b,d){"none"===c.mode&&(a.style.width=null,a.style.height=null);var e=parseFloat(a.getAttribute(b)),h=parseFloat(e);if(!h||isNaN(h))e=g.c(a,b),h=parseFloat(e);if(!h||isNaN(h))e=g.c(a,"max-"+b,"max"+(b.substr(0,1).toUpperCase()+b.substr(1))),h=parseFloat(e);if(0===d||e)switch(g.h(e)){case "percentage":d=parseInt(e,10)/100*j.offsetWidth;break;case "number":d=parseInt(e,10)}!h&&(0!==d&&!a.getAttribute("src"))&&(d=0);return d}c=c||this._getDataFromNode(a);if(!c.source)return k;var d=a.offsetWidth,e=a.offsetHeight,j=a.parentNode,g=this,d=b("width",d),e=b("height",e);0===d&&0===e?(d=c.a.width,e=c.a.height):0===d?d=this.getDimensionForValue("width",e,c):0===e&&(e=this.getDimensionForValue("height",d,c));"viewport"===c.load&&(a.style.width=Math.floor(d)+"px",a.style.height=Math.floor(e)+"px");return this.j(d,e,c)};this._getDataFromNode=function(a,c){c=c||{};var b={b:{x:0.5,y:0.5},a:{width:null,height:null},mode:"none",e:{i:!0},load:"true",d:!0};if(c.b)b.b=c.b;else{var d=a.getAttribute("data-image-focal-point");if(d&&(d=d.split(","))&&2==d.length)b.b={x:parseFloat(d[0]),y:parseFloat(d[1])}}if(c.a)b.a=c.a;else if((d=a.getAttribute("data-image-dimensions"))&&(d=d.split("x"))&&2==d.length)b.a={width:parseInt(d[0],10),height:parseInt(d[1],10)};c.mode?b.mode=c.mode:(d=a.parentNode.className,-1!==d.indexOf("content-fill")?b.mode="fill":-1!==d.indexOf("content-fit")&&(b.mode="fit"));if("fit"===b.mode&&(d=c.e||a.getAttribute("data-alignment")||a.parentNode.getAttribute("data-alignment")))b.e={top:-1!==d.indexOf("top"),left:-1!==d.indexOf("left"),i:-1!==d.indexOf("center"),right:-1!==d.indexOf("right"),bottom:-1!==d.indexOf("bottom")};if(c.load)b.load=c.load;else if(d=a.getAttribute("data-load"))b.load=d;if("undefined"!==typeof c.d)b.d=c.d;else if(d=a.getAttribute("data-image-stretch"))b.d="true"===d?!0:k;b.source=c.source?c.source:a.getAttribute("data-image")||a.getAttribute("data-src");if(b.source&&(-1!==b.source.indexOf("squarespace.com")||-1!==b.source.indexOf("squarespace.net"))&&"http:"===b.source.substr(0,5)&&"https"===window.location.protocol.substr(0,5))b.source=b.source.replace("http://","https://");return b};this.h=function(a){return"string"===typeof a&&-1!==a.indexOf("%")?"percentage":isNaN(parseInt(a,10))?NaN:"number"};this.c=function(a,c,b){var d;a.currentStyle?d=a.currentStyle[b||c]:window.getComputedStyle&&(d=document.defaultView.getComputedStyle(a,null).getPropertyValue(c));return d};this.m=function(a){a=a.getBoundingClientRect();return 0<=a.left&&0<=a.top||0<=a.bottom&&0<=a.right||0<=a.left&&0<=a.bottom||0<=a.right&&0<=a.top};this.j=function(a,c,b){a=Math.max(c/(b.a.height/b.a.width),a);"number"==typeof window.devicePixelRatio&&(a*=window.devicePixelRatio);for(c=1;c<n.length&&!(a>n[c]);c++);return n[c-1]+"w"};this.getDimensionForValue=function(a,c,b){var d=b.a.width;b=b.a.height;return"width"==a?d/b*c:"height"==a?b/d*c:NaN};this.k=function(a,c){var b=c.source;return a&&("/"==b[0]||-1!=b.indexOf("squarespace.com")||-1!=b.indexOf("squarespace.net"))?(b=b+(-1!==b.indexOf("?")?"&":"?")+"format="+a,window.f&&window.f.l&&(b+="&storage=local"),b):c.source}};window.ImageLoader=q;var r,s,t=50;function w(){var a=document.images,c=document.styleSheets;if(0>--t&&"complete"==document.readyState)clearTimeout(s),console.warn("Timed Out: No images were found on page.");else if(0<a.length&&r&&(r.rules||r.cssRules)){window.clearTimeout(s);for(var c=k,b=0,d=a.length;b<d;b++){var e;e=a[b];if(e=e.hasAttribute?e.hasAttribute("data-image"):!!e.attributes["data-image"])e=a[b],e="false"!==(e.getAttribute?e.getAttribute("data-load"):e.attributes["data-load"])+"";e&&(c=!q.load(a[b])||c)}c&&(s=window.setTimeout(w,50))}else{if(!r){a=0;for(b=c.length;a<b;a++)/\/site.css\?/.test(c[a].href)&&(r=c[a])}s=window.setTimeout(w,50)}}w();document.addEventListener&&document.addEventListener("DOMContentLoaded",w,k);})();</script>
+<script type="text/javascript" src="/web/20121222030646js_/http://static.squarespace.com/universal/scripts-v6/yui-seed.js?r=12212012200326"></script>
+<link rel="canonical" href="http://www.pricematcherz.com/coupons/"/>
+<link rel="shortcut icon" type="image/x-icon" href="/web/20121222030646im_/http://www.pricematcherz.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="/web/20121222030646cs_/http://fonts.googleapis.com/css?family=Bitter:400,400italic,700|Bubblegum+Sans:400|Fredericka+the+Great:400|Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic"/>
+
+<script> Static.SQUARESPACE_CONTEXT = {"appDomain":"squarespace.com","collection":{"id":"50c00aa1e4b015daadf8e6ba","enabled":true,"starred":false,"type":10,"ordering":3,"title":"Coupons","navigationTitle":"Coupons","urlId":"coupons","itemCount":0,"updatedOn":1354763972387,"description":"","folder":false,"dropdown":false,"tags":[],"categories":[],"homepage":false,"typeName":"page","synchronizing":false,"typeLabel":"page","fullUrl":"/coupons/"},"connectedAccounts":[{"serviceId":4,"userId":"842803734","userName":"PriceMATCHERZ","screenname":"PriceMATCHERZ","addedOn":1348861718969,"profileUrl":"/web/20121222030646/https://twitter.com/PriceMATCHERZ","iconUrl":"/web/20121222030646/http://a0.twimg.com/sticky/default_profile_images/default_profile_3_normal.png","collectionId":"5065ff16e4b06093cea3ad17","serviceName":"twitter"},{"serviceId":2,"userId":"561813488","userName":"bridget.vonspreckelsen","screenname":"Bridget VonSpreckelsen","addedOn":1350752059728,"profileUrl":"/web/20121222030646/http://www.facebook.com/561813488","iconUrl":"/web/20121222030646/http://graph.facebook.com/561813488/picture?type=square","metaData":{},"serviceName":"facebook"}],"secureDomain":"/web/20121222030646/https://eric-vonspreckelsen.squarespace.com","subscribed":false,"templateCapabilities":{"custom":false,"customTypes":[],"layouts":{"default":{"name":"Default","regions":["site"]}},"pageSchemas":{"folder":{},"gallery":{"ordering":1},"blog":{"ordering":2}},"templatePageConfigs":{},"widgetSchemas":{"1":[{"type":"navigation","schemaName":"navigation"}],"2":[],"3":[{"type":"logo","schemaName":"logo"}],"4":[],"5":[],"6":[],"9":[],"12":[],"44":[],"16":[],"21":[],"23":[],"22":[],"25":[],"24":[],"26":[]}},"templateTweakable":true,"tweakJSON":{"gallery-arrow-style":"Round Corners","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-info-overlay":"Always Show","gallery-loop":"false","gallery-navigation":"Thumbnails","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"#222","galleryArrowColor":"#fff","galleryAutoplaySpeed":"3","galleryCircleColor":"#fff","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px"},"website":{"id":"5029b5c884ae261e07fb37e8","identifier":"eric-vonspreckelsen","contentModifiedOn":1356030977099,"siteStatus":{},"language":"en-US","timeZone":"America/Chicago","machineTimeZoneOffset":-21600000,"timeZoneOffset":-21600000,"timeZoneAbbr":"CST","siteTitle":"PriceMATCHERZ","siteDescription":"","location":{"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"508de707e4b044ecf46bc884","shareButtonOptions":{"6":true,"4":true,"5":true,"1":true,"2":true,"8":true,"7":true,"3":true},"logoImageUrl":"/item/508de707e4b044ecf46bc884","authenticUrl":"/web/20121222030646/http://www.pricematcherz.com","baseUrl":"/web/20121222030646/http://www.pricematcherz.com","primaryDomain":"www.pricematcherz.com","socialAccounts":[{"serviceId":4,"userId":"842803734","userName":"PriceMATCHERZ","screenname":"PriceMATCHERZ","addedOn":1348861718969,"profileUrl":"/web/20121222030646/https://twitter.com/PriceMATCHERZ","iconUrl":"/web/20121222030646/http://a0.twimg.com/sticky/default_profile_images/default_profile_3_normal.png","collectionId":"5065ff16e4b06093cea3ad17","serviceName":"twitter"},{"serviceId":2,"userId":"561813488","userName":"bridget.vonspreckelsen","screenname":"Bridget VonSpreckelsen","addedOn":1350752059728,"profileUrl":"/web/20121222030646/http://www.facebook.com/561813488","iconUrl":"/web/20121222030646/http://graph.facebook.com/561813488/picture?type=square","metaData":{},"serviceName":"facebook"}]},"websiteCloneable":false,"websiteSettings":{"id":"5029b5c884ae261e07fb37e9","websiteId":"5029b5c884ae261e07fb37e8","type":"Business","subject":"Other","country":"US","state":"KS","markdownMode":false,"simpleLikingEnabled":true,"commerceEnabled":false,"defaultPostFormat":"%y/%m/%d/%t","commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","homepageTitleFormat":"%s","collectionTitleFormat":"%c \u2014 %s","itemTitleFormat":"%i \u2014 %s","commentsEnabled":true,"contactEmail":"pricematcherz@gmail.com","allowSquarespacePromotion":true,"storeSettings":{"storeTitle":"PriceMATCHERZ","returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"stockLevelAlertLimit":5,"useLightCart":false,"storeState":3,"stripeConnected":false}}}; SquarespaceFonts.loadViaContext(); Squarespace.load(); </script>
+
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-35812803-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? '/web/20121222030646/https://ssl' : '/web/20121222030646/http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script><!--[if gte IE 9]> <!-- --><link rel="stylesheet" type="text/css" href="/web/20121222030646cs_/http://www.pricematcherz.com/site.css?tid=4f84457724acf88285416908&amp;r=2828&amp;t=1355518949777"/><!-- <![endif]-->
+<!--[if lt IE 9]><script src="//static.squarespace.com/universal/scripts-thirdparty/html5/html5-shiv.js"></script><link rel="stylesheet" type="text/css" href="/site.css?tid=4f84457724acf88285416908&r=2828&t=1355518949777&noMedia=true"/><![endif]-->
+
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.pricematcherz.com/coupons/";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "22";
+var displayMonth = "Dec";
+var displayYear = "2012";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.pricematcherz.com/coupons/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20121222030646" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    Nov
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 3:06:46 Dec 22, 2012">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20130425050328/http://www.pricematcherz.com/coupons" title="25 Apr 2013"><strong>APR</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20121219192451/http://www.pricematcherz.com/coupons" title="19:24:51 Dec 19, 2012"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 3:06:46 Dec 22, 2012">22</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20130122002718/http://www.pricematcherz.com/coupons" title="0:27:18 Jan 22, 2013"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2011
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 3:06:46 Dec 22, 2012">2012</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20140108212003/http://www.pricematcherz.com/coupons" title="8 Jan 2014"><strong>2014</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20121222030646*/http://www.pricematcherz.com/coupons/" title="See a list of every capture for this URL">22 captures</a>
+           <div class="r" title="Timespan for captures of this URL">19 Dec 12 - 22 Mar 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:11:000000000002_2013:-1:100110121211_2014:-1:111011110000_2015:-1:002000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<div id="topNav">  
+<a href="/web/20121222030646/http://www.pricematcherz.com/">Home</a>
+<a href="/web/20121222030646/http://www.pricematcherz.com/about">About Us</a>
+<a href="/web/20121222030646/http://www.pricematcherz.com/tips/">Tips and Tricks</a>
+<a href="/web/20121222030646/http://www.pricematcherz.com/coupons">Coupons</a>
+<a href="/web/20121222030646/http://www.pricematcherz.com/contact/">Contact Us</a>
+</div>
+
+<div id="social">
+  <a href="/web/20121222030646/http://www.facebook.com/pricematcherz"> <img src="/web/20121222030646im_/http://static.squarespace.com/static/5029b5c884ae261e07fb37e8/t/50b2ce29e4b05036d3affb31/1353895465489/facebook_icon2.png" width="35" height="35"></a>
+  <a href="/web/20121222030646/http://www.twitter.com/pricematcherz"> <img src="/web/20121222030646im_/http://static.squarespace.com/static/5029b5c884ae261e07fb37e8/t/50b2ce33e4b0c512afb2dc9c/1353895475210/twitter_icon1.png" widgth="35" height="35"></a>
+</div>
+
+<div id="topSearch"><div class="sqs-block search-block" data-block-json="{}" data-block-type="33" id="block-09d02283953eb95bdab8" width="200px"><div class="sqs-block-content"><div class="sqs-search-ui-button" boost_title="10">
+	<span class="title">Search</span>
+  </div></div></div></div> 
+
+  
+	<script src="/web/20121222030646js_/http://template-addons.squarespace.com/scripts/shrink.js"></script>
+	<script type="text/javascript" src="/web/20121222030646js_/http://www.pricematcherz.com/scripts/combo/2828/?site.js"></script>
+  
+</head>
+
+<body id="collection-50c00aa1e4b015daadf8e6ba" class="collection-type-page view-list collection-50c00aa1e4b015daadf8e6ba collection-layout-default header-position-float site-title-position-top navigation-position-sidebar sidebar-position-right social-icons-match-trademarks  promoted-blocks-blog-post promoted-blocks-blog-list gallery-navigation-thumbnails gallery-info-overlay-always-show gallery-aspect-ratio-32-standard gallery-arrow-style-round-corners gallery-transitions-fade gallery-show-arrows gallery-auto-crop">
+
+  <div class="mobile-nav clear">
+  	<div class="show-nav"></div>
+		<div class="nav">
+
+		<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Alabama</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/birmingham/" class="folder-link blog-collection"><span>Birmingham</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/decatur/" class="folder-link blog-collection"><span>Decatur</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/hoover/" class="folder-link blog-collection"><span>Hoover</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/mobile/" class="folder-link blog-collection"><span>Mobile</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/huntsville/" class="folder-link blog-collection"><span>Huntsville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/montgomery/" class="folder-link blog-collection"><span>Montgomery</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tuscaloosa/" class="folder-link blog-collection"><span>Tuscaloosa</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Arkansas</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fayetteville/" class="folder-link blog-collection"><span>Fayetteville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fort-smith/" class="folder-link blog-collection"><span>Fort Smith</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/little-rock/" class="folder-link blog-collection"><span>Little Rock</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Arizona</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/phoenix/" class="folder-link blog-collection"><span>Phoenix</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tuscon/" class="folder-link blog-collection"><span>Tuscon</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>California</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/bakersfield/" class="folder-link blog-collection"><span>Bakersfield</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fresno/" class="folder-link blog-collection"><span>Fresno</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/long-beach/" class="folder-link blog-collection"><span>Long Beach</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/los-angeles/" class="folder-link blog-collection"><span>Los Angeles</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/modesto/" class="folder-link blog-collection"><span>Modesto</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/oakland/" class="folder-link blog-collection"><span>Oakland</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/sacramento/" class="folder-link blog-collection"><span>Sacramento</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/salinas/" class="folder-link blog-collection"><span>Salinas</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-diego/" class="folder-link blog-collection"><span>San Diego</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-francisco/" class="folder-link blog-collection"><span>San Francisco</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-jose/" class="folder-link blog-collection"><span>San Jose</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/santa-rosa/" class="folder-link blog-collection"><span>Santa Rosa</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/stockton/" class="folder-link blog-collection"><span>Stockton</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/victorville/" class="folder-link blog-collection"><span>Victorville</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Colorado</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/colorado-springs/" class="folder-link blog-collection"><span>Colorado Springs</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/denver/" class="folder-link blog-collection"><span>Denver</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fort-collins/" class="folder-link blog-collection"><span>Fort Collins</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/pueblo/" class="folder-link blog-collection"><span>Pueblo</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Connecticut</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/bridgeport/" class="folder-link blog-collection"><span>Bridgeport</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/hartford/" class="folder-link blog-collection"><span>Hartford</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/new-haven/" class="folder-link blog-collection"><span>New Haven</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/samford/" class="folder-link blog-collection"><span>Samford</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Delaware</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/willmington/" class="folder-link blog-collection"><span>Willmington</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>District of Columbia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/washington/" class="folder-link blog-collection"><span>Washington</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Florida</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cape-coral/" class="folder-link blog-collection"><span>Cape Coral</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/coral-springs/" class="folder-link blog-collection"><span>Coral Springs</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fort-lauderdale/" class="folder-link blog-collection"><span>Fort Lauderdale</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/gainsville/" class="folder-link blog-collection"><span>Gainsville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/jacksonville/" class="folder-link blog-collection"><span>Jacksonville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/miami/" class="folder-link blog-collection"><span>Miami</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/orlando/" class="folder-link blog-collection"><span>Orlando</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/port-st-lucie/" class="folder-link blog-collection"><span>Port St. Lucie</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tallahassee/" class="folder-link blog-collection"><span>Tallahassee</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tampa/" class="folder-link blog-collection"><span>Tampa</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Georgia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/athens/" class="folder-link blog-collection"><span>Athens</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/atlanta/" class="folder-link blog-collection"><span>Atlanta</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/augusta/" class="folder-link blog-collection"><span>Augusta</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/columbus/" class="folder-link blog-collection"><span>Columbus</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/savannah/" class="folder-link blog-collection"><span>Savannah</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Illinois</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/chicago/" class="folder-link blog-collection"><span>Chicago</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/peoria/" class="folder-link blog-collection"><span>Peoria</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/rockford/" class="folder-link blog-collection"><span>Rockford</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/springfield/" class="folder-link blog-collection"><span>Springfield</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Indiana</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/evansville/" class="folder-link blog-collection"><span>Evansville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/ft-wayne/" class="folder-link blog-collection"><span>Ft. Wayne</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/indianapolis/" class="folder-link blog-collection"><span>Indianapolis</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/south-bend/" class="folder-link blog-collection"><span>South Bend</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Iowa</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cedar-rapids/" class="folder-link blog-collection"><span>Cedar Rapids</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/des-moines/" class="folder-link blog-collection"><span>Des Moines</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Kansas</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/junction-city/" class="folder-link blog-collection"><span>Junction City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/kansas-city/" class="folder-link blog-collection"><span>Kansas City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/manhattan/" class="folder-link blog-collection"><span>Manhattan</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/topeka/" class="folder-link blog-collection"><span>Topeka</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/wichita/" class="folder-link blog-collection"><span>Wichita</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Kentucky</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lexington/" class="folder-link blog-collection"><span>Lexington</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/louisville/" class="folder-link blog-collection"><span>Louisville</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Louisiana</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/baton-rouge/" class="folder-link blog-collection"><span>Baton Rouge</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lafayette/" class="folder-link blog-collection"><span>Lafayette</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/new-orleans/" class="folder-link blog-collection"><span>New Orleans</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/shreveport/" class="folder-link blog-collection"><span>Shreveport</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Maryland</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/baltimore/" class="folder-link blog-collection"><span>Baltimore</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Massachusetts</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/boston/" class="folder-link blog-collection"><span>Boston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lowell/" class="folder-link blog-collection"><span>Lowell</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/springfieldma/" class="folder-link blog-collection"><span>Springfield</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/worcester/" class="folder-link blog-collection"><span>Worcester</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Michigan</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/ann-arbor/" class="folder-link blog-collection"><span>Ann Arbor</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/detroit/" class="folder-link blog-collection"><span>Detroit</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/flint/" class="folder-link blog-collection"><span>Flint</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/grand-rapids/" class="folder-link blog-collection"><span>Grand Rapids</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lansing/" class="folder-link blog-collection"><span>Lansing</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Minnesota</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/minneapolis/" class="folder-link blog-collection"><span>Minneapolis</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/st-paul/" class="folder-link blog-collection"><span>St. Paul</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Missouri</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/kansas-citymo/" class="folder-link blog-collection"><span>Kansas City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/springfieldmo/" class="folder-link blog-collection"><span>Springfield</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/st-louis/" class="folder-link blog-collection"><span>St. Louis</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Nebraska</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/grand-isand/" class="folder-link blog-collection"><span>Grand Island</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/hastings/" class="folder-link blog-collection"><span>Hastings</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/kearney/" class="folder-link blog-collection"><span>Kearney</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lincoln/" class="folder-link blog-collection"><span>Lincoln</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/north-platte/" class="folder-link blog-collection"><span>North Platte</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/omaha/" class="folder-link blog-collection"><span>Omaha</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/york/" class="folder-link blog-collection"><span>York</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Nevada</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/las-vegas/" class="folder-link blog-collection"><span>Las Vegas</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/reno/" class="folder-link blog-collection"><span>Reno</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New Hampshire</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/manchester/" class="folder-link blog-collection"><span>Manchester</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New Jersey</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/newark/" class="folder-link blog-collection"><span>Newark</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/paterson/" class="folder-link blog-collection"><span>Paterson</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New Mexico</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/albuquerque/" class="folder-link blog-collection"><span>Albuquerque</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New York</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/buffalo/" class="folder-link blog-collection"><span>Buffalo</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/new-york/" class="folder-link blog-collection"><span>New York</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/rochester/" class="folder-link blog-collection"><span>Rochester</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/syracuse/" class="folder-link blog-collection"><span>Syracuse</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>North Carolina</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/charlotte/" class="folder-link blog-collection"><span>Charlotte</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/durham/" class="folder-link blog-collection"><span>Durham</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fayettvillenc/" class="folder-link blog-collection"><span>Fayettville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/greensboro/" class="folder-link blog-collection"><span>Greensboro</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/raleigh/" class="folder-link blog-collection"><span>Raleigh</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/winston-salem/" class="folder-link blog-collection"><span>Winston-Salem</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Ohio</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/akron/" class="folder-link blog-collection"><span>Akron</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cincinnati/" class="folder-link blog-collection"><span>Cincinnati</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cleveland/" class="folder-link blog-collection"><span>Cleveland</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/columbusoh/" class="folder-link blog-collection"><span>Columbus</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/dayton/" class="folder-link blog-collection"><span>Dayton</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/toledo/" class="folder-link blog-collection"><span>Toledo</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Oklahoma</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/oklahoma-city/" class="folder-link blog-collection"><span>Oklahoma City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tulsa/" class="folder-link blog-collection"><span>Tulsa</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Oregon</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/eugene/" class="folder-link blog-collection"><span>Eugene</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/portland/" class="folder-link blog-collection"><span>Portland</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/salem/" class="folder-link blog-collection"><span>Salem</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Pennsylvania</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/allentown/" class="folder-link blog-collection"><span>Allentown</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/erie/" class="folder-link blog-collection"><span>Erie</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/pittsburgh/" class="folder-link blog-collection"><span>Pittsburgh</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Rhode Island</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/providenceri/" class="folder-link blog-collection"><span>Providence</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>South Carolina</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/charleson/" class="folder-link blog-collection"><span>Charleston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/columbiasc/" class="folder-link blog-collection"><span>Columbia</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Tennessee</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/chattanooga/" class="folder-link blog-collection"><span>Chattanooga</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/knoxville/" class="folder-link blog-collection"><span>Knoxville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/memphis/" class="folder-link blog-collection"><span>Memphis</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/nashville/" class="folder-link blog-collection"><span>Nashville</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Texas</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/abilene/" class="folder-link blog-collection"><span>Abilene</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/amarillo/" class="folder-link blog-collection"><span>Amarillo</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/austin/" class="folder-link blog-collection"><span>Austin</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/beaumont/" class="folder-link blog-collection"><span>Beaumont</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/corpus-christi/" class="folder-link blog-collection"><span>Corpus Christi</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/dallas/" class="folder-link blog-collection"><span>Dallas</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/el-paso/" class="folder-link blog-collection"><span>El Paso</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/houston/" class="folder-link blog-collection"><span>Houston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/laredo/" class="folder-link blog-collection"><span>Laredo</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lubbock/" class="folder-link blog-collection"><span>Lubbock</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/mcallen/" class="folder-link blog-collection"><span>McAllen</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-antonio/" class="folder-link blog-collection"><span>San Antonio</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/waco/" class="folder-link blog-collection"><span>Waco</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Utah</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/provo-orem/" class="folder-link blog-collection"><span>Provo-Orem</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/salt-lake-city/" class="folder-link blog-collection"><span>Salt Lake City</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Virginia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/arlington/" class="folder-link blog-collection"><span>Arlington</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/richmond/" class="folder-link blog-collection"><span>Richmond</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/virginia-beach/" class="folder-link blog-collection"><span>Virginia Beach</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Washington</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/seattle/" class="folder-link blog-collection"><span>Seattle</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/spokane/" class="folder-link blog-collection"><span>Spokane</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tacoma/" class="folder-link blog-collection"><span>Tacoma</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/vancouver/" class="folder-link blog-collection"><span>Vancouver</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>West Virginia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/charleston/" class="folder-link blog-collection"><span>Charleston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/huntington/" class="folder-link blog-collection"><span>Huntington</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/morgantown/" class="folder-link blog-collection"><span>Morgantown</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Wisconsin</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/green-bay/" class="folder-link blog-collection"><span>Green Bay</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/madison/" class="folder-link blog-collection"><span>Madison</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/milwaukee/" class="folder-link blog-collection"><span>Milwaukee</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Wyoming</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/casper/" class="folder-link blog-collection"><span>Casper</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cheyenne/" class="folder-link blog-collection"><span>Cheyenne</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/laramie/" class="folder-link blog-collection"><span>Laramie</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+</div>
+
+	</div>
+					
+	<header id="header" class="logo-image">
+    <div class="wrapper clear">
+
+    				<div class="header-logo">
+			  <h1 class="header-site-title" data-content-field="site-title">
+			  	<a href="/web/20121222030646/http://www.pricematcherz.com/">
+			  		<img src="/web/20121222030646im_/http://www.pricematcherz.com/item/508de707e4b044ecf46bc884?format=original" alt="PriceMATCHERZ" />			  		<span class="header-site-title-span">PriceMATCHERZ</span>
+			  	</a>
+				</h1>
+			</div> 
+						
+    	<div class="header-nav clear">
+    		<div class="nav">
+
+		<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Alabama</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/birmingham/" class="folder-link blog-collection"><span>Birmingham</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/decatur/" class="folder-link blog-collection"><span>Decatur</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/hoover/" class="folder-link blog-collection"><span>Hoover</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/mobile/" class="folder-link blog-collection"><span>Mobile</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/huntsville/" class="folder-link blog-collection"><span>Huntsville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/montgomery/" class="folder-link blog-collection"><span>Montgomery</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tuscaloosa/" class="folder-link blog-collection"><span>Tuscaloosa</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Arkansas</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fayetteville/" class="folder-link blog-collection"><span>Fayetteville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fort-smith/" class="folder-link blog-collection"><span>Fort Smith</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/little-rock/" class="folder-link blog-collection"><span>Little Rock</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Arizona</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/phoenix/" class="folder-link blog-collection"><span>Phoenix</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tuscon/" class="folder-link blog-collection"><span>Tuscon</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>California</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/bakersfield/" class="folder-link blog-collection"><span>Bakersfield</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fresno/" class="folder-link blog-collection"><span>Fresno</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/long-beach/" class="folder-link blog-collection"><span>Long Beach</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/los-angeles/" class="folder-link blog-collection"><span>Los Angeles</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/modesto/" class="folder-link blog-collection"><span>Modesto</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/oakland/" class="folder-link blog-collection"><span>Oakland</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/sacramento/" class="folder-link blog-collection"><span>Sacramento</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/salinas/" class="folder-link blog-collection"><span>Salinas</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-diego/" class="folder-link blog-collection"><span>San Diego</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-francisco/" class="folder-link blog-collection"><span>San Francisco</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-jose/" class="folder-link blog-collection"><span>San Jose</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/santa-rosa/" class="folder-link blog-collection"><span>Santa Rosa</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/stockton/" class="folder-link blog-collection"><span>Stockton</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/victorville/" class="folder-link blog-collection"><span>Victorville</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Colorado</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/colorado-springs/" class="folder-link blog-collection"><span>Colorado Springs</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/denver/" class="folder-link blog-collection"><span>Denver</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fort-collins/" class="folder-link blog-collection"><span>Fort Collins</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/pueblo/" class="folder-link blog-collection"><span>Pueblo</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Connecticut</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/bridgeport/" class="folder-link blog-collection"><span>Bridgeport</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/hartford/" class="folder-link blog-collection"><span>Hartford</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/new-haven/" class="folder-link blog-collection"><span>New Haven</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/samford/" class="folder-link blog-collection"><span>Samford</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Delaware</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/willmington/" class="folder-link blog-collection"><span>Willmington</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>District of Columbia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/washington/" class="folder-link blog-collection"><span>Washington</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Florida</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cape-coral/" class="folder-link blog-collection"><span>Cape Coral</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/coral-springs/" class="folder-link blog-collection"><span>Coral Springs</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fort-lauderdale/" class="folder-link blog-collection"><span>Fort Lauderdale</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/gainsville/" class="folder-link blog-collection"><span>Gainsville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/jacksonville/" class="folder-link blog-collection"><span>Jacksonville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/miami/" class="folder-link blog-collection"><span>Miami</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/orlando/" class="folder-link blog-collection"><span>Orlando</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/port-st-lucie/" class="folder-link blog-collection"><span>Port St. Lucie</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tallahassee/" class="folder-link blog-collection"><span>Tallahassee</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tampa/" class="folder-link blog-collection"><span>Tampa</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Georgia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/athens/" class="folder-link blog-collection"><span>Athens</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/atlanta/" class="folder-link blog-collection"><span>Atlanta</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/augusta/" class="folder-link blog-collection"><span>Augusta</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/columbus/" class="folder-link blog-collection"><span>Columbus</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/savannah/" class="folder-link blog-collection"><span>Savannah</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Illinois</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/chicago/" class="folder-link blog-collection"><span>Chicago</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/peoria/" class="folder-link blog-collection"><span>Peoria</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/rockford/" class="folder-link blog-collection"><span>Rockford</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/springfield/" class="folder-link blog-collection"><span>Springfield</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Indiana</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/evansville/" class="folder-link blog-collection"><span>Evansville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/ft-wayne/" class="folder-link blog-collection"><span>Ft. Wayne</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/indianapolis/" class="folder-link blog-collection"><span>Indianapolis</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/south-bend/" class="folder-link blog-collection"><span>South Bend</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Iowa</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cedar-rapids/" class="folder-link blog-collection"><span>Cedar Rapids</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/des-moines/" class="folder-link blog-collection"><span>Des Moines</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Kansas</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/junction-city/" class="folder-link blog-collection"><span>Junction City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/kansas-city/" class="folder-link blog-collection"><span>Kansas City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/manhattan/" class="folder-link blog-collection"><span>Manhattan</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/topeka/" class="folder-link blog-collection"><span>Topeka</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/wichita/" class="folder-link blog-collection"><span>Wichita</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Kentucky</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lexington/" class="folder-link blog-collection"><span>Lexington</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/louisville/" class="folder-link blog-collection"><span>Louisville</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Louisiana</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/baton-rouge/" class="folder-link blog-collection"><span>Baton Rouge</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lafayette/" class="folder-link blog-collection"><span>Lafayette</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/new-orleans/" class="folder-link blog-collection"><span>New Orleans</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/shreveport/" class="folder-link blog-collection"><span>Shreveport</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Maryland</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/baltimore/" class="folder-link blog-collection"><span>Baltimore</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Massachusetts</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/boston/" class="folder-link blog-collection"><span>Boston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lowell/" class="folder-link blog-collection"><span>Lowell</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/springfieldma/" class="folder-link blog-collection"><span>Springfield</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/worcester/" class="folder-link blog-collection"><span>Worcester</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Michigan</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/ann-arbor/" class="folder-link blog-collection"><span>Ann Arbor</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/detroit/" class="folder-link blog-collection"><span>Detroit</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/flint/" class="folder-link blog-collection"><span>Flint</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/grand-rapids/" class="folder-link blog-collection"><span>Grand Rapids</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lansing/" class="folder-link blog-collection"><span>Lansing</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Minnesota</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/minneapolis/" class="folder-link blog-collection"><span>Minneapolis</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/st-paul/" class="folder-link blog-collection"><span>St. Paul</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Missouri</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/kansas-citymo/" class="folder-link blog-collection"><span>Kansas City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/springfieldmo/" class="folder-link blog-collection"><span>Springfield</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/st-louis/" class="folder-link blog-collection"><span>St. Louis</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Nebraska</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/grand-isand/" class="folder-link blog-collection"><span>Grand Island</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/hastings/" class="folder-link blog-collection"><span>Hastings</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/kearney/" class="folder-link blog-collection"><span>Kearney</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lincoln/" class="folder-link blog-collection"><span>Lincoln</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/north-platte/" class="folder-link blog-collection"><span>North Platte</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/omaha/" class="folder-link blog-collection"><span>Omaha</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/york/" class="folder-link blog-collection"><span>York</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Nevada</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/las-vegas/" class="folder-link blog-collection"><span>Las Vegas</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/reno/" class="folder-link blog-collection"><span>Reno</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New Hampshire</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/manchester/" class="folder-link blog-collection"><span>Manchester</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New Jersey</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/newark/" class="folder-link blog-collection"><span>Newark</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/paterson/" class="folder-link blog-collection"><span>Paterson</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New Mexico</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/albuquerque/" class="folder-link blog-collection"><span>Albuquerque</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New York</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/buffalo/" class="folder-link blog-collection"><span>Buffalo</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/new-york/" class="folder-link blog-collection"><span>New York</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/rochester/" class="folder-link blog-collection"><span>Rochester</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/syracuse/" class="folder-link blog-collection"><span>Syracuse</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>North Carolina</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/charlotte/" class="folder-link blog-collection"><span>Charlotte</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/durham/" class="folder-link blog-collection"><span>Durham</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fayettvillenc/" class="folder-link blog-collection"><span>Fayettville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/greensboro/" class="folder-link blog-collection"><span>Greensboro</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/raleigh/" class="folder-link blog-collection"><span>Raleigh</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/winston-salem/" class="folder-link blog-collection"><span>Winston-Salem</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Ohio</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/akron/" class="folder-link blog-collection"><span>Akron</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cincinnati/" class="folder-link blog-collection"><span>Cincinnati</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cleveland/" class="folder-link blog-collection"><span>Cleveland</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/columbusoh/" class="folder-link blog-collection"><span>Columbus</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/dayton/" class="folder-link blog-collection"><span>Dayton</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/toledo/" class="folder-link blog-collection"><span>Toledo</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Oklahoma</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/oklahoma-city/" class="folder-link blog-collection"><span>Oklahoma City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tulsa/" class="folder-link blog-collection"><span>Tulsa</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Oregon</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/eugene/" class="folder-link blog-collection"><span>Eugene</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/portland/" class="folder-link blog-collection"><span>Portland</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/salem/" class="folder-link blog-collection"><span>Salem</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Pennsylvania</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/allentown/" class="folder-link blog-collection"><span>Allentown</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/erie/" class="folder-link blog-collection"><span>Erie</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/pittsburgh/" class="folder-link blog-collection"><span>Pittsburgh</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Rhode Island</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/providenceri/" class="folder-link blog-collection"><span>Providence</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>South Carolina</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/charleson/" class="folder-link blog-collection"><span>Charleston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/columbiasc/" class="folder-link blog-collection"><span>Columbia</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Tennessee</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/chattanooga/" class="folder-link blog-collection"><span>Chattanooga</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/knoxville/" class="folder-link blog-collection"><span>Knoxville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/memphis/" class="folder-link blog-collection"><span>Memphis</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/nashville/" class="folder-link blog-collection"><span>Nashville</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Texas</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/abilene/" class="folder-link blog-collection"><span>Abilene</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/amarillo/" class="folder-link blog-collection"><span>Amarillo</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/austin/" class="folder-link blog-collection"><span>Austin</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/beaumont/" class="folder-link blog-collection"><span>Beaumont</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/corpus-christi/" class="folder-link blog-collection"><span>Corpus Christi</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/dallas/" class="folder-link blog-collection"><span>Dallas</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/el-paso/" class="folder-link blog-collection"><span>El Paso</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/houston/" class="folder-link blog-collection"><span>Houston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/laredo/" class="folder-link blog-collection"><span>Laredo</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lubbock/" class="folder-link blog-collection"><span>Lubbock</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/mcallen/" class="folder-link blog-collection"><span>McAllen</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-antonio/" class="folder-link blog-collection"><span>San Antonio</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/waco/" class="folder-link blog-collection"><span>Waco</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Utah</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/provo-orem/" class="folder-link blog-collection"><span>Provo-Orem</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/salt-lake-city/" class="folder-link blog-collection"><span>Salt Lake City</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Virginia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/arlington/" class="folder-link blog-collection"><span>Arlington</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/richmond/" class="folder-link blog-collection"><span>Richmond</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/virginia-beach/" class="folder-link blog-collection"><span>Virginia Beach</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Washington</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/seattle/" class="folder-link blog-collection"><span>Seattle</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/spokane/" class="folder-link blog-collection"><span>Spokane</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tacoma/" class="folder-link blog-collection"><span>Tacoma</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/vancouver/" class="folder-link blog-collection"><span>Vancouver</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>West Virginia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/charleston/" class="folder-link blog-collection"><span>Charleston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/huntington/" class="folder-link blog-collection"><span>Huntington</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/morgantown/" class="folder-link blog-collection"><span>Morgantown</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Wisconsin</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/green-bay/" class="folder-link blog-collection"><span>Green Bay</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/madison/" class="folder-link blog-collection"><span>Madison</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/milwaukee/" class="folder-link blog-collection"><span>Milwaukee</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Wyoming</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/casper/" class="folder-link blog-collection"><span>Casper</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cheyenne/" class="folder-link blog-collection"><span>Cheyenne</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/laramie/" class="folder-link blog-collection"><span>Laramie</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+</div>
+
+    	</div>
+    	
+    </div>
+  </header>
+
+  <div id="site">
+     <div class="wrapper clear">
+
+	    <div id="content">
+	      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1355022325179" id="page-50c00aa1e4b015daadf8e6ba"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block code-block" data-block-json="&#123;&quot;wysiwyg&quot;:&#123;&quot;source&quot;:&quot;&quot;,&quot;isSource&quot;:false,&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;engine&quot;:&quot;source&quot;&#125;,&quot;html&quot;:&quot;&lt;div id=\&quot;coupon_sidebar\&quot;&gt;\n&lt;script type=\&quot;text/javascript\&quot; src=\&quot;http://ap.lijit.com/www/delivery/fpi.js#?z=179383&amp;amp;u=pricematcherz&amp;amp;width=300&amp;amp;height=250\&quot;&gt;&lt;/script&gt;\n&lt;/div&gt;&quot;&#125;" data-block-type="23" id="block-dec4a1d39a3c8c543add"><div class="sqs-block-content"><div id="coupon_sidebar">
+<script type="text/javascript" src="/web/20121222030646js_/http://ap.lijit.com/www/delivery/fpi.js#?z=179383&amp;u=pricematcherz&amp;width=300&amp;height=250"></script>
+</div></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block code-block" data-block-json="&#123;&quot;wysiwyg&quot;:&#123;&quot;source&quot;:&quot;&quot;,&quot;isSource&quot;:false,&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;engine&quot;:&quot;source&quot;&#125;,&quot;html&quot;:&quot;&lt;script type=\&quot;text/javascript\&quot;&gt;\nvar ci_cap_scriptId = \&quot;36541\&quot;;\nvar ci_cap_bid = \&quot;1281410001\&quot;;\nvar ci_cap_format = \&quot;718x940\&quot;;\nvar ci_cap_bannerType = \&quot;3\&quot;;\n&lt;/script&gt;\n&lt;noscript&gt;&amp;amp;amp;amp;lt;p&amp;amp;amp;amp;gt;Coupons powered by &amp;amp;amp;amp;lt;a href=\&quot;http://www.coupons.com/\&quot;&amp;amp;amp;amp;gt;Coupons.com&amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;gt;&lt;/noscript&gt;\n&lt;script type=\&quot;text/javascript\&quot; src=\&quot;http://bc.coupons.com/\&quot;&gt;&lt;/script&gt;&quot;&#125;" data-block-type="23" id="block-4d598dabec136d41dfb3"><div class="sqs-block-content"><script type="text/javascript">
+var ci_cap_scriptId = "36541";
+var ci_cap_bid = "1281410001";
+var ci_cap_format = "718x940";
+var ci_cap_bannerType = "3";
+</script>
+<noscript>&amp;amp;amp;lt;p&amp;amp;amp;gt;Coupons powered by &amp;amp;amp;lt;a href="http://www.coupons.com/"&amp;amp;amp;gt;Coupons.com&amp;amp;amp;lt;/a&amp;amp;amp;gt;&amp;amp;amp;lt;/p&amp;amp;amp;gt;</noscript>
+<script type="text/javascript" src="/web/20121222030646js_/http://bc.coupons.com/"></script></div></div></div></div></div>
+	    </div>
+	  
+		  <div id="sidebar" class="logo-image">
+		  	<div class="wrapper clear">
+			  	
+		      					<div class="sidebar-logo">
+					  <h1 class="sidebar-site-title" data-content-field="site-title">
+					  	<a href="/web/20121222030646/http://www.pricematcherz.com/">
+					  		<img src="/web/20121222030646im_/http://www.pricematcherz.com/item/508de707e4b044ecf46bc884?format=original" alt="PriceMATCHERZ" />					  		<span class="sidebar-site-title-span">PriceMATCHERZ</span>
+					  	</a>
+						</h1>
+																	</div> 
+					
+	        <div class="sidebar-nav clear">
+	        	<div class="nav">
+
+		<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Alabama</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/birmingham/" class="folder-link blog-collection"><span>Birmingham</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/decatur/" class="folder-link blog-collection"><span>Decatur</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/hoover/" class="folder-link blog-collection"><span>Hoover</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/mobile/" class="folder-link blog-collection"><span>Mobile</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/huntsville/" class="folder-link blog-collection"><span>Huntsville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/montgomery/" class="folder-link blog-collection"><span>Montgomery</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tuscaloosa/" class="folder-link blog-collection"><span>Tuscaloosa</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Arkansas</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fayetteville/" class="folder-link blog-collection"><span>Fayetteville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fort-smith/" class="folder-link blog-collection"><span>Fort Smith</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/little-rock/" class="folder-link blog-collection"><span>Little Rock</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Arizona</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/phoenix/" class="folder-link blog-collection"><span>Phoenix</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tuscon/" class="folder-link blog-collection"><span>Tuscon</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>California</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/bakersfield/" class="folder-link blog-collection"><span>Bakersfield</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fresno/" class="folder-link blog-collection"><span>Fresno</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/long-beach/" class="folder-link blog-collection"><span>Long Beach</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/los-angeles/" class="folder-link blog-collection"><span>Los Angeles</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/modesto/" class="folder-link blog-collection"><span>Modesto</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/oakland/" class="folder-link blog-collection"><span>Oakland</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/sacramento/" class="folder-link blog-collection"><span>Sacramento</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/salinas/" class="folder-link blog-collection"><span>Salinas</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-diego/" class="folder-link blog-collection"><span>San Diego</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-francisco/" class="folder-link blog-collection"><span>San Francisco</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-jose/" class="folder-link blog-collection"><span>San Jose</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/santa-rosa/" class="folder-link blog-collection"><span>Santa Rosa</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/stockton/" class="folder-link blog-collection"><span>Stockton</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/victorville/" class="folder-link blog-collection"><span>Victorville</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Colorado</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/colorado-springs/" class="folder-link blog-collection"><span>Colorado Springs</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/denver/" class="folder-link blog-collection"><span>Denver</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fort-collins/" class="folder-link blog-collection"><span>Fort Collins</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/pueblo/" class="folder-link blog-collection"><span>Pueblo</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Connecticut</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/bridgeport/" class="folder-link blog-collection"><span>Bridgeport</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/hartford/" class="folder-link blog-collection"><span>Hartford</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/new-haven/" class="folder-link blog-collection"><span>New Haven</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/samford/" class="folder-link blog-collection"><span>Samford</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Delaware</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/willmington/" class="folder-link blog-collection"><span>Willmington</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>District of Columbia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/washington/" class="folder-link blog-collection"><span>Washington</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Florida</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cape-coral/" class="folder-link blog-collection"><span>Cape Coral</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/coral-springs/" class="folder-link blog-collection"><span>Coral Springs</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fort-lauderdale/" class="folder-link blog-collection"><span>Fort Lauderdale</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/gainsville/" class="folder-link blog-collection"><span>Gainsville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/jacksonville/" class="folder-link blog-collection"><span>Jacksonville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/miami/" class="folder-link blog-collection"><span>Miami</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/orlando/" class="folder-link blog-collection"><span>Orlando</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/port-st-lucie/" class="folder-link blog-collection"><span>Port St. Lucie</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tallahassee/" class="folder-link blog-collection"><span>Tallahassee</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tampa/" class="folder-link blog-collection"><span>Tampa</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Georgia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/athens/" class="folder-link blog-collection"><span>Athens</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/atlanta/" class="folder-link blog-collection"><span>Atlanta</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/augusta/" class="folder-link blog-collection"><span>Augusta</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/columbus/" class="folder-link blog-collection"><span>Columbus</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/savannah/" class="folder-link blog-collection"><span>Savannah</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Illinois</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/chicago/" class="folder-link blog-collection"><span>Chicago</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/peoria/" class="folder-link blog-collection"><span>Peoria</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/rockford/" class="folder-link blog-collection"><span>Rockford</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/springfield/" class="folder-link blog-collection"><span>Springfield</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Indiana</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/evansville/" class="folder-link blog-collection"><span>Evansville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/ft-wayne/" class="folder-link blog-collection"><span>Ft. Wayne</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/indianapolis/" class="folder-link blog-collection"><span>Indianapolis</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/south-bend/" class="folder-link blog-collection"><span>South Bend</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Iowa</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cedar-rapids/" class="folder-link blog-collection"><span>Cedar Rapids</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/des-moines/" class="folder-link blog-collection"><span>Des Moines</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Kansas</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/junction-city/" class="folder-link blog-collection"><span>Junction City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/kansas-city/" class="folder-link blog-collection"><span>Kansas City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/manhattan/" class="folder-link blog-collection"><span>Manhattan</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/topeka/" class="folder-link blog-collection"><span>Topeka</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/wichita/" class="folder-link blog-collection"><span>Wichita</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Kentucky</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lexington/" class="folder-link blog-collection"><span>Lexington</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/louisville/" class="folder-link blog-collection"><span>Louisville</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Louisiana</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/baton-rouge/" class="folder-link blog-collection"><span>Baton Rouge</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lafayette/" class="folder-link blog-collection"><span>Lafayette</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/new-orleans/" class="folder-link blog-collection"><span>New Orleans</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/shreveport/" class="folder-link blog-collection"><span>Shreveport</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Maryland</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/baltimore/" class="folder-link blog-collection"><span>Baltimore</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Massachusetts</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/boston/" class="folder-link blog-collection"><span>Boston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lowell/" class="folder-link blog-collection"><span>Lowell</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/springfieldma/" class="folder-link blog-collection"><span>Springfield</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/worcester/" class="folder-link blog-collection"><span>Worcester</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Michigan</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/ann-arbor/" class="folder-link blog-collection"><span>Ann Arbor</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/detroit/" class="folder-link blog-collection"><span>Detroit</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/flint/" class="folder-link blog-collection"><span>Flint</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/grand-rapids/" class="folder-link blog-collection"><span>Grand Rapids</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lansing/" class="folder-link blog-collection"><span>Lansing</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Minnesota</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/minneapolis/" class="folder-link blog-collection"><span>Minneapolis</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/st-paul/" class="folder-link blog-collection"><span>St. Paul</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Missouri</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/kansas-citymo/" class="folder-link blog-collection"><span>Kansas City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/springfieldmo/" class="folder-link blog-collection"><span>Springfield</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/st-louis/" class="folder-link blog-collection"><span>St. Louis</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Nebraska</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/grand-isand/" class="folder-link blog-collection"><span>Grand Island</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/hastings/" class="folder-link blog-collection"><span>Hastings</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/kearney/" class="folder-link blog-collection"><span>Kearney</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lincoln/" class="folder-link blog-collection"><span>Lincoln</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/north-platte/" class="folder-link blog-collection"><span>North Platte</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/omaha/" class="folder-link blog-collection"><span>Omaha</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/york/" class="folder-link blog-collection"><span>York</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Nevada</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/las-vegas/" class="folder-link blog-collection"><span>Las Vegas</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/reno/" class="folder-link blog-collection"><span>Reno</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New Hampshire</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/manchester/" class="folder-link blog-collection"><span>Manchester</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New Jersey</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/newark/" class="folder-link blog-collection"><span>Newark</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/paterson/" class="folder-link blog-collection"><span>Paterson</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New Mexico</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/albuquerque/" class="folder-link blog-collection"><span>Albuquerque</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>New York</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/buffalo/" class="folder-link blog-collection"><span>Buffalo</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/new-york/" class="folder-link blog-collection"><span>New York</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/rochester/" class="folder-link blog-collection"><span>Rochester</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/syracuse/" class="folder-link blog-collection"><span>Syracuse</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>North Carolina</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/charlotte/" class="folder-link blog-collection"><span>Charlotte</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/durham/" class="folder-link blog-collection"><span>Durham</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/fayettvillenc/" class="folder-link blog-collection"><span>Fayettville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/greensboro/" class="folder-link blog-collection"><span>Greensboro</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/raleigh/" class="folder-link blog-collection"><span>Raleigh</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/winston-salem/" class="folder-link blog-collection"><span>Winston-Salem</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Ohio</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/akron/" class="folder-link blog-collection"><span>Akron</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cincinnati/" class="folder-link blog-collection"><span>Cincinnati</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cleveland/" class="folder-link blog-collection"><span>Cleveland</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/columbusoh/" class="folder-link blog-collection"><span>Columbus</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/dayton/" class="folder-link blog-collection"><span>Dayton</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/toledo/" class="folder-link blog-collection"><span>Toledo</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Oklahoma</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/oklahoma-city/" class="folder-link blog-collection"><span>Oklahoma City</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tulsa/" class="folder-link blog-collection"><span>Tulsa</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Oregon</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/eugene/" class="folder-link blog-collection"><span>Eugene</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/portland/" class="folder-link blog-collection"><span>Portland</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/salem/" class="folder-link blog-collection"><span>Salem</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Pennsylvania</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/allentown/" class="folder-link blog-collection"><span>Allentown</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/erie/" class="folder-link blog-collection"><span>Erie</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/pittsburgh/" class="folder-link blog-collection"><span>Pittsburgh</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Rhode Island</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/providenceri/" class="folder-link blog-collection"><span>Providence</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>South Carolina</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/charleson/" class="folder-link blog-collection"><span>Charleston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/columbiasc/" class="folder-link blog-collection"><span>Columbia</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Tennessee</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/chattanooga/" class="folder-link blog-collection"><span>Chattanooga</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/knoxville/" class="folder-link blog-collection"><span>Knoxville</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/memphis/" class="folder-link blog-collection"><span>Memphis</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/nashville/" class="folder-link blog-collection"><span>Nashville</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Texas</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/abilene/" class="folder-link blog-collection"><span>Abilene</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/amarillo/" class="folder-link blog-collection"><span>Amarillo</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/austin/" class="folder-link blog-collection"><span>Austin</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/beaumont/" class="folder-link blog-collection"><span>Beaumont</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/corpus-christi/" class="folder-link blog-collection"><span>Corpus Christi</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/dallas/" class="folder-link blog-collection"><span>Dallas</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/el-paso/" class="folder-link blog-collection"><span>El Paso</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/houston/" class="folder-link blog-collection"><span>Houston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/laredo/" class="folder-link blog-collection"><span>Laredo</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/lubbock/" class="folder-link blog-collection"><span>Lubbock</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/mcallen/" class="folder-link blog-collection"><span>McAllen</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/san-antonio/" class="folder-link blog-collection"><span>San Antonio</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/waco/" class="folder-link blog-collection"><span>Waco</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Utah</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/provo-orem/" class="folder-link blog-collection"><span>Provo-Orem</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/salt-lake-city/" class="folder-link blog-collection"><span>Salt Lake City</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Virginia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/arlington/" class="folder-link blog-collection"><span>Arlington</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/richmond/" class="folder-link blog-collection"><span>Richmond</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/virginia-beach/" class="folder-link blog-collection"><span>Virginia Beach</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Washington</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/seattle/" class="folder-link blog-collection"><span>Seattle</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/spokane/" class="folder-link blog-collection"><span>Spokane</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/tacoma/" class="folder-link blog-collection"><span>Tacoma</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/vancouver/" class="folder-link blog-collection"><span>Vancouver</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>West Virginia</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/charleston/" class="folder-link blog-collection"><span>Charleston</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/huntington/" class="folder-link blog-collection"><span>Huntington</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/morgantown/" class="folder-link blog-collection"><span>Morgantown</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Wisconsin</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/green-bay/" class="folder-link blog-collection"><span>Green Bay</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/madison/" class="folder-link blog-collection"><span>Madison</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/milwaukee/" class="folder-link blog-collection"><span>Milwaukee</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+	<div class="nav-link folder-wrapper">
+	
+			
+		<a href="#" class="show-folder"><span>Wyoming</span></a>
+		
+		<div class="folder">
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/casper/" class="folder-link blog-collection"><span>Casper</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/cheyenne/" class="folder-link blog-collection"><span>Cheyenne</span></a>
+				
+			
+					
+				
+						<a href="/web/20121222030646/http://www.pricematcherz.com/laramie/" class="folder-link blog-collection"><span>Laramie</span></a>
+				
+			
+					
+				</div>
+	
+		</div>
+
+</div>
+
+	        </div>
+
+	        <div class="sqs-layout sqs-grid-1 columns-1 null" data-type="block-field" data-updated-on="1351477221978" id="sqs-sidebar"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block search-block" data-block-json="&#123;&#125;" data-block-type="33" id="block-09d02283953eb95bdab8"><div class="sqs-block-content"><div class="sqs-search-ui-button" boost_title="10">
+	<span class="title">Search</span>
+</div></div></div></div></div></div>
+	        
+							      					<div class="socialicons-block">
+						<div class="account twitter"><a href="/web/20121222030646/https://twitter.com/PriceMATCHERZ" target="_blank"><span class="social-icon"></span>twitter</a></div><div class="account facebook"><a href="/web/20121222030646/http://www.facebook.com/561813488" target="_blank"><span class="social-icon"></span>facebook</a></div>					</div>
+										
+      	</div>
+		  </div>
+	      	    
+	    <footer id="footer">
+	    	<div class="wrapper clear">
+		      <div class="sqs-layout sqs-grid-12 columns-12 null" data-type="block-field" data-updated-on="1354166563639" id="sqs-footer"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block code-block" data-block-json="&#123;&quot;wysiwyg&quot;:&#123;&quot;source&quot;:&quot;&quot;,&quot;isSource&quot;:false,&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;engine&quot;:&quot;source&quot;&#125;,&quot;html&quot;:&quot;&lt;div id=\&quot;footer_ad\&quot;&gt;\n&lt;script type=\&quot;text/javascript\&quot; src=\&quot;http://ap.lijit.com/www/delivery/fpi.js#?z=179477&amp;amp;u=pricematcherz&amp;amp;width=728&amp;amp;height=90\&quot;&gt;&lt;/script&gt;\n&lt;/div&gt;&quot;&#125;" data-block-type="23" id="block-312597da9d048dd3e766"><div class="sqs-block-content"><div id="footer_ad">
+<script type="text/javascript" src="/web/20121222030646js_/http://ap.lijit.com/www/delivery/fpi.js#?z=179477&amp;u=pricematcherz&amp;width=728&amp;height=90"></script>
+</div></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block" data-block-json="&#123;&quot;wysiwyg&quot;:&#123;&quot;engine&quot;:&quot;code&quot;,&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;isSource&quot;:false,&quot;source&quot;:&quot;&quot;&#125;,&quot;html&quot;:&quot;&lt;p class=\&quot;text-align-center\&quot;&gt;PriceMATCHERZ&amp;nbsp;\u00A9&amp;nbsp;2012 ; &lt;a href=\&quot;http://www.pricematcherz.com/disclosure\&quot;&gt;Disclosure and Privacy Policy&lt;/a&gt;&lt;/p&gt;&quot;,&quot;engine&quot;:&quot;visual&quot;&#125;" data-block-type="2" id="block-bfc8ee582125bb3f18ce"><div class="sqs-block-content"><p class="text-align-center">PriceMATCHERZ&nbsp;©&nbsp;2012 ; <a href="/web/20121222030646/http://www.pricematcherz.com/disclosure">Disclosure and Privacy Policy</a></p></div></div></div></div></div>
+					       
+	      </div>
+		  </footer>
+	    
+		</div>
+  </div>  
+
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 3:06:46 Dec 22, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:44:00 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

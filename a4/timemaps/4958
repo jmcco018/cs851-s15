@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:37:19 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/us-news/2015/jan/29/jesse-hagopian-pepper-sprayed-seattle-black-lives-matter-rally-sues?CMP=fb_us>;rel="original"
+,<http://archive.is/20150130182823/http://www.theguardian.com/us-news/2015/jan/29/jesse-hagopian-pepper-sprayed-seattle-black-lives-matter-rally-sues?CMP=fb_us>;rel="memento first"; datetime="Fri, 30 Jan 2015 18:28:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/us-news/2015/jan/29/jesse-hagopian-pepper-sprayed-seattle-black-lives-matter-rally-sues?CMP=fb_us>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/us-news/2015/jan/29/jesse-hagopian-pepper-sprayed-seattle-black-lives-matter-rally-sues?CMP=fb_us>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 18:28:23 GMT";until="Fri, 30 Jan 2015 18:28:23 GMT"

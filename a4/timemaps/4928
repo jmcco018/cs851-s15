@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:36:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://thefreethoughtproject.com/man-peacefully-walking-mlk-day-rally-blasted-pepper-spray-cop/>;rel="original"
+,<http://web.archive.org/web/20150315022114/http://thefreethoughtproject.com/man-peacefully-walking-mlk-day-rally-blasted-pepper-spray-cop/>;rel="memento first"; datetime="Sun, 15 Mar 2015 02:21:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://thefreethoughtproject.com/man-peacefully-walking-mlk-day-rally-blasted-pepper-spray-cop/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://thefreethoughtproject.com/man-peacefully-walking-mlk-day-rally-blasted-pepper-spray-cop/>;rel="self"; type="application/link-format"; from ="Sun, 15 Mar 2015 02:21:14 GMT";until="Sun, 15 Mar 2015 02:21:14 GMT"

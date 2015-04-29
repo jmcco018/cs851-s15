@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:23:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.towerbabel.com/library/1292/demesne-valley-of-mystery-book-2/>;rel="original"
+,<http://web.archive.org/web/20150222091229/http://towerbabel.com/library/1292/demesne-valley-of-mystery-book-2/>;rel="memento first"; datetime="Sun, 22 Feb 2015 09:12:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.towerbabel.com/library/1292/demesne-valley-of-mystery-book-2/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.towerbabel.com/library/1292/demesne-valley-of-mystery-book-2/>;rel="self"; type="application/link-format"; from ="Sun, 22 Feb 2015 09:12:29 GMT";until="Sun, 22 Feb 2015 09:12:29 GMT"

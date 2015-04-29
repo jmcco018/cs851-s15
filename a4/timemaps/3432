@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:06:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.charged.fm/blog/post/6362/greg-nicotero-talks-the-walking-dead-working-on-the-hateful-eight-film-and-more>;rel="original"
+,<http://web.archive.org/web/20150108213928/http://www.charged.fm/blog/post/6362/greg-nicotero-talks-the-walking-dead-working-on-the-hateful-eight-film-and-more>;rel="memento first"; datetime="Thu, 08 Jan 2015 21:39:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.charged.fm/blog/post/6362/greg-nicotero-talks-the-walking-dead-working-on-the-hateful-eight-film-and-more>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.charged.fm/blog/post/6362/greg-nicotero-talks-the-walking-dead-working-on-the-hateful-eight-film-and-more>;rel="self"; type="application/link-format"; from ="Thu, 08 Jan 2015 21:39:28 GMT";until="Thu, 08 Jan 2015 21:39:28 GMT"

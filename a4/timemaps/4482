@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:29:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.lmreviews.com/>;rel="original"
+,<http://web.archive.org/web/20130810224917/http://lmreviews.com>;rel="memento first"; datetime="Sat, 10 Aug 2013 22:49:17 GMT"
+,<http://web.archive.org/web/20130811013021/http://lmreviews.com>;rel="memento"; datetime="Sun, 11 Aug 2013 01:30:21 GMT"
+,<http://web.archive.org/web/20130811092118/http://www.lmreviews.com>;rel="memento"; datetime="Sun, 11 Aug 2013 09:21:18 GMT"
+,<http://web.archive.org/web/20140517222204/http://lmreviews.com/>;rel="memento"; datetime="Sat, 17 May 2014 22:22:04 GMT"
+,<http://web.archive.org/web/20141217225028/http://lmreviews.com/>;rel="memento"; datetime="Wed, 17 Dec 2014 22:50:28 GMT"
+,<http://web.archive.org/web/20141221032111/http://www.lmreviews.com/>;rel="memento last"; datetime="Sun, 21 Dec 2014 03:21:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.lmreviews.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.lmreviews.com/>;rel="self"; type="application/link-format"; from ="Sat, 10 Aug 2013 22:49:17 GMT";until="Sun, 21 Dec 2014 03:21:11 GMT"

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.engadget.com/2015/01/30/darpa-robot-videos/>;rel="original"
+,<http://archive.is/20150130192909/http://www.engadget.com/2015/01/30/darpa-robot-videos/>;rel="memento first"; datetime="Fri, 30 Jan 2015 19:29:09 GMT"
+,<http://web.archive.org/web/20150204043353/http://www.engadget.com/2015/01/30/darpa-robot-videos/>;rel="memento"; datetime="Wed, 04 Feb 2015 04:33:53 GMT"
+,<http://web.archive.org/web/20150207164313/http://www.engadget.com/2015/01/30/darpa-robot-videos/>;rel="memento"; datetime="Sat, 07 Feb 2015 16:43:13 GMT"
+,<http://web.archive.org/web/20150317053626/http://www.engadget.com/2015/01/30/darpa-robot-videos/>;rel="memento last"; datetime="Tue, 17 Mar 2015 05:36:26 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.engadget.com/2015/01/30/darpa-robot-videos/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.engadget.com/2015/01/30/darpa-robot-videos/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 19:29:09 GMT";until="Tue, 17 Mar 2015 05:36:26 GMT"

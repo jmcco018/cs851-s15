@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.weidknecht.com/2015/01/giveaway-300-lush-decor-gift-certificate.html>;rel="original"
+,<//wayback.archive-it.org/all/20150110080836/http://www.weidknecht.com/2015/01/giveaway-300-lush-decor-gift-certificate.html>;rel="memento first"; datetime="Sat, 10 Jan 2015 08:08:36 GMT"
+,<http://web.archive.org/web/20150421003810/http://www.weidknecht.com/2015/01/giveaway-300-lush-decor-gift-certificate.html>;rel="memento last"; datetime="Tue, 21 Apr 2015 00:38:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.weidknecht.com/2015/01/giveaway-300-lush-decor-gift-certificate.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.weidknecht.com/2015/01/giveaway-300-lush-decor-gift-certificate.html>;rel="self"; type="application/link-format"; from ="Sat, 10 Jan 2015 08:08:36 GMT";until="Tue, 21 Apr 2015 00:38:10 GMT"

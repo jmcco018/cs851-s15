@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:34 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://crystalseries.com>;rel="original"
+,<http://web.archive.org/web/20131210083834/http://crystalseries.com/>;rel="memento first"; datetime="Tue, 10 Dec 2013 08:38:34 GMT"
+,<http://web.archive.org/web/20140112162916/http://crystalseries.com/>;rel="memento"; datetime="Sun, 12 Jan 2014 16:29:16 GMT"
+,<http://web.archive.org/web/20140113205145/http://crystalseries.com/>;rel="memento"; datetime="Mon, 13 Jan 2014 20:51:45 GMT"
+,<http://web.archive.org/web/20140214172413/http://crystalseries.com/>;rel="memento"; datetime="Fri, 14 Feb 2014 17:24:13 GMT"
+,<http://web.archive.org/web/20140517061924/http://crystalseries.com/>;rel="memento"; datetime="Sat, 17 May 2014 06:19:24 GMT"
+,<http://web.archive.org/web/20140729195622/http://crystalseries.com/>;rel="memento"; datetime="Tue, 29 Jul 2014 19:56:22 GMT"
+,<http://web.archive.org/web/20141011124506/http://crystalseries.com/>;rel="memento"; datetime="Sat, 11 Oct 2014 12:45:06 GMT"
+,<http://web.archive.org/web/20141217014129/http://crystalseries.com/>;rel="memento"; datetime="Wed, 17 Dec 2014 01:41:29 GMT"
+,<http://web.archive.org/web/20141218085035/http://crystalseries.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 08:50:35 GMT"
+,<http://web.archive.org/web/20150107011136/http://crystalseries.com/>;rel="memento"; datetime="Wed, 07 Jan 2015 01:11:36 GMT"
+,<http://web.archive.org/web/20150108033043/http://crystalseries.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 03:30:43 GMT"
+,<http://web.archive.org/web/20150108050254/http://crystalseries.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 05:02:54 GMT"
+,<http://web.archive.org/web/20150108061808/http://crystalseries.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 06:18:08 GMT"
+,<http://web.archive.org/web/20150108132511/http://crystalseries.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 13:25:11 GMT"
+,<http://web.archive.org/web/20150109145546/http://crystalseries.com/>;rel="memento"; datetime="Fri, 09 Jan 2015 14:55:46 GMT"
+,<http://web.archive.org/web/20150111063526/http://crystalseries.com/>;rel="memento"; datetime="Sun, 11 Jan 2015 06:35:26 GMT"
+,<http://web.archive.org/web/20150120153254/http://crystalseries.com/>;rel="memento"; datetime="Tue, 20 Jan 2015 15:32:54 GMT"
+,<http://web.archive.org/web/20150123172152/http://crystalseries.com/>;rel="memento"; datetime="Fri, 23 Jan 2015 17:21:52 GMT"
+,<http://web.archive.org/web/20150320235922/http://crystalseries.com/>;rel="memento"; datetime="Fri, 20 Mar 2015 23:59:22 GMT"
+,<http://web.archive.org/web/20150403115542/http://crystalseries.com/>;rel="memento"; datetime="Fri, 03 Apr 2015 11:55:42 GMT"
+,<http://web.archive.org/web/20150406100512/http://crystalseries.com/>;rel="memento last"; datetime="Mon, 06 Apr 2015 10:05:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://crystalseries.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://crystalseries.com>;rel="self"; type="application/link-format"; from ="Tue, 10 Dec 2013 08:38:34 GMT";until="Mon, 06 Apr 2015 10:05:12 GMT"

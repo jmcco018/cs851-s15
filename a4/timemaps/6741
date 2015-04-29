@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:07:32 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dwell.com/houses-we-love/article/prefab-gets-makeover-danish-industrial-design>;rel="original"
+,<http://web.archive.org/web/20150214223124/http://www.dwell.com/houses-we-love/article/prefab-gets-makeover-danish-industrial-design>;rel="memento first"; datetime="Sat, 14 Feb 2015 22:31:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dwell.com/houses-we-love/article/prefab-gets-makeover-danish-industrial-design>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dwell.com/houses-we-love/article/prefab-gets-makeover-danish-industrial-design>;rel="self"; type="application/link-format"; from ="Sat, 14 Feb 2015 22:31:24 GMT";until="Sat, 14 Feb 2015 22:31:24 GMT"

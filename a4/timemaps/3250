@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:02:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://rotogrinders.com/blog-posts/pug-s-pugilists-ufc-183-thoughts-and-analysis-540237>;rel="original"
+,<http://web.archive.org/web/20150321025139/https://rotogrinders.com/blog-posts/pug-s-pugilists-ufc-183-thoughts-and-analysis-540237>;rel="memento first"; datetime="Sat, 21 Mar 2015 02:51:39 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://rotogrinders.com/blog-posts/pug-s-pugilists-ufc-183-thoughts-and-analysis-540237>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://rotogrinders.com/blog-posts/pug-s-pugilists-ufc-183-thoughts-and-analysis-540237>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 02:51:39 GMT";until="Sat, 21 Mar 2015 02:51:39 GMT"

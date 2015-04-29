@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:32:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.etsy.com/listing/110677845/ivory-and-light-beige-flowers-crochet>;rel="original"
+,<//wayback.archive-it.org/all/20150121212831/http://www.etsy.com/listing/110677845/ivory-and-light-beige-flowers-crochet>;rel="memento first"; datetime="Wed, 21 Jan 2015 21:28:31 GMT"
+,<//wayback.archive-it.org/all/20150121212840/https://www.etsy.com/listing/110677845/ivory-and-light-beige-flowers-crochet>;rel="memento last"; datetime="Wed, 21 Jan 2015 21:28:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.etsy.com/listing/110677845/ivory-and-light-beige-flowers-crochet>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.etsy.com/listing/110677845/ivory-and-light-beige-flowers-crochet>;rel="self"; type="application/link-format"; from ="Wed, 21 Jan 2015 21:28:31 GMT";until="Wed, 21 Jan 2015 21:28:40 GMT"

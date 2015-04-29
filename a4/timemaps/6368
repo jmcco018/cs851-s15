@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:00:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.squidoo.com/the-positive-and-negative-of-jailbreak-software>;rel="original"
+,<http://web.archive.org/web/20140126020528/http://www.squidoo.com/the-positive-and-negative-of-jailbreak-software>;rel="memento first"; datetime="Sun, 26 Jan 2014 02:05:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.squidoo.com/the-positive-and-negative-of-jailbreak-software>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.squidoo.com/the-positive-and-negative-of-jailbreak-software>;rel="self"; type="application/link-format"; from ="Sun, 26 Jan 2014 02:05:28 GMT";until="Sun, 26 Jan 2014 02:05:28 GMT"

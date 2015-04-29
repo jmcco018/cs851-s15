@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:49:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://breakingenergy.com/2015/01/29/energy-quote-of-the-day-do-not-grow-food-or-grass-crops-for-ethanol-or-diesel-or-cut-down-trees-for-electricity/>;rel="original"
+,<http://web.archive.org/web/20150327111240/http://breakingenergy.com/2015/01/29/energy-quote-of-the-day-do-not-grow-food-or-grass-crops-for-ethanol-or-diesel-or-cut-down-trees-for-electricity/>;rel="memento first"; datetime="Fri, 27 Mar 2015 11:12:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://breakingenergy.com/2015/01/29/energy-quote-of-the-day-do-not-grow-food-or-grass-crops-for-ethanol-or-diesel-or-cut-down-trees-for-electricity/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://breakingenergy.com/2015/01/29/energy-quote-of-the-day-do-not-grow-food-or-grass-crops-for-ethanol-or-diesel-or-cut-down-trees-for-electricity/>;rel="self"; type="application/link-format"; from ="Fri, 27 Mar 2015 11:12:40 GMT";until="Fri, 27 Mar 2015 11:12:40 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:40:19 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://jjordan.boutiquewindow.com/InStore>;rel="original"
+,<http://web.archive.org/web/20150112165705/http://jjordan.boutiquewindow.com/instore>;rel="memento first"; datetime="Mon, 12 Jan 2015 16:57:05 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://jjordan.boutiquewindow.com/InStore>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://jjordan.boutiquewindow.com/InStore>;rel="self"; type="application/link-format"; from ="Mon, 12 Jan 2015 16:57:05 GMT";until="Mon, 12 Jan 2015 16:57:05 GMT"

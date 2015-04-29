@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:54:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://sonyclassics.com/redarmy/dates.html>;rel="original"
+,<http://archive.is/20150122185055/http://sonyclassics.com/redarmy/dates.html>;rel="memento first"; datetime="Thu, 22 Jan 2015 18:50:55 GMT"
+,<http://web.archive.org/web/20150124001545/http://sonyclassics.com/redarmy/dates.html>;rel="memento"; datetime="Sat, 24 Jan 2015 00:15:45 GMT"
+,<http://web.archive.org/web/20150205111213/http://sonyclassics.com/redarmy/dates.html>;rel="memento"; datetime="Thu, 05 Feb 2015 11:12:13 GMT"
+,<http://web.archive.org/web/20150316201727/http://sonyclassics.com/redarmy/dates.html>;rel="memento last"; datetime="Mon, 16 Mar 2015 20:17:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://sonyclassics.com/redarmy/dates.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://sonyclassics.com/redarmy/dates.html>;rel="self"; type="application/link-format"; from ="Thu, 22 Jan 2015 18:50:55 GMT";until="Mon, 16 Mar 2015 20:17:27 GMT"

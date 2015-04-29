@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:20:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=ifttt-tw-20>;rel="original"
+,<http://www.webarchive.org.uk:80/wayback/archive/20080416094944/http://www.amazon.com/>;rel="memento first"; datetime="Wed, 16 Apr 2008 09:49:44 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081001130517/http://www.amazon.com/>;rel="memento"; datetime="Wed, 01 Oct 2008 13:05:17 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081009054600/http://www.amazon.com/>;rel="memento"; datetime="Thu, 09 Oct 2008 05:46:00 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081206104250/http://www.amazon.com/>;rel="memento"; datetime="Sat, 06 Dec 2008 10:42:50 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081215002918/http://www.amazon.com/>;rel="memento"; datetime="Mon, 15 Dec 2008 00:29:18 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081218233925/http://www.amazon.com/>;rel="memento"; datetime="Thu, 18 Dec 2008 23:39:25 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20090220192409/http://www.amazon.com/>;rel="memento"; datetime="Fri, 20 Feb 2009 19:24:09 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20090408220842/http://www.amazon.com/>;rel="memento"; datetime="Wed, 08 Apr 2009 22:08:42 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20090615122045/http://www.amazon.com/>;rel="memento"; datetime="Mon, 15 Jun 2009 12:20:45 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20090619074809/http://www.amazon.com/>;rel="memento"; datetime="Fri, 19 Jun 2009 07:48:09 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20090624001302/http://www.amazon.com/>;rel="memento"; datetime="Wed, 24 Jun 2009 00:13:02 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20101012150957/http://www.amazon.com/>;rel="memento last"; datetime="Tue, 12 Oct 2010 15:09:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=ifttt-tw-20>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=ifttt-tw-20>;rel="self"; type="application/link-format"; from ="Wed, 16 Apr 2008 09:49:44 GMT";until="Tue, 12 Oct 2010 15:09:57 GMT"

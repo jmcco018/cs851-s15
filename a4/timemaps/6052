@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:55:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.usatoday.com/story/cruiselog/2015/01/28/carnival-vista-cruise-brewery/22454399/>;rel="original"
+,<http://archive.is/20150129145843/http://www.usatoday.com/story/cruiselog/2015/01/28/carnival-vista-cruise-brewery/22454399/>;rel="memento first"; datetime="Thu, 29 Jan 2015 14:58:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.usatoday.com/story/cruiselog/2015/01/28/carnival-vista-cruise-brewery/22454399/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.usatoday.com/story/cruiselog/2015/01/28/carnival-vista-cruise-brewery/22454399/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 14:58:43 GMT";until="Thu, 29 Jan 2015 14:58:43 GMT"

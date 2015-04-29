@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:28:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.anspblog.org/extremely-rare-find/>;rel="original"
+,<http://web.archive.org/web/20150331183142/http://anspblog.org/extremely-rare-find/>;rel="memento first"; datetime="Tue, 31 Mar 2015 18:31:42 GMT"
+,<http://web.archive.org/web/20150331183153/http://www.anspblog.org/extremely-rare-find/>;rel="memento"; datetime="Tue, 31 Mar 2015 18:31:53 GMT"
+,<http://web.archive.org/web/20150402083647/http://www.anspblog.org/extremely-rare-find/>;rel="memento last"; datetime="Thu, 02 Apr 2015 08:36:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.anspblog.org/extremely-rare-find/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.anspblog.org/extremely-rare-find/>;rel="self"; type="application/link-format"; from ="Tue, 31 Mar 2015 18:31:42 GMT";until="Thu, 02 Apr 2015 08:36:47 GMT"

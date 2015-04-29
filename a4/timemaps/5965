@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:54:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.qnb.com/cs/Satellite/QNBcareers/en_QA/enCareers>;rel="original"
+,<http://web.archive.org/web/20150105191159/http://www.qnb.com/cs/Satellite/QNBcareers/en_QA/enCareers>;rel="memento first"; datetime="Mon, 05 Jan 2015 19:11:59 GMT"
+,<http://web.archive.org/web/20150318232737/http://qnb.com/cs/Satellite/QNBcareers/en_QA/enCareers>;rel="memento last"; datetime="Wed, 18 Mar 2015 23:27:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.qnb.com/cs/Satellite/QNBcareers/en_QA/enCareers>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.qnb.com/cs/Satellite/QNBcareers/en_QA/enCareers>;rel="self"; type="application/link-format"; from ="Mon, 05 Jan 2015 19:11:59 GMT";until="Wed, 18 Mar 2015 23:27:37 GMT"

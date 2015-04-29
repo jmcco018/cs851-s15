@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:54:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="original"
+,<http://archive.is/20150130032056/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento first"; datetime="Fri, 30 Jan 2015 03:20:56 GMT"
+,<http://archive.is/20150130111730/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento"; datetime="Fri, 30 Jan 2015 11:17:30 GMT"
+,<http://archive.is/20150130130750/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento"; datetime="Fri, 30 Jan 2015 13:07:50 GMT"
+,<http://archive.is/20150130150848/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento"; datetime="Fri, 30 Jan 2015 15:08:48 GMT"
+,<http://web.archive.org/web/20150130153205/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento"; datetime="Fri, 30 Jan 2015 15:32:05 GMT"
+,<http://web.archive.org/web/20150130153347/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento"; datetime="Fri, 30 Jan 2015 15:33:47 GMT"
+,<http://web.archive.org/web/20150130153402/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento"; datetime="Fri, 30 Jan 2015 15:34:02 GMT"
+,<http://archive.is/20150130164317/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento"; datetime="Fri, 30 Jan 2015 16:43:17 GMT"
+,<http://archive.is/20150130203235/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento"; datetime="Fri, 30 Jan 2015 20:32:35 GMT"
+,<http://web.archive.org/web/20150212063408/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento"; datetime="Thu, 12 Feb 2015 06:34:08 GMT"
+,<http://web.archive.org/web/20150405213246/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="memento last"; datetime="Sun, 05 Apr 2015 21:32:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://gawker.com/suge-knight-just-killed-a-guy-on-a-film-set-report-1682670439?rev=1422579104089&utm_campaign=socialflow_gawker_facebook&utm_source=gawker_facebook&utm_medium=socialflow>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 03:20:56 GMT";until="Sun, 05 Apr 2015 21:32:46 GMT"

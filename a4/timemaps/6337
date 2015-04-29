@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.3weekdiet.com/?hop=earlprince>;rel="original"
+,<http://web.archive.org/web/20140701234712/http://www.3weekdiet.com/?hop=earlprince>;rel="memento first"; datetime="Tue, 01 Jul 2014 23:47:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.3weekdiet.com/?hop=earlprince>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.3weekdiet.com/?hop=earlprince>;rel="self"; type="application/link-format"; from ="Tue, 01 Jul 2014 23:47:12 GMT";until="Tue, 01 Jul 2014 23:47:12 GMT"

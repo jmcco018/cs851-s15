@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:43:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://travel.nationalgeographic.com/travel/florida-land-and-sea/cycling-trails/>;rel="original"
+,<http://web.archive.org/web/20150327103847/http://travel.nationalgeographic.com/travel/florida-land-and-sea/cycling-trails/>;rel="memento first"; datetime="Fri, 27 Mar 2015 10:38:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://travel.nationalgeographic.com/travel/florida-land-and-sea/cycling-trails/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://travel.nationalgeographic.com/travel/florida-land-and-sea/cycling-trails/>;rel="self"; type="application/link-format"; from ="Fri, 27 Mar 2015 10:38:47 GMT";until="Fri, 27 Mar 2015 10:38:47 GMT"

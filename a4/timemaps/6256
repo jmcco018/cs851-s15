@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:58:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.freepatriotpost.com/sex-slave-claims-bill-clinton-visited-epsteins-orgy-island/>;rel="original"
+,<http://web.archive.org/web/20150404175718/http://www.freepatriotpost.com/sex-slave-claims-bill-clinton-visited-epsteins-orgy-island/>;rel="memento first"; datetime="Sat, 04 Apr 2015 17:57:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.freepatriotpost.com/sex-slave-claims-bill-clinton-visited-epsteins-orgy-island/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.freepatriotpost.com/sex-slave-claims-bill-clinton-visited-epsteins-orgy-island/>;rel="self"; type="application/link-format"; from ="Sat, 04 Apr 2015 17:57:18 GMT";until="Sat, 04 Apr 2015 17:57:18 GMT"

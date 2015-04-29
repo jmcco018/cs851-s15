@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://en.blogsderecetas.net/general-recipes/char-siu-with-scallion-potato-waffles-and-five-spice-apple-compound-butter>;rel="original"
+,<http://web.archive.org/web/20150405225204/http://en.blogsderecetas.net/general-recipes/char-siu-with-scallion-potato-waffles-and-five-spice-apple-compound-butter>;rel="memento first"; datetime="Sun, 05 Apr 2015 22:52:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://en.blogsderecetas.net/general-recipes/char-siu-with-scallion-potato-waffles-and-five-spice-apple-compound-butter>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://en.blogsderecetas.net/general-recipes/char-siu-with-scallion-potato-waffles-and-five-spice-apple-compound-butter>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 22:52:04 GMT";until="Sun, 05 Apr 2015 22:52:04 GMT"

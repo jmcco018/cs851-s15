@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cornerstonechurchliverpool.org/church-plant-residency>;rel="original"
+,<http://web.archive.org/web/20150204043847/http://cornerstonechurchliverpool.org/church-plant-residency>;rel="memento first"; datetime="Wed, 04 Feb 2015 04:38:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cornerstonechurchliverpool.org/church-plant-residency>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cornerstonechurchliverpool.org/church-plant-residency>;rel="self"; type="application/link-format"; from ="Wed, 04 Feb 2015 04:38:47 GMT";until="Wed, 04 Feb 2015 04:38:47 GMT"

@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<!--
+                             _ _
+ _ __   __ _ _ __   ___ _ __| (_)
+| '_ \ / _` | '_ \ / _ \ '__| | |
+| |_) | (_| | |_) |  __/ | _| | |
+| .__/ \__,_| .__/ \___|_|(_)_|_|
+|_|         |_|
+
+
+-->
+<html
+  lang="en"
+  class="no-js"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:paperli="http://paper.li/ns#">
+
+  <head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app3.us.archive.org";archive_analytics.values.server_ms=201;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+    <title>The #SMEcommunity Review</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="SmallRivers">
+        <meta content="The #SMEcommunity Review" property="og:title" />
+  <meta content="The #SMEcommunity Review, by #SMEcommunity: updated automatically with a curated selection of articles, blog posts, videos and photos." property="og:description" />
+  <meta content="paper_li:newspaper" property="og:type" />
+  <meta content="http://paper.li/SMEcommunity_ie/1311435271" property="og:url" />
+  <meta content="http://assets.paper.li/images/fb-post-logo-new.png" property="og:image" />
+  <meta content="paper.li" property="og:site_name" />
+  <meta content="362293833600" property="fb:app_id" />
+  
+  <meta content="en_US" property="og:locale" />
+
+      <meta content="en_US" property="og:locale:alternate" />
+      <meta content="de_DE" property="og:locale:alternate" />
+      <meta content="es_ES" property="og:locale:alternate" />
+      <meta content="fr_FR" property="og:locale:alternate" />
+      <meta content="ja_JP" property="og:locale:alternate" />
+      <meta content="pt_PT" property="og:locale:alternate" />
+
+
+    
+    <meta name="viewport" content="width=device-width, maximum-scale=1">
+    
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/web/20121122054706im_/http://paper.li/favicon.ico">
+
+    <link rel="image_src" href="http://assets.paper.li/images/fb-post-logo-new.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+
+    <script type="text/javascript">
+      paperli = window.paperli || {};
+      paperli.locale = 'en';
+      paperli.logged_in = false;
+      paperli.host = 'paper.li';
+      paperli.show_signup_requirements = true;
+
+        var _sf_startpt=(new Date()).getTime();
+    </script>
+
+    <link href="/web/20121122054706cs_/http://paper.li/assets/application-34cbe8c572bc5a2df1fd7ec12683c906.css" media="all" rel="stylesheet" type="text/css" />
+    
+      <link href="/web/20121122054706cs_/http://paper.li/assets/responsive-paper-286b1d03cad6588dfb97970fdd9894c7.css" media="all" rel="stylesheet" type="text/css" />
+  
+    
+    <!-- Shim to make HTML5 elements usable in older Internet Explorer versions -->
+    <!--[if lt IE 9]><script src="/assets/html5shiv-ed182c574f5cd9ea6e21f2e17b18d05f.js" type="text/javascript"></script><![endif]-->    
+
+    <!-- language -->
+    <script src="/web/20121122054706js_/http://paper.li/assets/i18n/en-747786cd9b8537cb4d65aac705ff5f03.js" type="text/javascript"></script>
+    <script src="/web/20121122054706js_/http://paper.li/assets/i18n/i18n-b787944cba10c8ad25ce77c48b2dc9be.js" type="text/javascript"></script>
+
+    <!-- vendor plugins -->
+    <script src="/web/20121122054706js_/http://paper.li/assets/vendor-03423c7d29b2e77b71d60e6d4b07efd8.js" type="text/javascript"></script>
+
+    <!-- configuration -->
+    <script src="/web/20121122054706js_/http://paper.li/assets/conf/app/default-0ea9cd2716e97451b0977fdf31b80946.js" type="text/javascript"></script>
+    <script src="/web/20121122054706js_/http://paper.li/assets/conf/featured_sources/main/en-3032f07a1d6216af1f9f05d2d5fc141f.js" type="text/javascript"></script>
+    <script src="/web/20121122054706js_/http://paper.li/assets/conf/search_sources_providers/default-799ea068dc6fed29ea78dddaa724c586.js" type="text/javascript"></script>
+
+    <!-- main inclusion -->
+    <script src="/web/20121122054706js_/http://paper.li/assets/app-3f1c089c8b10af438b03d0e708450b7f.js" type="text/javascript"></script>
+    
+    
+
+    <meta content="The #SMEcommunity Review, by #SMEcommunity: updated automatically with a curated selection of articles, blog posts, videos and photos." name="description" /><meta content="!" name="fragment" />
+  <style>
+    body{
+        background-image: url("/web/20121122054706im_/http://s3.amazonaws.com/assets.paper.li/backgrounds/360aa1e0-82f0-012f-25ad-12313d16b843/big/sme_25.png") !important;
+      
+        background-position: center top !important;
+      
+        background-color: #ffffff !important;
+      
+        background-repeat: repeat !important;
+      
+      background-attachment: fixed !important;
+      background: none;
+    }
+  
+  
+  
+  
+  </style>
+  <script src="/web/20121122054706js_/http://paper.li/assets/paper.view-ca9e651bdf716a98c35dc2b602586def.js" type="text/javascript"></script>
+  <script src="/web/20121122054706js_/http://s7.addthis.com/js/250/addthis_widget.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+    OA_zones = {"tpl1":8,"mpl3":7,"mpl2":6,"mpl1":5,"mp-Eco1":15};
+    OA_source = 'Business Finance';
+  </script>
+  <script src="/web/20121122054706js_/http://ads.paper.li/delivery/spcjs.php?id=4" type="text/javascript"></script>
+
+
+    <!-- plugin language initialization -->
+    
+    
+
+    <!-- twitter widget -->
+    <script src="/web/20121122054706js_/http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-15250297-1']);
+      _gaq.push(['_setDomainName', '.paper.li']);
+    _gaq.push(['_setAllowHash', 'false']);
+    _gaq.push(['_setAllowLinker', true]);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? '/web/20121122054706/https://ssl' : '/web/20121122054706/http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>    
+
+    <script type="text/javascript">
+  var _kmq = _kmq || [];
+  var _kmk = _kmk || 'd997781d79558f4f94fc7e450a0f115c5469ff94';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+      s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//i.kissmetrics.com/i.js');
+  _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+  
+</script>
+
+    <script type="text/javascript">
+    window.___gcfg = {
+        lang: 'en'
+      };
+      
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = '/web/20121122054706/https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();      
+</script>
+    <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'platform.linkedin.com/in.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();      
+</script>
+    <meta name="google-site-verification" content="wFFH4bLMmgYz1xXS9FCutijYdbwmOhKCr9z9uWMdslc" />
+    <script>
+  if (!window.paperli) {
+    window.paperli = {};
+  }
+
+  paperli.site_data = {"partner":"main","site":"main","identifier":"paper.li:main","shorthand":"main"};
+</script>
+  </head>
+  <body class="papers-show">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://paper.li/SMEcommunity_ie/1311435271";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "22";
+var displayMonth = "Nov";
+var displayYear = "2012";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://paper.li/SMEcommunity_ie/1311435271" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20121122054706" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20120812074822/http://paper.li/SMEcommunity_ie/1311435271" title="12 Aug 2012">AUG</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 5:47:06 Nov 22, 2012">NOV</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20130111100231/http://paper.li/SMEcommunity_ie/1311435271" title="11 Jan 2013"><strong>JAN</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20120812074822/http://paper.li/SMEcommunity_ie/1311435271" title="7:48:22 Aug 12, 2012"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 5:47:06 Nov 22, 2012">22</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20121123090339/http://paper.li/SMEcommunity_ie/1311435271" title="9:03:39 Nov 23, 2012"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20111112111828/http://paper.li/SMEcommunity_ie/1311435271" title="12 Nov 2011"><strong>2011</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 5:47:06 Nov 22, 2012">2012</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20140316155711/http://paper.li/SMEcommunity_ie/1311435271" title="16 Mar 2014"><strong>2014</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20121122054706*/http://paper.li/SMEcommunity_ie/1311435271" title="See a list of every capture for this URL">26 captures</a>
+           <div class="r" title="Timespan for captures of this URL">12 Oct 11 - 16 Apr 14</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000111_2012:10:313201110020_2013:-1:100001101100_2014:-1:003100000000_2015:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+    <div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : paperli.conf.facebook_app_id, // App ID
+      channelUrl : '//paper.dev/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+    $(document).trigger('fb.init');
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+
+    <!-- ALERTS AND NOTIFICATIONS AREA -->
+    <div id="alerts">
+      
+      
+<div id="alertbar" class="m-warning">
+  <i class="tm-icon">&nbsp;</i>
+  <div class="alertbar-message">
+    <p>You are using an old version of &lt;strong&gt;Internet Explorer&lt;/strong&gt;. To view Paper.li correctly please &lt;a href=&quot;http://www.microsoft.com/internetexplorer&quot; target=&quot;_blank&quot;&gt;upgrade&lt;/a&gt; or switch to a another browser.</p>
+  </div>
+  <a class="alertbar-close" href="#"></a>
+</div>
+      <noscript>
+   <div id="alertbar" class="m-warning" style="display:block">
+     <div class="alertbar-message">
+       <p style="font-size: 16px;">Please enable Javascript to correctly display the contents on Paper.li</p>
+     </div>
+   </div>
+</noscript>
+    </div>
+
+    <!-- WEBSITE MAIN WRAPPER -->
+    <div id="wrapper" class="page-frame">
+
+      <!-- Main header -->
+      <div id="header" class="page-row">
+        <div class="navbar navbar-inverse navbar-static-top navbar-main">
+  <div class="navbar-inner">
+    <div class="container-fluid">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".subnav-collapse-main">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+      <a class="brand brand-logo" href="/web/20121122054706/http://paper.li/"><img src="/web/20121122054706im_/http://paper.li/assets/nav-bar-logo.png" width="121" height="40" border="0" alt="Paper.li"></a>
+      
+          <form accept-charset="UTF-8" action="/web/20121122054706/http://paper.li/newsstand" class="navbar-search" id="paper_search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+            <input class="search-query" id="name" name="q" placeholder="Find papers or people" type="text" />
+            <button type="submit" class="search-query-button"><i class="icon16-magnifier"></i></button>
+</form>        
+        <ul class="nav nav-main-actions pull-right">
+          <li><a href="#" class="rpxnow" data-redirect-to="/~/papers/new"><i class="icon-plus icon-white">&nbsp;</i><span class="nav-text"> Start your paper</span></a></li>
+          <li><a href="/web/20121122054706/http://paper.li/newsstand"><i class="icon-th-list icon-white">&nbsp;</i><span class="nav-text"> Newsstand</span></a></li>
+          <li><a href="#" class="rpxnow"><i class="icon-user icon-white">&nbsp;</i> sign up / log in</a></li>
+        </ul>
+
+
+    </div>
+  </div><!-- /navbar-inner -->
+</div>
+
+
+      </div>
+
+      <!-- Sticky container for flash messages -->
+      <div id="sticky-container" class="page-row" data-spy="affix" data-offset-top="46">
+        
+        <div id="flash-message-js"></div>
+      </div>
+
+      <!-- Main content -->
+      <div id="main" class="page-row page-expand">
+        
+
+
+
+
+
+<div id="paper"></div>
+
+      </div>
+      
+      <!-- MAIN FOOTER -->
+      <div id="footer" class="page-row">
+        <div class="footer-inner">
+  <div class="container-fluid">
+    
+    <div class="row-fluid">
+      
+      <div class="span9">
+        
+        <ul class="footer-menu unstyled">
+          <li><a href="/web/20121122054706/http://paper.li/stop-mentions.html">Stop mentions</a></li>
+          <li><a href="/web/20121122054706/http://paper.li/introduction.html">About Us</a></li>
+          <li><a href="/web/20121122054706/http://community.paper.li/" target="_blank">Community</a></li>
+          <li><a href="/web/20121122054706/http://blog.paper.li/" target="_blank">Blog</a></li>
+          <li><a href="/web/20121122054706/http://support.paper.li/" target="_blank">Help</a></li>
+          <li><a href="/web/20121122054706/http://paper.li/terms.html">Terms</a></li>
+          <li><a href="/web/20121122054706/http://paper.li/privacy.html">Privacy</a> </li>
+        </ul>
+        
+        <div class="footer-info">
+          <p class="copyrights"><a href="/web/20121122054706/http://paper.li/introduction.html" target="_blank">&copy; SmallRivers 2012</a></p>
+          <p>Paper.li is not affiliated, sponsored or endorsed by Twitter or Facebook.</p>
+        </div>
+        
+        
+        
+      </div>
+      
+      <div class="span3">
+        <ul class="footer-lang pull-right unstyled">
+          <li><a href="/web/20121122054706/http://paper.li/SMEcommunity_ie/1311435271?lang=en" class="current">EN</a></li>
+          <li><a href="/web/20121122054706/http://paper.li/SMEcommunity_ie/1311435271?lang=de" class="">DE</a></li>
+          <li><a href="/web/20121122054706/http://paper.li/SMEcommunity_ie/1311435271?lang=fr" class="">FR</a></li>
+          <li><a href="/web/20121122054706/http://paper.li/SMEcommunity_ie/1311435271?lang=es" class="">ES</a></li>
+          <li><a href="/web/20121122054706/http://paper.li/SMEcommunity_ie/1311435271?lang=pt" class="">PT</a></li>
+          <li><a href="/web/20121122054706/http://paper.li/SMEcommunity_ie/1311435271?lang=ja" class="">日本語</a></li>
+        </ul>
+      </div>
+      
+    </div>
+    
+    <div class="row-fluid">
+      <div class="span12">
+        <ul class="footer-icons unstyled pull-right">
+          <li><a href="/web/20121122054706/http://twitter.com/smallrivers" target="_blank"><i class="icon16-twitter icon16-white">&nbsp;</i></a></li>
+          <li><a href="/web/20121122054706/http://www.facebook.com/pages/smallrivers/274789310110" target="_blank"><i class="icon16-facebook icon16-white">&nbsp;</i></a></li>
+          <li><a href="/web/20121122054706/http://plus.google.com/u/0/113796188089361585143" target="_blank"><i class="icon16-googleplus icon16-white">&nbsp;</i></a></li>
+          <li><a href="/web/20121122054706/http://blog.paper.li/feeds/posts/default?alt=rss" target="_blank"><i class="icon16-rss icon16-white">&nbsp;</i></a></li>
+        </ul>
+      </div>
+    </div>
+    
+  </div>
+</div>
+      </div>
+
+    </div>
+    
+    
+
+    <!-- Specific page javascripts -->
+    <script type="text/javascript">
+  var options = {"paper":{"id":"360aa1e0-82f0-012f-25ad-12313d16b843","path":"/SMEcommunity_ie/1311435271","title":"The #SMEcommunity Review","styled_title":"<sup><em>The</em></sup> <strong>#SMEcommunity</strong> <sup><em>Review</em></sup>","description":"","name":"#SMEcommunity","publisher_id":"f1a3e7b0-82e7-012f-25ad-12313d16b843","featured_for":null,"created_at":"2011/07/23 15:34:31 +0000","next_edition":"2012/11/22 15:34:31 +0000"},"logo":null,"ads":{},"twitter_widget":{"type":"profile","user":"SMEcommunity_ie"},"edition":{"id":"d603cdb0-33ef-11e2-a530-0025907212f4","published_at":"2012/11/21 15:26:35 +0000"}};
+
+  $(document).ready(function() {
+    $('#paper').paper(options);
+  });
+</script>
+  <script>
+    $(document).ready(function(){
+      if ($.browser.msie && parseInt($.browser.version) <= 7){
+        $('.m-warning').slideDown();
+        
+        $('.m-warning .alertbar-close').click(function(){
+          $('#alertbar').slideUp();
+        });
+      };        
+      });
+  </script>
+
+
+      <script type="text/javascript" src="/web/20121122054706js_/http://paper.li/assets/analytics.js"></script>
+  <script type="text/javascript">
+  try {
+    var srTracker = Paperli.Tracker.getTracker("/~api/analytics");
+  } catch( err ) {}
+  </script>
+  </body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 5:47:06 Nov 22, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:46:31 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

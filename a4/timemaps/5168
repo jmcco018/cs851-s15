@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:40:51 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.1067litefm.com/listen/>;rel="original"
+,<http://web.archive.org/web/20131231113501/http://www.1067litefm.com/listen>;rel="memento first"; datetime="Tue, 31 Dec 2013 11:35:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.1067litefm.com/listen/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.1067litefm.com/listen/>;rel="self"; type="application/link-format"; from ="Tue, 31 Dec 2013 11:35:01 GMT";until="Tue, 31 Dec 2013 11:35:01 GMT"

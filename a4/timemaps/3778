@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://greenwaytraps.com/foodBeetles.html>;rel="original"
+,<http://web.archive.org/web/20131025051247/http://greenwaytraps.com/foodBeetles.html>;rel="memento first"; datetime="Fri, 25 Oct 2013 05:12:47 GMT"
+,<http://web.archive.org/web/20141201010423/http://greenwaytraps.com/foodBeetles.html>;rel="memento"; datetime="Mon, 01 Dec 2014 01:04:23 GMT"
+,<http://web.archive.org/web/20150218061423/http://greenwaytraps.com/foodBeetles.html>;rel="memento last"; datetime="Wed, 18 Feb 2015 06:14:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://greenwaytraps.com/foodBeetles.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://greenwaytraps.com/foodBeetles.html>;rel="self"; type="application/link-format"; from ="Fri, 25 Oct 2013 05:12:47 GMT";until="Wed, 18 Feb 2015 06:14:23 GMT"

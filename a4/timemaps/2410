@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:49:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.styrk.com/posts/morning-briefing>;rel="original"
+,<http://web.archive.org/web/20150211130922/http://www.styrk.com/posts/morning-briefing>;rel="memento first"; datetime="Wed, 11 Feb 2015 13:09:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.styrk.com/posts/morning-briefing>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.styrk.com/posts/morning-briefing>;rel="self"; type="application/link-format"; from ="Wed, 11 Feb 2015 13:09:22 GMT";until="Wed, 11 Feb 2015 13:09:22 GMT"

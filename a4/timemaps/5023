@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:38:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.etsy.com/listing/190497702/custom-embroidered-decorative-lumbar?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share>;rel="original"
+,<//wayback.archive-it.org/all/20150113045314/https://www.etsy.com/listing/190497702/custom-embroidered-decorative-lumbar?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share>;rel="memento first"; datetime="Tue, 13 Jan 2015 04:53:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.etsy.com/listing/190497702/custom-embroidered-decorative-lumbar?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.etsy.com/listing/190497702/custom-embroidered-decorative-lumbar?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share>;rel="self"; type="application/link-format"; from ="Tue, 13 Jan 2015 04:53:14 GMT";until="Tue, 13 Jan 2015 04:53:14 GMT"

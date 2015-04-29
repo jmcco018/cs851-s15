@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:19:02 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.berkeleyside.com/2015/01/28/fighter-jet-over-berkeley-was-nod-to-cal-grad-student-navy-is-investigating/>;rel="original"
+,<http://archive.is/20150129040432/http://www.berkeleyside.com/2015/01/28/fighter-jet-over-berkeley-was-nod-to-cal-grad-student-navy-is-investigating/>;rel="memento first"; datetime="Thu, 29 Jan 2015 04:04:32 GMT"
+,<http://web.archive.org/web/20150420013107/http://www.berkeleyside.com/2015/01/28/fighter-jet-over-berkeley-was-nod-to-cal-grad-student-navy-is-investigating/>;rel="memento last"; datetime="Mon, 20 Apr 2015 01:31:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.berkeleyside.com/2015/01/28/fighter-jet-over-berkeley-was-nod-to-cal-grad-student-navy-is-investigating/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.berkeleyside.com/2015/01/28/fighter-jet-over-berkeley-was-nod-to-cal-grad-student-navy-is-investigating/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 04:04:32 GMT";until="Mon, 20 Apr 2015 01:31:07 GMT"

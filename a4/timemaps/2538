@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.biblegateway.com/passage/?search=Psalm%20121%20&version=NIV>;rel="original"
+,<http://www.webarchive.org.uk:80/wayback/archive/20101012105014/http://www.biblegateway.com/passage/>;rel="memento first"; datetime="Tue, 12 Oct 2010 10:50:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.biblegateway.com/passage/?search=Psalm%20121%20&version=NIV>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.biblegateway.com/passage/?search=Psalm%20121%20&version=NIV>;rel="self"; type="application/link-format"; from ="Tue, 12 Oct 2010 10:50:14 GMT";until="Tue, 12 Oct 2010 10:50:14 GMT"

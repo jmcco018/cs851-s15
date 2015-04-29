@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.wdrb.com/story/27981051/mascot-bowl-viii-foam-vs-fur-spectacular-on-the-gridiron>;rel="original"
+,<http://web.archive.org/web/20150321201932/http://www.wdrb.com/story/27981051/mascot-bowl-viii-foam-vs-fur-spectacular-on-the-gridiron>;rel="memento first"; datetime="Sat, 21 Mar 2015 20:19:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.wdrb.com/story/27981051/mascot-bowl-viii-foam-vs-fur-spectacular-on-the-gridiron>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.wdrb.com/story/27981051/mascot-bowl-viii-foam-vs-fur-spectacular-on-the-gridiron>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 20:19:32 GMT";until="Sat, 21 Mar 2015 20:19:32 GMT"

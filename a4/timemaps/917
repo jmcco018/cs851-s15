@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://geekinfinite.com/news/2015/01/nfl-players-who-play-before-the-age-of-12-are-at-a-risk-of-brain-impairment/>;rel="original"
+,<http://web.archive.org/web/20150318101221/http://geekinfinite.com/news/2015/01/nfl-players-who-play-before-the-age-of-12-are-at-a-risk-of-brain-impairment/>;rel="memento first"; datetime="Wed, 18 Mar 2015 10:12:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://geekinfinite.com/news/2015/01/nfl-players-who-play-before-the-age-of-12-are-at-a-risk-of-brain-impairment/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://geekinfinite.com/news/2015/01/nfl-players-who-play-before-the-age-of-12-are-at-a-risk-of-brain-impairment/>;rel="self"; type="application/link-format"; from ="Wed, 18 Mar 2015 10:12:21 GMT";until="Wed, 18 Mar 2015 10:12:21 GMT"

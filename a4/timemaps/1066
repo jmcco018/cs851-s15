@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:27:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://talkingpointsmemo.com/dc/obama-doj-supreme-court-brief-king-burwell>;rel="original"
+,<http://web.archive.org/web/20150129065336/http://talkingpointsmemo.com/dc/obama-doj-supreme-court-brief-king-burwell>;rel="memento first"; datetime="Thu, 29 Jan 2015 06:53:36 GMT"
+,<http://web.archive.org/web/20150309222448/http://talkingpointsmemo.com/dc/obama-doj-supreme-court-brief-king-burwell>;rel="memento"; datetime="Mon, 09 Mar 2015 22:24:48 GMT"
+,<http://web.archive.org/web/20150327062326/http://talkingpointsmemo.com/dc/obama-doj-supreme-court-brief-king-burwell>;rel="memento last"; datetime="Fri, 27 Mar 2015 06:23:26 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://talkingpointsmemo.com/dc/obama-doj-supreme-court-brief-king-burwell>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://talkingpointsmemo.com/dc/obama-doj-supreme-court-brief-king-burwell>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 06:53:36 GMT";until="Fri, 27 Mar 2015 06:23:26 GMT"

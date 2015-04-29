@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:42:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.huffingtonpost.com/2015/01/29/kill-the-k-cup_n_6574146.html>;rel="original"
+,<http://archive.is/20150130020746/http://www.huffingtonpost.com/2015/01/29/kill-the-k-cup_n_6574146.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 02:07:46 GMT"
+,<http://web.archive.org/web/20150130173318/http://www.huffingtonpost.com/2015/01/29/kill-the-k-cup_n_6574146.html>;rel="memento"; datetime="Fri, 30 Jan 2015 17:33:18 GMT"
+,<http://web.archive.org/web/20150130192444/http://www.huffingtonpost.com/2015/01/29/kill-the-k-cup_n_6574146.html>;rel="memento"; datetime="Fri, 30 Jan 2015 19:24:44 GMT"
+,<http://web.archive.org/web/20150131175559/http://www.huffingtonpost.com/2015/01/29/kill-the-k-cup_n_6574146.html>;rel="memento"; datetime="Sat, 31 Jan 2015 17:55:59 GMT"
+,<http://web.archive.org/web/20150131234355/http://www.huffingtonpost.com/2015/01/29/kill-the-k-cup_n_6574146.html>;rel="memento"; datetime="Sat, 31 Jan 2015 23:43:55 GMT"
+,<http://web.archive.org/web/20150413170955/http://www.huffingtonpost.com/2015/01/29/kill-the-k-cup_n_6574146.html>;rel="memento last"; datetime="Mon, 13 Apr 2015 17:09:55 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.huffingtonpost.com/2015/01/29/kill-the-k-cup_n_6574146.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.huffingtonpost.com/2015/01/29/kill-the-k-cup_n_6574146.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 02:07:46 GMT";until="Mon, 13 Apr 2015 17:09:55 GMT"

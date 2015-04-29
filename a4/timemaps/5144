@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:40:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.boyohboyohboycrafts.com/2013/06/diy-pocket-square-tutorial-3-ways.html>;rel="original"
+,<http://web.archive.org/web/20130820235830/http://www.boyohboyohboycrafts.com/2013/06/diy-pocket-square-tutorial-3-ways.html>;rel="memento first"; datetime="Tue, 20 Aug 2013 23:58:30 GMT"
+,<http://web.archive.org/web/20140108162945/http://www.boyohboyohboycrafts.com/2013/06/diy-pocket-square-tutorial-3-ways.html>;rel="memento"; datetime="Wed, 08 Jan 2014 16:29:45 GMT"
+,<http://web.archive.org/web/20140129091816/http://www.boyohboyohboycrafts.com/2013/06/diy-pocket-square-tutorial-3-ways.html>;rel="memento"; datetime="Wed, 29 Jan 2014 09:18:16 GMT"
+,<http://web.archive.org/web/20140415221237/http://www.boyohboyohboycrafts.com/2013/06/diy-pocket-square-tutorial-3-ways.html?>;rel="memento"; datetime="Tue, 15 Apr 2014 22:12:37 GMT"
+,<http://web.archive.org/web/20150415103725/http://www.boyohboyohboycrafts.com/2013/06/diy-pocket-square-tutorial-3-ways.html>;rel="memento last"; datetime="Wed, 15 Apr 2015 10:37:25 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.boyohboyohboycrafts.com/2013/06/diy-pocket-square-tutorial-3-ways.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.boyohboyohboycrafts.com/2013/06/diy-pocket-square-tutorial-3-ways.html>;rel="self"; type="application/link-format"; from ="Tue, 20 Aug 2013 23:58:30 GMT";until="Wed, 15 Apr 2015 10:37:25 GMT"

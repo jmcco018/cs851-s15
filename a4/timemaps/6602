@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://mancave.cbslocal.com/2015/01/29/violence-will-spiral-out-of-control-in-grayson-7/>;rel="original"
+,<http://archive.is/20150130022219/http://mancave.cbslocal.com/2015/01/29/violence-will-spiral-out-of-control-in-grayson-7/>;rel="memento first"; datetime="Fri, 30 Jan 2015 02:22:19 GMT"
+,<http://web.archive.org/web/20150406083629/http://mancave.cbslocal.com/2015/01/29/violence-will-spiral-out-of-control-in-grayson-7>;rel="memento last"; datetime="Mon, 06 Apr 2015 08:36:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://mancave.cbslocal.com/2015/01/29/violence-will-spiral-out-of-control-in-grayson-7/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://mancave.cbslocal.com/2015/01/29/violence-will-spiral-out-of-control-in-grayson-7/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 02:22:19 GMT";until="Mon, 06 Apr 2015 08:36:29 GMT"

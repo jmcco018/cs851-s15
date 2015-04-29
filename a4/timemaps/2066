@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:43:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.boodigo.tokyo/>;rel="original"
+,<http://web.archive.org/web/20150316161149/http://www.boodigo.tokyo/>;rel="memento first"; datetime="Mon, 16 Mar 2015 16:11:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.boodigo.tokyo/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.boodigo.tokyo/>;rel="self"; type="application/link-format"; from ="Mon, 16 Mar 2015 16:11:49 GMT";until="Mon, 16 Mar 2015 16:11:49 GMT"

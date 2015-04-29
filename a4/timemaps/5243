@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:42:09 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.pricematcherz.com/coupons>;rel="original"
+,<http://web.archive.org/web/20121219192451/http://www.pricematcherz.com/coupons>;rel="memento first"; datetime="Wed, 19 Dec 2012 19:24:51 GMT"
+,<http://web.archive.org/web/20121222030646/http://www.pricematcherz.com/coupons/>;rel="memento"; datetime="Sat, 22 Dec 2012 03:06:46 GMT"
+,<http://web.archive.org/web/20130122002718/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Tue, 22 Jan 2013 00:27:18 GMT"
+,<http://web.archive.org/web/20130425050328/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Thu, 25 Apr 2013 05:03:28 GMT"
+,<http://web.archive.org/web/20130526092543/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Sun, 26 May 2013 09:25:43 GMT"
+,<http://web.archive.org/web/20130702165429/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Tue, 02 Jul 2013 16:54:29 GMT"
+,<http://web.archive.org/web/20130804021611/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Sun, 04 Aug 2013 02:16:11 GMT"
+,<http://web.archive.org/web/20130826204746/http://www.pricematcherz.com/COUPONS>;rel="memento"; datetime="Mon, 26 Aug 2013 20:47:46 GMT"
+,<http://web.archive.org/web/20130904155028/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Wed, 04 Sep 2013 15:50:28 GMT"
+,<http://web.archive.org/web/20131001012714/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Tue, 01 Oct 2013 01:27:14 GMT"
+,<http://web.archive.org/web/20131006234750/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Sun, 06 Oct 2013 23:47:50 GMT"
+,<http://web.archive.org/web/20131106185441/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Wed, 06 Nov 2013 18:54:41 GMT"
+,<http://web.archive.org/web/20131208113606/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Sun, 08 Dec 2013 11:36:06 GMT"
+,<http://web.archive.org/web/20140108212003/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Wed, 08 Jan 2014 21:20:03 GMT"
+,<http://web.archive.org/web/20140209055346/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Sun, 09 Feb 2014 05:53:46 GMT"
+,<http://web.archive.org/web/20140331094835/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Mon, 31 Mar 2014 09:48:35 GMT"
+,<http://web.archive.org/web/20140502174259/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Fri, 02 May 2014 17:42:59 GMT"
+,<http://web.archive.org/web/20140605051612/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Thu, 05 Jun 2014 05:16:12 GMT"
+,<http://web.archive.org/web/20140706090429/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Sun, 06 Jul 2014 09:04:29 GMT"
+,<http://web.archive.org/web/20140806191146/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Wed, 06 Aug 2014 19:11:46 GMT"
+,<http://web.archive.org/web/20150317152619/http://www.pricematcherz.com/coupons>;rel="memento"; datetime="Tue, 17 Mar 2015 15:26:19 GMT"
+,<http://web.archive.org/web/20150322164223/http://www.pricematcherz.com/coupons/>;rel="memento last"; datetime="Sun, 22 Mar 2015 16:42:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.pricematcherz.com/coupons>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.pricematcherz.com/coupons>;rel="self"; type="application/link-format"; from ="Wed, 19 Dec 2012 19:24:51 GMT";until="Sun, 22 Mar 2015 16:42:23 GMT"

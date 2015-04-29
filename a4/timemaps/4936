@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:37:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.vocativ.com/culture/society/black-pepper-sprayed-mlk-rally/>;rel="original"
+,<//wayback.archive-it.org/all/20150205072919/http://www.vocativ.com/culture/society/black-pepper-sprayed-mlk-rally/>;rel="memento first"; datetime="Thu, 05 Feb 2015 07:29:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.vocativ.com/culture/society/black-pepper-sprayed-mlk-rally/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.vocativ.com/culture/society/black-pepper-sprayed-mlk-rally/>;rel="self"; type="application/link-format"; from ="Thu, 05 Feb 2015 07:29:19 GMT";until="Thu, 05 Feb 2015 07:29:19 GMT"

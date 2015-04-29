@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:19:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://russia-insider.com/en/military/2014/11/04/02-05-14pm/latest_russian_fighter_jet_blows_americas_away>;rel="original"
+,<http://archive.is/20141126224044/http://russia-insider.com/en/military/2014/11/04/02-05-14pm/latest_russian_fighter_jet_blows_americas_away>;rel="memento first"; datetime="Wed, 26 Nov 2014 22:40:44 GMT"
+,<http://web.archive.org/web/20150207131843/http://russia-insider.com/en/military/2014/11/04/02-05-14pm/latest_russian_fighter_jet_blows_americas_away>;rel="memento"; datetime="Sat, 07 Feb 2015 13:18:43 GMT"
+,<http://web.archive.org/web/20150209155356/http://russia-insider.com/en/military/2014/11/04/02-05-14pm/latest_russian_fighter_jet_blows_americas_away>;rel="memento"; datetime="Mon, 09 Feb 2015 15:53:56 GMT"
+,<http://web.archive.org/web/20150315050454/http://russia-insider.com/en/military/2014/11/04/02-05-14pm/latest_russian_fighter_jet_blows_americas_away>;rel="memento last"; datetime="Sun, 15 Mar 2015 05:04:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://russia-insider.com/en/military/2014/11/04/02-05-14pm/latest_russian_fighter_jet_blows_americas_away>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://russia-insider.com/en/military/2014/11/04/02-05-14pm/latest_russian_fighter_jet_blows_americas_away>;rel="self"; type="application/link-format"; from ="Wed, 26 Nov 2014 22:40:44 GMT";until="Sun, 15 Mar 2015 05:04:54 GMT"

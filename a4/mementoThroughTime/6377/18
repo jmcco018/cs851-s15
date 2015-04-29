@@ -1,0 +1,564 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app4.us.archive.org";archive_analytics.values.server_ms=277;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><link href="css/basic.css" rel="stylesheet" type="text/css" /><link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="js/lib.js" type="text/javascript"></script>
+    <script src="js/jquery.mobile-1.3.1.min.js" type="text/javascript"></script>
+    <script src="js/inet.js" type="text/javascript"></script>
+    <base href='/web/20141217174512/http://www.inetwebsystems.com/' />
+<link rel="shortcut icon" href="img/Inet.ps.ico" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta property="og:image" content="http://en.inet.ps/img/face.png" />
+<link rel="apple-touch-icon" href="img/icon-iphone.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="img/icon-ipad.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="img/icon-iphone4.png" />
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-34855977-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? '/web/20141217174512/https://ssl' : '/web/20141217174512/http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.inetwebsystems.com/";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "17";
+var displayMonth = "Dec";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.inetwebsystems.com/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20141217174512" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20140924234412/http://www.inetwebsystems.com/" title="24 Sep 2014">SEP</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 17:45:12 Dec 17, 2014">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20150121100627/http://www.inetwebsystems.com/" title="21 Jan 2015"><strong>JAN</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20141217142414/http://www.inetwebsystems.com/" title="14:24:14 Dec 17, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 17:45:12 Dec 17, 2014">17</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20141220204758/http://www.inetwebsystems.com/" title="20:47:58 Dec 20, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130930013304/http://www.inetwebsystems.com/" title="30 Sep 2013"><strong>2013</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 17:45:12 Dec 17, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2015
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20141217174512*/http://www.inetwebsystems.com/" title="See a list of every capture for this URL">29 captures</a>
+           <div class="r" title="Timespan for captures of this URL">21 Sep 12 - 6 Apr 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000001110_2013:-1:000001001000_2014:11:10001000200b_2015:-1:331200000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<noscript>
+    <meta http-equiv="refresh" content="0;url=Nojavascript.aspx">
+</noscript>
+<meta name="Description" content=" 
+Engineering company Specialized in web programming field works since 2008, It&#39;s have a group of professional specialists and high level of Engineers, geographical working in Saudi Arabia and Kuwait as well as the work of a few projects in most countries of the world
+" /><meta name="Keywords" content=" 
+Engineering company Specialized in web programming field works since 2008, It&#39;s have a group of professional specialists and high level of Engineers, geographical working in Saudi Arabia and Kuwait as well as the work of a few projects in most countries of the world
+" /><meta name="Title" content="InetWebSystem" /><title>
+	 Home Page | InetWebSystem  
+</title></head>
+<body>
+    <form name="aspnetForm" method="post" action="" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU3MDU2NzM0NQ8UKwADZGdkFgJmD2QWBAIBD2QWAgIFD2QWAmYPFgIeBFRleHQFLTxiYXNlIGhyZWY9J2h0dHA6Ly93d3cuaW5ldHdlYnN5c3RlbXMuY29tJyAvPmQCAw9kFgQCBA9kFgICAQ8WAh4EaHJlZgUSaHR0cDovL2FyLmluZXQucHMvZAIGD2QWDAIBDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWAmYPFQHbAVByZXBhcmUgZnVsbCBzdHVkaWVzICYgY29tcGxldGUgc3R1ZGllcyBmb3IgYnVzaW5lc3MgYmVmb3JlIGRvIHRoaXMgc3R1ZGllcyAsIHNlYXJjaCBhbmQgZGlzY3VzcyB0aGUgbGF0ZXN0IGZpbmRpbmdzIG9mIHNjaWVuY2UgaW4gaGlzIGFyZWEgdG8gc3RhcnQgZnJvbSB3aGVyZSBvdGhlcnMgaGF2ZSBlbmRlZCB3aXRob3V0IHRoZSByZXR1cm4gb2YgIm1ha2luZyB0aGUgd2hlZWwiLmQCAw8WAh8CAgEWAmYPZBYCZg8VAd4BQ292ZXIgNyBsYW5ndWFnZXMgd29ybGR3aWRlIHRocm91Z2ggYSBzcGVjaWFsaXplZCBsZWdhbCBzdGFmZiwgYW5kIHBhcnRuZXJzaGlwcyBmcm9tIG91dHNpZGUgdGhlIGZyYW1ld29yayBvZiB0aGUgdGVhbSBleHRlbmRzIHRvIGNvdmVyIG1vcmUgdGhhbiAyMCBsYW5ndWFnZXMgYXJvdW5kIHRoZSB3b3JsZCwgZmlyc3QgYnkgdGhlIOKAnGNsYXNzaWNhbCBvciBGb3JtYWwgQXJhYmlj4oCdZAIFDxYCHwICARYCZg9kFgJmDxUBkAFBIG1peCBvZiBtYXJrZXRpbmcgdG9vbHMgdGhhdCBjb21iaW5lIHRyYWRpdGlvbmFsIGFuZCBpbm5vdmF0aXZlLCBhbmQgcGFydG5lcnNoaXBzIHRvIGFubm91bmNlIHRoZSBmaWVsZCBjb3ZlcmluZyBtb3N0IG1ham9yIGNpdGllcyBpbiB0aGUgd29ybGRkAgcPFgIfAgIIFhBmD2QWAmYPFQMRd3d3Lm1hc3Rlci5jb20ubHkOTWFzdGVyIEdsb2JhbCAHMjAxNC0wMWQCAQ9kFgJmDxUDFHd3dy5kcmFtZXJhc2hvdXIuY29tFURyLiBBbWVyIE5vbWFuIEFzaG91cgcyMDE0LTAxZAICD2QWAmYPFQMPd3d3LnByb20uY29tLnNhG1Byb2Zlc3Npb25hbCBNaWxsZW5uaXVtIExURAcyMDE0LTAxZAIDD2QWAmYPFQMPd3d3LnBiczRrc2EuY29tFlBCUyBCdXNpbmVzcyBTb2x1dGlvbnMHMjAxNC0wMWQCBA9kFgJmDxUDDnd3dy5sZHoub3JnLmx5BVphd2lhBzIwMTQtMDFkAgUPZBYCZg8VAxF3d3cuam9iNHNhdWRpLmNvbQ5Kb2JzIGZvciBTYXVkaQcyMDE0LTAxZAIGD2QWAmYPFQMRd3d3LmFscmFnaGJhbi5jb20XRHIuIE11bnRhc3NlciBBbHJhZ2hiYW4HMjAxNC0wMWQCBw9kFgJmDxUDEnd3dy50dXJrZXloZXJlLm5ldAtUdXJrZXkgaGVyZQcyMDE0LTAxZAIJDxYCHwICAhYEZg9kFgJmDxUCEXd3dy5tYXN0ZXIuY29tLmx5KTUyYzBhZTlhLWNmNWItNDc3Zi1hYTVlLWY2MzIxMDdiYTQ0MC4ucG5nZAIBD2QWAmYPFQIPd3d3LnByb20uY29tLnNhKTM4ZDI2NmRiLTgzMGEtNGI2YS1iMWI2LWM4NTVmYzg0OTA3YS4ucG5nZAILDxYCHwICBBYIZg9kFgJmDxUDFGh0dHA6Ly93d3cuaXRyZWUucHMvKGEyNWRmNzZkLWViNmQtNGFlZC04Njg0LWRkYWJjM2QyOTQyZi5wbmchRmFtaWx5IGludGVyYWN0aXZlIHN5c3RlbSAiaXRyZWUiZAIBD2QWAmYPFQMYaHR0cDovL3VnLmlzY2hvb2wucHMvZW4vKDFhYzA0YzJlLTFkOTktNGYwZC04Y2JlLTM5ODMwYTA1NTc0ZS5wbmcmQWNhZGVtaWMgTWFuYWdlbWVudCBTeXN0ZW1zIGlTY2hvb2wgICBkAgIPZBYCZg8VAxpodHRwOi8vd3d3Lm1vZHVsYW1pbmkuY29tLyhlNGNjNzlmZC04MjNkLTRhMDMtOTY0Ny0zNTllZGM5YzBhZmQucG5nCm1vZHVsYW1pbmlkAgMPZBYCZg8VAwEjKDAyYTYyZTRmLTIyZGYtNDUxOC05M2FjLTM2MmUyZDIyMTdkOC5wbmcZV2lsbCBmaW5pc2ggaW4gMTUtMDktMjAxNGRk" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/web/20141217174512js_/http://www.inetwebsystems.com/WebResource.axd?d=MiQr_3bqBL1OwCLqkKVYcTR-yFkkJt4CWN47a3iP0JWk8Xxh2osJu_T3IVJJp_xK8nUYNhpat4oeJaFhcJYzNxylVPEYfAfXVVdpdDRKeuk1&amp;t=635207534963396618" type="text/javascript"></script>
+
+
+<script src="/web/20141217174512js_/http://www.inetwebsystems.com/ScriptResource.axd?d=kUVjtYxfPqWsDYg2fNM180y4L5HW0dtqHd9O3Lx1XRQM81NMJ-3Fs7yRWfy2laLHOxCmgCd6qMzzjoGFErd9Ldq33J2RaMUYasZjeuXYE4W6VdGaBqUAI0iFbsFP6JzivV-qepjlQ_nz0eSFRWuTjfmpWfoOydlXZpKHOTnT2WREccr6vDOxyxlweXzTngAm0&amp;t=ca758f3" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/web/20141217174512js_/http://www.inetwebsystems.com/ScriptResource.axd?d=AMvxEDA6gLjJBehIuMb2kG74EFnriCK0HkHofJ_D-8-VwkH0JLF8tf1H6zXonBteopa1Wns8zLibDkorWfXyoFhPusu5kGxZ2rjyDE5jkQzIBEtphQynycMByf7RcZvCn-Aqqq6vFQbKElpSQ-N4W2VF8JP4LDfwfYAp_vBjSiyo6bahlq_PeUp8kMnFbk-Z0&amp;t=ca758f3" type="text/javascript"></script>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+    
+    <div class="container">
+        <div class="header">
+            <h1 class="logo">
+                Inet Web Systems</h1>
+            <div class="main_menu" id="navigationWrapper">
+                <ul>
+                    <li><a href="en/">Home</a></li>
+                    <li><a href="CompanyWorks-1-0">Web Projects</a></li>
+                    
+                    <li><a href="MobileApp">Mobile Apps</a></li>
+                    <li><a href="Clients">Clients</a></li>
+                    <li><a href="Contracts">Contracts</a></li>
+                    
+                    
+                    <li><a href="JobsGetShow">Human Resource</a></li>
+                    <li><a href="AboutUs">About</a></li>
+                    <li><a href="ContactUs">Contact us</a></li>
+                </ul>
+            </div>
+            <div id="ctl00_Search_pnlSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_Search_ImgBtnS&#39;)">
+	
+    <div class="search_box">
+        <input name="ctl00$Search$TxtSearch" type="text" id="ctl00_Search_TxtSearch" />
+        <input type="submit" name="ctl00$Search$ImgBtnS" value="search" id="ctl00_Search_ImgBtnS" />
+    </div>
+
+</div>
+
+            
+            
+
+
+  <ul class="social">
+                <li><a href="/web/20141217174512/http://fb.com/Inet.web" class="facebook" target="_blank">Facebook</a></li>
+                <li><a href="/web/20141217174512/http://twitter.com/iNetWebSystems" class="twitter" target="_blank">Twitter</a></li>
+                <li><a href="RSS" class="rss" target="_blank">Rss</a></li>
+            </ul>
+
+
+ 
+
+        </div>
+        
+    <div class="content">
+        <script type="text/javascript">
+            $(document).ready(function () {
+                iNet.WorldMap();
+                iNet.sliderWrapper();
+                iNet.DevelopmentSoluation();
+                $("a[href=#]").removeAttr("href").removeAttr("target");
+            });
+                
+        </script>
+        <div class="WorldMap">
+            <img class="gray_map" src="img/map.png" alt="Inet Services" title="" />
+            <ul>
+                <li class="management"><span class="title">Management Solutions</span></li>
+                <li class="banktransfer"><span class="title">Money Transfers Systems</span></li>
+                <li class="onlinemarketing"><span class="title">Real-time marketing </span></li>
+                <li class="elearning"><span class="title">Distance Training </span></li>
+            </ul>
+            <p>
+                According to the purely scientific and academic rules and under the supervision of best professionals specialized in Search program “produce all software solutions to make your job easier to accomplish than ever before”
+            </p>
+        </div>
+        <div class="lines">
+            <h3>
+                Services produced by Inet</h3>
+        </div>
+        <div id="sliderWrapper">
+            <ul class="services">
+                <li>
+                    <h2 class="hTitle">
+                        <a>Development Studies</a></h2>
+                    <img src="img/inet1.png" alt="Development Studies" title="Development Studies" />
+                    <p>
+                        
+                                Prepare full studies & complete studies for business before do this studies , search and discuss the latest findings of science in his area to start from where others have ended without the return of "making the wheel".
+                            
+                    </p>
+                </li>
+                <li>
+                    <h2 class="hTitle">
+                        <a>Languages and translations </a></h2>
+                    <img src="img/inet2.png" alt="Languages and translations" title="Languages and translations" />
+                    <p>
+                        
+                                Cover 7 languages worldwide through a specialized legal staff, and partnerships from outside the framework of the team extends to cover more than 20 languages around the world, first by the “classical or Formal Arabic”
+                            
+                    </p>
+                </li>
+                <li>
+                    <h2 class="hTitle">
+                        <a>Marketing methods </a></h2>
+                    <img src="img/inet3.png" alt="Marketing methods " title="Marketing methods " />
+                    <p>
+                        
+                                A mix of marketing tools that combine traditional and innovative, and partnerships to announce the field covering most major cities in the world
+                            
+                    </p>
+                </li>
+            </ul>
+        </div>
+        <div class="lines">
+            <h3>
+                Projects done by Inet</h3>
+        </div>
+        <div class="homeprojects">
+            <div class="column">
+                <h2 class="hTitle">
+                    <a>Some of our works</a></h2>
+                <ul>
+                    
+                            <li>
+                                <p>
+                                    <a target='_Blank' href='/web/20141217174512/http://www.master.com.ly/'><span class="title">
+                                        Master Global 
+                                    </span><span class="date">
+                                        2014-01</span><span class="icon">&nbsp;</span></a></p>
+                            </li>
+                        
+                            <li>
+                                <p>
+                                    <a target='_Blank' href='/web/20141217174512/http://www.dramerashour.com/'><span class="title">
+                                        Dr. Amer Noman Ashour
+                                    </span><span class="date">
+                                        2014-01</span><span class="icon">&nbsp;</span></a></p>
+                            </li>
+                        
+                            <li>
+                                <p>
+                                    <a target='_Blank' href='/web/20141217174512/http://www.prom.com.sa/'><span class="title">
+                                        Professional Millennium LTD
+                                    </span><span class="date">
+                                        2014-01</span><span class="icon">&nbsp;</span></a></p>
+                            </li>
+                        
+                            <li>
+                                <p>
+                                    <a target='_Blank' href='/web/20141217174512/http://www.pbs4ksa.com/'><span class="title">
+                                        PBS Business Solutions
+                                    </span><span class="date">
+                                        2014-01</span><span class="icon">&nbsp;</span></a></p>
+                            </li>
+                        
+                            <li>
+                                <p>
+                                    <a target='_Blank' href='/web/20141217174512/http://www.ldz.org.ly/'><span class="title">
+                                        Zawia
+                                    </span><span class="date">
+                                        2014-01</span><span class="icon">&nbsp;</span></a></p>
+                            </li>
+                        
+                            <li>
+                                <p>
+                                    <a target='_Blank' href='/web/20141217174512/http://www.job4saudi.com/'><span class="title">
+                                        Jobs for Saudi
+                                    </span><span class="date">
+                                        2014-01</span><span class="icon">&nbsp;</span></a></p>
+                            </li>
+                        
+                            <li>
+                                <p>
+                                    <a target='_Blank' href='/web/20141217174512/http://www.alraghban.com/'><span class="title">
+                                        Dr. Muntasser Alraghban
+                                    </span><span class="date">
+                                        2014-01</span><span class="icon">&nbsp;</span></a></p>
+                            </li>
+                        
+                            <li>
+                                <p>
+                                    <a target='_Blank' href='/web/20141217174512/http://www.turkeyhere.net/'><span class="title">
+                                        Turkey here
+                                    </span><span class="date">
+                                        2014-01</span><span class="icon">&nbsp;</span></a></p>
+                            </li>
+                        
+                </ul>
+                
+                <a href="CompanyWorks-1-0" class="seemore">more </a>
+
+            </div>
+            <div class="column">
+                <h2 class="hTitle">
+                    <a>Portfolio - Featured Projects</a></h2>
+                
+                        <p class="underConstruction">
+                           <a target='_Blank' href='/web/20141217174512/http://www.master.com.ly/'>
+                                <img src='/web/20141217174512im_/http://inetwebsystems.com/Files/Works/52c0ae9a-cf5b-477f-aa5e-f632107ba440..png' alt="" /></a>
+                        </p>
+                    
+                        <p class="underConstruction">
+                           <a target='_Blank' href='/web/20141217174512/http://www.prom.com.sa/'>
+                                <img src='/web/20141217174512im_/http://inetwebsystems.com/Files/Works/38d266db-830a-4b6a-b1b6-c855fc84907a..png' alt="" /></a>
+                        </p>
+                    
+
+               
+            </div>
+        </div>
+        <div class="lines">
+            <h3>
+                Software Produced by Inet</h3>
+        </div>
+        <div class="inetApplications">
+            <h2 class="hTitle">
+                <a>Business Solutions software</a></h2>
+            <ul>
+                
+                        <li><a target="_blank"  href='/web/20141217174512/http://www.itree.ps/'>
+                            <img src='/web/20141217174512im_/http://inetwebsystems.com/Files/Postions/a25df76d-eb6d-4aed-8684-ddabc3d2942f.png' alt='Family interactive system "itree"' title="" /></a></li>
+                    
+                        <li><a target="_blank"  href='/web/20141217174512/http://ug.ischool.ps/en/'>
+                            <img src='/web/20141217174512im_/http://inetwebsystems.com/Files/Postions/1ac04c2e-1d99-4f0d-8cbe-39830a05574e.png' alt='Academic Management Systems iSchool   ' title="" /></a></li>
+                    
+                        <li><a target="_blank"  href='/web/20141217174512/http://www.modulamini.com/'>
+                            <img src='/web/20141217174512im_/http://inetwebsystems.com/Files/Postions/e4cc79fd-823d-4a03-9647-359edc9c0afd.png' alt='modulamini' title="" /></a></li>
+                    
+                        <li><a target="_blank"  href='#'>
+                            <img src='/web/20141217174512im_/http://inetwebsystems.com/Files/Postions/02a62e4f-22df-4518-93ac-362e2d2217d8.png' alt='Will finish in 15-09-2014' title="" /></a></li>
+                    
+                <li class="tooltip">Interactive family system </li>
+            </ul>
+        </div>
+        <div class="lines">
+            <h3>
+              
+                Geographical distribution</h3>
+        </div>
+        <div class="geodistribuation">
+            <img src="img/geo.png" alt="Geographical distribution" title="" />
+        </div>
+        <div class="socialMarketing">
+            <ul>
+                <li>facebook</li>
+                <li>Twitter</li>
+                <li>LinkedIn</li>
+                <li>Google+</li>
+                <li>Youtube</li>
+                <li>flickr</li>
+            </ul>
+        </div>
+        <div class="mobileDevelopment">
+            <ul>
+                <li><a class="blackbery">blackbery</a></li>
+                <li><a class="android">android</a></li>
+                <li><a class="apple">apple</a></li>
+                <li><a class="windows">windows</a></li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="footer">
+            <ul class="footer_menu">
+                <li><a href="Site_Map">Site Map</a></li>
+                <li><a href="AboutUs">About</a></li>
+                <li><a href="ContactUs">Contact us</a></li>
+            </ul>
+            <p class="copyrights">
+                 All Right Resaved &copy; <span class="num">2008-
+                    2014</span>
+            </p>
+            <p class="inet">
+                <a>Inet Web Systems</a></p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 17:45:12 Dec 17, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:49:21 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

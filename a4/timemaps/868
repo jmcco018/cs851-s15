@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://pjmedia.com/blog/biden-four-years-of-college-should-be-free/>;rel="original"
+,<http://web.archive.org/web/20150131151825/http://pjmedia.com/blog/biden-four-years-of-college-should-be-free/>;rel="memento first"; datetime="Sat, 31 Jan 2015 15:18:25 GMT"
+,<http://web.archive.org/web/20150316021952/http://pjmedia.com/blog/biden-four-years-of-college-should-be-free/>;rel="memento last"; datetime="Mon, 16 Mar 2015 02:19:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://pjmedia.com/blog/biden-four-years-of-college-should-be-free/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://pjmedia.com/blog/biden-four-years-of-college-should-be-free/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 15:18:25 GMT";until="Mon, 16 Mar 2015 02:19:52 GMT"

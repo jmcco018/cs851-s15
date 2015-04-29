@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:26:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="original"
+,<http://web.archive.org/web/20110503220851/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="memento first"; datetime="Tue, 03 May 2011 22:08:51 GMT"
+,<http://web.archive.org/web/20110504124805/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="memento"; datetime="Wed, 04 May 2011 12:48:05 GMT"
+,<http://web.archive.org/web/20110504143144/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html?>;rel="memento"; datetime="Wed, 04 May 2011 14:31:44 GMT"
+,<http://web.archive.org/web/20110509135415/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="memento"; datetime="Mon, 09 May 2011 13:54:15 GMT"
+,<http://web.archive.org/web/20110704172020/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="memento"; datetime="Mon, 04 Jul 2011 17:20:20 GMT"
+,<http://web.archive.org/web/20110806011350/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="memento"; datetime="Sat, 06 Aug 2011 01:13:50 GMT"
+,<http://web.archive.org/web/20110903065558/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="memento"; datetime="Sat, 03 Sep 2011 06:55:58 GMT"
+,<http://web.archive.org/web/20110920064719/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="memento last"; datetime="Tue, 20 Sep 2011 06:47:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dailymail.co.uk/news/article-1382263/The-EU-trying-wipe-map-Brussels-merges-England-France-new-Arc-Manche-region--FLAG.html>;rel="self"; type="application/link-format"; from ="Tue, 03 May 2011 22:08:51 GMT";until="Tue, 20 Sep 2011 06:47:19 GMT"

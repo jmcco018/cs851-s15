@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:48:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="original"
+,<//wayback.archive-it.org/all/20141120180543/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="memento first"; datetime="Thu, 20 Nov 2014 18:05:43 GMT"
+,<//wayback.archive-it.org/all/20141121182031/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="memento"; datetime="Fri, 21 Nov 2014 18:20:31 GMT"
+,<//wayback.archive-it.org/all/20141122181248/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="memento"; datetime="Sat, 22 Nov 2014 18:12:48 GMT"
+,<//wayback.archive-it.org/all/20141123180749/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="memento"; datetime="Sun, 23 Nov 2014 18:07:49 GMT"
+,<//wayback.archive-it.org/all/20141124180527/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="memento"; datetime="Mon, 24 Nov 2014 18:05:27 GMT"
+,<//wayback.archive-it.org/all/20141125183649/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="memento"; datetime="Tue, 25 Nov 2014 18:36:49 GMT"
+,<//wayback.archive-it.org/all/20141204015610/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="memento"; datetime="Thu, 04 Dec 2014 01:56:10 GMT"
+,<//wayback.archive-it.org/all/20141209185445/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="memento"; datetime="Tue, 09 Dec 2014 18:54:45 GMT"
+,<http://web.archive.org/web/20150325082929/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="memento last"; datetime="Wed, 25 Mar 2015 08:29:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/us/album/fly-with-you-single/id942703849>;rel="self"; type="application/link-format"; from ="Thu, 20 Nov 2014 18:05:43 GMT";until="Wed, 25 Mar 2015 08:29:29 GMT"

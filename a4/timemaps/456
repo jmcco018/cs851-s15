@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:17:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="original"
+,<http://web.archive.org/web/20150327061941/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento first"; datetime="Fri, 27 Mar 2015 06:19:41 GMT"
+,<http://web.archive.org/web/20150328061540/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento"; datetime="Sat, 28 Mar 2015 06:15:40 GMT"
+,<http://web.archive.org/web/20150329080827/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento"; datetime="Sun, 29 Mar 2015 08:08:27 GMT"
+,<http://web.archive.org/web/20150330095344/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento"; datetime="Mon, 30 Mar 2015 09:53:44 GMT"
+,<http://web.archive.org/web/20150331205350/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento"; datetime="Tue, 31 Mar 2015 20:53:50 GMT"
+,<http://web.archive.org/web/20150401164725/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento"; datetime="Wed, 01 Apr 2015 16:47:25 GMT"
+,<http://web.archive.org/web/20150403195323/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento"; datetime="Fri, 03 Apr 2015 19:53:23 GMT"
+,<http://web.archive.org/web/20150404212644/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento"; datetime="Sat, 04 Apr 2015 21:26:44 GMT"
+,<http://web.archive.org/web/20150406100946/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento"; datetime="Mon, 06 Apr 2015 10:09:46 GMT"
+,<http://web.archive.org/web/20150407061857/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento"; datetime="Tue, 07 Apr 2015 06:18:57 GMT"
+,<http://web.archive.org/web/20150409095159/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="memento last"; datetime="Thu, 09 Apr 2015 09:51:59 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.foxnews.com/tech/2015/01/29/snipers-backpack-battle-uniforms-and-mine-detectors-tactical-stars-shot-show/>;rel="self"; type="application/link-format"; from ="Fri, 27 Mar 2015 06:19:41 GMT";until="Thu, 09 Apr 2015 09:51:59 GMT"

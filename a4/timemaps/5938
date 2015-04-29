@@ -1,0 +1,40 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:53:59 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="original"
+,<http://archive.is/20141117091337/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento first"; datetime="Mon, 17 Nov 2014 09:13:37 GMT"
+,<http://archive.is/20141117152640/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Mon, 17 Nov 2014 15:26:40 GMT"
+,<http://web.archive.org/web/20141117174545/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Mon, 17 Nov 2014 17:45:45 GMT"
+,<http://web.archive.org/web/20141119011728/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Wed, 19 Nov 2014 01:17:28 GMT"
+,<http://web.archive.org/web/20141122040725/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Sat, 22 Nov 2014 04:07:25 GMT"
+,<http://web.archive.org/web/20141123095451/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Sun, 23 Nov 2014 09:54:51 GMT"
+,<http://web.archive.org/web/20141124215726/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Mon, 24 Nov 2014 21:57:26 GMT"
+,<http://web.archive.org/web/20141126034704/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Wed, 26 Nov 2014 03:47:04 GMT"
+,<http://web.archive.org/web/20141203040551/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Wed, 03 Dec 2014 04:05:51 GMT"
+,<http://web.archive.org/web/20141208015823/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Mon, 08 Dec 2014 01:58:23 GMT"
+,<http://web.archive.org/web/20141209130227/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth>;rel="memento"; datetime="Tue, 09 Dec 2014 13:02:27 GMT"
+,<http://web.archive.org/web/20141210082553/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Wed, 10 Dec 2014 08:25:53 GMT"
+,<http://web.archive.org/web/20141215052804/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Mon, 15 Dec 2014 05:28:04 GMT"
+,<http://web.archive.org/web/20141217081326/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Wed, 17 Dec 2014 08:13:26 GMT"
+,<http://web.archive.org/web/20141226120309/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Fri, 26 Dec 2014 12:03:09 GMT"
+,<http://web.archive.org/web/20141226214656/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Fri, 26 Dec 2014 21:46:56 GMT"
+,<http://web.archive.org/web/20150102123859/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Fri, 02 Jan 2015 12:38:59 GMT"
+,<http://web.archive.org/web/20150109133614/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Fri, 09 Jan 2015 13:36:14 GMT"
+,<http://web.archive.org/web/20150116154429/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Fri, 16 Jan 2015 15:44:29 GMT"
+,<http://web.archive.org/web/20150123190010/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Fri, 23 Jan 2015 19:00:10 GMT"
+,<http://web.archive.org/web/20150202102049/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Mon, 02 Feb 2015 10:20:49 GMT"
+,<http://web.archive.org/web/20150208061628/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Sun, 08 Feb 2015 06:16:28 GMT"
+,<http://web.archive.org/web/20150209013205/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth>;rel="memento"; datetime="Mon, 09 Feb 2015 01:32:05 GMT"
+,<http://web.archive.org/web/20150310014319/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Tue, 10 Mar 2015 01:43:19 GMT"
+,<http://web.archive.org/web/20150317023508/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Tue, 17 Mar 2015 02:35:08 GMT"
+,<http://web.archive.org/web/20150320070708/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Fri, 20 Mar 2015 07:07:08 GMT"
+,<http://web.archive.org/web/20150324022137/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Tue, 24 Mar 2015 02:21:37 GMT"
+,<http://web.archive.org/web/20150331025759/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Tue, 31 Mar 2015 02:57:59 GMT"
+,<http://web.archive.org/web/20150407032730/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento"; datetime="Tue, 07 Apr 2015 03:27:30 GMT"
+,<http://web.archive.org/web/20150414053345/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="memento last"; datetime="Tue, 14 Apr 2015 05:33:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/>;rel="self"; type="application/link-format"; from ="Mon, 17 Nov 2014 09:13:37 GMT";until="Tue, 14 Apr 2015 05:33:45 GMT"

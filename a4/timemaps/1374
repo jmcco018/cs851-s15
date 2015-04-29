@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:32:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.farebooth.com/>;rel="original"
+,<http://web.archive.org/web/20140112090802/http://farebooth.com/>;rel="memento first"; datetime="Sun, 12 Jan 2014 09:08:02 GMT"
+,<http://web.archive.org/web/20140604161048/http://farebooth.com/>;rel="memento"; datetime="Wed, 04 Jun 2014 16:10:48 GMT"
+,<http://web.archive.org/web/20140620045334/http://www.farebooth.com/>;rel="memento"; datetime="Fri, 20 Jun 2014 04:53:34 GMT"
+,<http://web.archive.org/web/20141217063903/http://farebooth.com/>;rel="memento"; datetime="Wed, 17 Dec 2014 06:39:03 GMT"
+,<http://web.archive.org/web/20150406034051/http://www.farebooth.com/>;rel="memento last"; datetime="Mon, 06 Apr 2015 03:40:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.farebooth.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.farebooth.com/>;rel="self"; type="application/link-format"; from ="Sun, 12 Jan 2014 09:08:02 GMT";until="Mon, 06 Apr 2015 03:40:51 GMT"

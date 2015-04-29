@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:43:43 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://map.bafu.admin.ch/?topic=bafu>;rel="original"
+,<http://web.archive.org/web/20140227033836/http://map.bafu.admin.ch/?topic=bafu>;rel="memento first"; datetime="Thu, 27 Feb 2014 03:38:36 GMT"
+,<http://web.archive.org/web/20140718045640/http://map.bafu.admin.ch/?topic=bafu>;rel="memento last"; datetime="Fri, 18 Jul 2014 04:56:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://map.bafu.admin.ch/?topic=bafu>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://map.bafu.admin.ch/?topic=bafu>;rel="self"; type="application/link-format"; from ="Thu, 27 Feb 2014 03:38:36 GMT";until="Fri, 18 Jul 2014 04:56:40 GMT"

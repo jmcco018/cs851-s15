@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:23:49 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.express.co.uk/sport/football/555198/Mourinho-complained-Spurs-boss-Pochettino-clasts-League-Cup-final-schedule>;rel="original"
+,<http://web.archive.org/web/20150131071919/http://www.express.co.uk/sport/football/555198/Mourinho-complained-Spurs-boss-Pochettino-clasts-League-Cup-final-schedule>;rel="memento first"; datetime="Sat, 31 Jan 2015 07:19:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.express.co.uk/sport/football/555198/Mourinho-complained-Spurs-boss-Pochettino-clasts-League-Cup-final-schedule>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.express.co.uk/sport/football/555198/Mourinho-complained-Spurs-boss-Pochettino-clasts-League-Cup-final-schedule>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 07:19:19 GMT";until="Sat, 31 Jan 2015 07:19:19 GMT"

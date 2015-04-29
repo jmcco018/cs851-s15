@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:30:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://startuprepair.com/>;rel="original"
+,<//wayback.archive-it.org/all/20130420175350/http://www.startuprepair.com/>;rel="memento first"; datetime="Sat, 20 Apr 2013 17:53:50 GMT"
+,<//wayback.archive-it.org/all/20130420175355/http://startuprepair.com/>;rel="memento"; datetime="Sat, 20 Apr 2013 17:53:55 GMT"
+,<//wayback.archive-it.org/all/20130422100200/http://www.startuprepair.com/>;rel="memento"; datetime="Mon, 22 Apr 2013 10:02:00 GMT"
+,<//wayback.archive-it.org/all/20130422100206/http://startuprepair.com/>;rel="memento last"; datetime="Mon, 22 Apr 2013 10:02:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://startuprepair.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://startuprepair.com/>;rel="self"; type="application/link-format"; from ="Sat, 20 Apr 2013 17:53:50 GMT";until="Mon, 22 Apr 2013 10:02:06 GMT"

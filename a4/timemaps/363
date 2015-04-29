@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:15:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cbc.ca/news/politics/csis-to-be-given-power-to-disrupt-not-arrest-in-new-anti-terror-bill-1.2937123>;rel="original"
+,<http://archive.is/20150130031758/http://www.cbc.ca/news/politics/csis-to-be-given-power-to-disrupt-not-arrest-in-new-anti-terror-bill-1.2937123>;rel="memento first"; datetime="Fri, 30 Jan 2015 03:17:58 GMT"
+,<http://web.archive.org/web/20150131184604/http://www.cbc.ca/news/politics/csis-to-be-given-power-to-disrupt-not-arrest-in-new-anti-terror-bill-1.2937123>;rel="memento"; datetime="Sat, 31 Jan 2015 18:46:04 GMT"
+,<http://web.archive.org/web/20150204103820/http://www.cbc.ca/news/politics/csis-to-be-given-power-to-disrupt-not-arrest-in-new-anti-terror-bill-1.2937123>;rel="memento last"; datetime="Wed, 04 Feb 2015 10:38:20 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cbc.ca/news/politics/csis-to-be-given-power-to-disrupt-not-arrest-in-new-anti-terror-bill-1.2937123>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cbc.ca/news/politics/csis-to-be-given-power-to-disrupt-not-arrest-in-new-anti-terror-bill-1.2937123>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 03:17:58 GMT";until="Wed, 04 Feb 2015 10:38:20 GMT"

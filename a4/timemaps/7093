@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:13:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://stacistallings.wordpress.com/2010/11/18/lucky/>;rel="original"
+,<//wayback.archive-it.org/all/20131020085232/http://stacistallings.wordpress.com/2010/11/18/lucky/>;rel="memento first"; datetime="Sun, 20 Oct 2013 08:52:32 GMT"
+,<http://web.archive.org/web/20131022020216/http://stacistallings.wordpress.com/2010/11/18/lucky/>;rel="memento last"; datetime="Tue, 22 Oct 2013 02:02:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://stacistallings.wordpress.com/2010/11/18/lucky/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://stacistallings.wordpress.com/2010/11/18/lucky/>;rel="self"; type="application/link-format"; from ="Sun, 20 Oct 2013 08:52:32 GMT";until="Tue, 22 Oct 2013 02:02:16 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:55:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.vice.com/read/the-future-of-sex-toys-129>;rel="original"
+,<http://web.archive.org/web/20150326063206/http://www.vice.com/read/the-future-of-sex-toys-129>;rel="memento first"; datetime="Thu, 26 Mar 2015 06:32:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.vice.com/read/the-future-of-sex-toys-129>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.vice.com/read/the-future-of-sex-toys-129>;rel="self"; type="application/link-format"; from ="Thu, 26 Mar 2015 06:32:06 GMT";until="Thu, 26 Mar 2015 06:32:06 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:10:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.horoscopes-love.eu/health-horoscope/aquarius-health-horoscope>;rel="original"
+,<http://web.archive.org/web/20140822104310/http://www.horoscopes-love.eu/health-horoscope/aquarius-health-horoscope>;rel="memento first"; datetime="Fri, 22 Aug 2014 10:43:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.horoscopes-love.eu/health-horoscope/aquarius-health-horoscope>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.horoscopes-love.eu/health-horoscope/aquarius-health-horoscope>;rel="self"; type="application/link-format"; from ="Fri, 22 Aug 2014 10:43:10 GMT";until="Fri, 22 Aug 2014 10:43:10 GMT"

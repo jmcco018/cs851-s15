@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.uncoverdiscover.com/facts/6-ways-to-train-your-brain-to-learn-faster/crossword-puzzles/>;rel="original"
+,<http://web.archive.org/web/20131218030647/http://www.uncoverdiscover.com/facts/6-ways-to-train-your-brain-to-learn-faster/crossword-puzzles/>;rel="memento first"; datetime="Wed, 18 Dec 2013 03:06:47 GMT"
+,<http://web.archive.org/web/20131219104956/http://www.uncoverdiscover.com/facts/6-ways-to-train-your-brain-to-learn-faster/crossword-puzzles>;rel="memento"; datetime="Thu, 19 Dec 2013 10:49:56 GMT"
+,<http://web.archive.org/web/20131221144352/http://www.uncoverdiscover.com/facts/6-ways-to-train-your-brain-to-learn-faster/crossword-puzzles/>;rel="memento"; datetime="Sat, 21 Dec 2013 14:43:52 GMT"
+,<http://web.archive.org/web/20140220223319/http://www.uncoverdiscover.com/facts/6-ways-to-train-your-brain-to-learn-faster/crossword-puzzles/>;rel="memento"; datetime="Thu, 20 Feb 2014 22:33:19 GMT"
+,<http://web.archive.org/web/20140223061225/http://www.uncoverdiscover.com/facts/6-ways-to-train-your-brain-to-learn-faster/crossword-puzzles>;rel="memento last"; datetime="Sun, 23 Feb 2014 06:12:25 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.uncoverdiscover.com/facts/6-ways-to-train-your-brain-to-learn-faster/crossword-puzzles/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.uncoverdiscover.com/facts/6-ways-to-train-your-brain-to-learn-faster/crossword-puzzles/>;rel="self"; type="application/link-format"; from ="Wed, 18 Dec 2013 03:06:47 GMT";until="Sun, 23 Feb 2014 06:12:25 GMT"

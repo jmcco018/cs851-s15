@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:43:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.PetitionHub.org/>;rel="original"
+,<http://web.archive.org/web/20140722014538/http://www.petitionhub.org/>;rel="memento first"; datetime="Tue, 22 Jul 2014 01:45:38 GMT"
+,<http://web.archive.org/web/20140826104918/http://www.petitionhub.org/>;rel="memento"; datetime="Tue, 26 Aug 2014 10:49:18 GMT"
+,<http://web.archive.org/web/20141016135637/http://www.petitionhub.org/>;rel="memento"; datetime="Thu, 16 Oct 2014 13:56:37 GMT"
+,<http://web.archive.org/web/20141017032553/http://www.petitionhub.org/>;rel="memento"; datetime="Fri, 17 Oct 2014 03:25:53 GMT"
+,<http://web.archive.org/web/20141217213806/http://www.petitionhub.org/>;rel="memento"; datetime="Wed, 17 Dec 2014 21:38:06 GMT"
+,<http://web.archive.org/web/20141218061335/http://petitionhub.org/>;rel="memento"; datetime="Thu, 18 Dec 2014 06:13:35 GMT"
+,<http://web.archive.org/web/20141222011015/http://www.petitionhub.org/>;rel="memento"; datetime="Mon, 22 Dec 2014 01:10:15 GMT"
+,<http://web.archive.org/web/20150107173039/http://www.petitionhub.org/>;rel="memento"; datetime="Wed, 07 Jan 2015 17:30:39 GMT"
+,<http://web.archive.org/web/20150108015842/http://petitionhub.org/>;rel="memento"; datetime="Thu, 08 Jan 2015 01:58:42 GMT"
+,<http://web.archive.org/web/20150108015844/http://www.petitionhub.org/>;rel="memento"; datetime="Thu, 08 Jan 2015 01:58:44 GMT"
+,<http://web.archive.org/web/20150109121916/http://www.petitionhub.org/>;rel="memento"; datetime="Fri, 09 Jan 2015 12:19:16 GMT"
+,<http://web.archive.org/web/20150110213608/http://www.petitionhub.org/>;rel="memento"; datetime="Sat, 10 Jan 2015 21:36:08 GMT"
+,<http://web.archive.org/web/20150111075619/http://www.petitionhub.org/>;rel="memento"; datetime="Sun, 11 Jan 2015 07:56:19 GMT"
+,<http://web.archive.org/web/20150113132709/http://www.petitionhub.org/>;rel="memento"; datetime="Tue, 13 Jan 2015 13:27:09 GMT"
+,<http://web.archive.org/web/20150314204714/http://petitionhub.org/>;rel="memento"; datetime="Sat, 14 Mar 2015 20:47:14 GMT"
+,<http://web.archive.org/web/20150315000524/http://www.petitionhub.org/>;rel="memento"; datetime="Sun, 15 Mar 2015 00:05:24 GMT"
+,<http://web.archive.org/web/20150324235605/https://www.petitionhub.org/>;rel="memento"; datetime="Tue, 24 Mar 2015 23:56:05 GMT"
+,<http://web.archive.org/web/20150326233039/http://petitionhub.org/>;rel="memento"; datetime="Thu, 26 Mar 2015 23:30:39 GMT"
+,<http://archive.is/20150405130640/http://www.petitionhub.org/>;rel="memento"; datetime="Sun, 05 Apr 2015 13:06:40 GMT"
+,<http://web.archive.org/web/20150406094913/http://www.petitionhub.org/>;rel="memento last"; datetime="Mon, 06 Apr 2015 09:49:13 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.PetitionHub.org/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.PetitionHub.org/>;rel="self"; type="application/link-format"; from ="Tue, 22 Jul 2014 01:45:38 GMT";until="Mon, 06 Apr 2015 09:49:13 GMT"

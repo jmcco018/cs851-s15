@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:41:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://modernfarmer.com/2015/01/reinventing-potato/>;rel="original"
+,<http://web.archive.org/web/20150123193551/http://modernfarmer.com/2015/01/reinventing-potato/>;rel="memento first"; datetime="Fri, 23 Jan 2015 19:35:51 GMT"
+,<http://archive.is/20150124100133/http://modernfarmer.com/2015/01/reinventing-potato/>;rel="memento"; datetime="Sat, 24 Jan 2015 10:01:33 GMT"
+,<http://web.archive.org/web/20150319172451/http://modernfarmer.com/2015/01/reinventing-potato/>;rel="memento last"; datetime="Thu, 19 Mar 2015 17:24:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://modernfarmer.com/2015/01/reinventing-potato/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://modernfarmer.com/2015/01/reinventing-potato/>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 19:35:51 GMT";until="Thu, 19 Mar 2015 17:24:51 GMT"

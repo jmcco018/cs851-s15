@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.riffyou.com/5-rock-bands-that-need-to-play-super-bowl-halftime/>;rel="original"
+,<http://web.archive.org/web/20150321074440/http://www.riffyou.com/5-rock-bands-that-need-to-play-super-bowl-halftime/>;rel="memento first"; datetime="Sat, 21 Mar 2015 07:44:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.riffyou.com/5-rock-bands-that-need-to-play-super-bowl-halftime/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.riffyou.com/5-rock-bands-that-need-to-play-super-bowl-halftime/>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 07:44:40 GMT";until="Sat, 21 Mar 2015 07:44:40 GMT"

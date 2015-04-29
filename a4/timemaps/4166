@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:24:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nydailynews.com/entertainment/gossip/iggy-azalea-calls-steve-madden-pics-disgusting-article-1.2097498>;rel="original"
+,<http://web.archive.org/web/20150130171848/http://www.nydailynews.com/entertainment/gossip/iggy-azalea-calls-steve-madden-pics-disgusting-article-1.2097498>;rel="memento first"; datetime="Fri, 30 Jan 2015 17:18:48 GMT"
+,<http://web.archive.org/web/20150202011919/http://www.nydailynews.com/entertainment/gossip/iggy-azalea-calls-steve-madden-pics-disgusting-article-1.2097498>;rel="memento last"; datetime="Mon, 02 Feb 2015 01:19:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nydailynews.com/entertainment/gossip/iggy-azalea-calls-steve-madden-pics-disgusting-article-1.2097498>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nydailynews.com/entertainment/gossip/iggy-azalea-calls-steve-madden-pics-disgusting-article-1.2097498>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 17:18:48 GMT";until="Mon, 02 Feb 2015 01:19:19 GMT"

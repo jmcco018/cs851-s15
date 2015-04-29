@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.gizmag.com/roscosmos-video-replaces-moon-star-sun-planet/35802/>;rel="original"
+,<http://web.archive.org/web/20150205111232/http://www.gizmag.com/roscosmos-video-replaces-moon-star-sun-planet/35802/>;rel="memento first"; datetime="Thu, 05 Feb 2015 11:12:32 GMT"
+,<http://web.archive.org/web/20150330161712/http://www.gizmag.com/roscosmos-video-replaces-moon-star-sun-planet/35802/>;rel="memento last"; datetime="Mon, 30 Mar 2015 16:17:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.gizmag.com/roscosmos-video-replaces-moon-star-sun-planet/35802/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.gizmag.com/roscosmos-video-replaces-moon-star-sun-planet/35802/>;rel="self"; type="application/link-format"; from ="Thu, 05 Feb 2015 11:12:32 GMT";until="Mon, 30 Mar 2015 16:17:12 GMT"

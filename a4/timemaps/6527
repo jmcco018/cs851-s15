@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://wexonmart.com/category/crystal-vases>;rel="original"
+,<http://web.archive.org/web/20140418102842/http://wexonmart.com/category/crystal-vases>;rel="memento first"; datetime="Fri, 18 Apr 2014 10:28:42 GMT"
+,<http://web.archive.org/web/20140618023326/http://wexonmart.com/category/crystal-vases>;rel="memento"; datetime="Wed, 18 Jun 2014 02:33:26 GMT"
+,<http://web.archive.org/web/20140804053154/http://wexonmart.com/category/crystal-vases>;rel="memento"; datetime="Mon, 04 Aug 2014 05:31:54 GMT"
+,<http://web.archive.org/web/20140817074419/http://wexonmart.com/category/crystal-vases>;rel="memento last"; datetime="Sun, 17 Aug 2014 07:44:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://wexonmart.com/category/crystal-vases>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://wexonmart.com/category/crystal-vases>;rel="self"; type="application/link-format"; from ="Fri, 18 Apr 2014 10:28:42 GMT";until="Sun, 17 Aug 2014 07:44:19 GMT"

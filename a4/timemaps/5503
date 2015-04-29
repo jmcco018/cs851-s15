@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="original"
+,<http://web.archive.org/web/20110522150914/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento first"; datetime="Sun, 22 May 2011 15:09:14 GMT"
+,<http://web.archive.org/web/20120120021124/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Fri, 20 Jan 2012 02:11:24 GMT"
+,<http://web.archive.org/web/20120320110659/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Tue, 20 Mar 2012 11:06:59 GMT"
+,<http://web.archive.org/web/20120321215025/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Wed, 21 Mar 2012 21:50:25 GMT"
+,<http://web.archive.org/web/20120522051337/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Tue, 22 May 2012 05:13:37 GMT"
+,<http://web.archive.org/web/20120729232915/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Sun, 29 Jul 2012 23:29:15 GMT"
+,<http://web.archive.org/web/20120929012553/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Sat, 29 Sep 2012 01:25:53 GMT"
+,<http://web.archive.org/web/20121129110931/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Thu, 29 Nov 2012 11:09:31 GMT"
+,<http://web.archive.org/web/20130129041240/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Tue, 29 Jan 2013 04:12:40 GMT"
+,<http://web.archive.org/web/20130331133037/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Sun, 31 Mar 2013 13:30:37 GMT"
+,<http://web.archive.org/web/20130531152037/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Fri, 31 May 2013 15:20:37 GMT"
+,<http://web.archive.org/web/20131005075859/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Sat, 05 Oct 2013 07:58:59 GMT"
+,<http://web.archive.org/web/20131010225026/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Thu, 10 Oct 2013 22:50:26 GMT"
+,<http://web.archive.org/web/20131016153847/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Wed, 16 Oct 2013 15:38:47 GMT"
+,<http://web.archive.org/web/20131205144450/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Thu, 05 Dec 2013 14:44:50 GMT"
+,<http://web.archive.org/web/20131226092030/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Thu, 26 Dec 2013 09:20:30 GMT"
+,<http://web.archive.org/web/20140204201702/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Tue, 04 Feb 2014 20:17:02 GMT"
+,<http://web.archive.org/web/20140617143833/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Tue, 17 Jun 2014 14:38:33 GMT"
+,<http://web.archive.org/web/20140817084246/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento"; datetime="Sun, 17 Aug 2014 08:42:46 GMT"
+,<http://web.archive.org/web/20141109045506/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="memento last"; datetime="Sun, 09 Nov 2014 04:55:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.opentable.com/opentables.aspx?t=rest&r=30931&m=7&p=2&d=4/21/2011%207:00:00%20PM&scpref=108>;rel="self"; type="application/link-format"; from ="Sun, 22 May 2011 15:09:14 GMT";until="Sun, 09 Nov 2014 04:55:06 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.seejapan.co.uk/jnto_consumer/media/press-releases/press-release-detail/15-01-30/hotel-staffed-by-robots-opening-in-japan>;rel="original"
+,<http://web.archive.org/web/20150321001447/http://www.seejapan.co.uk/jnto_consumer/media/press-releases/press-release-detail/15-01-30/hotel-staffed-by-robots-opening-in-japan>;rel="memento first"; datetime="Sat, 21 Mar 2015 00:14:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.seejapan.co.uk/jnto_consumer/media/press-releases/press-release-detail/15-01-30/hotel-staffed-by-robots-opening-in-japan>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.seejapan.co.uk/jnto_consumer/media/press-releases/press-release-detail/15-01-30/hotel-staffed-by-robots-opening-in-japan>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 00:14:47 GMT";until="Sat, 21 Mar 2015 00:14:47 GMT"

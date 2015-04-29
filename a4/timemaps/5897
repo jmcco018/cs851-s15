@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:53:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://sodiumbreakup.heart.org/pledge/>;rel="original"
+,<//wayback.archive-it.org/all/20141106114646/http://sodiumbreakup.heart.org/pledge/>;rel="memento first"; datetime="Thu, 06 Nov 2014 11:46:46 GMT"
+,<//wayback.archive-it.org/all/20141216212107/http://sodiumbreakup.heart.org/pledge/>;rel="memento"; datetime="Tue, 16 Dec 2014 21:21:07 GMT"
+,<//wayback.archive-it.org/all/20141216215520/http://sodiumbreakup.heart.org/pledge/>;rel="memento"; datetime="Tue, 16 Dec 2014 21:55:20 GMT"
+,<http://web.archive.org/web/20150323212915/http://sodiumbreakup.heart.org/pledge/>;rel="memento"; datetime="Mon, 23 Mar 2015 21:29:15 GMT"
+,<//wayback.archive-it.org/all/20150415160823/http://sodiumbreakup.heart.org/pledge/>;rel="memento last"; datetime="Wed, 15 Apr 2015 16:08:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://sodiumbreakup.heart.org/pledge/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://sodiumbreakup.heart.org/pledge/>;rel="self"; type="application/link-format"; from ="Thu, 06 Nov 2014 11:46:46 GMT";until="Wed, 15 Apr 2015 16:08:23 GMT"

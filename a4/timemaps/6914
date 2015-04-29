@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:10:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://dougbardwell.com/db/2014/11/04/guideline-eyewear-great-sunglasses-great-price/>;rel="original"
+,<http://web.archive.org/web/20141129095659/http://dougbardwell.com/db/2014/11/04/guideline-eyewear-great-sunglasses-great-price/>;rel="memento first"; datetime="Sat, 29 Nov 2014 09:56:59 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://dougbardwell.com/db/2014/11/04/guideline-eyewear-great-sunglasses-great-price/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://dougbardwell.com/db/2014/11/04/guideline-eyewear-great-sunglasses-great-price/>;rel="self"; type="application/link-format"; from ="Sat, 29 Nov 2014 09:56:59 GMT";until="Sat, 29 Nov 2014 09:56:59 GMT"

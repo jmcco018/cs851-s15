@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://alternativemediasyndicate.com/2015/01/30/cops-slammed-pregnant-woman-on-her-stomach-hit-her-with-batons-now-she-is-suing-after-giving-birth-prematurely/>;rel="original"
+,<http://web.archive.org/web/20150405180923/http://alternativemediasyndicate.com/2015/01/30/cops-slammed-pregnant-woman-on-her-stomach-hit-her-with-batons-now-she-is-suing-after-giving-birth-prematurely/>;rel="memento first"; datetime="Sun, 05 Apr 2015 18:09:23 GMT"
+,<http://web.archive.org/web/20150407053532/http://alternativemediasyndicate.com/2015/01/30/cops-slammed-pregnant-woman-on-her-stomach-hit-her-with-batons-now-she-is-suing-after-giving-birth-prematurely/>;rel="memento last"; datetime="Tue, 07 Apr 2015 05:35:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://alternativemediasyndicate.com/2015/01/30/cops-slammed-pregnant-woman-on-her-stomach-hit-her-with-batons-now-she-is-suing-after-giving-birth-prematurely/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://alternativemediasyndicate.com/2015/01/30/cops-slammed-pregnant-woman-on-her-stomach-hit-her-with-batons-now-she-is-suing-after-giving-birth-prematurely/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 18:09:23 GMT";until="Tue, 07 Apr 2015 05:35:32 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:17:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.youtube.com/results?search_query=AIR+BALLOON+LILY+ALLEN>;rel="original"
+,<http://www.webarchive.org.uk:80/wayback/archive/20101012141549/http://www.youtube.com/results>;rel="memento first"; datetime="Tue, 12 Oct 2010 14:15:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.youtube.com/results?search_query=AIR+BALLOON+LILY+ALLEN>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.youtube.com/results?search_query=AIR+BALLOON+LILY+ALLEN>;rel="self"; type="application/link-format"; from ="Tue, 12 Oct 2010 14:15:49 GMT";until="Tue, 12 Oct 2010 14:15:49 GMT"

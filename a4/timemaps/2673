@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:53:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ficg.mx/30/index.php/es/noticias/83-ficg30-da-a-conocer-competencia-oficial>;rel="original"
+,<http://web.archive.org/web/20150321142021/http://www.ficg.mx/30/index.php/es/noticias/83-ficg30-da-a-conocer-competencia-oficial>;rel="memento first"; datetime="Sat, 21 Mar 2015 14:20:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ficg.mx/30/index.php/es/noticias/83-ficg30-da-a-conocer-competencia-oficial>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ficg.mx/30/index.php/es/noticias/83-ficg30-da-a-conocer-competencia-oficial>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 14:20:21 GMT";until="Sat, 21 Mar 2015 14:20:21 GMT"

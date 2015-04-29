@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:43:49 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nicovideo.jp/watch/sm3759231>;rel="original"
+,<http://web.archive.org/web/20100115034948/http://www.nicovideo.jp/watch/sm3759231>;rel="memento first"; datetime="Fri, 15 Jan 2010 03:49:48 GMT"
+,<http://web.archive.org/web/20100930230430/http://www.nicovideo.jp/watch/sm3759231?>;rel="memento"; datetime="Thu, 30 Sep 2010 23:04:30 GMT"
+,<http://web.archive.org/web/20111030035122/http://www.nicovideo.jp/watch/sm3759231>;rel="memento last"; datetime="Sun, 30 Oct 2011 03:51:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nicovideo.jp/watch/sm3759231>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nicovideo.jp/watch/sm3759231>;rel="self"; type="application/link-format"; from ="Fri, 15 Jan 2010 03:49:48 GMT";until="Sun, 30 Oct 2011 03:51:22 GMT"

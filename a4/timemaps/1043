@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:27:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.8btc.com/duoduo>;rel="original"
+,<http://web.archive.org/web/20150404074205/http://www.8btc.com/duoduo>;rel="memento first"; datetime="Sat, 04 Apr 2015 07:42:05 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.8btc.com/duoduo>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.8btc.com/duoduo>;rel="self"; type="application/link-format"; from ="Sat, 04 Apr 2015 07:42:05 GMT";until="Sat, 04 Apr 2015 07:42:05 GMT"

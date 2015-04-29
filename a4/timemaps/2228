@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:46:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.growplumbing.com/american-drain-cleaning-and-plumbing-phoenixville-pa/>;rel="original"
+,<http://web.archive.org/web/20131006015856/http://www.growplumbing.com/american-drain-cleaning-and-plumbing-phoenixville-pa/>;rel="memento first"; datetime="Sun, 06 Oct 2013 01:58:56 GMT"
+,<http://web.archive.org/web/20131206034711/http://www.growplumbing.com/american-drain-cleaning-and-plumbing-phoenixville-pa/>;rel="memento"; datetime="Fri, 06 Dec 2013 03:47:11 GMT"
+,<http://web.archive.org/web/20140714233548/http://www.growplumbing.com/american-drain-cleaning-and-plumbing-phoenixville-pa/>;rel="memento"; datetime="Mon, 14 Jul 2014 23:35:48 GMT"
+,<http://web.archive.org/web/20140815181703/http://www.growplumbing.com/american-drain-cleaning-and-plumbing-phoenixville-pa/>;rel="memento last"; datetime="Fri, 15 Aug 2014 18:17:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.growplumbing.com/american-drain-cleaning-and-plumbing-phoenixville-pa/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.growplumbing.com/american-drain-cleaning-and-plumbing-phoenixville-pa/>;rel="self"; type="application/link-format"; from ="Sun, 06 Oct 2013 01:58:56 GMT";until="Fri, 15 Aug 2014 18:17:03 GMT"

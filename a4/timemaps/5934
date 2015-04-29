@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:53:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="original"
+,<http://web.archive.org/web/20080328121957/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento first"; datetime="Fri, 28 Mar 2008 12:19:57 GMT"
+,<http://web.archive.org/web/20080429145553/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Tue, 29 Apr 2008 14:55:53 GMT"
+,<http://web.archive.org/web/20120117095022/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Tue, 17 Jan 2012 09:50:22 GMT"
+,<http://web.archive.org/web/20120215015754/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Wed, 15 Feb 2012 01:57:54 GMT"
+,<http://web.archive.org/web/20120624061846/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Sun, 24 Jun 2012 06:18:46 GMT"
+,<http://web.archive.org/web/20120628123816/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Thu, 28 Jun 2012 12:38:16 GMT"
+,<http://web.archive.org/web/20121106024340/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Tue, 06 Nov 2012 02:43:40 GMT"
+,<http://web.archive.org/web/20130508104021/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Wed, 08 May 2013 10:40:21 GMT"
+,<http://web.archive.org/web/20130824182354/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Sat, 24 Aug 2013 18:23:54 GMT"
+,<http://web.archive.org/web/20130826112045/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Mon, 26 Aug 2013 11:20:45 GMT"
+,<http://web.archive.org/web/20140307131024/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Fri, 07 Mar 2014 13:10:24 GMT"
+,<http://web.archive.org/web/20140328090154/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Fri, 28 Mar 2014 09:01:54 GMT"
+,<http://web.archive.org/web/20140815055315/http://www.yelp.com/biz/earl-of-sandwich-las-vegas?>;rel="memento"; datetime="Fri, 15 Aug 2014 05:53:15 GMT"
+,<http://web.archive.org/web/20140902141225/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Tue, 02 Sep 2014 14:12:25 GMT"
+,<http://web.archive.org/web/20141021121456/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Tue, 21 Oct 2014 12:14:56 GMT"
+,<http://web.archive.org/web/20141022132820/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento"; datetime="Wed, 22 Oct 2014 13:28:20 GMT"
+,<http://web.archive.org/web/20150326015412/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="memento last"; datetime="Thu, 26 Mar 2015 01:54:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.yelp.com/biz/earl-of-sandwich-las-vegas>;rel="self"; type="application/link-format"; from ="Fri, 28 Mar 2008 12:19:57 GMT";until="Thu, 26 Mar 2015 01:54:12 GMT"

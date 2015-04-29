@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:54:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thenationalstudent.com/Film/2015-01-30/Interview_Taron_Egerton.html>;rel="original"
+,<http://web.archive.org/web/20150330051026/http://www.thenationalstudent.com/Film/2015-01-30/Interview_Taron_Egerton.html>;rel="memento first"; datetime="Mon, 30 Mar 2015 05:10:26 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thenationalstudent.com/Film/2015-01-30/Interview_Taron_Egerton.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thenationalstudent.com/Film/2015-01-30/Interview_Taron_Egerton.html>;rel="self"; type="application/link-format"; from ="Mon, 30 Mar 2015 05:10:26 GMT";until="Mon, 30 Mar 2015 05:10:26 GMT"

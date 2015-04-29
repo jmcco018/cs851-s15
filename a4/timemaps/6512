@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:09 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://spectrum.ieee.org/automaton/robotics/home-robots/care-o-bot-4-mobile-manipulator>;rel="original"
+,<http://archive.is/20150130003909/http://spectrum.ieee.org/automaton/robotics/home-robots/care-o-bot-4-mobile-manipulator>;rel="memento first"; datetime="Fri, 30 Jan 2015 00:39:09 GMT"
+,<http://web.archive.org/web/20150217154314/http://spectrum.ieee.org/automaton/robotics/home-robots/care-o-bot-4-mobile-manipulator>;rel="memento"; datetime="Tue, 17 Feb 2015 15:43:14 GMT"
+,<http://web.archive.org/web/20150401144223/http://spectrum.ieee.org/automaton/robotics/home-robots/care-o-bot-4-mobile-manipulator>;rel="memento last"; datetime="Wed, 01 Apr 2015 14:42:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://spectrum.ieee.org/automaton/robotics/home-robots/care-o-bot-4-mobile-manipulator>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://spectrum.ieee.org/automaton/robotics/home-robots/care-o-bot-4-mobile-manipulator>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 00:39:09 GMT";until="Wed, 01 Apr 2015 14:42:23 GMT"

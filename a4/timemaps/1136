@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:28:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://stressedrach.co.uk/butterflies-world-rodney-jones/>;rel="original"
+,<http://web.archive.org/web/20150316165421/http://stressedrach.co.uk/butterflies-world-rodney-jones/>;rel="memento first"; datetime="Mon, 16 Mar 2015 16:54:21 GMT"
+,<http://web.archive.org/web/20150404233458/http://stressedrach.co.uk/butterflies-world-rodney-jones/>;rel="memento last"; datetime="Sat, 04 Apr 2015 23:34:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://stressedrach.co.uk/butterflies-world-rodney-jones/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://stressedrach.co.uk/butterflies-world-rodney-jones/>;rel="self"; type="application/link-format"; from ="Mon, 16 Mar 2015 16:54:21 GMT";until="Sat, 04 Apr 2015 23:34:58 GMT"

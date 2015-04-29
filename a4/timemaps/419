@@ -1,0 +1,41 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:16:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="original"
+,<http://web.archive.org/web/20150128195544/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento first"; datetime="Wed, 28 Jan 2015 19:55:44 GMT"
+,<http://archive.is/20150128195627/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Wed, 28 Jan 2015 19:56:27 GMT"
+,<http://archive.is/20150128210517/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Wed, 28 Jan 2015 21:05:17 GMT"
+,<http://archive.is/20150129003310/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 00:33:10 GMT"
+,<http://archive.is/20150129011940/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 01:19:40 GMT"
+,<http://archive.is/20150129012844/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 01:28:44 GMT"
+,<http://archive.is/20150129020616/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 02:06:16 GMT"
+,<http://web.archive.org/web/20150129020635/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 02:06:35 GMT"
+,<http://archive.is/20150129030933/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 03:09:33 GMT"
+,<http://archive.is/20150129060212/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 06:02:12 GMT"
+,<http://archive.is/20150129061527/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 06:15:27 GMT"
+,<http://archive.is/20150129133600/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 13:36:00 GMT"
+,<http://web.archive.org/web/20150129165347/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 16:53:47 GMT"
+,<http://web.archive.org/web/20150129165901/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 16:59:01 GMT"
+,<http://archive.is/20150129165910/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 16:59:10 GMT"
+,<http://archive.is/20150129191709/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 19:17:09 GMT"
+,<http://archive.is/20150129204347/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 29 Jan 2015 20:43:47 GMT"
+,<http://archive.is/20150130044358/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Fri, 30 Jan 2015 04:43:58 GMT"
+,<http://web.archive.org/web/20150130080111/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Fri, 30 Jan 2015 08:01:11 GMT"
+,<http://archive.is/20150131000756/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Sat, 31 Jan 2015 00:07:56 GMT"
+,<http://archive.is/20150201025923/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Sun, 01 Feb 2015 02:59:23 GMT"
+,<http://archive.is/20150201124043/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Sun, 01 Feb 2015 12:40:43 GMT"
+,<http://web.archive.org/web/20150202063138/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Mon, 02 Feb 2015 06:31:38 GMT"
+,<http://archive.is/20150205191536/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 05 Feb 2015 19:15:36 GMT"
+,<http://archive.is/20150213222646/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Fri, 13 Feb 2015 22:26:46 GMT"
+,<http://archive.is/20150223145900/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Mon, 23 Feb 2015 14:59:00 GMT"
+,<http://archive.is/20150312060108/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Thu, 12 Mar 2015 06:01:08 GMT"
+,<http://web.archive.org/web/20150317055619/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Tue, 17 Mar 2015 05:56:19 GMT"
+,<http://archive.is/20150320010255/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Fri, 20 Mar 2015 01:02:55 GMT"
+,<http://web.archive.org/web/20150328063725/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento"; datetime="Sat, 28 Mar 2015 06:37:25 GMT"
+,<http://web.archive.org/web/20150404180212/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="memento last"; datetime="Sat, 04 Apr 2015 18:02:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://boingboing.net/2015/01/28/a-beginners-guide-to-the-red.html>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 19:55:44 GMT";until="Sat, 04 Apr 2015 18:02:12 GMT"

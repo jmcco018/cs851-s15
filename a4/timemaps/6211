@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:58:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://epicmobonline.com/products/la-skeleton-tee>;rel="original"
+,<http://web.archive.org/web/20150320091109/http://www.epicmobonline.com/products/la-skeleton-tee>;rel="memento first"; datetime="Fri, 20 Mar 2015 09:11:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://epicmobonline.com/products/la-skeleton-tee>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://epicmobonline.com/products/la-skeleton-tee>;rel="self"; type="application/link-format"; from ="Fri, 20 Mar 2015 09:11:09 GMT";until="Fri, 20 Mar 2015 09:11:09 GMT"

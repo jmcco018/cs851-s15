@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:18:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/global-development/2015/jan/30/water-privatisation-worldwide-failure-lagos-world-bank>;rel="original"
+,<http://web.archive.org/web/20150316193840/http://www.theguardian.com/global-development/2015/jan/30/water-privatisation-worldwide-failure-lagos-world-bank>;rel="memento first"; datetime="Mon, 16 Mar 2015 19:38:40 GMT"
+,<http://web.archive.org/web/20150328210325/http://www.theguardian.com/global-development/2015/jan/30/water-privatisation-worldwide-failure-lagos-world-bank>;rel="memento"; datetime="Sat, 28 Mar 2015 21:03:25 GMT"
+,<http://web.archive.org/web/20150330074414/http://www.theguardian.com/global-development/2015/jan/30/water-privatisation-worldwide-failure-lagos-world-bank>;rel="memento last"; datetime="Mon, 30 Mar 2015 07:44:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/global-development/2015/jan/30/water-privatisation-worldwide-failure-lagos-world-bank>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/global-development/2015/jan/30/water-privatisation-worldwide-failure-lagos-world-bank>;rel="self"; type="application/link-format"; from ="Mon, 16 Mar 2015 19:38:40 GMT";until="Mon, 30 Mar 2015 07:44:14 GMT"

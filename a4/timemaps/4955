@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:37:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.komonews.com/news/local/Seattle-teacher-suing-city-after-being-pepper-sprayed-at-MLK-rally-290149021.html?tab=video&c=y>;rel="original"
+,<http://web.archive.org/web/20150406125628/http://www.komonews.com/news/local/Seattle-teacher-suing-city-after-being-pepper-sprayed-at-MLK-rally-290149021.html?tab=video&c=y>;rel="memento first"; datetime="Mon, 06 Apr 2015 12:56:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.komonews.com/news/local/Seattle-teacher-suing-city-after-being-pepper-sprayed-at-MLK-rally-290149021.html?tab=video&c=y>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.komonews.com/news/local/Seattle-teacher-suing-city-after-being-pepper-sprayed-at-MLK-rally-290149021.html?tab=video&c=y>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 12:56:28 GMT";until="Mon, 06 Apr 2015 12:56:28 GMT"

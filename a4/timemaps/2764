@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:54:55 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://moviessilently.com/2014/03/30/chicago-1927-a-silent-film-review/>;rel="original"
+,<http://web.archive.org/web/20140330193955/http://moviessilently.com/2014/03/30/chicago-1927-a-silent-film-review/>;rel="memento first"; datetime="Sun, 30 Mar 2014 19:39:55 GMT"
+,<http://web.archive.org/web/20140429132052/http://moviessilently.com/2014/03/30/chicago-1927-a-silent-film-review/>;rel="memento"; datetime="Tue, 29 Apr 2014 13:20:52 GMT"
+,<http://web.archive.org/web/20141026032833/http://moviessilently.com/2014/03/30/chicago-1927-a-silent-film-review/>;rel="memento"; datetime="Sun, 26 Oct 2014 03:28:33 GMT"
+,<http://web.archive.org/web/20150419044823/http://moviessilently.com/2014/03/30/chicago-1927-a-silent-film-review/>;rel="memento last"; datetime="Sun, 19 Apr 2015 04:48:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://moviessilently.com/2014/03/30/chicago-1927-a-silent-film-review/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://moviessilently.com/2014/03/30/chicago-1927-a-silent-film-review/>;rel="self"; type="application/link-format"; from ="Sun, 30 Mar 2014 19:39:55 GMT";until="Sun, 19 Apr 2015 04:48:23 GMT"

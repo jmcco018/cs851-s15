@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:19:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://flightsandfrustration.com/how-to-use-the-toilet-in-greece/>;rel="original"
+,<http://web.archive.org/web/20141201070454/http://flightsandfrustration.com/how-to-use-the-toilet-in-greece/>;rel="memento first"; datetime="Mon, 01 Dec 2014 07:04:54 GMT"
+,<http://web.archive.org/web/20150315062630/http://flightsandfrustration.com/how-to-use-the-toilet-in-greece/>;rel="memento last"; datetime="Sun, 15 Mar 2015 06:26:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://flightsandfrustration.com/how-to-use-the-toilet-in-greece/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://flightsandfrustration.com/how-to-use-the-toilet-in-greece/>;rel="self"; type="application/link-format"; from ="Mon, 01 Dec 2014 07:04:54 GMT";until="Sun, 15 Mar 2015 06:26:30 GMT"

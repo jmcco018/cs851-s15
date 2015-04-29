@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:42:53 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.amnesty.org.uk/actions/uk-government-free-raif-badawi-blogger-saudi-arabia>;rel="original"
+,<http://web.archive.org/web/20150403100135/http://amnesty.org.uk/actions/uk-government-free-raif-badawi-blogger-saudi-arabia>;rel="memento first"; datetime="Fri, 03 Apr 2015 10:01:35 GMT"
+,<http://web.archive.org/web/20150403100150/https://amnesty.org.uk/actions/uk-government-free-raif-badawi-blogger-saudi-arabia>;rel="memento"; datetime="Fri, 03 Apr 2015 10:01:50 GMT"
+,<http://web.archive.org/web/20150403194039/https://www.amnesty.org.uk/actions/uk-government-free-raif-badawi-blogger-saudi-arabia>;rel="memento"; datetime="Fri, 03 Apr 2015 19:40:39 GMT"
+,<http://web.archive.org/web/20150404044259/http://www.amnesty.org.uk/actions/uk-government-free-raif-badawi-blogger-saudi-arabia>;rel="memento"; datetime="Sat, 04 Apr 2015 04:42:59 GMT"
+,<http://web.archive.org/web/20150406200812/https://www.amnesty.org.uk/actions/uk-government-free-raif-badawi-blogger-saudi-arabia>;rel="memento"; datetime="Mon, 06 Apr 2015 20:08:12 GMT"
+,<http://web.archive.org/web/20150410192229/http://amnesty.org.uk/actions/uk-government-free-raif-badawi-blogger-saudi-arabia>;rel="memento last"; datetime="Fri, 10 Apr 2015 19:22:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.amnesty.org.uk/actions/uk-government-free-raif-badawi-blogger-saudi-arabia>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.amnesty.org.uk/actions/uk-government-free-raif-badawi-blogger-saudi-arabia>;rel="self"; type="application/link-format"; from ="Fri, 03 Apr 2015 10:01:35 GMT";until="Fri, 10 Apr 2015 19:22:29 GMT"

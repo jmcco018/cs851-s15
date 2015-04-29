@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:09:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.unwait.me>;rel="original"
+,<http://web.archive.org/web/20150314200907/http://unwait.me/>;rel="memento first"; datetime="Sat, 14 Mar 2015 20:09:07 GMT"
+,<http://web.archive.org/web/20150314200908/https://www.unwait.me/>;rel="memento"; datetime="Sat, 14 Mar 2015 20:09:08 GMT"
+,<http://web.archive.org/web/20150314234337/https://www.unwait.me/>;rel="memento last"; datetime="Sat, 14 Mar 2015 23:43:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.unwait.me>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.unwait.me>;rel="self"; type="application/link-format"; from ="Sat, 14 Mar 2015 20:09:07 GMT";until="Sat, 14 Mar 2015 23:43:37 GMT"

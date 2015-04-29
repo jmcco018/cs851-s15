@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:18:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.amazon.com/Rubbermaid-Commercial-FGTHO550-Monitoring-Thermometer/dp/B005KDEIZ0/>;rel="original"
+,<http://web.archive.org/web/20140620055739/http://www.amazon.com/Rubbermaid-Commercial-FGTHO550-Monitoring-Thermometer/dp/B005KDEIZ0>;rel="memento first"; datetime="Fri, 20 Jun 2014 05:57:39 GMT"
+,<http://web.archive.org/web/20140713214430/http://www.amazon.com/Rubbermaid-Commercial-FGTHO550-Monitoring-Thermometer/dp/B005KDEIZ0>;rel="memento"; datetime="Sun, 13 Jul 2014 21:44:30 GMT"
+,<http://web.archive.org/web/20140720151605/http://www.amazon.com/Rubbermaid-Commercial-FGTHO550-Monitoring-Thermometer/dp/B005KDEIZ0?>;rel="memento"; datetime="Sun, 20 Jul 2014 15:16:05 GMT"
+,<http://web.archive.org/web/20140816071839/http://www.amazon.com/Rubbermaid-Commercial-FGTHO550-Monitoring-Thermometer/dp/B005KDEIZ0>;rel="memento"; datetime="Sat, 16 Aug 2014 07:18:39 GMT"
+,<http://web.archive.org/web/20140827131552/http://www.amazon.com/Rubbermaid-Commercial-FGTHO550-Monitoring-Thermometer/dp/B005KDEIZ0>;rel="memento"; datetime="Wed, 27 Aug 2014 13:15:52 GMT"
+,<http://web.archive.org/web/20141103212236/http://www.amazon.com/Rubbermaid-Commercial-FGTHO550-Monitoring-Thermometer/dp/B005KDEIZ0>;rel="memento last"; datetime="Mon, 03 Nov 2014 21:22:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.amazon.com/Rubbermaid-Commercial-FGTHO550-Monitoring-Thermometer/dp/B005KDEIZ0/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.amazon.com/Rubbermaid-Commercial-FGTHO550-Monitoring-Thermometer/dp/B005KDEIZ0/>;rel="self"; type="application/link-format"; from ="Fri, 20 Jun 2014 05:57:39 GMT";until="Mon, 03 Nov 2014 21:22:36 GMT"

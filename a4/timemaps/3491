@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:09:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://nsagirls.com>;rel="original"
+,<http://web.archive.org/web/20061028021342/http://nsagirls.com/>;rel="memento first"; datetime="Sat, 28 Oct 2006 02:13:42 GMT"
+,<http://web.archive.org/web/20061108043039/http://nsagirls.com/>;rel="memento"; datetime="Wed, 08 Nov 2006 04:30:39 GMT"
+,<http://web.archive.org/web/20061116102126/http://nsagirls.com/>;rel="memento"; datetime="Thu, 16 Nov 2006 10:21:26 GMT"
+,<http://web.archive.org/web/20061125213106/http://nsagirls.com/>;rel="memento"; datetime="Sat, 25 Nov 2006 21:31:06 GMT"
+,<http://web.archive.org/web/20061126060745/http://nsagirls.com/>;rel="memento"; datetime="Sun, 26 Nov 2006 06:07:45 GMT"
+,<http://web.archive.org/web/20061203064518/http://nsagirls.com/>;rel="memento"; datetime="Sun, 03 Dec 2006 06:45:18 GMT"
+,<http://web.archive.org/web/20080212184554/http://nsagirls.com/>;rel="memento"; datetime="Tue, 12 Feb 2008 18:45:54 GMT"
+,<http://web.archive.org/web/20080315170215/http://nsagirls.com/>;rel="memento"; datetime="Sat, 15 Mar 2008 17:02:15 GMT"
+,<http://web.archive.org/web/20080930184839/http://nsagirls.com/>;rel="memento"; datetime="Tue, 30 Sep 2008 18:48:39 GMT"
+,<http://web.archive.org/web/20140102101339/http://nsagirls.com/>;rel="memento"; datetime="Thu, 02 Jan 2014 10:13:39 GMT"
+,<http://web.archive.org/web/20140501100938/http://www.nsagirls.com/>;rel="memento"; datetime="Thu, 01 May 2014 10:09:38 GMT"
+,<http://web.archive.org/web/20140517204337/http://nsagirls.com/>;rel="memento"; datetime="Sat, 17 May 2014 20:43:37 GMT"
+,<http://web.archive.org/web/20141218052241/http://nsagirls.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 05:22:41 GMT"
+,<http://web.archive.org/web/20150218202118/http://www.nsagirls.com/>;rel="memento last"; datetime="Wed, 18 Feb 2015 20:21:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://nsagirls.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://nsagirls.com>;rel="self"; type="application/link-format"; from ="Sat, 28 Oct 2006 02:13:42 GMT";until="Wed, 18 Feb 2015 20:21:18 GMT"

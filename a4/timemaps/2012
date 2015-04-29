@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:42:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.wasps.co.uk/news/article/2015/01/30/wasps-team-for-cardiff-clash-in-lv=cup>;rel="original"
+,<http://web.archive.org/web/20150418082348/http://wasps.co.uk/news/article/2015/01/30/wasps-team-for-cardiff-clash-in-lv=cup>;rel="memento first"; datetime="Sat, 18 Apr 2015 08:23:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.wasps.co.uk/news/article/2015/01/30/wasps-team-for-cardiff-clash-in-lv=cup>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.wasps.co.uk/news/article/2015/01/30/wasps-team-for-cardiff-clash-in-lv=cup>;rel="self"; type="application/link-format"; from ="Sat, 18 Apr 2015 08:23:48 GMT";until="Sat, 18 Apr 2015 08:23:48 GMT"

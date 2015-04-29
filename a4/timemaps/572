@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:19:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://ohmyveggies.com/korean-barbecue-tofu-bowls-with-stir-fried-veggies-and-quinoa/>;rel="original"
+,<http://web.archive.org/web/20150129185006/http://ohmyveggies.com/korean-barbecue-tofu-bowls-with-stir-fried-veggies-and-quinoa/>;rel="memento first"; datetime="Thu, 29 Jan 2015 18:50:06 GMT"
+,<http://archive.is/20150304121258/http://ohmyveggies.com/korean-barbecue-tofu-bowls-with-stir-fried-veggies-and-quinoa/>;rel="memento"; datetime="Wed, 04 Mar 2015 12:12:58 GMT"
+,<http://web.archive.org/web/20150314232648/http://ohmyveggies.com/korean-barbecue-tofu-bowls-with-stir-fried-veggies-and-quinoa/>;rel="memento last"; datetime="Sat, 14 Mar 2015 23:26:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://ohmyveggies.com/korean-barbecue-tofu-bowls-with-stir-fried-veggies-and-quinoa/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://ohmyveggies.com/korean-barbecue-tofu-bowls-with-stir-fried-veggies-and-quinoa/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 18:50:06 GMT";until="Sat, 14 Mar 2015 23:26:48 GMT"

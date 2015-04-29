@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:23:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.amazon.com/dp/B007DCBN7W>;rel="original"
+,<http://web.archive.org/web/20120601110517/http://www.amazon.com/dp/B007DCBN7W>;rel="memento first"; datetime="Fri, 01 Jun 2012 11:05:17 GMT"
+,<//wayback.archive-it.org/all/20131020184934/http://www.amazon.com/dp/B007DCBN7W>;rel="memento"; datetime="Sun, 20 Oct 2013 18:49:34 GMT"
+,<//wayback.archive-it.org/all/20140124112911/http://www.amazon.com/dp/B007DCBN7W>;rel="memento"; datetime="Fri, 24 Jan 2014 11:29:11 GMT"
+,<//wayback.archive-it.org/all/20140311194225/http://www.amazon.com/dp/B007DCBN7W>;rel="memento"; datetime="Tue, 11 Mar 2014 19:42:25 GMT"
+,<http://web.archive.org/web/20140611003150/http://www.amazon.com/dp/B007DCBN7W/>;rel="memento"; datetime="Wed, 11 Jun 2014 00:31:50 GMT"
+,<http://web.archive.org/web/20140703042228/http://www.amazon.com/dp/B007DCBN7W>;rel="memento"; datetime="Thu, 03 Jul 2014 04:22:28 GMT"
+,<//wayback.archive-it.org/all/20141008181054/http://www.amazon.com/dp/B007DCBN7W>;rel="memento"; datetime="Wed, 08 Oct 2014 18:10:54 GMT"
+,<//wayback.archive-it.org/all/20150107110709/http://www.amazon.com/dp/B007DCBN7W>;rel="memento"; datetime="Wed, 07 Jan 2015 11:07:09 GMT"
+,<//wayback.archive-it.org/all/20150113062857/http://www.amazon.com/dp/B007DCBN7W>;rel="memento"; datetime="Tue, 13 Jan 2015 06:28:57 GMT"
+,<http://web.archive.org/web/20150203031533/http://www.amazon.com/dp/B007DCBN7W>;rel="memento"; datetime="Tue, 03 Feb 2015 03:15:33 GMT"
+,<//wayback.archive-it.org/all/20150401163529/http://www.amazon.com/dp/B007DCBN7W>;rel="memento last"; datetime="Wed, 01 Apr 2015 16:35:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.amazon.com/dp/B007DCBN7W>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.amazon.com/dp/B007DCBN7W>;rel="self"; type="application/link-format"; from ="Fri, 01 Jun 2012 11:05:17 GMT";until="Wed, 01 Apr 2015 16:35:29 GMT"

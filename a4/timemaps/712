@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:21:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.bible.com/reading-plans/1326-the-niv-365-day-devotional-reading-plan>;rel="original"
+,<http://web.archive.org/web/20150318070943/https://www.bible.com/reading-plans/1326-the-niv-365-day-devotional-reading-plan>;rel="memento first"; datetime="Wed, 18 Mar 2015 07:09:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.bible.com/reading-plans/1326-the-niv-365-day-devotional-reading-plan>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.bible.com/reading-plans/1326-the-niv-365-day-devotional-reading-plan>;rel="self"; type="application/link-format"; from ="Wed, 18 Mar 2015 07:09:43 GMT";until="Wed, 18 Mar 2015 07:09:43 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:32:19 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://whenonearth.net/explore-resavska-pecina-cave-eastern-serbia/>;rel="original"
+,<http://web.archive.org/web/20150315035525/http://whenonearth.net/explore-resavska-pecina-cave-eastern-serbia/>;rel="memento first"; datetime="Sun, 15 Mar 2015 03:55:25 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://whenonearth.net/explore-resavska-pecina-cave-eastern-serbia/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://whenonearth.net/explore-resavska-pecina-cave-eastern-serbia/>;rel="self"; type="application/link-format"; from ="Sun, 15 Mar 2015 03:55:25 GMT";until="Sun, 15 Mar 2015 03:55:25 GMT"

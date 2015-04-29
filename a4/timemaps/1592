@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:36:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cruxnow.com/church/2015/01/29/vatican-condemns-plastic-surgery-calling-it-aggression-against-women/>;rel="original"
+,<http://web.archive.org/web/20150205133828/http://www.cruxnow.com/church/2015/01/29/vatican-condemns-plastic-surgery-calling-it-aggression-against-women/>;rel="memento first"; datetime="Thu, 05 Feb 2015 13:38:28 GMT"
+,<http://web.archive.org/web/20150416105713/http://www.cruxnow.com/church/2015/01/29/vatican-condemns-plastic-surgery-calling-it-aggression-against-women/>;rel="memento last"; datetime="Thu, 16 Apr 2015 10:57:13 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cruxnow.com/church/2015/01/29/vatican-condemns-plastic-surgery-calling-it-aggression-against-women/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cruxnow.com/church/2015/01/29/vatican-condemns-plastic-surgery-calling-it-aggression-against-women/>;rel="self"; type="application/link-format"; from ="Thu, 05 Feb 2015 13:38:28 GMT";until="Thu, 16 Apr 2015 10:57:13 GMT"

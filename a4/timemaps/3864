@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:19:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.multiplybitcoin.com>;rel="original"
+,<http://web.archive.org/web/20150210045654/http://www.multiplybitcoin.com/>;rel="memento first"; datetime="Tue, 10 Feb 2015 04:56:54 GMT"
+,<http://web.archive.org/web/20150315023538/http://www.multiplybitcoin.com/>;rel="memento last"; datetime="Sun, 15 Mar 2015 02:35:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.multiplybitcoin.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.multiplybitcoin.com>;rel="self"; type="application/link-format"; from ="Tue, 10 Feb 2015 04:56:54 GMT";until="Sun, 15 Mar 2015 02:35:38 GMT"

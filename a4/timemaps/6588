@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/app/intro-designer-lite-create/id488748114?ls=1&mt=8>;rel="original"
+,<http://web.archive.org/web/20150330093751/https://itunes.apple.com/app/intro-designer-lite-create/id488748114?ls=1&mt=8>;rel="memento first"; datetime="Mon, 30 Mar 2015 09:37:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/app/intro-designer-lite-create/id488748114?ls=1&mt=8>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/app/intro-designer-lite-create/id488748114?ls=1&mt=8>;rel="self"; type="application/link-format"; from ="Mon, 30 Mar 2015 09:37:51 GMT";until="Mon, 30 Mar 2015 09:37:51 GMT"

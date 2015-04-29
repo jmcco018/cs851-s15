@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2015%2F01%2F30%2Fworld%2Fmiddleeast%2Fbombings-of-security-facilities-in-sinai-kill-at-least-26.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR>;rel="original"
+,<http://web.archive.org/web/20150130020045/https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2015%2F01%2F30%2Fworld%2Fmiddleeast%2Fbombings-of-security-facilities-in-sinai-kill-at-least-26.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR>;rel="memento first"; datetime="Fri, 30 Jan 2015 02:00:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2015%2F01%2F30%2Fworld%2Fmiddleeast%2Fbombings-of-security-facilities-in-sinai-kill-at-least-26.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2015%2F01%2F30%2Fworld%2Fmiddleeast%2Fbombings-of-security-facilities-in-sinai-kill-at-least-26.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 02:00:45 GMT";until="Fri, 30 Jan 2015 02:00:45 GMT"

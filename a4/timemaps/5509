@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.restaurant.org/Manage-My-Restaurant/Marketing-Sales/In-Store-Experience/What-s-an-acceptable-level-of-noise-Here-s-sound>;rel="original"
+,<http://web.archive.org/web/20130307212528/http://www.restaurant.org/Manage-My-Restaurant/Marketing-Sales/In-Store-Experience/What-s-an-acceptable-level-of-noise-Here-s-sound>;rel="memento first"; datetime="Thu, 07 Mar 2013 21:25:28 GMT"
+,<http://web.archive.org/web/20130518185550/http://www.restaurant.org/Manage-My-Restaurant/Marketing-Sales/In-Store-Experience/What-s-an-acceptable-level-of-noise-Here-s-sound>;rel="memento"; datetime="Sat, 18 May 2013 18:55:50 GMT"
+,<http://web.archive.org/web/20130618040129/http://www.restaurant.org/Manage-My-Restaurant/Marketing-Sales/In-Store-Experience/What-s-an-acceptable-level-of-noise-Here-s-sound>;rel="memento"; datetime="Tue, 18 Jun 2013 04:01:29 GMT"
+,<http://web.archive.org/web/20130620165959/http://www.restaurant.org/Manage-My-Restaurant/Marketing-Sales/In-Store-Experience/What-s-an-acceptable-level-of-noise-Here-s-sound>;rel="memento"; datetime="Thu, 20 Jun 2013 16:59:59 GMT"
+,<http://web.archive.org/web/20130719101753/http://www.restaurant.org/Manage-My-Restaurant/Marketing-Sales/In-Store-Experience/What-s-an-acceptable-level-of-noise-Here-s-sound>;rel="memento"; datetime="Fri, 19 Jul 2013 10:17:53 GMT"
+,<http://web.archive.org/web/20140717234833/http://www.restaurant.org/Manage-My-Restaurant/Marketing-Sales/In-Store-Experience/What-s-an-acceptable-level-of-noise-Here-s-sound>;rel="memento last"; datetime="Thu, 17 Jul 2014 23:48:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.restaurant.org/Manage-My-Restaurant/Marketing-Sales/In-Store-Experience/What-s-an-acceptable-level-of-noise-Here-s-sound>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.restaurant.org/Manage-My-Restaurant/Marketing-Sales/In-Store-Experience/What-s-an-acceptable-level-of-noise-Here-s-sound>;rel="self"; type="application/link-format"; from ="Thu, 07 Mar 2013 21:25:28 GMT";until="Thu, 17 Jul 2014 23:48:33 GMT"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:25:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://abcnews.go.com/Entertainment/hallmarks-kitten-bowl-returns-year/story?id=28600044>;rel="original"
+,<http://web.archive.org/web/20150130112113/https://abcnews.go.com/Entertainment/hallmarks-kitten-bowl-returns-year/story?id=28600044>;rel="memento first"; datetime="Fri, 30 Jan 2015 11:21:13 GMT"
+,<http://web.archive.org/web/20150316162135/http://abcnews.go.com/Entertainment/hallmarks-kitten-bowl-returns-year/story?id=28600044>;rel="memento last"; datetime="Mon, 16 Mar 2015 16:21:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://abcnews.go.com/Entertainment/hallmarks-kitten-bowl-returns-year/story?id=28600044>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://abcnews.go.com/Entertainment/hallmarks-kitten-bowl-returns-year/story?id=28600044>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 11:21:13 GMT";until="Mon, 16 Mar 2015 16:21:35 GMT"

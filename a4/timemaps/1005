@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://nautil.us/issue/20/creativity/safecracking-the-brain-rp>;rel="original"
+,<http://archive.is/20150129174837/http://nautil.us/issue/20/creativity/safecracking-the-brain-rp>;rel="memento first"; datetime="Thu, 29 Jan 2015 17:48:37 GMT"
+,<http://web.archive.org/web/20150314234724/http://nautil.us/issue/20/creativity/safecracking-the-brain-rp>;rel="memento last"; datetime="Sat, 14 Mar 2015 23:47:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://nautil.us/issue/20/creativity/safecracking-the-brain-rp>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://nautil.us/issue/20/creativity/safecracking-the-brain-rp>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 17:48:37 GMT";until="Sat, 14 Mar 2015 23:47:24 GMT"

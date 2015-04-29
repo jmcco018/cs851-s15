@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:40:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.whoi.edu/oceanus/feature/new-use-for-a-well-known-algae>;rel="original"
+,<http://web.archive.org/web/20150213055917/http://www.whoi.edu/oceanus/feature/new-use-for-a-well-known-algae>;rel="memento first"; datetime="Fri, 13 Feb 2015 05:59:17 GMT"
+,<http://web.archive.org/web/20150323220635/http://www.whoi.edu/oceanus/feature/new-use-for-a-well-known-algae>;rel="memento last"; datetime="Mon, 23 Mar 2015 22:06:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.whoi.edu/oceanus/feature/new-use-for-a-well-known-algae>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.whoi.edu/oceanus/feature/new-use-for-a-well-known-algae>;rel="self"; type="application/link-format"; from ="Fri, 13 Feb 2015 05:59:17 GMT";until="Mon, 23 Mar 2015 22:06:35 GMT"

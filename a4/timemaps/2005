@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:42:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nj.com/redbulls/index.ssf/2015/01/will_world_cup_star_tim_howard_return_to_new_jerse.html>;rel="original"
+,<http://web.archive.org/web/20150319012754/http://www.nj.com/redbulls/index.ssf/2015/01/will_world_cup_star_tim_howard_return_to_new_jerse.html>;rel="memento first"; datetime="Thu, 19 Mar 2015 01:27:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nj.com/redbulls/index.ssf/2015/01/will_world_cup_star_tim_howard_return_to_new_jerse.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nj.com/redbulls/index.ssf/2015/01/will_world_cup_star_tim_howard_return_to_new_jerse.html>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 01:27:54 GMT";until="Thu, 19 Mar 2015 01:27:54 GMT"

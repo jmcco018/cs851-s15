@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:43:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bostonglobe.com/business/2014/12/16/could-big-pharma-appetite-for-local-biotechs-hurt-independents/2cOSymbrRaBVU5GjAFrxJJ/story.html>;rel="original"
+,<http://web.archive.org/web/20141217223418/http://www.bostonglobe.com/business/2014/12/16/could-big-pharma-appetite-for-local-biotechs-hurt-independents/2cOSymbrRaBVU5GjAFrxJJ/story.html>;rel="memento first"; datetime="Wed, 17 Dec 2014 22:34:18 GMT"
+,<http://web.archive.org/web/20141218214618/https://www.bostonglobe.com/business/2014/12/16/could-big-pharma-appetite-for-local-biotechs-hurt-independents/2cOSymbrRaBVU5GjAFrxJJ/story.html>;rel="memento"; datetime="Thu, 18 Dec 2014 21:46:18 GMT"
+,<http://web.archive.org/web/20150324193940/http://www.bostonglobe.com/business/2014/12/16/could-big-pharma-appetite-for-local-biotechs-hurt-independents/2cOSymbrRaBVU5GjAFrxJJ/story.html>;rel="memento last"; datetime="Tue, 24 Mar 2015 19:39:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bostonglobe.com/business/2014/12/16/could-big-pharma-appetite-for-local-biotechs-hurt-independents/2cOSymbrRaBVU5GjAFrxJJ/story.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bostonglobe.com/business/2014/12/16/could-big-pharma-appetite-for-local-biotechs-hurt-independents/2cOSymbrRaBVU5GjAFrxJJ/story.html>;rel="self"; type="application/link-format"; from ="Wed, 17 Dec 2014 22:34:18 GMT";until="Tue, 24 Mar 2015 19:39:40 GMT"

@@ -1,0 +1,39 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 0.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Kohlschütter:2011:boilerpipe}{online}{}
+  \name{author}{1}{%
+    {{Kohlschütter}{K.}%
+     {Christian}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KC1}
+  \strng{fullhash}{KC1}
+  \field{sortinit}{K}
+  \field{title}{Boilerpipe}
+  \verb{url}
+  \verb https://code.google.com/p/boilerpipe/
+  \endverb
+  \field{year}{2011}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

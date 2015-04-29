@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:34:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://copromote.com/?tsid=copromote_now>;rel="original"
+,<//wayback.archive-it.org/all/20150401164748/http://copromote.com/?tsid=copromote_now>;rel="memento first"; datetime="Wed, 01 Apr 2015 16:47:48 GMT"
+,<//wayback.archive-it.org/all/20150401164750/https://copromote.com/?tsid=copromote_now>;rel="memento"; datetime="Wed, 01 Apr 2015 16:47:50 GMT"
+,<http://web.archive.org/web/20150403120413/https://copromote.com/?tsid=copromote_now>;rel="memento last"; datetime="Fri, 03 Apr 2015 12:04:13 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://copromote.com/?tsid=copromote_now>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://copromote.com/?tsid=copromote_now>;rel="self"; type="application/link-format"; from ="Wed, 01 Apr 2015 16:47:48 GMT";until="Fri, 03 Apr 2015 12:04:13 GMT"

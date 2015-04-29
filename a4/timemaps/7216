@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:15:38 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="original"
+,<http://web.archive.org/web/20150310063258/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento first"; datetime="Tue, 10 Mar 2015 06:32:58 GMT"
+,<http://web.archive.org/web/20150311094030/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Wed, 11 Mar 2015 09:40:30 GMT"
+,<http://web.archive.org/web/20150312125456/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Thu, 12 Mar 2015 12:54:56 GMT"
+,<http://web.archive.org/web/20150313185512/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Fri, 13 Mar 2015 18:55:12 GMT"
+,<http://web.archive.org/web/20150314230153/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Sat, 14 Mar 2015 23:01:53 GMT"
+,<http://web.archive.org/web/20150316051428/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Mon, 16 Mar 2015 05:14:28 GMT"
+,<http://web.archive.org/web/20150317080023/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Tue, 17 Mar 2015 08:00:23 GMT"
+,<http://web.archive.org/web/20150318102354/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Wed, 18 Mar 2015 10:23:54 GMT"
+,<http://web.archive.org/web/20150319130257/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Thu, 19 Mar 2015 13:02:57 GMT"
+,<http://web.archive.org/web/20150321133038/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Sat, 21 Mar 2015 13:30:38 GMT"
+,<http://web.archive.org/web/20150322175821/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Sun, 22 Mar 2015 17:58:21 GMT"
+,<http://web.archive.org/web/20150323211508/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Mon, 23 Mar 2015 21:15:08 GMT"
+,<http://web.archive.org/web/20150324231755/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Tue, 24 Mar 2015 23:17:55 GMT"
+,<http://web.archive.org/web/20150326031623/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Thu, 26 Mar 2015 03:16:23 GMT"
+,<http://web.archive.org/web/20150327055515/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Fri, 27 Mar 2015 05:55:15 GMT"
+,<http://web.archive.org/web/20150329213411/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Sun, 29 Mar 2015 21:34:11 GMT"
+,<http://web.archive.org/web/20150331001049/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Tue, 31 Mar 2015 00:10:49 GMT"
+,<http://web.archive.org/web/20150401063820/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Wed, 01 Apr 2015 06:38:20 GMT"
+,<http://web.archive.org/web/20150412003331/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Sun, 12 Apr 2015 00:33:31 GMT"
+,<http://web.archive.org/web/20150413030005/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Mon, 13 Apr 2015 03:00:05 GMT"
+,<http://web.archive.org/web/20150414064536/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Tue, 14 Apr 2015 06:45:36 GMT"
+,<http://web.archive.org/web/20150415092041/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Wed, 15 Apr 2015 09:20:41 GMT"
+,<http://web.archive.org/web/20150416130108/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Thu, 16 Apr 2015 13:01:08 GMT"
+,<http://web.archive.org/web/20150417171638/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Fri, 17 Apr 2015 17:16:38 GMT"
+,<http://web.archive.org/web/20150418115738/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Sat, 18 Apr 2015 11:57:38 GMT"
+,<http://web.archive.org/web/20150418202034/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Sat, 18 Apr 2015 20:20:34 GMT"
+,<http://web.archive.org/web/20150420010922/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Mon, 20 Apr 2015 01:09:22 GMT"
+,<http://web.archive.org/web/20150421051756/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento"; datetime="Tue, 21 Apr 2015 05:17:56 GMT"
+,<http://web.archive.org/web/20150422075214/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="memento last"; datetime="Wed, 22 Apr 2015 07:52:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.pbs.org/newshour/rundown/disney-develops-show-starring-first-latina-princess/>;rel="self"; type="application/link-format"; from ="Tue, 10 Mar 2015 06:32:58 GMT";until="Wed, 22 Apr 2015 07:52:14 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:13:55 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://sploid.gizmodo.com/video-man-ice-climbs-frozen-niagara-falls-for-the-firs-1682715419>;rel="original"
+,<http://web.archive.org/web/20150416044523/http://sploid.gizmodo.com/video-man-ice-climbs-frozen-niagara-falls-for-the-firs-1682715419>;rel="memento first"; datetime="Thu, 16 Apr 2015 04:45:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://sploid.gizmodo.com/video-man-ice-climbs-frozen-niagara-falls-for-the-firs-1682715419>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://sploid.gizmodo.com/video-man-ice-climbs-frozen-niagara-falls-for-the-firs-1682715419>;rel="self"; type="application/link-format"; from ="Thu, 16 Apr 2015 04:45:23 GMT";until="Thu, 16 Apr 2015 04:45:23 GMT"

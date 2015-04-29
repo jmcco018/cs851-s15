@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:19:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="original"
+,<http://web.archive.org/web/20130716175241/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento first"; datetime="Tue, 16 Jul 2013 17:52:41 GMT"
+,<http://web.archive.org/web/20130718025531/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Thu, 18 Jul 2013 02:55:31 GMT"
+,<http://web.archive.org/web/20130718095351/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Thu, 18 Jul 2013 09:53:51 GMT"
+,<http://web.archive.org/web/20130719065950/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Fri, 19 Jul 2013 06:59:50 GMT"
+,<http://web.archive.org/web/20130720075918/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Sat, 20 Jul 2013 07:59:18 GMT"
+,<http://web.archive.org/web/20130721015206/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Sun, 21 Jul 2013 01:52:06 GMT"
+,<http://web.archive.org/web/20130721184535/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Sun, 21 Jul 2013 18:45:35 GMT"
+,<http://web.archive.org/web/20130722224426/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Mon, 22 Jul 2013 22:44:26 GMT"
+,<http://web.archive.org/web/20130724000850/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Wed, 24 Jul 2013 00:08:50 GMT"
+,<http://web.archive.org/web/20130726000521/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Fri, 26 Jul 2013 00:05:21 GMT"
+,<http://web.archive.org/web/20130727204303/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Sat, 27 Jul 2013 20:43:03 GMT"
+,<http://web.archive.org/web/20130729020130/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Mon, 29 Jul 2013 02:01:30 GMT"
+,<http://web.archive.org/web/20130730004618/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Tue, 30 Jul 2013 00:46:18 GMT"
+,<http://web.archive.org/web/20130731060745/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Wed, 31 Jul 2013 06:07:45 GMT"
+,<http://web.archive.org/web/20130801125323/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Thu, 01 Aug 2013 12:53:23 GMT"
+,<http://web.archive.org/web/20130802105421/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Fri, 02 Aug 2013 10:54:21 GMT"
+,<http://web.archive.org/web/20130803105858/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Sat, 03 Aug 2013 10:58:58 GMT"
+,<http://web.archive.org/web/20130804091653/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Sun, 04 Aug 2013 09:16:53 GMT"
+,<http://web.archive.org/web/20130805132222/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento"; datetime="Mon, 05 Aug 2013 13:22:22 GMT"
+,<http://web.archive.org/web/20130921211737/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="memento last"; datetime="Sat, 21 Sep 2013 21:17:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://espn.go.com/golf/theopen/story/_/id/9466803/tiger-woods-recalls-dreadful-third-round-open-muirfield-2002-golf>;rel="self"; type="application/link-format"; from ="Tue, 16 Jul 2013 17:52:41 GMT";until="Sat, 21 Sep 2013 21:17:37 GMT"

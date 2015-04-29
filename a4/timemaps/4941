@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:37:05 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.justgiving.com/MotorNeuronL33tness>;rel="original"
+,<http://web.archive.org/web/20150404085106/https://justgiving.com/MotorNeuronL33tness>;rel="memento first"; datetime="Sat, 04 Apr 2015 08:51:06 GMT"
+,<http://web.archive.org/web/20150411124210/https://www.justgiving.com/MotorNeuronL33tness/>;rel="memento last"; datetime="Sat, 11 Apr 2015 12:42:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.justgiving.com/MotorNeuronL33tness>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.justgiving.com/MotorNeuronL33tness>;rel="self"; type="application/link-format"; from ="Sat, 04 Apr 2015 08:51:06 GMT";until="Sat, 11 Apr 2015 12:42:10 GMT"

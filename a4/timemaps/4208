@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:25:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://popgh.com/epk/jsp/>;rel="original"
+,<http://web.archive.org/web/20140211093644/http://popgh.com/epk/jsp>;rel="memento first"; datetime="Tue, 11 Feb 2014 09:36:44 GMT"
+,<http://web.archive.org/web/20140308223323/http://popgh.com/epk/jsp/>;rel="memento"; datetime="Sat, 08 Mar 2014 22:33:23 GMT"
+,<http://web.archive.org/web/20141222001957/http://popgh.com/epk/jsp>;rel="memento"; datetime="Mon, 22 Dec 2014 00:19:57 GMT"
+,<http://web.archive.org/web/20141230082916/http://popgh.com/epk/jsp/>;rel="memento last"; datetime="Tue, 30 Dec 2014 08:29:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://popgh.com/epk/jsp/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://popgh.com/epk/jsp/>;rel="self"; type="application/link-format"; from ="Tue, 11 Feb 2014 09:36:44 GMT";until="Tue, 30 Dec 2014 08:29:16 GMT"

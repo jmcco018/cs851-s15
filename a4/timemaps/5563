@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:48:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.americanhunter.org/blogs/132-year-old-rifle-found-in-national-park>;rel="original"
+,<http://web.archive.org/web/20150204044558/http://www.americanhunter.org/blogs/132-year-old-rifle-found-in-national-park>;rel="memento first"; datetime="Wed, 04 Feb 2015 04:45:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.americanhunter.org/blogs/132-year-old-rifle-found-in-national-park>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.americanhunter.org/blogs/132-year-old-rifle-found-in-national-park>;rel="self"; type="application/link-format"; from ="Wed, 04 Feb 2015 04:45:58 GMT";until="Wed, 04 Feb 2015 04:45:58 GMT"

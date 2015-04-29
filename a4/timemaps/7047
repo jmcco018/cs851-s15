@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:12:46 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theverge.com/2015/1/25/7888359/sword-fight-movie-montage-supercut>;rel="original"
+,<http://archive.is/20150125202848/http://www.theverge.com/2015/1/25/7888359/sword-fight-movie-montage-supercut>;rel="memento first"; datetime="Sun, 25 Jan 2015 20:28:48 GMT"
+,<http://web.archive.org/web/20150125223329/http://www.theverge.com/2015/1/25/7888359/sword-fight-movie-montage-supercut>;rel="memento"; datetime="Sun, 25 Jan 2015 22:33:29 GMT"
+,<http://web.archive.org/web/20150127054710/http://www.theverge.com/2015/1/25/7888359/sword-fight-movie-montage-supercut>;rel="memento"; datetime="Tue, 27 Jan 2015 05:47:10 GMT"
+,<http://web.archive.org/web/20150415073504/http://www.theverge.com/2015/1/25/7888359/sword-fight-movie-montage-supercut>;rel="memento last"; datetime="Wed, 15 Apr 2015 07:35:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theverge.com/2015/1/25/7888359/sword-fight-movie-montage-supercut>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theverge.com/2015/1/25/7888359/sword-fight-movie-montage-supercut>;rel="self"; type="application/link-format"; from ="Sun, 25 Jan 2015 20:28:48 GMT";until="Wed, 15 Apr 2015 07:35:04 GMT"

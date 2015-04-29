@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:34:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://reason.com/blog/2015/01/28/school-made-11-year-old-girls-pull-down>;rel="original"
+,<http://archive.is/20150129013117/http://reason.com/blog/2015/01/28/school-made-11-year-old-girls-pull-down>;rel="memento first"; datetime="Thu, 29 Jan 2015 01:31:17 GMT"
+,<http://web.archive.org/web/20150129193310/http://reason.com/blog/2015/01/28/school-made-11-year-old-girls-pull-down>;rel="memento last"; datetime="Thu, 29 Jan 2015 19:33:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://reason.com/blog/2015/01/28/school-made-11-year-old-girls-pull-down>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://reason.com/blog/2015/01/28/school-made-11-year-old-girls-pull-down>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 01:31:17 GMT";until="Thu, 29 Jan 2015 19:33:10 GMT"

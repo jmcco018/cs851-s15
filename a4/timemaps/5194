@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:41:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.independent.co.uk/arts-entertainment/architecture/english-heritage-adds-14-postwar-office-buildings-to-its-protected-lists-10009464.html>;rel="original"
+,<http://web.archive.org/web/20150129080333/http://www.independent.co.uk/arts-entertainment/architecture/english-heritage-adds-14-postwar-office-buildings-to-its-protected-lists-10009464.html>;rel="memento first"; datetime="Thu, 29 Jan 2015 08:03:33 GMT"
+,<http://web.archive.org/web/20150129232138/http://www.independent.co.uk/arts-entertainment/architecture/english-heritage-adds-14-postwar-office-buildings-to-its-protected-lists-10009464.html>;rel="memento"; datetime="Thu, 29 Jan 2015 23:21:38 GMT"
+,<http://web.archive.org/web/20150420230723/http://www.independent.co.uk/arts-entertainment/architecture/english-heritage-adds-14-postwar-office-buildings-to-its-protected-lists-10009464.html>;rel="memento last"; datetime="Mon, 20 Apr 2015 23:07:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.independent.co.uk/arts-entertainment/architecture/english-heritage-adds-14-postwar-office-buildings-to-its-protected-lists-10009464.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.independent.co.uk/arts-entertainment/architecture/english-heritage-adds-14-postwar-office-buildings-to-its-protected-lists-10009464.html>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 08:03:33 GMT";until="Mon, 20 Apr 2015 23:07:23 GMT"

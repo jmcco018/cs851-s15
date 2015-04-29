@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:54:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="original"
+,<http://web.archive.org/web/20150130064818/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento first"; datetime="Fri, 30 Jan 2015 06:48:18 GMT"
+,<http://web.archive.org/web/20150310100435/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Tue, 10 Mar 2015 10:04:35 GMT"
+,<http://web.archive.org/web/20150311144135/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Wed, 11 Mar 2015 14:41:35 GMT"
+,<http://web.archive.org/web/20150312195226/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Thu, 12 Mar 2015 19:52:26 GMT"
+,<http://web.archive.org/web/20150313222411/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Fri, 13 Mar 2015 22:24:11 GMT"
+,<http://web.archive.org/web/20150315080325/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Sun, 15 Mar 2015 08:03:25 GMT"
+,<http://web.archive.org/web/20150316120917/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Mon, 16 Mar 2015 12:09:17 GMT"
+,<http://web.archive.org/web/20150319020446/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Thu, 19 Mar 2015 02:04:46 GMT"
+,<http://web.archive.org/web/20150409082927/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Thu, 09 Apr 2015 08:29:27 GMT"
+,<http://web.archive.org/web/20150410094334/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Fri, 10 Apr 2015 09:43:34 GMT"
+,<http://web.archive.org/web/20150412004656/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Sun, 12 Apr 2015 00:46:56 GMT"
+,<http://web.archive.org/web/20150412223243/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Sun, 12 Apr 2015 22:32:43 GMT"
+,<http://web.archive.org/web/20150414014747/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Tue, 14 Apr 2015 01:47:47 GMT"
+,<http://web.archive.org/web/20150415100530/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Wed, 15 Apr 2015 10:05:30 GMT"
+,<http://web.archive.org/web/20150416092033/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Thu, 16 Apr 2015 09:20:33 GMT"
+,<http://web.archive.org/web/20150417110344/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Fri, 17 Apr 2015 11:03:44 GMT"
+,<http://web.archive.org/web/20150418195353/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Sat, 18 Apr 2015 19:53:53 GMT"
+,<http://web.archive.org/web/20150420065802/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento"; datetime="Mon, 20 Apr 2015 06:58:02 GMT"
+,<http://web.archive.org/web/20150421111951/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="memento last"; datetime="Tue, 21 Apr 2015 11:19:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theglobeandmail.com/technology/science/what-a-us-satellite-will-tell-canadians-about-the-ground-beneath-their-feet/article22714752/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 06:48:18 GMT";until="Tue, 21 Apr 2015 11:19:51 GMT"

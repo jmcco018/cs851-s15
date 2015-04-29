@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:06:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://gearpatrol.com/2015/01/30/will-the-crossover-kill-the-sports-car/>;rel="original"
+,<http://web.archive.org/web/20150317051730/http://gearpatrol.com/2015/01/30/will-the-crossover-kill-the-sports-car/>;rel="memento first"; datetime="Tue, 17 Mar 2015 05:17:30 GMT"
+,<http://web.archive.org/web/20150404225743/http://gearpatrol.com/2015/01/30/will-the-crossover-kill-the-sports-car/>;rel="memento last"; datetime="Sat, 04 Apr 2015 22:57:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://gearpatrol.com/2015/01/30/will-the-crossover-kill-the-sports-car/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://gearpatrol.com/2015/01/30/will-the-crossover-kill-the-sports-car/>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 05:17:30 GMT";until="Sat, 04 Apr 2015 22:57:43 GMT"

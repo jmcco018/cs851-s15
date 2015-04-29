@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:41:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://localbuzznetwork.com/huntsville-al-job-search/>;rel="original"
+,<http://web.archive.org/web/20130219215907/http://localbuzznetwork.com/huntsville-al-job-search/>;rel="memento first"; datetime="Tue, 19 Feb 2013 21:59:07 GMT"
+,<http://web.archive.org/web/20131021171847/http://localbuzznetwork.com/huntsville-al-job-search/>;rel="memento"; datetime="Mon, 21 Oct 2013 17:18:47 GMT"
+,<http://web.archive.org/web/20131024015358/http://localbuzznetwork.com/huntsville-al-job-search/>;rel="memento"; datetime="Thu, 24 Oct 2013 01:53:58 GMT"
+,<http://web.archive.org/web/20131209210238/http://localbuzznetwork.com/huntsville-al-job-search/>;rel="memento"; datetime="Mon, 09 Dec 2013 21:02:38 GMT"
+,<http://web.archive.org/web/20140217175047/http://localbuzznetwork.com/huntsville-al-job-search/>;rel="memento"; datetime="Mon, 17 Feb 2014 17:50:47 GMT"
+,<http://web.archive.org/web/20141217063439/http://localbuzznetwork.com/huntsville-al-job-search/>;rel="memento"; datetime="Wed, 17 Dec 2014 06:34:39 GMT"
+,<http://web.archive.org/web/20150111061549/http://localbuzznetwork.com/huntsville-al-job-search/>;rel="memento last"; datetime="Sun, 11 Jan 2015 06:15:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://localbuzznetwork.com/huntsville-al-job-search/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://localbuzznetwork.com/huntsville-al-job-search/>;rel="self"; type="application/link-format"; from ="Tue, 19 Feb 2013 21:59:07 GMT";until="Sun, 11 Jan 2015 06:15:49 GMT"

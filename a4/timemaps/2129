@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:44:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://loveofmusicblog.blogspot.com/p/clothing.html>;rel="original"
+,<http://web.archive.org/web/20141107124125/http://loveofmusicblog.blogspot.com/p/clothing.html>;rel="memento first"; datetime="Fri, 07 Nov 2014 12:41:25 GMT"
+,<http://web.archive.org/web/20150107133033/http://loveofmusicblog.blogspot.com/p/clothing.html>;rel="memento"; datetime="Wed, 07 Jan 2015 13:30:33 GMT"
+,<http://web.archive.org/web/20150120174254/http://loveofmusicblog.blogspot.com/p/clothing.html>;rel="memento"; datetime="Tue, 20 Jan 2015 17:42:54 GMT"
+,<http://web.archive.org/web/20150401104057/http://loveofmusicblog.blogspot.com/p/clothing.html>;rel="memento last"; datetime="Wed, 01 Apr 2015 10:40:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://loveofmusicblog.blogspot.com/p/clothing.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://loveofmusicblog.blogspot.com/p/clothing.html>;rel="self"; type="application/link-format"; from ="Fri, 07 Nov 2014 12:41:25 GMT";until="Wed, 01 Apr 2015 10:40:57 GMT"

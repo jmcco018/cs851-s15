@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/gb/album/save-me-feat.-chris-chudley/id947899487>;rel="original"
+,<//wayback.archive-it.org/all/20150108234029/https://itunes.apple.com/gb/album/save-me-feat.-chris-chudley/id947899487>;rel="memento first"; datetime="Thu, 08 Jan 2015 23:40:29 GMT"
+,<//wayback.archive-it.org/all/20150109074238/https://itunes.apple.com/gb/album/save-me-feat.-chris-chudley/id947899487>;rel="memento"; datetime="Fri, 09 Jan 2015 07:42:38 GMT"
+,<//wayback.archive-it.org/all/20150109165555/https://itunes.apple.com/gb/album/save-me-feat.-chris-chudley/id947899487>;rel="memento last"; datetime="Fri, 09 Jan 2015 16:55:55 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/gb/album/save-me-feat.-chris-chudley/id947899487>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/gb/album/save-me-feat.-chris-chudley/id947899487>;rel="self"; type="application/link-format"; from ="Thu, 08 Jan 2015 23:40:29 GMT";until="Fri, 09 Jan 2015 16:55:55 GMT"

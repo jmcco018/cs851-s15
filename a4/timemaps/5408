@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://zoekeating.tumblr.com/post/109312851929/clarity>;rel="original"
+,<http://web.archive.org/web/20150127212123/http://zoekeating.tumblr.com/post/109312851929/clarity>;rel="memento first"; datetime="Tue, 27 Jan 2015 21:21:23 GMT"
+,<http://archive.is/20150128030451/http://zoekeating.tumblr.com/post/109312851929/clarity>;rel="memento"; datetime="Wed, 28 Jan 2015 03:04:51 GMT"
+,<http://web.archive.org/web/20150129152126/http://zoekeating.tumblr.com/post/109312851929/clarity>;rel="memento"; datetime="Thu, 29 Jan 2015 15:21:26 GMT"
+,<http://web.archive.org/web/20150315045559/http://zoekeating.tumblr.com/post/109312851929/clarity>;rel="memento last"; datetime="Sun, 15 Mar 2015 04:55:59 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://zoekeating.tumblr.com/post/109312851929/clarity>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://zoekeating.tumblr.com/post/109312851929/clarity>;rel="self"; type="application/link-format"; from ="Tue, 27 Jan 2015 21:21:23 GMT";until="Sun, 15 Mar 2015 04:55:59 GMT"

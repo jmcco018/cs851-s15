@@ -1,0 +1,37 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="original"
+,<http://web.archive.org/web/20121214060751/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento first"; datetime="Fri, 14 Dec 2012 06:07:51 GMT"
+,<http://web.archive.org/web/20121216031906/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Sun, 16 Dec 2012 03:19:06 GMT"
+,<http://web.archive.org/web/20130103082753/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Thu, 03 Jan 2013 08:27:53 GMT"
+,<http://web.archive.org/web/20130116003902/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now?>;rel="memento"; datetime="Wed, 16 Jan 2013 00:39:02 GMT"
+,<http://web.archive.org/web/20130123004555/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Wed, 23 Jan 2013 00:45:55 GMT"
+,<http://web.archive.org/web/20130201223534/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Fri, 01 Feb 2013 22:35:34 GMT"
+,<http://web.archive.org/web/20130304182729/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Mon, 04 Mar 2013 18:27:29 GMT"
+,<http://web.archive.org/web/20130407153701/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Sun, 07 Apr 2013 15:37:01 GMT"
+,<http://web.archive.org/web/20130509085909/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Thu, 09 May 2013 08:59:09 GMT"
+,<http://web.archive.org/web/20130530070338/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Thu, 30 May 2013 07:03:38 GMT"
+,<http://web.archive.org/web/20130713203929/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Sat, 13 Jul 2013 20:39:29 GMT"
+,<http://web.archive.org/web/20130814095304/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Wed, 14 Aug 2013 09:53:04 GMT"
+,<http://web.archive.org/web/20140101045454/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Wed, 01 Jan 2014 04:54:54 GMT"
+,<http://web.archive.org/web/20140102090357/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Thu, 02 Jan 2014 09:03:57 GMT"
+,<http://web.archive.org/web/20140116195615/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Thu, 16 Jan 2014 19:56:15 GMT"
+,<http://web.archive.org/web/20140119025309/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Sun, 19 Jan 2014 02:53:09 GMT"
+,<http://web.archive.org/web/20140120203050/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Mon, 20 Jan 2014 20:30:50 GMT"
+,<http://web.archive.org/web/20140121193530/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Tue, 21 Jan 2014 19:35:30 GMT"
+,<http://web.archive.org/web/20140218064932/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Tue, 18 Feb 2014 06:49:32 GMT"
+,<http://web.archive.org/web/20140221090224/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Fri, 21 Feb 2014 09:02:24 GMT"
+,<http://web.archive.org/web/20140225142722/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Tue, 25 Feb 2014 14:27:22 GMT"
+,<http://web.archive.org/web/20140226153734/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Wed, 26 Feb 2014 15:37:34 GMT"
+,<http://web.archive.org/web/20140419085213/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Sat, 19 Apr 2014 08:52:13 GMT"
+,<http://web.archive.org/web/20140601015717/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Sun, 01 Jun 2014 01:57:17 GMT"
+,<http://web.archive.org/web/20140602052019/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Mon, 02 Jun 2014 05:20:19 GMT"
+,<http://web.archive.org/web/20140616082450/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento"; datetime="Mon, 16 Jun 2014 08:24:50 GMT"
+,<http://web.archive.org/web/20140619171045/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="memento last"; datetime="Thu, 19 Jun 2014 17:10:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://gizmodo.com/5968065/go-download-google-maps-for-ios-right-now>;rel="self"; type="application/link-format"; from ="Fri, 14 Dec 2012 06:07:51 GMT";until="Thu, 19 Jun 2014 17:10:45 GMT"

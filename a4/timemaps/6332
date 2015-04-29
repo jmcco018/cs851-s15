@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:53 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.businessinsider.com/tesla-model-s-p85d-gets-faster-through-a-software-update-2015-1>;rel="original"
+,<http://archive.is/20150131202736/http://www.businessinsider.com/tesla-model-s-p85d-gets-faster-through-a-software-update-2015-1>;rel="memento first"; datetime="Sat, 31 Jan 2015 20:27:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.businessinsider.com/tesla-model-s-p85d-gets-faster-through-a-software-update-2015-1>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.businessinsider.com/tesla-model-s-p85d-gets-faster-through-a-software-update-2015-1>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 20:27:36 GMT";until="Sat, 31 Jan 2015 20:27:36 GMT"

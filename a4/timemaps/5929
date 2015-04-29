@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:53:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mommagoldbergsdeli.com/catering/>;rel="original"
+,<http://web.archive.org/web/20131215200055/http://www.mommagoldbergsdeli.com/catering/>;rel="memento first"; datetime="Sun, 15 Dec 2013 20:00:55 GMT"
+,<http://web.archive.org/web/20140914033045/http://www.mommagoldbergsdeli.com/catering/>;rel="memento last"; datetime="Sun, 14 Sep 2014 03:30:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mommagoldbergsdeli.com/catering/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mommagoldbergsdeli.com/catering/>;rel="self"; type="application/link-format"; from ="Sun, 15 Dec 2013 20:00:55 GMT";until="Sun, 14 Sep 2014 03:30:45 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:22:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.leg.state.co.us/clics/clics2015a/csl.nsf/billcontainers/314A38D8983C619B87257D9000765C67/$FILE/1165_01.pdf>;rel="original"
+,<//wayback.archive-it.org/all/20150226164027/http://www.leg.state.co.us/clics/clics2015a/csl.nsf/billcontainers/314A38D8983C619B87257D9000765C67/$FILE/1165_01.pdf>;rel="memento first"; datetime="Thu, 26 Feb 2015 16:40:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.leg.state.co.us/clics/clics2015a/csl.nsf/billcontainers/314A38D8983C619B87257D9000765C67/$FILE/1165_01.pdf>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.leg.state.co.us/clics/clics2015a/csl.nsf/billcontainers/314A38D8983C619B87257D9000765C67/$FILE/1165_01.pdf>;rel="self"; type="application/link-format"; from ="Thu, 26 Feb 2015 16:40:27 GMT";until="Thu, 26 Feb 2015 16:40:27 GMT"

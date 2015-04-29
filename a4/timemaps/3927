@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:20:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.kickstarter.com/projects/883868848/kaleidoscope-chamber-orchestra-opening-season>;rel="original"
+,<http://archive.is/20150124213806/https://www.kickstarter.com/projects/883868848/kaleidoscope-chamber-orchestra-opening-season>;rel="memento first"; datetime="Sat, 24 Jan 2015 21:38:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.kickstarter.com/projects/883868848/kaleidoscope-chamber-orchestra-opening-season>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.kickstarter.com/projects/883868848/kaleidoscope-chamber-orchestra-opening-season>;rel="self"; type="application/link-format"; from ="Sat, 24 Jan 2015 21:38:06 GMT";until="Sat, 24 Jan 2015 21:38:06 GMT"

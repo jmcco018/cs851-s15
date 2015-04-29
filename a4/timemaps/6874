@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.sun-sentinel.com/news/crime/fl-anthony-caravella-dna-7-million-20150122-story.html>;rel="original"
+,<http://web.archive.org/web/20150123193536/http://www.sun-sentinel.com/news/crime/fl-anthony-caravella-dna-7-million-20150122-story.html>;rel="memento first"; datetime="Fri, 23 Jan 2015 19:35:36 GMT"
+,<http://archive.is/20150123235533/http://www.sun-sentinel.com/news/crime/fl-anthony-caravella-dna-7-million-20150122-story.html>;rel="memento last"; datetime="Fri, 23 Jan 2015 23:55:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.sun-sentinel.com/news/crime/fl-anthony-caravella-dna-7-million-20150122-story.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.sun-sentinel.com/news/crime/fl-anthony-caravella-dna-7-million-20150122-story.html>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 19:35:36 GMT";until="Fri, 23 Jan 2015 23:55:33 GMT"

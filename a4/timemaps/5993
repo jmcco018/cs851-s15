@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:54:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="original"
+,<http://web.archive.org/web/20140323120818/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="memento first"; datetime="Sun, 23 Mar 2014 12:08:18 GMT"
+,<http://web.archive.org/web/20140323134516/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="memento"; datetime="Sun, 23 Mar 2014 13:45:16 GMT"
+,<http://web.archive.org/web/20140324032822/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="memento"; datetime="Mon, 24 Mar 2014 03:28:22 GMT"
+,<http://web.archive.org/web/20140325104735/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="memento"; datetime="Tue, 25 Mar 2014 10:47:35 GMT"
+,<http://web.archive.org/web/20140325142809/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece?>;rel="memento"; datetime="Tue, 25 Mar 2014 14:28:09 GMT"
+,<http://web.archive.org/web/20140425114316/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="memento"; datetime="Fri, 25 Apr 2014 11:43:16 GMT"
+,<http://web.archive.org/web/20140428104554/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece?>;rel="memento"; datetime="Mon, 28 Apr 2014 10:45:54 GMT"
+,<http://web.archive.org/web/20140528022035/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="memento"; datetime="Wed, 28 May 2014 02:20:35 GMT"
+,<http://web.archive.org/web/20140604055158/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece?>;rel="memento"; datetime="Wed, 04 Jun 2014 05:51:58 GMT"
+,<http://web.archive.org/web/20140628155445/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="memento"; datetime="Sat, 28 Jun 2014 15:54:45 GMT"
+,<http://web.archive.org/web/20140705052901/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece?>;rel="memento last"; datetime="Sat, 05 Jul 2014 05:29:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thehindu.com/news/national/caught-in-sting-two-up-leaders-sacked-from-aap/article5814655.ece>;rel="self"; type="application/link-format"; from ="Sun, 23 Mar 2014 12:08:18 GMT";until="Sat, 05 Jul 2014 05:29:01 GMT"

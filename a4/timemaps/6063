@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:55:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.todayszaman.com/national_radioactive-laden-ship-nearing-turkish-port-environmentalists-protest_371319.html>;rel="original"
+,<http://web.archive.org/web/20150131003056/http://www.todayszaman.com/national_radioactive-laden-ship-nearing-turkish-port-environmentalists-protest_371319.html>;rel="memento first"; datetime="Sat, 31 Jan 2015 00:30:56 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.todayszaman.com/national_radioactive-laden-ship-nearing-turkish-port-environmentalists-protest_371319.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.todayszaman.com/national_radioactive-laden-ship-nearing-turkish-port-environmentalists-protest_371319.html>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 00:30:56 GMT";until="Sat, 31 Jan 2015 00:30:56 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://theirturn.net/2015/01/26/battle-save-americas-wild-horses-activists-engage-disruption-expose-governments-lies/>;rel="original"
+,<http://web.archive.org/web/20150319005439/http://theirturn.net/2015/01/26/battle-save-americas-wild-horses-activists-engage-disruption-expose-governments-lies/>;rel="memento first"; datetime="Thu, 19 Mar 2015 00:54:39 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://theirturn.net/2015/01/26/battle-save-americas-wild-horses-activists-engage-disruption-expose-governments-lies/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://theirturn.net/2015/01/26/battle-save-americas-wild-horses-activists-engage-disruption-expose-governments-lies/>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 00:54:39 GMT";until="Thu, 19 Mar 2015 00:54:39 GMT"

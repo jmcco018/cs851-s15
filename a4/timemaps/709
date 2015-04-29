@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:21:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.bible.com/bible/116/1jn.5.14.nlt>;rel="original"
+,<http://web.archive.org/web/20131217050310/https://www.bible.com/bible/116/1jn.5.14.nlt>;rel="memento first"; datetime="Tue, 17 Dec 2013 05:03:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.bible.com/bible/116/1jn.5.14.nlt>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.bible.com/bible/116/1jn.5.14.nlt>;rel="self"; type="application/link-format"; from ="Tue, 17 Dec 2013 05:03:10 GMT";until="Tue, 17 Dec 2013 05:03:10 GMT"

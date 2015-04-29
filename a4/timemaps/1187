@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:29:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mirror.co.uk/news/uk-news/manhunt-launched-callous-thug-who-5060279>;rel="original"
+,<http://web.archive.org/web/20150129023008/http://www.mirror.co.uk/news/uk-news/manhunt-launched-callous-thug-who-5060279>;rel="memento first"; datetime="Thu, 29 Jan 2015 02:30:08 GMT"
+,<http://web.archive.org/web/20150129073633/http://www.mirror.co.uk/news/uk-news/manhunt-launched-callous-thug-who-5060279>;rel="memento"; datetime="Thu, 29 Jan 2015 07:36:33 GMT"
+,<http://web.archive.org/web/20150202175354/http://www.mirror.co.uk/news/uk-news/manhunt-launched-callous-thug-who-5060279>;rel="memento"; datetime="Mon, 02 Feb 2015 17:53:54 GMT"
+,<http://web.archive.org/web/20150403062618/http://www.mirror.co.uk/news/uk-news/manhunt-launched-callous-thug-who-5060279>;rel="memento last"; datetime="Fri, 03 Apr 2015 06:26:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mirror.co.uk/news/uk-news/manhunt-launched-callous-thug-who-5060279>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mirror.co.uk/news/uk-news/manhunt-launched-callous-thug-who-5060279>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 02:30:08 GMT";until="Fri, 03 Apr 2015 06:26:18 GMT"

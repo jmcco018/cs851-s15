@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:53 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blog.timesunion.com/capitol/archives/228482/a-m-roundup-skelos-under-preets-microscope/>;rel="original"
+,<http://web.archive.org/web/20150406094811/http://blog.timesunion.com/capitol/archives/228482/a-m-roundup-skelos-under-preets-microscope/>;rel="memento first"; datetime="Mon, 06 Apr 2015 09:48:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blog.timesunion.com/capitol/archives/228482/a-m-roundup-skelos-under-preets-microscope/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blog.timesunion.com/capitol/archives/228482/a-m-roundup-skelos-under-preets-microscope/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 09:48:11 GMT";until="Mon, 06 Apr 2015 09:48:11 GMT"

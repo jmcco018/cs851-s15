@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:47:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.zdnet.com/article/the-trackingpoint-338tp-the-linux-rifle-thats-accurate-up-to-a-mile/>;rel="original"
+,<http://web.archive.org/web/20150119230631/http://www.zdnet.com/article/the-trackingpoint-338tp-the-linux-rifle-thats-accurate-up-to-a-mile/>;rel="memento first"; datetime="Mon, 19 Jan 2015 23:06:31 GMT"
+,<http://archive.is/20150120143449/http://www.zdnet.com/article/the-trackingpoint-338tp-the-linux-rifle-thats-accurate-up-to-a-mile/>;rel="memento"; datetime="Tue, 20 Jan 2015 14:34:49 GMT"
+,<http://web.archive.org/web/20150122001514/http://www.zdnet.com/article/the-trackingpoint-338tp-the-linux-rifle-thats-accurate-up-to-a-mile/>;rel="memento last"; datetime="Thu, 22 Jan 2015 00:15:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.zdnet.com/article/the-trackingpoint-338tp-the-linux-rifle-thats-accurate-up-to-a-mile/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.zdnet.com/article/the-trackingpoint-338tp-the-linux-rifle-thats-accurate-up-to-a-mile/>;rel="self"; type="application/link-format"; from ="Mon, 19 Jan 2015 23:06:31 GMT";until="Thu, 22 Jan 2015 00:15:14 GMT"

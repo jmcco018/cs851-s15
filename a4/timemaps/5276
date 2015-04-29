@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:42:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.amazon.com/Zenzoris-Returns-Sophie-Radcliffe-Series-ebook/dp/B00D6NDWAS/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1404742824&sr=1-1-catcorr&keywords=Jenny+Burnley>;rel="original"
+,<http://web.archive.org/web/20150107125548/http://www.amazon.com/Zenzoris-Returns-Sophie-Radcliffe-Series-ebook/dp/B00D6NDWAS/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1404742824&sr=1-1-catcorr&keywords=Jenny+Burnley>;rel="memento first"; datetime="Wed, 07 Jan 2015 12:55:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.amazon.com/Zenzoris-Returns-Sophie-Radcliffe-Series-ebook/dp/B00D6NDWAS/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1404742824&sr=1-1-catcorr&keywords=Jenny+Burnley>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.amazon.com/Zenzoris-Returns-Sophie-Radcliffe-Series-ebook/dp/B00D6NDWAS/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1404742824&sr=1-1-catcorr&keywords=Jenny+Burnley>;rel="self"; type="application/link-format"; from ="Wed, 07 Jan 2015 12:55:48 GMT";until="Wed, 07 Jan 2015 12:55:48 GMT"

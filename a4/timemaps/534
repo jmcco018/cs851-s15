@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:18:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://dolphinproject.net/blog/post/dont-break-the-bank-alternatives-to-visiting-marine-parks-and-aquariums/>;rel="original"
+,<http://web.archive.org/web/20150206183854/http://dolphinproject.net/blog/post/dont-break-the-bank-alternatives-to-visiting-marine-parks-and-aquariums/>;rel="memento first"; datetime="Fri, 06 Feb 2015 18:38:54 GMT"
+,<http://web.archive.org/web/20150321011803/https://dolphinproject.net/blog/post/dont-break-the-bank-alternatives-to-visiting-marine-parks-and-aquariums/>;rel="memento last"; datetime="Sat, 21 Mar 2015 01:18:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://dolphinproject.net/blog/post/dont-break-the-bank-alternatives-to-visiting-marine-parks-and-aquariums/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://dolphinproject.net/blog/post/dont-break-the-bank-alternatives-to-visiting-marine-parks-and-aquariums/>;rel="self"; type="application/link-format"; from ="Fri, 06 Feb 2015 18:38:54 GMT";until="Sat, 21 Mar 2015 01:18:03 GMT"

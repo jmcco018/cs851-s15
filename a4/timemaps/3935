@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:20:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.twincities.com/localnews/ci_27420422/st-pauls-old-3m-site-now-home-22>;rel="original"
+,<http://web.archive.org/web/20150130083044/http://www.twincities.com/localnews/ci_27420422/st-pauls-old-3m-site-now-home-22>;rel="memento first"; datetime="Fri, 30 Jan 2015 08:30:44 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.twincities.com/localnews/ci_27420422/st-pauls-old-3m-site-now-home-22>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.twincities.com/localnews/ci_27420422/st-pauls-old-3m-site-now-home-22>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 08:30:44 GMT";until="Fri, 30 Jan 2015 08:30:44 GMT"

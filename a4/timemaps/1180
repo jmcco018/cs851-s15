@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:29:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.moneylife.in/article/callous-regulator-and-bourses-leave-investors-to-the-mercy-of-shady-brokers/40327.html>;rel="original"
+,<http://web.archive.org/web/20150205110554/http://www.moneylife.in/article/callous-regulator-and-bourses-leave-investors-to-the-mercy-of-shady-brokers/40327.html>;rel="memento first"; datetime="Thu, 05 Feb 2015 11:05:54 GMT"
+,<http://web.archive.org/web/20150420033521/http://www.moneylife.in/article/callous-regulator-and-bourses-leave-investors-to-the-mercy-of-shady-brokers/40327.html>;rel="memento last"; datetime="Mon, 20 Apr 2015 03:35:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.moneylife.in/article/callous-regulator-and-bourses-leave-investors-to-the-mercy-of-shady-brokers/40327.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.moneylife.in/article/callous-regulator-and-bourses-leave-investors-to-the-mercy-of-shady-brokers/40327.html>;rel="self"; type="application/link-format"; from ="Thu, 05 Feb 2015 11:05:54 GMT";until="Mon, 20 Apr 2015 03:35:21 GMT"

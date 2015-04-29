@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:38:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blogs.esa.int/rosetta/2015/01/30/where-is-philae-when-will-it-wake-up/>;rel="original"
+,<http://archive.is/20150130151822/http://blogs.esa.int/rosetta/2015/01/30/where-is-philae-when-will-it-wake-up/>;rel="memento first"; datetime="Fri, 30 Jan 2015 15:18:22 GMT"
+,<http://web.archive.org/web/20150201141052/http://blogs.esa.int/rosetta/2015/01/30/where-is-philae-when-will-it-wake-up/>;rel="memento"; datetime="Sun, 01 Feb 2015 14:10:52 GMT"
+,<http://web.archive.org/web/20150317074640/http://blogs.esa.int/rosetta/2015/01/30/where-is-philae-when-will-it-wake-up/>;rel="memento last"; datetime="Tue, 17 Mar 2015 07:46:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blogs.esa.int/rosetta/2015/01/30/where-is-philae-when-will-it-wake-up/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blogs.esa.int/rosetta/2015/01/30/where-is-philae-when-will-it-wake-up/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 15:18:22 GMT";until="Tue, 17 Mar 2015 07:46:40 GMT"

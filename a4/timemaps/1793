@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:39:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://factor-tech.com/space/16401-fitting-finale-scientists-considering-landing-rosetta-comet-67p/>;rel="original"
+,<http://web.archive.org/web/20150316162749/http://factor-tech.com/space/16401-fitting-finale-scientists-considering-landing-rosetta-comet-67p/>;rel="memento first"; datetime="Mon, 16 Mar 2015 16:27:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://factor-tech.com/space/16401-fitting-finale-scientists-considering-landing-rosetta-comet-67p/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://factor-tech.com/space/16401-fitting-finale-scientists-considering-landing-rosetta-comet-67p/>;rel="self"; type="application/link-format"; from ="Mon, 16 Mar 2015 16:27:49 GMT";until="Mon, 16 Mar 2015 16:27:49 GMT"

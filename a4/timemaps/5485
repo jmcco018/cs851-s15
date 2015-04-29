@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.restaurantnews.com/what-customers-dont-like-about-your-restaurant/>;rel="original"
+,<http://web.archive.org/web/20140320233819/http://www.restaurantnews.com/what-customers-dont-like-about-your-restaurant/>;rel="memento first"; datetime="Thu, 20 Mar 2014 23:38:19 GMT"
+,<http://web.archive.org/web/20140322000116/http://www.restaurantnews.com/what-customers-dont-like-about-your-restaurant/>;rel="memento last"; datetime="Sat, 22 Mar 2014 00:01:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.restaurantnews.com/what-customers-dont-like-about-your-restaurant/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.restaurantnews.com/what-customers-dont-like-about-your-restaurant/>;rel="self"; type="application/link-format"; from ="Thu, 20 Mar 2014 23:38:19 GMT";until="Sat, 22 Mar 2014 00:01:16 GMT"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:09:32 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.adultswim.com/promos/201501_BurgerKing/>;rel="original"
+,<http://web.archive.org/web/20150130114443/http://www.adultswim.com/promos/201501_BurgerKing/>;rel="memento first"; datetime="Fri, 30 Jan 2015 11:44:43 GMT"
+,<http://web.archive.org/web/20150320135048/http://www.adultswim.com/promos/201501_BurgerKing/>;rel="memento last"; datetime="Fri, 20 Mar 2015 13:50:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.adultswim.com/promos/201501_BurgerKing/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.adultswim.com/promos/201501_BurgerKing/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 11:44:43 GMT";until="Fri, 20 Mar 2015 13:50:48 GMT"

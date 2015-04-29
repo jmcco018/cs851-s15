@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:39:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.arcamax.com/knowledge/trivia/s-1396096>;rel="original"
+,<http://web.archive.org/web/20130927151246/http://www.arcamax.com/knowledge/trivia/s-1396096>;rel="memento first"; datetime="Fri, 27 Sep 2013 15:12:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.arcamax.com/knowledge/trivia/s-1396096>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.arcamax.com/knowledge/trivia/s-1396096>;rel="self"; type="application/link-format"; from ="Fri, 27 Sep 2013 15:12:46 GMT";until="Fri, 27 Sep 2013 15:12:46 GMT"

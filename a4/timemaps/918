@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.eia.gov/todayinenergy/detail.cfm?id=19791>;rel="original"
+,<http://web.archive.org/web/20150321232630/http://www.eia.gov/todayinenergy/detail.cfm?id=19791>;rel="memento first"; datetime="Sat, 21 Mar 2015 23:26:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.eia.gov/todayinenergy/detail.cfm?id=19791>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.eia.gov/todayinenergy/detail.cfm?id=19791>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 23:26:30 GMT";until="Sat, 21 Mar 2015 23:26:30 GMT"

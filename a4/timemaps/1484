@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:34:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.terrorism-info.org.il/en/article/20713>;rel="original"
+,<http://archive.is/20141002081237/http://www.terrorism-info.org.il/en/article/20713>;rel="memento first"; datetime="Thu, 02 Oct 2014 08:12:37 GMT"
+,<http://web.archive.org/web/20141006074320/http://www.terrorism-info.org.il/en/article/20713>;rel="memento"; datetime="Mon, 06 Oct 2014 07:43:20 GMT"
+,<//wayback.archive-it.org/all/20150109075953/http://www.terrorism-info.org.il/en/article/20713>;rel="memento"; datetime="Fri, 09 Jan 2015 07:59:53 GMT"
+,<http://web.archive.org/web/20150316062329/http://www.terrorism-info.org.il/en/article/20713>;rel="memento last"; datetime="Mon, 16 Mar 2015 06:23:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.terrorism-info.org.il/en/article/20713>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.terrorism-info.org.il/en/article/20713>;rel="self"; type="application/link-format"; from ="Thu, 02 Oct 2014 08:12:37 GMT";until="Mon, 16 Mar 2015 06:23:29 GMT"

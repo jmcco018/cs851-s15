@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:02:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://mashmymash.blogspot.ca/p/awesome-iphone-apps.html>;rel="original"
+,<http://web.archive.org/web/20141217061038/http://mashmymash.blogspot.ca/p/awesome-iphone-apps.html>;rel="memento first"; datetime="Wed, 17 Dec 2014 06:10:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://mashmymash.blogspot.ca/p/awesome-iphone-apps.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://mashmymash.blogspot.ca/p/awesome-iphone-apps.html>;rel="self"; type="application/link-format"; from ="Wed, 17 Dec 2014 06:10:38 GMT";until="Wed, 17 Dec 2014 06:10:38 GMT"

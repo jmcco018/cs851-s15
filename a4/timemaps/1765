@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:38:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blogs.esa.int/rosetta/2015/01/22/getting-to-know-rosettas-comet-science-special-edition/>;rel="original"
+,<http://archive.is/20150210161427/http://blogs.esa.int/rosetta/2015/01/22/getting-to-know-rosettas-comet-science-special-edition/>;rel="memento first"; datetime="Tue, 10 Feb 2015 16:14:27 GMT"
+,<http://web.archive.org/web/20150317082908/http://blogs.esa.int/rosetta/2015/01/22/getting-to-know-rosettas-comet-science-special-edition/>;rel="memento last"; datetime="Tue, 17 Mar 2015 08:29:08 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blogs.esa.int/rosetta/2015/01/22/getting-to-know-rosettas-comet-science-special-edition/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blogs.esa.int/rosetta/2015/01/22/getting-to-know-rosettas-comet-science-special-edition/>;rel="self"; type="application/link-format"; from ="Tue, 10 Feb 2015 16:14:27 GMT";until="Tue, 17 Mar 2015 08:29:08 GMT"

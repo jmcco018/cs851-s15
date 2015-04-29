@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:55:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.anonymousvideo.eu/the-hacker-wars.html>;rel="original"
+,<//wayback.archive-it.org/all/20141203175504/http://www.anonymousvideo.eu/the-hacker-wars.html>;rel="memento first"; datetime="Wed, 03 Dec 2014 17:55:04 GMT"
+,<//wayback.archive-it.org/all/20150212201239/http://www.anonymousvideo.eu/the-hacker-wars.html>;rel="memento last"; datetime="Thu, 12 Feb 2015 20:12:39 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.anonymousvideo.eu/the-hacker-wars.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.anonymousvideo.eu/the-hacker-wars.html>;rel="self"; type="application/link-format"; from ="Wed, 03 Dec 2014 17:55:04 GMT";until="Thu, 12 Feb 2015 20:12:39 GMT"

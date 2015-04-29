@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:12:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="original"
+,<http://web.archive.org/web/20120305022122/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="memento first"; datetime="Mon, 05 Mar 2012 02:21:22 GMT"
+,<http://web.archive.org/web/20120306211403/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="memento"; datetime="Tue, 06 Mar 2012 21:14:03 GMT"
+,<http://web.archive.org/web/20120309010738/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/?>;rel="memento"; datetime="Fri, 09 Mar 2012 01:07:38 GMT"
+,<http://web.archive.org/web/20120419033852/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/?>;rel="memento"; datetime="Thu, 19 Apr 2012 03:38:52 GMT"
+,<http://web.archive.org/web/20120419144848/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="memento"; datetime="Thu, 19 Apr 2012 14:48:48 GMT"
+,<http://web.archive.org/web/20120503134438/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="memento"; datetime="Thu, 03 May 2012 13:44:38 GMT"
+,<http://web.archive.org/web/20120504204711/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="memento"; datetime="Fri, 04 May 2012 20:47:11 GMT"
+,<http://web.archive.org/web/20120626084916/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="memento"; datetime="Tue, 26 Jun 2012 08:49:16 GMT"
+,<http://web.archive.org/web/20130523105258/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="memento last"; datetime="Thu, 23 May 2013 10:52:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://laughingsquid.com/horror-film-alphabet-poster-that-quizzes-your-horror-movie-knowledge/>;rel="self"; type="application/link-format"; from ="Mon, 05 Mar 2012 02:21:22 GMT";until="Thu, 23 May 2013 10:52:58 GMT"

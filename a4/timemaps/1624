@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:36:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.huffingtonpost.ca/sangita-iyer/elephant-abuse_b_5769818.html>;rel="original"
+,<http://web.archive.org/web/20140917194450/http://www.huffingtonpost.ca/sangita-iyer/elephant-abuse_b_5769818.html>;rel="memento first"; datetime="Wed, 17 Sep 2014 19:44:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.huffingtonpost.ca/sangita-iyer/elephant-abuse_b_5769818.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.huffingtonpost.ca/sangita-iyer/elephant-abuse_b_5769818.html>;rel="self"; type="application/link-format"; from ="Wed, 17 Sep 2014 19:44:50 GMT";until="Wed, 17 Sep 2014 19:44:50 GMT"

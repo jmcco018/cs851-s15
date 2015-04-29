@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:02:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://spectrum.ieee.org/tech-talk/telecom/security/identifying-credit-card-users-with-a-few-bits-of-data>;rel="original"
+,<http://web.archive.org/web/20150321012438/http://spectrum.ieee.org/tech-talk/telecom/security/identifying-credit-card-users-with-a-few-bits-of-data>;rel="memento first"; datetime="Sat, 21 Mar 2015 01:24:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://spectrum.ieee.org/tech-talk/telecom/security/identifying-credit-card-users-with-a-few-bits-of-data>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://spectrum.ieee.org/tech-talk/telecom/security/identifying-credit-card-users-with-a-few-bits-of-data>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 01:24:38 GMT";until="Sat, 21 Mar 2015 01:24:38 GMT"

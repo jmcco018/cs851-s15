@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:24:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://bootroomnyc.com>;rel="original"
+,<http://web.archive.org/web/20141226125556/http://bootroomnyc.com/>;rel="memento first"; datetime="Fri, 26 Dec 2014 12:55:56 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://bootroomnyc.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://bootroomnyc.com>;rel="self"; type="application/link-format"; from ="Fri, 26 Dec 2014 12:55:56 GMT";until="Fri, 26 Dec 2014 12:55:56 GMT"

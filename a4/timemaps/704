@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:21:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.bible.com/bible/111/2co.5.17.niv>;rel="original"
+,<http://web.archive.org/web/20131022024311/https://www.bible.com/bible/111/2co.5.17.niv>;rel="memento first"; datetime="Tue, 22 Oct 2013 02:43:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.bible.com/bible/111/2co.5.17.niv>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.bible.com/bible/111/2co.5.17.niv>;rel="self"; type="application/link-format"; from ="Tue, 22 Oct 2013 02:43:11 GMT";until="Tue, 22 Oct 2013 02:43:11 GMT"

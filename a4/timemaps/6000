@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:54:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://conservamome.com/diono-radian-rxt-car-seat-review-giveaway-ends-210/>;rel="original"
+,<http://web.archive.org/web/20150317010637/http://conservamome.com/diono-radian-rxt-car-seat-review-giveaway-ends-210/>;rel="memento first"; datetime="Tue, 17 Mar 2015 01:06:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://conservamome.com/diono-radian-rxt-car-seat-review-giveaway-ends-210/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://conservamome.com/diono-radian-rxt-car-seat-review-giveaway-ends-210/>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 01:06:37 GMT";until="Tue, 17 Mar 2015 01:06:37 GMT"

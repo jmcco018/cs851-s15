@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:06:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.salon.com/2015/01/28/huckabees_hateful_true_colors_why_his_dig_about_foxs_trashy_women_is_so_revealing/>;rel="original"
+,<http://archive.is/20150128202554/http://www.salon.com/2015/01/28/huckabees_hateful_true_colors_why_his_dig_about_foxs_trashy_women_is_so_revealing/>;rel="memento first"; datetime="Wed, 28 Jan 2015 20:25:54 GMT"
+,<http://web.archive.org/web/20150129073018/http://www.salon.com/2015/01/28/huckabees_hateful_true_colors_why_his_dig_about_foxs_trashy_women_is_so_revealing/>;rel="memento"; datetime="Thu, 29 Jan 2015 07:30:18 GMT"
+,<http://web.archive.org/web/20150129081917/http://www.salon.com/2015/01/28/huckabees_hateful_true_colors_why_his_dig_about_foxs_trashy_women_is_so_revealing/>;rel="memento"; datetime="Thu, 29 Jan 2015 08:19:17 GMT"
+,<http://web.archive.org/web/20150130003548/http://www.salon.com/2015/01/28/huckabees_hateful_true_colors_why_his_dig_about_foxs_trashy_women_is_so_revealing/>;rel="memento last"; datetime="Fri, 30 Jan 2015 00:35:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.salon.com/2015/01/28/huckabees_hateful_true_colors_why_his_dig_about_foxs_trashy_women_is_so_revealing/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.salon.com/2015/01/28/huckabees_hateful_true_colors_why_his_dig_about_foxs_trashy_women_is_so_revealing/>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 20:25:54 GMT";until="Fri, 30 Jan 2015 00:35:48 GMT"

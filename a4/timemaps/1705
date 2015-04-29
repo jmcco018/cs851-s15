@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:38:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://finance.yahoo.com/news/shadow-no-shadow-free-coffee-123400204.html>;rel="original"
+,<http://web.archive.org/web/20150201175401/http://finance.yahoo.com/news/shadow-no-shadow-free-coffee-123400204.html>;rel="memento first"; datetime="Sun, 01 Feb 2015 17:54:01 GMT"
+,<http://web.archive.org/web/20150310132957/http://finance.yahoo.com/news/shadow-no-shadow-free-coffee-123400204.html>;rel="memento"; datetime="Tue, 10 Mar 2015 13:29:57 GMT"
+,<http://web.archive.org/web/20150311073231/http://finance.yahoo.com/news/shadow-no-shadow-free-coffee-123400204.html>;rel="memento last"; datetime="Wed, 11 Mar 2015 07:32:31 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://finance.yahoo.com/news/shadow-no-shadow-free-coffee-123400204.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://finance.yahoo.com/news/shadow-no-shadow-free-coffee-123400204.html>;rel="self"; type="application/link-format"; from ="Sun, 01 Feb 2015 17:54:01 GMT";until="Wed, 11 Mar 2015 07:32:31 GMT"

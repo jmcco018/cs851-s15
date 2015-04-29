@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bbj.hu/opinion/illegal-logging-in-myanmar-and-chinas-complicity_91740>;rel="original"
+,<http://web.archive.org/web/20150319161143/http://www.bbj.hu/opinion/illegal-logging-in-myanmar-and-chinas-complicity_91740>;rel="memento first"; datetime="Thu, 19 Mar 2015 16:11:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bbj.hu/opinion/illegal-logging-in-myanmar-and-chinas-complicity_91740>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bbj.hu/opinion/illegal-logging-in-myanmar-and-chinas-complicity_91740>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 16:11:43 GMT";until="Thu, 19 Mar 2015 16:11:43 GMT"

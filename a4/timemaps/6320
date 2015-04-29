@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cloudswave.com/blog/business-growth-why-you-absolutely-need-an-accounting-software/>;rel="original"
+,<http://web.archive.org/web/20150325194528/http://www.cloudswave.com/blog/business-growth-why-you-absolutely-need-an-accounting-software/>;rel="memento first"; datetime="Wed, 25 Mar 2015 19:45:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cloudswave.com/blog/business-growth-why-you-absolutely-need-an-accounting-software/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cloudswave.com/blog/business-growth-why-you-absolutely-need-an-accounting-software/>;rel="self"; type="application/link-format"; from ="Wed, 25 Mar 2015 19:45:28 GMT";until="Wed, 25 Mar 2015 19:45:28 GMT"

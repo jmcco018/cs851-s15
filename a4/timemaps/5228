@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:41:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://vine.co/v/OIrM9pKMqmu>;rel="original"
+,<http://archive.is/20150123112653/https://vine.co/v/OIrM9pKMqmu>;rel="memento first"; datetime="Fri, 23 Jan 2015 11:26:53 GMT"
+,<http://web.archive.org/web/20150124100717/https://vine.co/v/OIrM9pKMqmu>;rel="memento"; datetime="Sat, 24 Jan 2015 10:07:17 GMT"
+,<http://web.archive.org/web/20150125204748/https://vine.co/v/OIrM9pKMqmu>;rel="memento"; datetime="Sun, 25 Jan 2015 20:47:48 GMT"
+,<http://web.archive.org/web/20150126134756/https://vine.co/v/OIrM9pKMqmu>;rel="memento"; datetime="Mon, 26 Jan 2015 13:47:56 GMT"
+,<http://web.archive.org/web/20150127065924/https://vine.co/v/OIrM9pKMqmu>;rel="memento"; datetime="Tue, 27 Jan 2015 06:59:24 GMT"
+,<http://web.archive.org/web/20150128172652/https://vine.co/v/OIrM9pKMqmu>;rel="memento last"; datetime="Wed, 28 Jan 2015 17:26:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://vine.co/v/OIrM9pKMqmu>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://vine.co/v/OIrM9pKMqmu>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 11:26:53 GMT";until="Wed, 28 Jan 2015 17:26:52 GMT"

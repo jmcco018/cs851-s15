@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:47:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nbc26.tv/story/27973581/restaurant-report-card-12915-unique-bistro>;rel="original"
+,<http://web.archive.org/web/20150316004902/http://www.nbc26.tv/story/27973581/restaurant-report-card-12915-unique-bistro>;rel="memento first"; datetime="Mon, 16 Mar 2015 00:49:02 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nbc26.tv/story/27973581/restaurant-report-card-12915-unique-bistro>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nbc26.tv/story/27973581/restaurant-report-card-12915-unique-bistro>;rel="self"; type="application/link-format"; from ="Mon, 16 Mar 2015 00:49:02 GMT";until="Mon, 16 Mar 2015 00:49:02 GMT"

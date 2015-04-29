@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:42:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://mashable.com/2015/01/06/xyz-printing-food-printer/>;rel="original"
+,<http://web.archive.org/web/20150114181947/http://mashable.com/2015/01/06/xyz-printing-food-printer/>;rel="memento first"; datetime="Wed, 14 Jan 2015 18:19:47 GMT"
+,<http://web.archive.org/web/20150129052149/http://mashable.com/2015/01/06/xyz-printing-food-printer/>;rel="memento"; datetime="Thu, 29 Jan 2015 05:21:49 GMT"
+,<http://web.archive.org/web/20150205125645/http://mashable.com/2015/01/06/xyz-printing-food-printer/>;rel="memento"; datetime="Thu, 05 Feb 2015 12:56:45 GMT"
+,<http://web.archive.org/web/20150416185922/http://mashable.com/2015/01/06/xyz-printing-food-printer/>;rel="memento"; datetime="Thu, 16 Apr 2015 18:59:22 GMT"
+,<http://web.archive.org/web/20150421082334/http://mashable.com/2015/01/06/xyz-printing-food-printer/>;rel="memento last"; datetime="Tue, 21 Apr 2015 08:23:34 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://mashable.com/2015/01/06/xyz-printing-food-printer/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://mashable.com/2015/01/06/xyz-printing-food-printer/>;rel="self"; type="application/link-format"; from ="Wed, 14 Jan 2015 18:19:47 GMT";until="Tue, 21 Apr 2015 08:23:34 GMT"

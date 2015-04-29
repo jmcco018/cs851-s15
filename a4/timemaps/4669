@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:32:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://alpine-butterfly.com>;rel="original"
+,<http://web.archive.org/web/20130308020319/http://www.alpine-butterfly.com/>;rel="memento first"; datetime="Fri, 08 Mar 2013 02:03:19 GMT"
+,<http://web.archive.org/web/20130402124339/http://www.alpine-butterfly.com>;rel="memento"; datetime="Tue, 02 Apr 2013 12:43:39 GMT"
+,<http://web.archive.org/web/20130408001933/http://www.alpine-butterfly.com/>;rel="memento"; datetime="Mon, 08 Apr 2013 00:19:33 GMT"
+,<http://web.archive.org/web/20130510010128/http://www.alpine-butterfly.com/>;rel="memento"; datetime="Fri, 10 May 2013 01:01:28 GMT"
+,<http://web.archive.org/web/20140517001149/http://alpine-butterfly.com/>;rel="memento"; datetime="Sat, 17 May 2014 00:11:49 GMT"
+,<http://web.archive.org/web/20141216191121/http://alpine-butterfly.com/>;rel="memento"; datetime="Tue, 16 Dec 2014 19:11:21 GMT"
+,<http://web.archive.org/web/20141219001821/http://www.alpine-butterfly.com/>;rel="memento last"; datetime="Fri, 19 Dec 2014 00:18:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://alpine-butterfly.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://alpine-butterfly.com>;rel="self"; type="application/link-format"; from ="Fri, 08 Mar 2013 02:03:19 GMT";until="Fri, 19 Dec 2014 00:18:21 GMT"

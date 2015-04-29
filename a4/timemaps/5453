@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://espn.go.com/video/clip?id=12249674>;rel="original"
+,<http://web.archive.org/web/20150201144322/http://espn.go.com/video/clip?id=12249674>;rel="memento first"; datetime="Sun, 01 Feb 2015 14:43:22 GMT"
+,<http://web.archive.org/web/20150310170517/http://espn.go.com/video/clip?id=12249674>;rel="memento last"; datetime="Tue, 10 Mar 2015 17:05:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://espn.go.com/video/clip?id=12249674>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://espn.go.com/video/clip?id=12249674>;rel="self"; type="application/link-format"; from ="Sun, 01 Feb 2015 14:43:22 GMT";until="Tue, 10 Mar 2015 17:05:17 GMT"

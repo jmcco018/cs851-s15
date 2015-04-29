@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:43:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://ibikelondon.blogspot.co.uk/2015/01/as-ltda-goes-to-war-with-cyclists-we.html>;rel="original"
+,<http://web.archive.org/web/20150330030747/http://ibikelondon.blogspot.co.uk/2015/01/as-ltda-goes-to-war-with-cyclists-we.html>;rel="memento first"; datetime="Mon, 30 Mar 2015 03:07:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://ibikelondon.blogspot.co.uk/2015/01/as-ltda-goes-to-war-with-cyclists-we.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://ibikelondon.blogspot.co.uk/2015/01/as-ltda-goes-to-war-with-cyclists-we.html>;rel="self"; type="application/link-format"; from ="Mon, 30 Mar 2015 03:07:47 GMT";until="Mon, 30 Mar 2015 03:07:47 GMT"

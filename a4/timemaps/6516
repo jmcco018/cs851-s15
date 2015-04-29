@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thefa.com/news/governance/2015/jan/diego-costa-charged-violent-conduct-chelsea-liverpool-semi-final-second-leg>;rel="original"
+,<http://archive.is/20150128171555/http://www.thefa.com/news/governance/2015/jan/diego-costa-charged-violent-conduct-chelsea-liverpool-semi-final-second-leg>;rel="memento first"; datetime="Wed, 28 Jan 2015 17:15:55 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thefa.com/news/governance/2015/jan/diego-costa-charged-violent-conduct-chelsea-liverpool-semi-final-second-leg>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thefa.com/news/governance/2015/jan/diego-costa-charged-violent-conduct-chelsea-liverpool-semi-final-second-leg>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 17:15:55 GMT";until="Wed, 28 Jan 2015 17:15:55 GMT"

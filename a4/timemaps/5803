@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:52:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://saddle-creek.com/store/626>;rel="original"
+,<http://web.archive.org/web/20140517065809/http://saddle-creek.com/store/626>;rel="memento first"; datetime="Sat, 17 May 2014 06:58:09 GMT"
+,<http://web.archive.org/web/20140617115903/http://saddle-creek.com/store/626>;rel="memento"; datetime="Tue, 17 Jun 2014 11:59:03 GMT"
+,<http://web.archive.org/web/20140718122302/http://saddle-creek.com/store/626>;rel="memento"; datetime="Fri, 18 Jul 2014 12:23:02 GMT"
+,<http://web.archive.org/web/20140817105501/http://saddle-creek.com/store/626>;rel="memento"; datetime="Sun, 17 Aug 2014 10:55:01 GMT"
+,<http://web.archive.org/web/20140817214302/http://saddle-creek.com/store/626>;rel="memento"; datetime="Sun, 17 Aug 2014 21:43:02 GMT"
+,<http://web.archive.org/web/20140825161042/http://saddle-creek.com/store/626>;rel="memento"; datetime="Mon, 25 Aug 2014 16:10:42 GMT"
+,<http://web.archive.org/web/20150112234004/http://saddle-creek.com/store/626>;rel="memento"; datetime="Mon, 12 Jan 2015 23:40:04 GMT"
+,<http://web.archive.org/web/20150224075543/http://saddle-creek.com/store/626>;rel="memento"; datetime="Tue, 24 Feb 2015 07:55:43 GMT"
+,<http://web.archive.org/web/20150318202152/http://saddle-creek.com/store/626>;rel="memento last"; datetime="Wed, 18 Mar 2015 20:21:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://saddle-creek.com/store/626>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://saddle-creek.com/store/626>;rel="self"; type="application/link-format"; from ="Sat, 17 May 2014 06:58:09 GMT";until="Wed, 18 Mar 2015 20:21:52 GMT"

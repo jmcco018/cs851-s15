@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://spicegrinder.biz/the-spice-necklace-my-adventures-in-caribbean-cooking-eating-and-island-life/>;rel="original"
+,<http://web.archive.org/web/20131024123415/http://spicegrinder.biz/the-spice-necklace-my-adventures-in-caribbean-cooking-eating-and-island-life/>;rel="memento first"; datetime="Thu, 24 Oct 2013 12:34:15 GMT"
+,<http://web.archive.org/web/20140126211939/http://spicegrinder.biz/the-spice-necklace-my-adventures-in-caribbean-cooking-eating-and-island-life/>;rel="memento"; datetime="Sun, 26 Jan 2014 21:19:39 GMT"
+,<http://web.archive.org/web/20141025232935/http://spicegrinder.biz/the-spice-necklace-my-adventures-in-caribbean-cooking-eating-and-island-life/>;rel="memento last"; datetime="Sat, 25 Oct 2014 23:29:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://spicegrinder.biz/the-spice-necklace-my-adventures-in-caribbean-cooking-eating-and-island-life/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://spicegrinder.biz/the-spice-necklace-my-adventures-in-caribbean-cooking-eating-and-island-life/>;rel="self"; type="application/link-format"; from ="Thu, 24 Oct 2013 12:34:15 GMT";until="Sat, 25 Oct 2014 23:29:35 GMT"

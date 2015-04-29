@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:58:32 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.blackfarce.com/1/post/2014/01/replace-british-mps-with-romanian-intellectual-agency-workers-and-save-over-forty-million-pounds.html>;rel="original"
+,<http://web.archive.org/web/20140312060441/http://www.blackfarce.com/1/post/2014/01/replace-british-mps-with-romanian-intellectual-agency-workers-and-save-over-forty-million-pounds.html>;rel="memento first"; datetime="Wed, 12 Mar 2014 06:04:41 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.blackfarce.com/1/post/2014/01/replace-british-mps-with-romanian-intellectual-agency-workers-and-save-over-forty-million-pounds.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.blackfarce.com/1/post/2014/01/replace-british-mps-with-romanian-intellectual-agency-workers-and-save-over-forty-million-pounds.html>;rel="self"; type="application/link-format"; from ="Wed, 12 Mar 2014 06:04:41 GMT";until="Wed, 12 Mar 2014 06:04:41 GMT"

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:49:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://cna.ca/news/myth-busted-nuclear-is-actually-second-cheapest-source-of-electricity/>;rel="original"
+,<http://archive.is/20141214095022/https://cna.ca/news/myth-busted-nuclear-is-actually-second-cheapest-source-of-electricity/>;rel="memento first"; datetime="Sun, 14 Dec 2014 09:50:22 GMT"
+,<http://web.archive.org/web/20150131165410/https://cna.ca/news/myth-busted-nuclear-is-actually-second-cheapest-source-of-electricity/>;rel="memento"; datetime="Sat, 31 Jan 2015 16:54:10 GMT"
+,<http://web.archive.org/web/20150316091739/https://cna.ca/news/myth-busted-nuclear-is-actually-second-cheapest-source-of-electricity/>;rel="memento last"; datetime="Mon, 16 Mar 2015 09:17:39 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://cna.ca/news/myth-busted-nuclear-is-actually-second-cheapest-source-of-electricity/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://cna.ca/news/myth-busted-nuclear-is-actually-second-cheapest-source-of-electricity/>;rel="self"; type="application/link-format"; from ="Sun, 14 Dec 2014 09:50:22 GMT";until="Mon, 16 Mar 2015 09:17:39 GMT"

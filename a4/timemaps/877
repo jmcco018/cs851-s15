@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://indiatoday.intoday.in/story/gautam-gulati-winning-bigg-boss-voting-dimpy-ali-quli-least-votes-karishma-tanna-preetam-bigg-boss-halla-bol/1/416139.html>;rel="original"
+,<http://web.archive.org/web/20150201134819/http://indiatoday.intoday.in/story/gautam-gulati-winning-bigg-boss-voting-dimpy-ali-quli-least-votes-karishma-tanna-preetam-bigg-boss-halla-bol/1/416139.html>;rel="memento first"; datetime="Sun, 01 Feb 2015 13:48:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://indiatoday.intoday.in/story/gautam-gulati-winning-bigg-boss-voting-dimpy-ali-quli-least-votes-karishma-tanna-preetam-bigg-boss-halla-bol/1/416139.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://indiatoday.intoday.in/story/gautam-gulati-winning-bigg-boss-voting-dimpy-ali-quli-least-votes-karishma-tanna-preetam-bigg-boss-halla-bol/1/416139.html>;rel="self"; type="application/link-format"; from ="Sun, 01 Feb 2015 13:48:19 GMT";until="Sun, 01 Feb 2015 13:48:19 GMT"

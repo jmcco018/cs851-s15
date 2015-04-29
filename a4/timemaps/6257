@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:58:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://archive.org/stream/diaryoforvillehi20brow>;rel="original"
+,<http://web.archive.org/web/20120118171418/http://www.archive.org/stream/diaryoforvillehi20brow>;rel="memento first"; datetime="Wed, 18 Jan 2012 17:14:18 GMT"
+,<http://web.archive.org/web/20120222043653/http://www.archive.org/stream/diaryoforvillehi20brow>;rel="memento"; datetime="Wed, 22 Feb 2012 04:36:53 GMT"
+,<http://web.archive.org/web/20140820143758/http://www.archive.org/stream/diaryoforvillehi20brow>;rel="memento"; datetime="Wed, 20 Aug 2014 14:37:58 GMT"
+,<http://web.archive.org/web/20150203004130/http://www.archive.org/stream/diaryoforvillehi20brow>;rel="memento last"; datetime="Tue, 03 Feb 2015 00:41:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://archive.org/stream/diaryoforvillehi20brow>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://archive.org/stream/diaryoforvillehi20brow>;rel="self"; type="application/link-format"; from ="Wed, 18 Jan 2012 17:14:18 GMT";until="Tue, 03 Feb 2015 00:41:30 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:19:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.takingonmagazines.com/asian-barbecue-chicken-wings/>;rel="original"
+,<http://web.archive.org/web/20150319193749/http://www.takingonmagazines.com/asian-barbecue-chicken-wings/>;rel="memento first"; datetime="Thu, 19 Mar 2015 19:37:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.takingonmagazines.com/asian-barbecue-chicken-wings/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.takingonmagazines.com/asian-barbecue-chicken-wings/>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 19:37:49 GMT";until="Thu, 19 Mar 2015 19:37:49 GMT"

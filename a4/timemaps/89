@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:10:59 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://21stcenturywire.com/2015/01/30/uss-john-c-stennis-loads-massive-ordnance-in-preparation-for-what/>;rel="original"
+,<http://web.archive.org/web/20150319150358/http://21stcenturywire.com/2015/01/30/uss-john-c-stennis-loads-massive-ordnance-in-preparation-for-what/>;rel="memento first"; datetime="Thu, 19 Mar 2015 15:03:58 GMT"
+,<http://web.archive.org/web/20150404182918/http://21stcenturywire.com/2015/01/30/uss-john-c-stennis-loads-massive-ordnance-in-preparation-for-what/>;rel="memento last"; datetime="Sat, 04 Apr 2015 18:29:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://21stcenturywire.com/2015/01/30/uss-john-c-stennis-loads-massive-ordnance-in-preparation-for-what/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://21stcenturywire.com/2015/01/30/uss-john-c-stennis-loads-massive-ordnance-in-preparation-for-what/>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 15:03:58 GMT";until="Sat, 04 Apr 2015 18:29:18 GMT"

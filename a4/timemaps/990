@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://electronicintifada.net/blogs/ali-abunimah/french-police-question-8-year-old-suspicion-defending-terrorism>;rel="original"
+,<http://archive.is/20150129004813/http://electronicintifada.net/blogs/ali-abunimah/french-police-question-8-year-old-suspicion-defending-terrorism>;rel="memento first"; datetime="Thu, 29 Jan 2015 00:48:13 GMT"
+,<http://web.archive.org/web/20150131221528/http://electronicintifada.net/blogs/ali-abunimah/french-police-question-8-year-old-suspicion-defending-terrorism>;rel="memento"; datetime="Sat, 31 Jan 2015 22:15:28 GMT"
+,<http://web.archive.org/web/20150324062613/http://electronicintifada.net/blogs/ali-abunimah/french-police-question-8-year-old-suspicion-defending-terrorism>;rel="memento"; datetime="Tue, 24 Mar 2015 06:26:13 GMT"
+,<http://web.archive.org/web/20150325070030/http://electronicintifada.net/blogs/ali-abunimah/french-police-question-8-year-old-suspicion-defending-terrorism>;rel="memento last"; datetime="Wed, 25 Mar 2015 07:00:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://electronicintifada.net/blogs/ali-abunimah/french-police-question-8-year-old-suspicion-defending-terrorism>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://electronicintifada.net/blogs/ali-abunimah/french-police-question-8-year-old-suspicion-defending-terrorism>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 00:48:13 GMT";until="Wed, 25 Mar 2015 07:00:30 GMT"

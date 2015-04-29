@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:44:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://2decorateyourhome.com/halloween-and-how-to-decorate-your-home/>;rel="original"
+,<http://web.archive.org/web/20131207202945/http://2decorateyourhome.com/halloween-and-how-to-decorate-your-home/>;rel="memento first"; datetime="Sat, 07 Dec 2013 20:29:45 GMT"
+,<http://web.archive.org/web/20131209042418/http://2decorateyourhome.com/halloween-and-how-to-decorate-your-home/>;rel="memento last"; datetime="Mon, 09 Dec 2013 04:24:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://2decorateyourhome.com/halloween-and-how-to-decorate-your-home/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://2decorateyourhome.com/halloween-and-how-to-decorate-your-home/>;rel="self"; type="application/link-format"; from ="Sat, 07 Dec 2013 20:29:45 GMT";until="Mon, 09 Dec 2013 04:24:18 GMT"

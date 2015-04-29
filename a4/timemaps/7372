@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:18:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.growingupmadison.com/2015/01/keep-your-family-healthy-during-cold-flu-season.html>;rel="original"
+,<http://web.archive.org/web/20150420234132/http://www.growingupmadison.com/2015/01/keep-your-family-healthy-during-cold-flu-season.html>;rel="memento first"; datetime="Mon, 20 Apr 2015 23:41:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.growingupmadison.com/2015/01/keep-your-family-healthy-during-cold-flu-season.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.growingupmadison.com/2015/01/keep-your-family-healthy-during-cold-flu-season.html>;rel="self"; type="application/link-format"; from ="Mon, 20 Apr 2015 23:41:32 GMT";until="Mon, 20 Apr 2015 23:41:32 GMT"

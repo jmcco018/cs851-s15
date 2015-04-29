@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://HydrohsClothing.Com>;rel="original"
+,<http://web.archive.org/web/20150314200059/http://hydrohsclothing.com/>;rel="memento first"; datetime="Sat, 14 Mar 2015 20:00:59 GMT"
+,<http://web.archive.org/web/20150314221811/http://hydrohsclothing.com/>;rel="memento last"; datetime="Sat, 14 Mar 2015 22:18:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://HydrohsClothing.Com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://HydrohsClothing.Com>;rel="self"; type="application/link-format"; from ="Sat, 14 Mar 2015 20:00:59 GMT";until="Sat, 14 Mar 2015 22:18:11 GMT"

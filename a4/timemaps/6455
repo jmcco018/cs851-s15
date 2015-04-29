@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:02:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.spacesafetymagazine.com/space-disasters/columbia-disaster/>;rel="original"
+,<http://archive.is/20150128193449/http://www.spacesafetymagazine.com/space-disasters/columbia-disaster/>;rel="memento first"; datetime="Wed, 28 Jan 2015 19:34:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.spacesafetymagazine.com/space-disasters/columbia-disaster/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.spacesafetymagazine.com/space-disasters/columbia-disaster/>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 19:34:49 GMT";until="Wed, 28 Jan 2015 19:34:49 GMT"

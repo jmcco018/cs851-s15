@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.telegraph.co.uk/travel/snowandski/features/11376344/The-Jump-what-to-expect-from-this-years-contestants.html>;rel="original"
+,<http://web.archive.org/web/20150130223129/http://www.telegraph.co.uk/travel/snowandski/features/11376344/The-Jump-what-to-expect-from-this-years-contestants.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 22:31:29 GMT"
+,<http://web.archive.org/web/20150404094345/http://www.telegraph.co.uk/travel/snowandski/features/11376344/The-Jump-what-to-expect-from-this-years-contestants.html>;rel="memento last"; datetime="Sat, 04 Apr 2015 09:43:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.telegraph.co.uk/travel/snowandski/features/11376344/The-Jump-what-to-expect-from-this-years-contestants.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.telegraph.co.uk/travel/snowandski/features/11376344/The-Jump-what-to-expect-from-this-years-contestants.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 22:31:29 GMT";until="Sat, 04 Apr 2015 09:43:45 GMT"

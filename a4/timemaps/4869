@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:35:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://thenextweb.com/apps/2015/01/30/wunderlist-android-wear-now-lets-interact-notifications-dictate-dos/>;rel="original"
+,<http://web.archive.org/web/20150417055045/http://thenextweb.com/apps/2015/01/30/wunderlist-android-wear-now-lets-interact-notifications-dictate-dos/>;rel="memento first"; datetime="Fri, 17 Apr 2015 05:50:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://thenextweb.com/apps/2015/01/30/wunderlist-android-wear-now-lets-interact-notifications-dictate-dos/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://thenextweb.com/apps/2015/01/30/wunderlist-android-wear-now-lets-interact-notifications-dictate-dos/>;rel="self"; type="application/link-format"; from ="Fri, 17 Apr 2015 05:50:45 GMT";until="Fri, 17 Apr 2015 05:50:45 GMT"

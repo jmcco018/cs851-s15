@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:33:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.5StarBeatz.Com>;rel="original"
+,<http://webarchive.nationalarchives.gov.uk/20120612152029/http://www.5StarBeatz.Com>;rel="memento first"; datetime="Tue, 12 Jun 2012 15:20:29 GMT"
+,<http://webarchive.nationalarchives.gov.uk/20120618073044/http://www.5StarBeatz.Com>;rel="memento"; datetime="Mon, 18 Jun 2012 07:30:44 GMT"
+,<//wayback.archive-it.org/all/20131020063920/http://www.5starbeatz.com/>;rel="memento"; datetime="Sun, 20 Oct 2013 06:39:20 GMT"
+,<//wayback.archive-it.org/all/20140112142701/http://www.5starbeatz.com/>;rel="memento"; datetime="Sun, 12 Jan 2014 14:27:01 GMT"
+,<//wayback.archive-it.org/all/20150108090416/http://www.5starbeatz.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 09:04:16 GMT"
+,<//wayback.archive-it.org/all/20150109141418/http://www.5starbeatz.com/>;rel="memento last"; datetime="Fri, 09 Jan 2015 14:14:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.5StarBeatz.Com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.5StarBeatz.Com>;rel="self"; type="application/link-format"; from ="Tue, 12 Jun 2012 15:20:29 GMT";until="Fri, 09 Jan 2015 14:14:18 GMT"

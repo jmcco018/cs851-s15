@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:57:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.floralsymphonies.com/buy-online/flower-school-courses-london.html>;rel="original"
+,<http://web.archive.org/web/20130329144249/http://www.floralsymphonies.com/buy-online/flower-school-courses-london.html>;rel="memento first"; datetime="Fri, 29 Mar 2013 14:42:49 GMT"
+,<http://web.archive.org/web/20130708110227/http://www.floralsymphonies.com/buy-online/flower-school-courses-london.html>;rel="memento"; datetime="Mon, 08 Jul 2013 11:02:27 GMT"
+,<http://web.archive.org/web/20130921165934/http://www.floralsymphonies.com/buy-online/flower-school-courses-london.html>;rel="memento"; datetime="Sat, 21 Sep 2013 16:59:34 GMT"
+,<http://web.archive.org/web/20131026105823/http://www.floralsymphonies.com/buy-online/flower-school-courses-london.html>;rel="memento"; datetime="Sat, 26 Oct 2013 10:58:23 GMT"
+,<http://web.archive.org/web/20140511232604/http://www.floralsymphonies.com/buy-online/flower-school-courses-london.html>;rel="memento last"; datetime="Sun, 11 May 2014 23:26:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.floralsymphonies.com/buy-online/flower-school-courses-london.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.floralsymphonies.com/buy-online/flower-school-courses-london.html>;rel="self"; type="application/link-format"; from ="Fri, 29 Mar 2013 14:42:49 GMT";until="Sun, 11 May 2014 23:26:04 GMT"

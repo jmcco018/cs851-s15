@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:28:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.calderdale.gov.uk/victoria/details.jsp?event=4269>;rel="original"
+,<http://webarchive.nationalarchives.gov.uk/20141208061102/http://www.calderdale.gov.uk/victoria/details.jsp?event=4269>;rel="memento first"; datetime="Mon, 08 Dec 2014 06:11:02 GMT"
+,<//wayback.archive-it.org/all/20150109004559/http://www.calderdale.gov.uk/victoria/details.jsp?event=4269>;rel="memento last"; datetime="Fri, 09 Jan 2015 00:45:59 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.calderdale.gov.uk/victoria/details.jsp?event=4269>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.calderdale.gov.uk/victoria/details.jsp?event=4269>;rel="self"; type="application/link-format"; from ="Mon, 08 Dec 2014 06:11:02 GMT";until="Fri, 09 Jan 2015 00:45:59 GMT"

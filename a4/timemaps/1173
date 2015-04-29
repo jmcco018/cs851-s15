@@ -1,0 +1,33 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:29:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.superpoints.com/users/sign_up>;rel="original"
+,<http://web.archive.org/web/20140706103603/https://www.superpoints.com/users/sign_up>;rel="memento first"; datetime="Sun, 06 Jul 2014 10:36:03 GMT"
+,<http://web.archive.org/web/20141015121243/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Wed, 15 Oct 2014 12:12:43 GMT"
+,<http://web.archive.org/web/20141227211155/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Sat, 27 Dec 2014 21:11:55 GMT"
+,<http://web.archive.org/web/20150103154757/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Sat, 03 Jan 2015 15:47:57 GMT"
+,<http://web.archive.org/web/20150106050704/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Tue, 06 Jan 2015 05:07:04 GMT"
+,<http://web.archive.org/web/20150107192102/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Wed, 07 Jan 2015 19:21:02 GMT"
+,<http://web.archive.org/web/20150110222312/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Sat, 10 Jan 2015 22:23:12 GMT"
+,<http://web.archive.org/web/20150114202606/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Wed, 14 Jan 2015 20:26:06 GMT"
+,<http://web.archive.org/web/20150117135308/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Sat, 17 Jan 2015 13:53:08 GMT"
+,<http://web.archive.org/web/20150122070309/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Thu, 22 Jan 2015 07:03:09 GMT"
+,<http://web.archive.org/web/20150127194907/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Tue, 27 Jan 2015 19:49:07 GMT"
+,<http://web.archive.org/web/20150215133023/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Sun, 15 Feb 2015 13:30:23 GMT"
+,<http://web.archive.org/web/20150217201940/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Tue, 17 Feb 2015 20:19:40 GMT"
+,<http://web.archive.org/web/20150223111558/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Mon, 23 Feb 2015 11:15:58 GMT"
+,<http://web.archive.org/web/20150224105308/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Tue, 24 Feb 2015 10:53:08 GMT"
+,<http://web.archive.org/web/20150322093643/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Sun, 22 Mar 2015 09:36:43 GMT"
+,<http://web.archive.org/web/20150324164955/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Tue, 24 Mar 2015 16:49:55 GMT"
+,<http://web.archive.org/web/20150331025328/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Tue, 31 Mar 2015 02:53:28 GMT"
+,<http://web.archive.org/web/20150331103024/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Tue, 31 Mar 2015 10:30:24 GMT"
+,<http://web.archive.org/web/20150403074339/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Fri, 03 Apr 2015 07:43:39 GMT"
+,<http://web.archive.org/web/20150409215154/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Thu, 09 Apr 2015 21:51:54 GMT"
+,<http://web.archive.org/web/20150420210629/https://www.superpoints.com/users/sign_up>;rel="memento"; datetime="Mon, 20 Apr 2015 21:06:29 GMT"
+,<http://web.archive.org/web/20150422075056/https://www.superpoints.com/users/sign_up>;rel="memento last"; datetime="Wed, 22 Apr 2015 07:50:56 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.superpoints.com/users/sign_up>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.superpoints.com/users/sign_up>;rel="self"; type="application/link-format"; from ="Sun, 06 Jul 2014 10:36:03 GMT";until="Wed, 22 Apr 2015 07:50:56 GMT"

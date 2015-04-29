@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:02:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.kickstarter.com/projects/711918524/clever-sleeves-that-keep-childrens-mittens-on-and>;rel="original"
+,<http://archive.is/20150115012130/https://www.kickstarter.com/projects/711918524/clever-sleeves-that-keep-childrens-mittens-on-and>;rel="memento first"; datetime="Thu, 15 Jan 2015 01:21:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.kickstarter.com/projects/711918524/clever-sleeves-that-keep-childrens-mittens-on-and>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.kickstarter.com/projects/711918524/clever-sleeves-that-keep-childrens-mittens-on-and>;rel="self"; type="application/link-format"; from ="Thu, 15 Jan 2015 01:21:30 GMT";until="Thu, 15 Jan 2015 01:21:30 GMT"

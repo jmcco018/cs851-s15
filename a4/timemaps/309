@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:14:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cnet.com/news/appliance-science-how-led-lights-work/>;rel="original"
+,<http://web.archive.org/web/20141228052521/http://www.cnet.com/news/appliance-science-how-led-lights-work/>;rel="memento first"; datetime="Sun, 28 Dec 2014 05:25:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cnet.com/news/appliance-science-how-led-lights-work/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cnet.com/news/appliance-science-how-led-lights-work/>;rel="self"; type="application/link-format"; from ="Sun, 28 Dec 2014 05:25:21 GMT";until="Sun, 28 Dec 2014 05:25:21 GMT"

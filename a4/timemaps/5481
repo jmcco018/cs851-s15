@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://globalnews.ca/news/1802639/toronto-police-to-release-video-in-fatal-garden-restaurant-shooting/>;rel="original"
+,<http://web.archive.org/web/20150405224330/http://globalnews.ca/news/1802639/toronto-police-to-release-video-in-fatal-garden-restaurant-shooting>;rel="memento first"; datetime="Sun, 05 Apr 2015 22:43:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://globalnews.ca/news/1802639/toronto-police-to-release-video-in-fatal-garden-restaurant-shooting/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://globalnews.ca/news/1802639/toronto-police-to-release-video-in-fatal-garden-restaurant-shooting/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 22:43:30 GMT";until="Sun, 05 Apr 2015 22:43:30 GMT"

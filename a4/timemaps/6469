@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:02:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.murraymitchell.com/2013/08/space-shuttle-appearing-through-the-clouds/>;rel="original"
+,<http://web.archive.org/web/20130811112232/http://www.murraymitchell.com/2013/08/space-shuttle-appearing-through-the-clouds/>;rel="memento first"; datetime="Sun, 11 Aug 2013 11:22:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.murraymitchell.com/2013/08/space-shuttle-appearing-through-the-clouds/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.murraymitchell.com/2013/08/space-shuttle-appearing-through-the-clouds/>;rel="self"; type="application/link-format"; from ="Sun, 11 Aug 2013 11:22:32 GMT";until="Sun, 11 Aug 2013 11:22:32 GMT"

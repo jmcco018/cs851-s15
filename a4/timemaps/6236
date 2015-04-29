@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:58:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ottawasun.com/2015/01/29/local-skeleton-racer-eyes-world-circuit>;rel="original"
+,<http://archive.is/20150205223730/http://www.ottawasun.com/2015/01/29/local-skeleton-racer-eyes-world-circuit>;rel="memento first"; datetime="Thu, 05 Feb 2015 22:37:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ottawasun.com/2015/01/29/local-skeleton-racer-eyes-world-circuit>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ottawasun.com/2015/01/29/local-skeleton-racer-eyes-world-circuit>;rel="self"; type="application/link-format"; from ="Thu, 05 Feb 2015 22:37:30 GMT";until="Thu, 05 Feb 2015 22:37:30 GMT"

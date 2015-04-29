@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:16:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://twitter.com/BabyAnimalGifs/status/517772506934300674/photo/1>;rel="original"
+,<//wayback.archive-it.org/all/20150111025122/http://twitter.com/BabyAnimalGifs/status/517772506934300674/photo/1>;rel="memento first"; datetime="Sun, 11 Jan 2015 02:51:22 GMT"
+,<//wayback.archive-it.org/all/20150111025153/https://twitter.com/BabyAnimalGifs/status/517772506934300674/photo/1>;rel="memento last"; datetime="Sun, 11 Jan 2015 02:51:53 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://twitter.com/BabyAnimalGifs/status/517772506934300674/photo/1>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://twitter.com/BabyAnimalGifs/status/517772506934300674/photo/1>;rel="self"; type="application/link-format"; from ="Sun, 11 Jan 2015 02:51:22 GMT";until="Sun, 11 Jan 2015 02:51:53 GMT"

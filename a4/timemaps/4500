@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:29:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dailymail.co.uk/sport/article-2933127/Frank-Lampard-legend-Manchester-City-left-one-hell-bitter-taste-won-t-sing-Stamford-Bridge.html>;rel="original"
+,<http://web.archive.org/web/20150131052237/http://www.dailymail.co.uk/sport/article-2933127/Frank-Lampard-legend-Manchester-City-left-one-hell-bitter-taste-won-t-sing-Stamford-Bridge.html>;rel="memento first"; datetime="Sat, 31 Jan 2015 05:22:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dailymail.co.uk/sport/article-2933127/Frank-Lampard-legend-Manchester-City-left-one-hell-bitter-taste-won-t-sing-Stamford-Bridge.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dailymail.co.uk/sport/article-2933127/Frank-Lampard-legend-Manchester-City-left-one-hell-bitter-taste-won-t-sing-Stamford-Bridge.html>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 05:22:37 GMT";until="Sat, 31 Jan 2015 05:22:37 GMT"

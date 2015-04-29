@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.ratecoworkers.com/>;rel="original"
+,<http://web.archive.org/web/20130518181443/http://ratecoworkers.com>;rel="memento first"; datetime="Sat, 18 May 2013 18:14:43 GMT"
+,<http://web.archive.org/web/20130615230906/http://ratecoworkers.com/>;rel="memento"; datetime="Sat, 15 Jun 2013 23:09:06 GMT"
+,<http://web.archive.org/web/20130805142439/http://www.ratecoworkers.com/>;rel="memento"; datetime="Mon, 05 Aug 2013 14:24:39 GMT"
+,<http://web.archive.org/web/20130905170226/http://www.ratecoworkers.com/>;rel="memento"; datetime="Thu, 05 Sep 2013 17:02:26 GMT"
+,<http://web.archive.org/web/20131007010632/http://www.ratecoworkers.com/>;rel="memento"; datetime="Mon, 07 Oct 2013 01:06:32 GMT"
+,<http://web.archive.org/web/20131030215550/http://www.ratecoworkers.com/>;rel="memento"; datetime="Wed, 30 Oct 2013 21:55:50 GMT"
+,<http://web.archive.org/web/20131106184728/http://www.ratecoworkers.com/>;rel="memento"; datetime="Wed, 06 Nov 2013 18:47:28 GMT"
+,<http://web.archive.org/web/20131208051749/http://www.ratecoworkers.com/>;rel="memento"; datetime="Sun, 08 Dec 2013 05:17:49 GMT"
+,<http://web.archive.org/web/20140108184609/http://ratecoworkers.com/>;rel="memento"; datetime="Wed, 08 Jan 2014 18:46:09 GMT"
+,<http://web.archive.org/web/20140108202305/http://www.ratecoworkers.com/>;rel="memento"; datetime="Wed, 08 Jan 2014 20:23:05 GMT"
+,<http://web.archive.org/web/20140208143545/http://www.ratecoworkers.com/>;rel="memento"; datetime="Sat, 08 Feb 2014 14:35:45 GMT"
+,<http://web.archive.org/web/20140330050813/http://www.ratecoworkers.com/>;rel="memento"; datetime="Sun, 30 Mar 2014 05:08:13 GMT"
+,<http://web.archive.org/web/20140331091330/http://www.ratecoworkers.com/>;rel="memento"; datetime="Mon, 31 Mar 2014 09:13:30 GMT"
+,<http://web.archive.org/web/20140504130813/http://www.ratecoworkers.com/>;rel="memento"; datetime="Sun, 04 May 2014 13:08:13 GMT"
+,<http://web.archive.org/web/20140604081816/http://www.ratecoworkers.com/>;rel="memento"; datetime="Wed, 04 Jun 2014 08:18:16 GMT"
+,<http://web.archive.org/web/20140706100716/http://www.ratecoworkers.com/>;rel="memento"; datetime="Sun, 06 Jul 2014 10:07:16 GMT"
+,<http://web.archive.org/web/20140806190514/http://www.ratecoworkers.com/>;rel="memento"; datetime="Wed, 06 Aug 2014 19:05:14 GMT"
+,<http://web.archive.org/web/20141218055040/http://ratecoworkers.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 05:50:40 GMT"
+,<http://web.archive.org/web/20141221234941/https://www.ratecoworkers.com/>;rel="memento last"; datetime="Sun, 21 Dec 2014 23:49:41 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.ratecoworkers.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.ratecoworkers.com/>;rel="self"; type="application/link-format"; from ="Sat, 18 May 2013 18:14:43 GMT";until="Sun, 21 Dec 2014 23:49:41 GMT"

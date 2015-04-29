@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:03:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://automobileuploads.com/2014/11/24/grapes-and-wrath/>;rel="original"
+,<http://web.archive.org/web/20141206210104/http://automobileuploads.com/2014/11/24/grapes-and-wrath/>;rel="memento first"; datetime="Sat, 06 Dec 2014 21:01:04 GMT"
+,<http://web.archive.org/web/20150209174448/http://automobileuploads.com/2014/11/24/grapes-and-wrath/>;rel="memento last"; datetime="Mon, 09 Feb 2015 17:44:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://automobileuploads.com/2014/11/24/grapes-and-wrath/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://automobileuploads.com/2014/11/24/grapes-and-wrath/>;rel="self"; type="application/link-format"; from ="Sat, 06 Dec 2014 21:01:04 GMT";until="Mon, 09 Feb 2015 17:44:48 GMT"

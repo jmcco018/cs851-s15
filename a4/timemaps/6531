@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://curated-news.com/gossips/celebs-aliens-in-titanium-sphere-ufos-among-us-says-sheffield-and-buckingham-university-researchers>;rel="original"
+,<http://web.archive.org/web/20150406104332/http://curated-news.com/gossips/celebs-aliens-in-titanium-sphere-ufos-among-us-says-sheffield-and-buckingham-university-researchers>;rel="memento first"; datetime="Mon, 06 Apr 2015 10:43:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://curated-news.com/gossips/celebs-aliens-in-titanium-sphere-ufos-among-us-says-sheffield-and-buckingham-university-researchers>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://curated-news.com/gossips/celebs-aliens-in-titanium-sphere-ufos-among-us-says-sheffield-and-buckingham-university-researchers>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 10:43:32 GMT";until="Mon, 06 Apr 2015 10:43:32 GMT"

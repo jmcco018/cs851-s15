@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:56:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.etsy.com/shop/urbanraven>;rel="original"
+,<http://web.archive.org/web/20150108090149/https://www.etsy.com/shop/UrbanRaven>;rel="memento first"; datetime="Thu, 08 Jan 2015 09:01:49 GMT"
+,<http://web.archive.org/web/20150109193136/https://www.etsy.com/shop/UrbanRaven>;rel="memento"; datetime="Fri, 09 Jan 2015 19:31:36 GMT"
+,<http://web.archive.org/web/20150122124321/https://www.etsy.com/shop/UrbanRaven>;rel="memento"; datetime="Thu, 22 Jan 2015 12:43:21 GMT"
+,<http://web.archive.org/web/20150407090136/http://www.etsy.com/shop/urbanraven>;rel="memento"; datetime="Tue, 07 Apr 2015 09:01:36 GMT"
+,<http://web.archive.org/web/20150407090137/https://www.etsy.com/shop/urbanraven>;rel="memento last"; datetime="Tue, 07 Apr 2015 09:01:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.etsy.com/shop/urbanraven>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.etsy.com/shop/urbanraven>;rel="self"; type="application/link-format"; from ="Thu, 08 Jan 2015 09:01:49 GMT";until="Tue, 07 Apr 2015 09:01:37 GMT"

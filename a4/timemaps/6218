@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:58:09 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://latvia.eu/news/double-victory-latvia-european-skeleton-championship>;rel="original"
+,<http://web.archive.org/web/20150401215207/http://www.latvia.eu/news/double-victory-latvia-european-skeleton-championship>;rel="memento first"; datetime="Wed, 01 Apr 2015 21:52:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://latvia.eu/news/double-victory-latvia-european-skeleton-championship>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://latvia.eu/news/double-victory-latvia-european-skeleton-championship>;rel="self"; type="application/link-format"; from ="Wed, 01 Apr 2015 21:52:07 GMT";until="Wed, 01 Apr 2015 21:52:07 GMT"

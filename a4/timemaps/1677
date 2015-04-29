@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:37:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://readersgazette.com/world/moreinfo/B00JX0YSVA/>;rel="original"
+,<http://web.archive.org/web/20150113062848/http://readersgazette.com/world/moreinfo/B00JX0YSVA/>;rel="memento first"; datetime="Tue, 13 Jan 2015 06:28:48 GMT"
+,<http://web.archive.org/web/20150317001544/http://readersgazette.com/world/moreinfo/B00JX0YSVA/>;rel="memento last"; datetime="Tue, 17 Mar 2015 00:15:44 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://readersgazette.com/world/moreinfo/B00JX0YSVA/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://readersgazette.com/world/moreinfo/B00JX0YSVA/>;rel="self"; type="application/link-format"; from ="Tue, 13 Jan 2015 06:28:48 GMT";until="Tue, 17 Mar 2015 00:15:44 GMT"

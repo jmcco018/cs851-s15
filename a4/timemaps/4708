@@ -1,0 +1,35 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:33:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.etsy.com/shop/zigzagstitches>;rel="original"
+,<http://web.archive.org/web/20091213165410/http://www.etsy.com/shop/zigzagstitches?>;rel="memento first"; datetime="Sun, 13 Dec 2009 16:54:10 GMT"
+,<http://web.archive.org/web/20091214092058/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Mon, 14 Dec 2009 09:20:58 GMT"
+,<http://web.archive.org/web/20100227202231/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Sat, 27 Feb 2010 20:22:31 GMT"
+,<http://web.archive.org/web/20100301092518/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Mon, 01 Mar 2010 09:25:18 GMT"
+,<http://web.archive.org/web/20100411085129/http://www.etsy.com/shop/zigzagstitches?>;rel="memento"; datetime="Sun, 11 Apr 2010 08:51:29 GMT"
+,<http://web.archive.org/web/20110909031625/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Fri, 09 Sep 2011 03:16:25 GMT"
+,<http://web.archive.org/web/20111105122924/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Sat, 05 Nov 2011 12:29:24 GMT"
+,<http://web.archive.org/web/20111122222936/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Tue, 22 Nov 2011 22:29:36 GMT"
+,<http://web.archive.org/web/20111201181640/http://www.etsy.com/shop/zigzagstitches?>;rel="memento"; datetime="Thu, 01 Dec 2011 18:16:40 GMT"
+,<http://web.archive.org/web/20120407004844/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Sat, 07 Apr 2012 00:48:44 GMT"
+,<http://web.archive.org/web/20120408002530/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Sun, 08 Apr 2012 00:25:30 GMT"
+,<http://web.archive.org/web/20120408180659/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Sun, 08 Apr 2012 18:06:59 GMT"
+,<http://web.archive.org/web/20120410014537/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Tue, 10 Apr 2012 01:45:37 GMT"
+,<http://web.archive.org/web/20130508055156/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Wed, 08 May 2013 05:51:56 GMT"
+,<http://web.archive.org/web/20131007061212/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Mon, 07 Oct 2013 06:12:12 GMT"
+,<http://web.archive.org/web/20131023213705/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Wed, 23 Oct 2013 21:37:05 GMT"
+,<http://web.archive.org/web/20131204203441/https://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Wed, 04 Dec 2013 20:34:41 GMT"
+,<http://web.archive.org/web/20131206071447/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Fri, 06 Dec 2013 07:14:47 GMT"
+,<http://web.archive.org/web/20131228224556/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Sat, 28 Dec 2013 22:45:56 GMT"
+,<http://web.archive.org/web/20140605063609/https://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Thu, 05 Jun 2014 06:36:09 GMT"
+,<http://web.archive.org/web/20140626213513/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Thu, 26 Jun 2014 21:35:13 GMT"
+,<http://web.archive.org/web/20140626213518/https://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Thu, 26 Jun 2014 21:35:18 GMT"
+,<http://web.archive.org/web/20140816125604/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Sat, 16 Aug 2014 12:56:04 GMT"
+,<http://web.archive.org/web/20140829133642/http://www.etsy.com/shop/zigzagstitches>;rel="memento"; datetime="Fri, 29 Aug 2014 13:36:42 GMT"
+,<http://web.archive.org/web/20140829133646/https://www.etsy.com/shop/zigzagstitches>;rel="memento last"; datetime="Fri, 29 Aug 2014 13:36:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.etsy.com/shop/zigzagstitches>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.etsy.com/shop/zigzagstitches>;rel="self"; type="application/link-format"; from ="Sun, 13 Dec 2009 16:54:10 GMT";until="Fri, 29 Aug 2014 13:36:46 GMT"

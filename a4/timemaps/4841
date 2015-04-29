@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:35:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.rusada.ru/en/press/news/russian-athletes-athletics-recognized-ineligible-0>;rel="original"
+,<http://archive.is/20150130154837/http://www.rusada.ru/en/press/news/russian-athletes-athletics-recognized-ineligible-0>;rel="memento first"; datetime="Fri, 30 Jan 2015 15:48:37 GMT"
+,<http://web.archive.org/web/20150130223915/http://www.rusada.ru/en/press/news/russian-athletes-athletics-recognized-ineligible-0>;rel="memento last"; datetime="Fri, 30 Jan 2015 22:39:15 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.rusada.ru/en/press/news/russian-athletes-athletics-recognized-ineligible-0>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.rusada.ru/en/press/news/russian-athletes-athletics-recognized-ineligible-0>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 15:48:37 GMT";until="Fri, 30 Jan 2015 22:39:15 GMT"

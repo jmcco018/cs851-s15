@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:06:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.inquisitr.com/1440306/racist-boy-dies-and-sees-black-jesus-in-near-death-experience-asks-kkk-leader-why-god-is-a-n-word/>;rel="original"
+,<http://web.archive.org/web/20140829070224/http://www.inquisitr.com/1440306/racist-boy-dies-and-sees-black-jesus-in-near-death-experience-asks-kkk-leader-why-god-is-a-n-word/>;rel="memento first"; datetime="Fri, 29 Aug 2014 07:02:24 GMT"
+,<http://web.archive.org/web/20140829154428/http://www.inquisitr.com/1440306/racist-boy-dies-and-sees-black-jesus-in-near-death-experience-asks-kkk-leader-why-god-is-a-n-word/>;rel="memento"; datetime="Fri, 29 Aug 2014 15:44:28 GMT"
+,<http://web.archive.org/web/20140901094701/http://www.inquisitr.com/1440306/racist-boy-dies-and-sees-black-jesus-in-near-death-experience-asks-kkk-leader-why-god-is-a-n-word/>;rel="memento"; datetime="Mon, 01 Sep 2014 09:47:01 GMT"
+,<http://web.archive.org/web/20140903000128/http://www.inquisitr.com/1440306/racist-boy-dies-and-sees-black-jesus-in-near-death-experience-asks-kkk-leader-why-god-is-a-n-word/>;rel="memento last"; datetime="Wed, 03 Sep 2014 00:01:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.inquisitr.com/1440306/racist-boy-dies-and-sees-black-jesus-in-near-death-experience-asks-kkk-leader-why-god-is-a-n-word/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.inquisitr.com/1440306/racist-boy-dies-and-sees-black-jesus-in-near-death-experience-asks-kkk-leader-why-god-is-a-n-word/>;rel="self"; type="application/link-format"; from ="Fri, 29 Aug 2014 07:02:24 GMT";until="Wed, 03 Sep 2014 00:01:28 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:43 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.agirlsgottaspa.com/2012/05/eco-armour-shave-foam-moisturizing-insect-repellent/>;rel="original"
+,<http://web.archive.org/web/20131111095919/http://www.agirlsgottaspa.com/2012/05/eco-armour-shave-foam-moisturizing-insect-repellent/>;rel="memento first"; datetime="Mon, 11 Nov 2013 09:59:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.agirlsgottaspa.com/2012/05/eco-armour-shave-foam-moisturizing-insect-repellent/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.agirlsgottaspa.com/2012/05/eco-armour-shave-foam-moisturizing-insect-repellent/>;rel="self"; type="application/link-format"; from ="Mon, 11 Nov 2013 09:59:19 GMT";until="Mon, 11 Nov 2013 09:59:19 GMT"

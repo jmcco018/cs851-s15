@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:00:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blog.industrysoftware.automation.siemens.com/blog/2015/01/29/top-5-simulation-issues-nx-cae-addresses/>;rel="original"
+,<http://web.archive.org/web/20150319050148/http://blog.industrysoftware.automation.siemens.com/blog/2015/01/29/top-5-simulation-issues-nx-cae-addresses/>;rel="memento first"; datetime="Thu, 19 Mar 2015 05:01:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blog.industrysoftware.automation.siemens.com/blog/2015/01/29/top-5-simulation-issues-nx-cae-addresses/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blog.industrysoftware.automation.siemens.com/blog/2015/01/29/top-5-simulation-issues-nx-cae-addresses/>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 05:01:48 GMT";until="Thu, 19 Mar 2015 05:01:48 GMT"

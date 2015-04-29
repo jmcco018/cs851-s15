@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:19:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://omojuwa.com/2015/01/chadian-fighter-jet-reclaims-borno-town-from-boko-haram/>;rel="original"
+,<http://web.archive.org/web/20150406072236/http://omojuwa.com/2015/01/chadian-fighter-jet-reclaims-borno-town-from-boko-haram/>;rel="memento first"; datetime="Mon, 06 Apr 2015 07:22:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://omojuwa.com/2015/01/chadian-fighter-jet-reclaims-borno-town-from-boko-haram/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://omojuwa.com/2015/01/chadian-fighter-jet-reclaims-borno-town-from-boko-haram/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 07:22:36 GMT";until="Mon, 06 Apr 2015 07:22:36 GMT"

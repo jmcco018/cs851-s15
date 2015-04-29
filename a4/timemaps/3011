@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:58:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dailymail.co.uk/news/article-2931385/Budi-s-better-Baby-orangutan-tastes-fruit-time-rescued-cruel-owner-kept-caged-chicken-coop-MailOnline-readers-help-raise-20-000-care.html>;rel="original"
+,<http://web.archive.org/web/20150323021824/http://www.dailymail.co.uk/news/article-2931385/Budi-s-better-Baby-orangutan-tastes-fruit-time-rescued-cruel-owner-kept-caged-chicken-coop-MailOnline-readers-help-raise-20-000-care.html>;rel="memento first"; datetime="Mon, 23 Mar 2015 02:18:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dailymail.co.uk/news/article-2931385/Budi-s-better-Baby-orangutan-tastes-fruit-time-rescued-cruel-owner-kept-caged-chicken-coop-MailOnline-readers-help-raise-20-000-care.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dailymail.co.uk/news/article-2931385/Budi-s-better-Baby-orangutan-tastes-fruit-time-rescued-cruel-owner-kept-caged-chicken-coop-MailOnline-readers-help-raise-20-000-care.html>;rel="self"; type="application/link-format"; from ="Mon, 23 Mar 2015 02:18:24 GMT";until="Mon, 23 Mar 2015 02:18:24 GMT"

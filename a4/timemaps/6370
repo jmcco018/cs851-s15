@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:00:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://satoshilabs.com/news/2015-01-30-trezor-software-license/>;rel="original"
+,<http://archive.is/20150130154251/http://satoshilabs.com/news/2015-01-30-trezor-software-license/>;rel="memento first"; datetime="Fri, 30 Jan 2015 15:42:51 GMT"
+,<http://web.archive.org/web/20150213013223/http://satoshilabs.com/news/2015-01-30-trezor-software-license/>;rel="memento"; datetime="Fri, 13 Feb 2015 01:32:23 GMT"
+,<http://web.archive.org/web/20150317020438/http://satoshilabs.com/news/2015-01-30-trezor-software-license/>;rel="memento last"; datetime="Tue, 17 Mar 2015 02:04:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://satoshilabs.com/news/2015-01-30-trezor-software-license/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://satoshilabs.com/news/2015-01-30-trezor-software-license/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 15:42:51 GMT";until="Tue, 17 Mar 2015 02:04:38 GMT"

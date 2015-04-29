@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:22:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mirror.co.uk/news/world-news/kendra-sunderland-teenager-arrested-after-5073151>;rel="original"
+,<http://web.archive.org/web/20150130172559/http://www.mirror.co.uk/news/world-news/kendra-sunderland-teenager-arrested-after-5073151>;rel="memento first"; datetime="Fri, 30 Jan 2015 17:25:59 GMT"
+,<http://web.archive.org/web/20150202071604/http://www.mirror.co.uk/news/world-news/kendra-sunderland-teenager-arrested-after-5073151>;rel="memento"; datetime="Mon, 02 Feb 2015 07:16:04 GMT"
+,<http://web.archive.org/web/20150225020407/http://www.mirror.co.uk/news/world-news/kendra-sunderland-teenager-arrested-after-5073151>;rel="memento last"; datetime="Wed, 25 Feb 2015 02:04:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mirror.co.uk/news/world-news/kendra-sunderland-teenager-arrested-after-5073151>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mirror.co.uk/news/world-news/kendra-sunderland-teenager-arrested-after-5073151>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 17:25:59 GMT";until="Wed, 25 Feb 2015 02:04:07 GMT"

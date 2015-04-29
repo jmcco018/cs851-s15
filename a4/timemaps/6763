@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:08:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ultimetecnoscientifiche.blogspot.com/>;rel="original"
+,<http://web.archive.org/web/20111110062424/http://www.ultimetecnoscientifiche.blogspot.com/>;rel="memento first"; datetime="Thu, 10 Nov 2011 06:24:24 GMT"
+,<http://web.archive.org/web/20140603235410/http://ultimetecnoscientifiche.blogspot.com/>;rel="memento"; datetime="Tue, 03 Jun 2014 23:54:10 GMT"
+,<http://web.archive.org/web/20140822155741/http://www.ultimetecnoscientifiche.blogspot.com/>;rel="memento"; datetime="Fri, 22 Aug 2014 15:57:41 GMT"
+,<http://web.archive.org/web/20141023073311/http://www.ultimetecnoscientifiche.blogspot.com/>;rel="memento"; datetime="Thu, 23 Oct 2014 07:33:11 GMT"
+,<http://web.archive.org/web/20150212065115/http://ultimetecnoscientifiche.blogspot.com/>;rel="memento"; datetime="Thu, 12 Feb 2015 06:51:15 GMT"
+,<http://web.archive.org/web/20150316165306/http://ultimetecnoscientifiche.blogspot.com/>;rel="memento last"; datetime="Mon, 16 Mar 2015 16:53:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ultimetecnoscientifiche.blogspot.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ultimetecnoscientifiche.blogspot.com/>;rel="self"; type="application/link-format"; from ="Thu, 10 Nov 2011 06:24:24 GMT";until="Mon, 16 Mar 2015 16:53:06 GMT"

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:12:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://editorial.designtaxi.com/news-starwars010612/27.jpg>;rel="original"
+,<//wayback.archive-it.org/all/20130703060918/http://editorial.designtaxi.com/news-starwars010612/27.jpg>;rel="memento first"; datetime="Wed, 03 Jul 2013 06:09:18 GMT"
+,<//wayback.archive-it.org/all/20131003091923/http://editorial.designtaxi.com/news-starwars010612/27.jpg>;rel="memento"; datetime="Thu, 03 Oct 2013 09:19:23 GMT"
+,<//wayback.archive-it.org/all/20140103192422/http://editorial.designtaxi.com/news-starwars010612/27.jpg>;rel="memento"; datetime="Fri, 03 Jan 2014 19:24:22 GMT"
+,<//wayback.archive-it.org/all/20140403121951/http://editorial.designtaxi.com/news-starwars010612/27.jpg>;rel="memento"; datetime="Thu, 03 Apr 2014 12:19:51 GMT"
+,<//wayback.archive-it.org/all/20140704145803/http://editorial.designtaxi.com/news-starwars010612/27.jpg>;rel="memento"; datetime="Fri, 04 Jul 2014 14:58:03 GMT"
+,<//wayback.archive-it.org/all/20141004130155/http://editorial.designtaxi.com/news-starwars010612/27.jpg>;rel="memento last"; datetime="Sat, 04 Oct 2014 13:01:55 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://editorial.designtaxi.com/news-starwars010612/27.jpg>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://editorial.designtaxi.com/news-starwars010612/27.jpg>;rel="self"; type="application/link-format"; from ="Wed, 03 Jul 2013 06:09:18 GMT";until="Sat, 04 Oct 2014 13:01:55 GMT"

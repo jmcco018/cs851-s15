@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:33:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.birminghammail.co.uk/news/midlands-news/police-hunt-birmingham-needle-attacker-8549536>;rel="original"
+,<http://web.archive.org/web/20150420155701/http://www.birminghammail.co.uk/news/midlands-news/police-hunt-birmingham-needle-attacker-8549536>;rel="memento first"; datetime="Mon, 20 Apr 2015 15:57:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.birminghammail.co.uk/news/midlands-news/police-hunt-birmingham-needle-attacker-8549536>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.birminghammail.co.uk/news/midlands-news/police-hunt-birmingham-needle-attacker-8549536>;rel="self"; type="application/link-format"; from ="Mon, 20 Apr 2015 15:57:01 GMT";until="Mon, 20 Apr 2015 15:57:01 GMT"

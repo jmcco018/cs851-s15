@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:43 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.forbes.com/sites/steveolenski/2015/01/30/why-marketers-need-to-listen-to-a-super-bowl-winning-quarterback-and-wide-receiver/>;rel="original"
+,<http://web.archive.org/web/20150406023914/http://www.forbes.com/sites/steveolenski/2015/01/30/why-marketers-need-to-listen-to-a-super-bowl-winning-quarterback-and-wide-receiver/>;rel="memento first"; datetime="Mon, 06 Apr 2015 02:39:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.forbes.com/sites/steveolenski/2015/01/30/why-marketers-need-to-listen-to-a-super-bowl-winning-quarterback-and-wide-receiver/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.forbes.com/sites/steveolenski/2015/01/30/why-marketers-need-to-listen-to-a-super-bowl-winning-quarterback-and-wide-receiver/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 02:39:14 GMT";until="Mon, 06 Apr 2015 02:39:14 GMT"

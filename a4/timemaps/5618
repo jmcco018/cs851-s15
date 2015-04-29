@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.foxnews.com/tech/2015/01/30/chinese-retiree-designs-robot-horse/>;rel="original"
+,<http://web.archive.org/web/20150130232749/http://www.foxnews.com/tech/2015/01/30/chinese-retiree-designs-robot-horse/>;rel="memento first"; datetime="Fri, 30 Jan 2015 23:27:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.foxnews.com/tech/2015/01/30/chinese-retiree-designs-robot-horse/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.foxnews.com/tech/2015/01/30/chinese-retiree-designs-robot-horse/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 23:27:49 GMT";until="Fri, 30 Jan 2015 23:27:49 GMT"

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:46:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.plumber-san-diego.us/san-diego-drain-cleaning.html>;rel="original"
+,<http://web.archive.org/web/20120630005901/http://www.plumber-san-diego.us/san-diego-drain-cleaning.html>;rel="memento first"; datetime="Sat, 30 Jun 2012 00:59:01 GMT"
+,<http://web.archive.org/web/20130623081212/http://www.plumber-san-diego.us/san-diego-drain-cleaning.html>;rel="memento"; datetime="Sun, 23 Jun 2013 08:12:12 GMT"
+,<http://web.archive.org/web/20131021005318/http://www.plumber-san-diego.us/san-diego-drain-cleaning.html>;rel="memento"; datetime="Mon, 21 Oct 2013 00:53:18 GMT"
+,<http://web.archive.org/web/20131229171306/http://www.plumber-san-diego.us/san-diego-drain-cleaning.html>;rel="memento"; datetime="Sun, 29 Dec 2013 17:13:06 GMT"
+,<http://web.archive.org/web/20140224182743/http://www.plumber-san-diego.us/san-diego-drain-cleaning.html>;rel="memento"; datetime="Mon, 24 Feb 2014 18:27:43 GMT"
+,<http://web.archive.org/web/20150113181437/http://www.plumber-san-diego.us/san-diego-drain-cleaning.html>;rel="memento last"; datetime="Tue, 13 Jan 2015 18:14:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.plumber-san-diego.us/san-diego-drain-cleaning.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.plumber-san-diego.us/san-diego-drain-cleaning.html>;rel="self"; type="application/link-format"; from ="Sat, 30 Jun 2012 00:59:01 GMT";until="Tue, 13 Jan 2015 18:14:37 GMT"

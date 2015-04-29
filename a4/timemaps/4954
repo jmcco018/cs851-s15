@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:37:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://skinnyfitalicious.com/roasted-red-pepper-bean-no-bean-hummus/>;rel="original"
+,<http://web.archive.org/web/20150317095124/http://skinnyfitalicious.com/roasted-red-pepper-bean-no-bean-hummus/>;rel="memento first"; datetime="Tue, 17 Mar 2015 09:51:24 GMT"
+,<http://web.archive.org/web/20150405142133/http://skinnyfitalicious.com/roasted-red-pepper-bean-no-bean-hummus/>;rel="memento last"; datetime="Sun, 05 Apr 2015 14:21:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://skinnyfitalicious.com/roasted-red-pepper-bean-no-bean-hummus/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://skinnyfitalicious.com/roasted-red-pepper-bean-no-bean-hummus/>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 09:51:24 GMT";until="Sun, 05 Apr 2015 14:21:33 GMT"

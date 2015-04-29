@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:02:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bet.com/news/national/2015/01/29/detroit-officer-won-t-go-on-trial-3rd-time-in-girl-s-death.html?adbid=560980767082164225&adbpl=tw&adbpr=16560657&cid=socialMusicCeleb_20150130_39637687>;rel="original"
+,<http://web.archive.org/web/20150418041416/http://www.bet.com/news/national/2015/01/29/detroit-officer-won-t-go-on-trial-3rd-time-in-girl-s-death.html?adbid=560980767082164225&adbpl=tw&adbpr=16560657&cid=socialMusicCeleb_20150130_39637687>;rel="memento first"; datetime="Sat, 18 Apr 2015 04:14:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bet.com/news/national/2015/01/29/detroit-officer-won-t-go-on-trial-3rd-time-in-girl-s-death.html?adbid=560980767082164225&adbpl=tw&adbpr=16560657&cid=socialMusicCeleb_20150130_39637687>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bet.com/news/national/2015/01/29/detroit-officer-won-t-go-on-trial-3rd-time-in-girl-s-death.html?adbid=560980767082164225&adbpl=tw&adbpr=16560657&cid=socialMusicCeleb_20150130_39637687>;rel="self"; type="application/link-format"; from ="Sat, 18 Apr 2015 04:14:16 GMT";until="Sat, 18 Apr 2015 04:14:16 GMT"

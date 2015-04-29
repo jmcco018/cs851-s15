@@ -1,0 +1,401 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -2.20352164, 
+          53.45935691
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Leon Riley", 
+        "url": "http://twitter.com/Turk31/status/590192234701709313", 
+        "text": "These Radical Labour MPs Are Planning a War with Ed Miliband http://t.co/OHXmAIZ61g \n\nGlad to know MPs like this exist in the Labour Party", 
+        "created_at": "Mon Apr 20 16:36:08 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3720705970/67acd283cf923c8ce945fab2667a8adb_normal.jpeg", 
+        "screen_name": "Turk31"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -94.6003617, 
+          38.9588289
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-KAN Security Job", 
+        "url": "http://twitter.com/tmj_KAN_secure/status/590139640549486593", 
+        "text": "Burns &amp; McDonnell: Staff Controls Systems Cyber Security Specialist (#KansasCity, MO) http://t.co/9GqfDLCiMX #security #Job #Jobs #Hiring", 
+        "created_at": "Mon Apr 20 13:07:09 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303688473/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_KAN_secure"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -72.775522, 
+          41.478889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-CTM Engin. Jobs", 
+        "url": "http://twitter.com/tmj_ctm_eng/status/590120277977141249", 
+        "text": "#Engineering #Job in #Wallingford, CT: Senior Structural Engineer at Burns &amp; McDonnell http://t.co/KtIJWae4Yl #Jobs #Hiring #TweetMyJobs", 
+        "created_at": "Mon Apr 20 11:50:12 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303727825/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_ctm_eng"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -87.82123045, 
+          42.22922396
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Riley McDonnell", 
+        "url": "http://twitter.com/rileymcd1010/status/589977717631680514", 
+        "text": "McDonnell men in their primes http://t.co/DXrKvugJL1", 
+        "created_at": "Mon Apr 20 02:23:43 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520339839548657664/P4y0CHlW_normal.jpeg", 
+        "screen_name": "rileymcd1010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.15337045, 
+          39.93829064
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "maddi mcdonnell", 
+        "url": "http://twitter.com/maddi_mcdonnell/status/589973619280871425", 
+        "text": "mood:  ):", 
+        "created_at": "Mon Apr 20 02:07:26 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590236261048262656/zst5RjsH_normal.jpg", 
+        "screen_name": "maddi_mcdonnell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -70.252365, 
+          43.6577112
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-MEP Engin. Jobs", 
+        "url": "http://twitter.com/tmj_mep_eng/status/589899914265530368", 
+        "text": "#Engineering #Job in #Portland, ME: Transmission Line Design Engineer (ME) at Burns &amp; McDonnell http://t.co/T1bV91IxJr #Jobs #Hiring", 
+        "created_at": "Sun Apr 19 21:14:34 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303718159/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_mep_eng"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -72.775522, 
+          41.478889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-CTM Engin. Jobs", 
+        "url": "http://twitter.com/tmj_ctm_eng/status/589897573835476992", 
+        "text": "#Engineering #Job in #Wallingford, CT: Electrical Substation Design Engineer (CT) at Burns &amp; McDonnell http://t.co/tvECZna5Ge #Jobs", 
+        "created_at": "Sun Apr 19 21:05:16 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303727825/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_ctm_eng"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.11343458, 
+          53.3902801
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Soph McDonnell. ", 
+        "url": "http://twitter.com/Soph_Mcdonnell/status/589882229888782336", 
+        "text": "@gemma_shields2 \ud83d\ude4bseeya", 
+        "created_at": "Sun Apr 19 20:04:17 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576390519795945472/uVHg0tq2_normal.jpeg", 
+        "screen_name": "Soph_Mcdonnell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.11377779, 
+          53.39064981
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Soph McDonnell. ", 
+        "url": "http://twitter.com/Soph_Mcdonnell/status/589882032366444546", 
+        "text": "@gemma_shields2 I did it for a reaction gem\ud83d\ude02 football ruins my relationship I hate it so much \ud83d\udc4a\ud83d\ude21", 
+        "created_at": "Sun Apr 19 20:03:30 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576390519795945472/uVHg0tq2_normal.jpeg", 
+        "screen_name": "Soph_Mcdonnell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -3.11357123, 
+          53.39018059
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Soph McDonnell. ", 
+        "url": "http://twitter.com/Soph_Mcdonnell/status/589879950829871105", 
+        "text": "My next boyfriend will dislike football as much as I do\ud83d\ude0f\ud83d\udc4a\ud83d\ude4f", 
+        "created_at": "Sun Apr 19 19:55:14 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576390519795945472/uVHg0tq2_normal.jpeg", 
+        "screen_name": "Soph_Mcdonnell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -72.775522, 
+          41.478889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-CTM Engin. Jobs", 
+        "url": "http://twitter.com/tmj_ctm_eng/status/589869632690868224", 
+        "text": "Transmission System Planning Engineer - Burns &amp; McDonnell: (#Wallingford, CT) http://t.co/upfm7iCmVm #Engineering #Job #Jobs #Hiring", 
+        "created_at": "Sun Apr 19 19:14:14 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303727825/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_ctm_eng"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -70.252365, 
+          43.6577112
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-MEP Engin. Jobs", 
+        "url": "http://twitter.com/tmj_mep_eng/status/589865218882154496", 
+        "text": "Burns &amp; McDonnell: Electrical Substation Design Engineer (ME) (#Portland, ME) http://t.co/y7S4xzvIoH #Engineering #Job #Jobs #Hiring", 
+        "created_at": "Sun Apr 19 18:56:42 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303718159/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_mep_eng"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.5747245, 
+          39.27505557
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "lindsay wilson", 
+        "url": "http://twitter.com/lindsaay_wilson/status/589862342395088896", 
+        "text": "@erin_1916 can I interview my favorite McDonnell ? (Kaleigh)", 
+        "created_at": "Sun Apr 19 18:45:16 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/579299263177310208/mi9797tf_normal.jpg", 
+        "screen_name": "lindsaay_wilson"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -76.61032081, 
+          39.28601805
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Samantha Mattioli", 
+        "url": "http://twitter.com/SamMattioli/status/589817340403003396", 
+        "text": "@Lill_McDonnell thank you sissy i love you so much\ud83d\udc9e", 
+        "created_at": "Sun Apr 19 15:46:26 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/584137966370566144/9M8P1qs2_normal.jpg", 
+        "screen_name": "SamMattioli"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.45524105, 
+          53.38262754
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "Rebecca McDonnell", 
+        "url": "http://twitter.com/re_mcdonnell/status/589802721953349633", 
+        "text": "Changing your route to walk past the cat lady's house to see if the cats are out #theyneedstroking #cats #catenthusiast", 
+        "created_at": "Sun Apr 19 14:48:21 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/590272811983319040/s1YINVny_normal.jpg", 
+        "screen_name": "re_mcdonnell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -6.799675, 
+          53.179156
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "D", 
+        "url": "http://twitter.com/trashDiordie/status/589790268183949312", 
+        "text": "I'm at McDonnell's Bar (Neeson's) in Newbridge, Co Kildare https://t.co/XFJvSY2Jjk", 
+        "created_at": "Sun Apr 19 13:58:52 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/504619328978055168/5tzZVhzB_normal.jpeg", 
+        "screen_name": "trashDiordie"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -72.775522, 
+          41.478889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-CTM Engin. Jobs", 
+        "url": "http://twitter.com/tmj_ctm_eng/status/589785803909304320", 
+        "text": "Burns &amp; McDonnell: Electrical Substation Designer (CT) (#Wallingford, CT) http://t.co/JDfBBJ5Ux1 #Engineering #Job #Jobs #Hiring", 
+        "created_at": "Sun Apr 19 13:41:07 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303727825/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_ctm_eng"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -94.6003617, 
+          38.9588289
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-KAN Security Job", 
+        "url": "http://twitter.com/tmj_KAN_secure/status/589777265589813248", 
+        "text": "#security #Job alert: Staff NERC Reliability Specialist | Burns &amp; McDonnell | #KansasCity, MO http://t.co/y85mxt0tZ1 #Jobs #Hiring", 
+        "created_at": "Sun Apr 19 13:07:12 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303688473/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_KAN_secure"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -72.775522, 
+          41.478889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-CTM Constr Jobs", 
+        "url": "http://twitter.com/tmj_ctm_constru/status/589762923146293249", 
+        "text": "Burns &amp; McDonnell: Project Manager-Substation/Engineering (CT) (#Wallingford, CT) http://t.co/rZG276un8d #Construction #Job #Jobs #Hiring", 
+        "created_at": "Sun Apr 19 12:10:12 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303727939/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_ctm_constru"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -72.775522, 
+          41.478889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "TMJ-CTM Engin. Jobs", 
+        "url": "http://twitter.com/tmj_ctm_eng/status/589757875737595904", 
+        "text": "Transmission Line Design Engineer (CT) - Burns &amp; McDonnell: (#Wallingford, CT) http://t.co/CpAGt1QBSh #Engineering #Job #Jobs #Hiring", 
+        "created_at": "Sun Apr 19 11:50:09 +0000 2015", 
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2303727825/Logo_tmj_new2b_normal.png", 
+        "screen_name": "tmj_ctm_eng"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.1393463, 
+          57.4946397
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "judy Mcdonnell", 
+        "url": "http://twitter.com/mcdonnell_judy/status/589697813958758401", 
+        "text": "Outlander very emotional", 
+        "created_at": "Sun Apr 19 07:51:29 +0000 2015", 
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png", 
+        "screen_name": "mcdonnell_judy"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.1395328, 
+          57.4946615
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "name": "judy Mcdonnell", 
+        "url": "http://twitter.com/mcdonnell_judy/status/589696435249139712", 
+        "text": "Just watched new episode of outlander fantastic!!", 
+        "created_at": "Sun Apr 19 07:46:00 +0000 2015", 
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png", 
+        "screen_name": "mcdonnell_judy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:33:46 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://spinrilla.com/mixtapes/chief-keef-bang-3>;rel="original"
+,<http://web.archive.org/web/20140922142303/https://spinrilla.com/mixtapes/chief-keef-bang-3>;rel="memento first"; datetime="Mon, 22 Sep 2014 14:23:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://spinrilla.com/mixtapes/chief-keef-bang-3>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://spinrilla.com/mixtapes/chief-keef-bang-3>;rel="self"; type="application/link-format"; from ="Mon, 22 Sep 2014 14:23:03 GMT";until="Mon, 22 Sep 2014 14:23:03 GMT"

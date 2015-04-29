@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:41:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.etsy.com/shop/daisychainvintage>;rel="original"
+,<http://web.archive.org/web/20091110170353/http://www.etsy.com/shop/daisychainvintage?>;rel="memento first"; datetime="Tue, 10 Nov 2009 17:03:53 GMT"
+,<http://web.archive.org/web/20091110194125/http://www.etsy.com/shop/daisychainvintage>;rel="memento"; datetime="Tue, 10 Nov 2009 19:41:25 GMT"
+,<http://web.archive.org/web/20091119110335/http://www.etsy.com/shop/daisychainvintage>;rel="memento"; datetime="Thu, 19 Nov 2009 11:03:35 GMT"
+,<http://web.archive.org/web/20100216224339/http://www.etsy.com/shop/daisychainvintage>;rel="memento"; datetime="Tue, 16 Feb 2010 22:43:39 GMT"
+,<//wayback.archive-it.org/all/20100302105813/http://www.etsy.com/shop/daisychainvintage>;rel="memento"; datetime="Tue, 02 Mar 2010 10:58:13 GMT"
+,<http://web.archive.org/web/20110616185834/http://www.etsy.com/shop/daisychainvintage?>;rel="memento"; datetime="Thu, 16 Jun 2011 18:58:34 GMT"
+,<http://web.archive.org/web/20110907201649/http://www.etsy.com/shop/daisychainvintage>;rel="memento"; datetime="Wed, 07 Sep 2011 20:16:49 GMT"
+,<http://web.archive.org/web/20120320094058/http://www.etsy.com/shop/daisychainvintage?>;rel="memento"; datetime="Tue, 20 Mar 2012 09:40:58 GMT"
+,<http://web.archive.org/web/20130606212855/http://www.etsy.com/shop/daisychainvintage>;rel="memento"; datetime="Thu, 06 Jun 2013 21:28:55 GMT"
+,<http://web.archive.org/web/20150409121654/https://www.etsy.com/shop/daisychainvintage>;rel="memento last"; datetime="Thu, 09 Apr 2015 12:16:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.etsy.com/shop/daisychainvintage>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.etsy.com/shop/daisychainvintage>;rel="self"; type="application/link-format"; from ="Tue, 10 Nov 2009 17:03:53 GMT";until="Thu, 09 Apr 2015 12:16:54 GMT"

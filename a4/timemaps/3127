@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:00:51 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://finance.yahoo.com/news/behind-deflate-gate--see-the-small-town-where-nfl-footballs-are-made-135453476.html>;rel="original"
+,<http://web.archive.org/web/20150129153629/http://finance.yahoo.com/news/behind-deflate-gate--see-the-small-town-where-nfl-footballs-are-made-135453476.html>;rel="memento first"; datetime="Thu, 29 Jan 2015 15:36:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://finance.yahoo.com/news/behind-deflate-gate--see-the-small-town-where-nfl-footballs-are-made-135453476.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://finance.yahoo.com/news/behind-deflate-gate--see-the-small-town-where-nfl-footballs-are-made-135453476.html>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 15:36:29 GMT";until="Thu, 29 Jan 2015 15:36:29 GMT"

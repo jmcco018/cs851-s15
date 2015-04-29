@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:24:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://trends-addict.com/liquid-cats/>;rel="original"
+,<http://web.archive.org/web/20150318234438/http://trends-addict.com/liquid-cats/>;rel="memento first"; datetime="Wed, 18 Mar 2015 23:44:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://trends-addict.com/liquid-cats/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://trends-addict.com/liquid-cats/>;rel="self"; type="application/link-format"; from ="Wed, 18 Mar 2015 23:44:38 GMT";until="Wed, 18 Mar 2015 23:44:38 GMT"

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:30:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://qz.com/333733/afghan-carpet-weavers-are-putting-drones-on-their-rugs/>;rel="original"
+,<http://web.archive.org/web/20150130222959/http://qz.com/333733/afghan-carpet-weavers-are-putting-drones-on-their-rugs/>;rel="memento first"; datetime="Fri, 30 Jan 2015 22:29:59 GMT"
+,<http://web.archive.org/web/20150130231543/http://qz.com/333733/afghan-carpet-weavers-are-putting-drones-on-their-rugs/>;rel="memento"; datetime="Fri, 30 Jan 2015 23:15:43 GMT"
+,<http://archive.is/20150301134136/http://qz.com/333733/afghan-carpet-weavers-are-putting-drones-on-their-rugs/>;rel="memento"; datetime="Sun, 01 Mar 2015 13:41:36 GMT"
+,<http://web.archive.org/web/20150406053251/http://qz.com/333733/afghan-carpet-weavers-are-putting-drones-on-their-rugs>;rel="memento"; datetime="Mon, 06 Apr 2015 05:32:51 GMT"
+,<http://web.archive.org/web/20150406072309/http://qz.com/333733/afghan-carpet-weavers-are-putting-drones-on-their-rugs/>;rel="memento last"; datetime="Mon, 06 Apr 2015 07:23:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://qz.com/333733/afghan-carpet-weavers-are-putting-drones-on-their-rugs/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://qz.com/333733/afghan-carpet-weavers-are-putting-drones-on-their-rugs/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 22:29:59 GMT";until="Mon, 06 Apr 2015 07:23:09 GMT"

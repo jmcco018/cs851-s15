@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:36:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://vine.co/v/MF3FZqv1pwL>;rel="original"
+,<http://web.archive.org/web/20141223070355/https://vine.co/v/MF3FZqv1pwL>;rel="memento first"; datetime="Tue, 23 Dec 2014 07:03:55 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://vine.co/v/MF3FZqv1pwL>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://vine.co/v/MF3FZqv1pwL>;rel="self"; type="application/link-format"; from ="Tue, 23 Dec 2014 07:03:55 GMT";until="Tue, 23 Dec 2014 07:03:55 GMT"

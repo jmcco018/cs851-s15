@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thefa.com/news/governance/2015/jan/diego-costa-banned>;rel="original"
+,<http://archive.is/20150130124135/http://www.thefa.com/news/governance/2015/jan/diego-costa-banned>;rel="memento first"; datetime="Fri, 30 Jan 2015 12:41:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thefa.com/news/governance/2015/jan/diego-costa-banned>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thefa.com/news/governance/2015/jan/diego-costa-banned>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 12:41:35 GMT";until="Fri, 30 Jan 2015 12:41:35 GMT"

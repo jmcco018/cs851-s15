@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:38:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.esa.int/spaceinimages/Images/2015/01/Philae_above_the_comet>;rel="original"
+,<http://archive.is/20150202195911/http://www.esa.int/spaceinimages/Images/2015/01/Philae_above_the_comet>;rel="memento first"; datetime="Mon, 02 Feb 2015 19:59:11 GMT"
+,<http://web.archive.org/web/20150419054638/http://www.esa.int/spaceinimages/Images/2015/01/Philae_above_the_comet>;rel="memento last"; datetime="Sun, 19 Apr 2015 05:46:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.esa.int/spaceinimages/Images/2015/01/Philae_above_the_comet>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.esa.int/spaceinimages/Images/2015/01/Philae_above_the_comet>;rel="self"; type="application/link-format"; from ="Mon, 02 Feb 2015 19:59:11 GMT";until="Sun, 19 Apr 2015 05:46:38 GMT"

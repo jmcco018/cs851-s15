@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:54:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.craveonline.com/film/reviews/817667-sundance-2015-review-cant-leave-forbidden-room>;rel="original"
+,<http://web.archive.org/web/20150206204933/http://www.craveonline.com/film/reviews/817667-sundance-2015-review-cant-leave-forbidden-room>;rel="memento first"; datetime="Fri, 06 Feb 2015 20:49:33 GMT"
+,<http://web.archive.org/web/20150420214927/http://www.craveonline.com/film/reviews/817667-sundance-2015-review-cant-leave-forbidden-room>;rel="memento last"; datetime="Mon, 20 Apr 2015 21:49:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.craveonline.com/film/reviews/817667-sundance-2015-review-cant-leave-forbidden-room>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.craveonline.com/film/reviews/817667-sundance-2015-review-cant-leave-forbidden-room>;rel="self"; type="application/link-format"; from ="Fri, 06 Feb 2015 20:49:33 GMT";until="Mon, 20 Apr 2015 21:49:27 GMT"

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:18:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.texascommercialbusinessinsurance.com/>;rel="original"
+,<http://web.archive.org/web/20130517214618/http://texascommercialbusinessinsurance.com>;rel="memento first"; datetime="Fri, 17 May 2013 21:46:18 GMT"
+,<http://web.archive.org/web/20130517214620/http://www.texascommercialbusinessinsurance.com/>;rel="memento"; datetime="Fri, 17 May 2013 21:46:20 GMT"
+,<http://web.archive.org/web/20141218112527/http://texascommercialbusinessinsurance.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 11:25:27 GMT"
+,<http://web.archive.org/web/20141226104620/http://www.texascommercialbusinessinsurance.com/>;rel="memento last"; datetime="Fri, 26 Dec 2014 10:46:20 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.texascommercialbusinessinsurance.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.texascommercialbusinessinsurance.com/>;rel="self"; type="application/link-format"; from ="Fri, 17 May 2013 21:46:18 GMT";until="Fri, 26 Dec 2014 10:46:20 GMT"

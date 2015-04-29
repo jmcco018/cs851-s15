@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:07:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://svds.com/post/avoiding-common-mistake-time-series>;rel="original"
+,<http://archive.is/20150128232419/http://svds.com/post/avoiding-common-mistake-time-series>;rel="memento first"; datetime="Wed, 28 Jan 2015 23:24:19 GMT"
+,<http://web.archive.org/web/20150129012417/http://svds.com/post/avoiding-common-mistake-time-series>;rel="memento"; datetime="Thu, 29 Jan 2015 01:24:17 GMT"
+,<http://web.archive.org/web/20150301085002/http://svds.com/post/avoiding-common-mistake-time-series>;rel="memento"; datetime="Sun, 01 Mar 2015 08:50:02 GMT"
+,<http://archive.is/20150301085016/http://svds.com/post/avoiding-common-mistake-time-series>;rel="memento"; datetime="Sun, 01 Mar 2015 08:50:16 GMT"
+,<http://web.archive.org/web/20150314234551/http://svds.com/post/avoiding-common-mistake-time-series>;rel="memento last"; datetime="Sat, 14 Mar 2015 23:45:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://svds.com/post/avoiding-common-mistake-time-series>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://svds.com/post/avoiding-common-mistake-time-series>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 23:24:19 GMT";until="Sat, 14 Mar 2015 23:45:51 GMT"

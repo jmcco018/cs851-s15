@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:46 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://news.nationalpost.com/2015/01/30/with-toronto-maple-leafs-stuck-in-downward-spiral-lottery-pick-might-be-all-fans-have-left-to-hope-for/>;rel="original"
+,<http://archive.is/20150130223544/http://news.nationalpost.com/2015/01/30/with-toronto-maple-leafs-stuck-in-downward-spiral-lottery-pick-might-be-all-fans-have-left-to-hope-for/>;rel="memento first"; datetime="Fri, 30 Jan 2015 22:35:44 GMT"
+,<http://web.archive.org/web/20150130232424/http://news.nationalpost.com/2015/01/30/with-toronto-maple-leafs-stuck-in-downward-spiral-lottery-pick-might-be-all-fans-have-left-to-hope-for/>;rel="memento"; datetime="Fri, 30 Jan 2015 23:24:24 GMT"
+,<http://web.archive.org/web/20150201024202/http://news.nationalpost.com/2015/01/30/with-toronto-maple-leafs-stuck-in-downward-spiral-lottery-pick-might-be-all-fans-have-left-to-hope-for/>;rel="memento last"; datetime="Sun, 01 Feb 2015 02:42:02 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://news.nationalpost.com/2015/01/30/with-toronto-maple-leafs-stuck-in-downward-spiral-lottery-pick-might-be-all-fans-have-left-to-hope-for/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://news.nationalpost.com/2015/01/30/with-toronto-maple-leafs-stuck-in-downward-spiral-lottery-pick-might-be-all-fans-have-left-to-hope-for/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 22:35:44 GMT";until="Sun, 01 Feb 2015 02:42:02 GMT"

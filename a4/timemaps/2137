@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:44:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://tabletolic.com/40232/color-furniture-modern-adjustable-computer-desk-laptop-tray-table-stand-bedroom-for-home-office-steel-silver-tube-w-black-mdf-3>;rel="original"
+,<http://web.archive.org/web/20150408000543/http://tabletolic.com/40232/color-furniture-modern-adjustable-computer-desk-laptop-tray-table-stand-bedroom-for-home-office-steel-silver-tube-w-black-mdf-3>;rel="memento first"; datetime="Wed, 08 Apr 2015 00:05:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://tabletolic.com/40232/color-furniture-modern-adjustable-computer-desk-laptop-tray-table-stand-bedroom-for-home-office-steel-silver-tube-w-black-mdf-3>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://tabletolic.com/40232/color-furniture-modern-adjustable-computer-desk-laptop-tray-table-stand-bedroom-for-home-office-steel-silver-tube-w-black-mdf-3>;rel="self"; type="application/link-format"; from ="Wed, 08 Apr 2015 00:05:43 GMT";until="Wed, 08 Apr 2015 00:05:43 GMT"

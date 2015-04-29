@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:06:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.digitaltrends.com/cars/hyundai-wont-build-a-sports-car-but-has-performance-plans/>;rel="original"
+,<http://web.archive.org/web/20150406051324/http://www.digitaltrends.com/cars/hyundai-wont-build-a-sports-car-but-has-performance-plans/>;rel="memento first"; datetime="Mon, 06 Apr 2015 05:13:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.digitaltrends.com/cars/hyundai-wont-build-a-sports-car-but-has-performance-plans/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.digitaltrends.com/cars/hyundai-wont-build-a-sports-car-but-has-performance-plans/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 05:13:24 GMT";until="Mon, 06 Apr 2015 05:13:24 GMT"

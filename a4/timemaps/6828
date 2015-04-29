@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://geekologie.com/2014/02/well-executed-star-wars-themed-nfl-footb.php>;rel="original"
+,<http://archive.is/20140208005237/http://geekologie.com/2014/02/well-executed-star-wars-themed-nfl-footb.php>;rel="memento first"; datetime="Sat, 08 Feb 2014 00:52:37 GMT"
+,<http://archive.is/20140227161521/http://geekologie.com/2014/02/well-executed-star-wars-themed-nfl-footb.php>;rel="memento"; datetime="Thu, 27 Feb 2014 16:15:21 GMT"
+,<http://web.archive.org/web/20140301184707/http://geekologie.com/2014/02/well-executed-star-wars-themed-nfl-footb.php>;rel="memento"; datetime="Sat, 01 Mar 2014 18:47:07 GMT"
+,<http://web.archive.org/web/20140709102849/http://geekologie.com/2014/02/well-executed-star-wars-themed-nfl-footb.php>;rel="memento"; datetime="Wed, 09 Jul 2014 10:28:49 GMT"
+,<http://web.archive.org/web/20140802082006/http://geekologie.com/2014/02/well-executed-star-wars-themed-nfl-footb.php>;rel="memento last"; datetime="Sat, 02 Aug 2014 08:20:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://geekologie.com/2014/02/well-executed-star-wars-themed-nfl-footb.php>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://geekologie.com/2014/02/well-executed-star-wars-themed-nfl-footb.php>;rel="self"; type="application/link-format"; from ="Sat, 08 Feb 2014 00:52:37 GMT";until="Sat, 02 Aug 2014 08:20:06 GMT"

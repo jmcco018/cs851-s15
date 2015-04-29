@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:40:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/cities/2015/jan/14/what-the-collapse-of-ancient-capitals-can-teach-us-about-the-cities-of-today>;rel="original"
+,<http://archive.is/20150121205931/http://www.theguardian.com/cities/2015/jan/14/what-the-collapse-of-ancient-capitals-can-teach-us-about-the-cities-of-today>;rel="memento first"; datetime="Wed, 21 Jan 2015 20:59:31 GMT"
+,<http://web.archive.org/web/20150214212953/http://www.theguardian.com/cities/2015/jan/14/what-the-collapse-of-ancient-capitals-can-teach-us-about-the-cities-of-today>;rel="memento"; datetime="Sat, 14 Feb 2015 21:29:53 GMT"
+,<http://web.archive.org/web/20150402172537/http://www.theguardian.com/cities/2015/jan/14/what-the-collapse-of-ancient-capitals-can-teach-us-about-the-cities-of-today>;rel="memento last"; datetime="Thu, 02 Apr 2015 17:25:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/cities/2015/jan/14/what-the-collapse-of-ancient-capitals-can-teach-us-about-the-cities-of-today>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/cities/2015/jan/14/what-the-collapse-of-ancient-capitals-can-teach-us-about-the-cities-of-today>;rel="self"; type="application/link-format"; from ="Wed, 21 Jan 2015 20:59:31 GMT";until="Thu, 02 Apr 2015 17:25:37 GMT"

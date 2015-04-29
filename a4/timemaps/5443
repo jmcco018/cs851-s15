@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:53 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.maluhii.com>;rel="original"
+,<http://web.archive.org/web/20140610220409/http://www.maluhii.com/>;rel="memento first"; datetime="Tue, 10 Jun 2014 22:04:09 GMT"
+,<http://web.archive.org/web/20140613130356/http://www.maluhii.com/>;rel="memento"; datetime="Fri, 13 Jun 2014 13:03:56 GMT"
+,<http://web.archive.org/web/20140626032541/http://www.maluhii.com/>;rel="memento"; datetime="Thu, 26 Jun 2014 03:25:41 GMT"
+,<http://web.archive.org/web/20141217112155/http://maluhii.com/>;rel="memento"; datetime="Wed, 17 Dec 2014 11:21:55 GMT"
+,<http://web.archive.org/web/20141219211021/http://www.maluhii.com/>;rel="memento last"; datetime="Fri, 19 Dec 2014 21:10:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.maluhii.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.maluhii.com>;rel="self"; type="application/link-format"; from ="Tue, 10 Jun 2014 22:04:09 GMT";until="Fri, 19 Dec 2014 21:10:21 GMT"

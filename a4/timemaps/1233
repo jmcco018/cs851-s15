@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:30:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="original"
+,<http://archive.is/20150130012220/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento first"; datetime="Fri, 30 Jan 2015 01:22:20 GMT"
+,<http://web.archive.org/web/20150130023413/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Fri, 30 Jan 2015 02:34:13 GMT"
+,<http://web.archive.org/web/20150130202350/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Fri, 30 Jan 2015 20:23:50 GMT"
+,<http://web.archive.org/web/20150201110554/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Sun, 01 Feb 2015 11:05:54 GMT"
+,<//wayback.archive-it.org/all/20150201144327/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Sun, 01 Feb 2015 14:43:27 GMT"
+,<http://web.archive.org/web/20150206160038/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Fri, 06 Feb 2015 16:00:38 GMT"
+,<//wayback.archive-it.org/all/20150212182524/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Thu, 12 Feb 2015 18:25:24 GMT"
+,<http://web.archive.org/web/20150309222515/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Mon, 09 Mar 2015 22:25:15 GMT"
+,<http://web.archive.org/web/20150321005950/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Sat, 21 Mar 2015 00:59:50 GMT"
+,<http://web.archive.org/web/20150405220422/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Sun, 05 Apr 2015 22:04:22 GMT"
+,<http://web.archive.org/web/20150405230637/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Sun, 05 Apr 2015 23:06:37 GMT"
+,<http://web.archive.org/web/20150414032211/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento"; datetime="Tue, 14 Apr 2015 03:22:11 GMT"
+,<http://web.archive.org/web/20150422023757/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="memento last"; datetime="Wed, 22 Apr 2015 02:37:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.tmz.com/2015/01/29/suge-knight-car-accident-compton-man-run-over/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 01:22:20 GMT";until="Wed, 22 Apr 2015 02:37:57 GMT"

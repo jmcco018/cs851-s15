@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.wsj.com/news/articles/SB10001424052702304607104579212122084821400>;rel="original"
+,<http://web.archive.org/web/20140310094930/http://www.wsj.com/news/articles/SB10001424052702304607104579212122084821400?>;rel="memento first"; datetime="Mon, 10 Mar 2014 09:49:30 GMT"
+,<http://web.archive.org/web/20140605034212/http://www.wsj.com/news/articles/SB10001424052702304607104579212122084821400?>;rel="memento"; datetime="Thu, 05 Jun 2014 03:42:12 GMT"
+,<http://web.archive.org/web/20150414070436/http://www.wsj.com/news/articles/SB10001424052702304607104579212122084821400>;rel="memento last"; datetime="Tue, 14 Apr 2015 07:04:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.wsj.com/news/articles/SB10001424052702304607104579212122084821400>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.wsj.com/news/articles/SB10001424052702304607104579212122084821400>;rel="self"; type="application/link-format"; from ="Mon, 10 Mar 2014 09:49:30 GMT";until="Tue, 14 Apr 2015 07:04:36 GMT"

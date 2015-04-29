@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:49:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://secure.peta.org/site/Advocacy?cmd=display&page=UserAction&id=5823>;rel="original"
+,<http://webcitation.org/query?id=5823>;rel="memento first"; datetime="Thu, 24 Nov 2005 19:16:15 GMT"
+,<http://webcitation.org/query?id=5839>;rel="memento"; datetime="Thu, 24 Nov 2005 19:16:18 GMT"
+,<http://webcitation.org/query?id=5855>;rel="memento"; datetime="Thu, 24 Nov 2005 19:16:20 GMT"
+,<http://webcitation.org/query?id=17550>;rel="memento"; datetime="Mon, 05 Dec 2005 21:55:14 GMT"
+,<http://webcitation.org/query?id=17566>;rel="memento"; datetime="Mon, 05 Dec 2005 21:55:16 GMT"
+,<http://webcitation.org/query?id=17582>;rel="memento"; datetime="Mon, 05 Dec 2005 21:55:18 GMT"
+,<http://webcitation.org/query?id=86138>;rel="memento"; datetime="Fri, 09 Dec 2005 22:32:22 GMT"
+,<http://webcitation.org/query?id=86154>;rel="memento"; datetime="Fri, 09 Dec 2005 22:32:24 GMT"
+,<http://webcitation.org/query?id=86171>;rel="memento"; datetime="Fri, 09 Dec 2005 22:32:26 GMT"
+,<http://webcitation.org/query?id=1144460468430546>;rel="memento"; datetime="Sat, 08 Apr 2006 01:41:08 GMT"
+,<//wayback.archive-it.org/all/20150109022349/https://secure.peta.org/site/Advocacy?cmd=display&page=UserAction&id=5823>;rel="memento"; datetime="Fri, 09 Jan 2015 02:23:49 GMT"
+,<//wayback.archive-it.org/all/20150110103312/https://secure.peta.org/site/Advocacy?cmd=display&page=UserAction&id=5823>;rel="memento"; datetime="Sat, 10 Jan 2015 10:33:12 GMT"
+,<//wayback.archive-it.org/all/20150110173054/https://secure.peta.org/site/Advocacy?cmd=display&page=UserAction&id=5823>;rel="memento last"; datetime="Sat, 10 Jan 2015 17:30:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://secure.peta.org/site/Advocacy?cmd=display&page=UserAction&id=5823>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://secure.peta.org/site/Advocacy?cmd=display&page=UserAction&id=5823>;rel="self"; type="application/link-format"; from ="Thu, 24 Nov 2005 19:16:15 GMT";until="Sat, 10 Jan 2015 17:30:54 GMT"

@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:37:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://deltatoday.blogspot.com/>;rel="original"
+,<http://web.archive.org/web/20141001211828/http://deltatoday.blogspot.com/>;rel="memento first"; datetime="Wed, 01 Oct 2014 21:18:28 GMT"
+,<http://web.archive.org/web/20141020064708/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Mon, 20 Oct 2014 06:47:08 GMT"
+,<http://web.archive.org/web/20141024061500/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Fri, 24 Oct 2014 06:15:00 GMT"
+,<http://web.archive.org/web/20141116005028/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Sun, 16 Nov 2014 00:50:28 GMT"
+,<http://web.archive.org/web/20141117081331/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Mon, 17 Nov 2014 08:13:31 GMT"
+,<http://web.archive.org/web/20141118004508/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Tue, 18 Nov 2014 00:45:08 GMT"
+,<http://web.archive.org/web/20141118234758/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Tue, 18 Nov 2014 23:47:58 GMT"
+,<http://web.archive.org/web/20141119232818/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Wed, 19 Nov 2014 23:28:18 GMT"
+,<http://web.archive.org/web/20141122234635/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Sat, 22 Nov 2014 23:46:35 GMT"
+,<http://web.archive.org/web/20141125015840/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Tue, 25 Nov 2014 01:58:40 GMT"
+,<http://web.archive.org/web/20141128025033/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Fri, 28 Nov 2014 02:50:33 GMT"
+,<http://web.archive.org/web/20141129105410/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Sat, 29 Nov 2014 10:54:10 GMT"
+,<http://web.archive.org/web/20141130000802/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Sun, 30 Nov 2014 00:08:02 GMT"
+,<http://web.archive.org/web/20141218110206/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 11:02:06 GMT"
+,<http://web.archive.org/web/20150109074014/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Fri, 09 Jan 2015 07:40:14 GMT"
+,<http://web.archive.org/web/20150110111543/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Sat, 10 Jan 2015 11:15:43 GMT"
+,<http://web.archive.org/web/20150110200202/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Sat, 10 Jan 2015 20:02:02 GMT"
+,<http://web.archive.org/web/20150116175718/http://deltatoday.blogspot.com/>;rel="memento"; datetime="Fri, 16 Jan 2015 17:57:18 GMT"
+,<http://web.archive.org/web/20150123175443/http://deltatoday.blogspot.com/>;rel="memento last"; datetime="Fri, 23 Jan 2015 17:54:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://deltatoday.blogspot.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://deltatoday.blogspot.com/>;rel="self"; type="application/link-format"; from ="Wed, 01 Oct 2014 21:18:28 GMT";until="Fri, 23 Jan 2015 17:54:43 GMT"

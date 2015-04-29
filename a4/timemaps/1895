@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:40:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://localbuzznetwork.com/greeley-co-job-search/>;rel="original"
+,<http://web.archive.org/web/20130501002133/http://localbuzznetwork.com/greeley-co-job-search/>;rel="memento first"; datetime="Wed, 01 May 2013 00:21:33 GMT"
+,<http://web.archive.org/web/20130601211703/http://localbuzznetwork.com/greeley-co-job-search/>;rel="memento last"; datetime="Sat, 01 Jun 2013 21:17:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://localbuzznetwork.com/greeley-co-job-search/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://localbuzznetwork.com/greeley-co-job-search/>;rel="self"; type="application/link-format"; from ="Wed, 01 May 2013 00:21:33 GMT";until="Sat, 01 Jun 2013 21:17:03 GMT"

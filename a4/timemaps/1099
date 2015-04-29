@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:28:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://news.artnet.com/in-brief/500-years-after-death-an-old-master-painter-gets-his-first-solo-museum-show-236883>;rel="original"
+,<http://web.archive.org/web/20150413165443/http://news.artnet.com/in-brief/500-years-after-death-an-old-master-painter-gets-his-first-solo-museum-show-236883>;rel="memento first"; datetime="Mon, 13 Apr 2015 16:54:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://news.artnet.com/in-brief/500-years-after-death-an-old-master-painter-gets-his-first-solo-museum-show-236883>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://news.artnet.com/in-brief/500-years-after-death-an-old-master-painter-gets-his-first-solo-museum-show-236883>;rel="self"; type="application/link-format"; from ="Mon, 13 Apr 2015 16:54:43 GMT";until="Mon, 13 Apr 2015 16:54:43 GMT"

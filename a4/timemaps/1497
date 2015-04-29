@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:34:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://whotv.com/2015/01/29/kindergartner-with-autism-gets-to-be-cop-for-a-day/>;rel="original"
+,<http://web.archive.org/web/20150406020555/http://whotv.com/2015/01/29/kindergartner-with-autism-gets-to-be-cop-for-a-day>;rel="memento first"; datetime="Mon, 06 Apr 2015 02:05:55 GMT"
+,<http://web.archive.org/web/20150419130733/http://whotv.com/2015/01/29/kindergartner-with-autism-gets-to-be-cop-for-a-day/>;rel="memento last"; datetime="Sun, 19 Apr 2015 13:07:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://whotv.com/2015/01/29/kindergartner-with-autism-gets-to-be-cop-for-a-day/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://whotv.com/2015/01/29/kindergartner-with-autism-gets-to-be-cop-for-a-day/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 02:05:55 GMT";until="Sun, 19 Apr 2015 13:07:33 GMT"

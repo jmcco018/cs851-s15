@@ -1,0 +1,43 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:32:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="original"
+,<http://web.archive.org/web/20150310100253/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento first"; datetime="Tue, 10 Mar 2015 10:02:53 GMT"
+,<http://web.archive.org/web/20150313015937/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Fri, 13 Mar 2015 01:59:37 GMT"
+,<http://web.archive.org/web/20150314065841/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sat, 14 Mar 2015 06:58:41 GMT"
+,<http://web.archive.org/web/20150315132330/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sun, 15 Mar 2015 13:23:30 GMT"
+,<http://web.archive.org/web/20150316150827/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Mon, 16 Mar 2015 15:08:27 GMT"
+,<http://web.archive.org/web/20150317171307/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Tue, 17 Mar 2015 17:13:07 GMT"
+,<http://web.archive.org/web/20150319044747/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Thu, 19 Mar 2015 04:47:47 GMT"
+,<http://web.archive.org/web/20150320061754/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Fri, 20 Mar 2015 06:17:54 GMT"
+,<http://web.archive.org/web/20150321141159/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sat, 21 Mar 2015 14:11:59 GMT"
+,<http://web.archive.org/web/20150322202322/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sun, 22 Mar 2015 20:23:22 GMT"
+,<http://web.archive.org/web/20150324000727/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Tue, 24 Mar 2015 00:07:27 GMT"
+,<http://web.archive.org/web/20150324235827/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Tue, 24 Mar 2015 23:58:27 GMT"
+,<http://web.archive.org/web/20150326052120/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Thu, 26 Mar 2015 05:21:20 GMT"
+,<http://web.archive.org/web/20150327084115/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Fri, 27 Mar 2015 08:41:15 GMT"
+,<http://web.archive.org/web/20150328095851/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sat, 28 Mar 2015 09:58:51 GMT"
+,<http://web.archive.org/web/20150329100902/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sun, 29 Mar 2015 10:09:02 GMT"
+,<http://web.archive.org/web/20150330143915/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Mon, 30 Mar 2015 14:39:15 GMT"
+,<http://web.archive.org/web/20150331152032/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Tue, 31 Mar 2015 15:20:32 GMT"
+,<http://web.archive.org/web/20150401214729/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Wed, 01 Apr 2015 21:47:29 GMT"
+,<http://web.archive.org/web/20150404045422/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sat, 04 Apr 2015 04:54:22 GMT"
+,<http://web.archive.org/web/20150405073442/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sun, 05 Apr 2015 07:34:42 GMT"
+,<http://web.archive.org/web/20150406070306/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Mon, 06 Apr 2015 07:03:06 GMT"
+,<http://web.archive.org/web/20150407081430/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Tue, 07 Apr 2015 08:14:30 GMT"
+,<http://web.archive.org/web/20150408104321/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Wed, 08 Apr 2015 10:43:21 GMT"
+,<http://web.archive.org/web/20150409140134/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Thu, 09 Apr 2015 14:01:34 GMT"
+,<http://web.archive.org/web/20150410191002/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Fri, 10 Apr 2015 19:10:02 GMT"
+,<http://web.archive.org/web/20150412000127/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sun, 12 Apr 2015 00:01:27 GMT"
+,<http://web.archive.org/web/20150413202644/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Mon, 13 Apr 2015 20:26:44 GMT"
+,<http://web.archive.org/web/20150415050855/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Wed, 15 Apr 2015 05:08:55 GMT"
+,<http://web.archive.org/web/20150416054558/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Thu, 16 Apr 2015 05:45:58 GMT"
+,<http://web.archive.org/web/20150418143822/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Sat, 18 Apr 2015 14:38:22 GMT"
+,<http://web.archive.org/web/20150420105902/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento"; datetime="Mon, 20 Apr 2015 10:59:02 GMT"
+,<http://web.archive.org/web/20150421164241/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="memento last"; datetime="Tue, 21 Apr 2015 16:42:41 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.wsj.com/articles/turkish-lira-hits-fresh-low-against-dollar-1422626091>;rel="self"; type="application/link-format"; from ="Tue, 10 Mar 2015 10:02:53 GMT";until="Tue, 21 Apr 2015 16:42:41 GMT"

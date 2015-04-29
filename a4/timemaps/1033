@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.abc.net.au/news/2015-01-31/ally-and-judo-partner-of-vladimir-putin-wins-russian-contract-f/6059180>;rel="original"
+,<http://web.archive.org/web/20150215130952/http://www.abc.net.au/news/2015-01-31/ally-and-judo-partner-of-vladimir-putin-wins-russian-contract-f/6059180>;rel="memento first"; datetime="Sun, 15 Feb 2015 13:09:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.abc.net.au/news/2015-01-31/ally-and-judo-partner-of-vladimir-putin-wins-russian-contract-f/6059180>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.abc.net.au/news/2015-01-31/ally-and-judo-partner-of-vladimir-putin-wins-russian-contract-f/6059180>;rel="self"; type="application/link-format"; from ="Sun, 15 Feb 2015 13:09:52 GMT";until="Sun, 15 Feb 2015 13:09:52 GMT"

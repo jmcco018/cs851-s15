@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:24:46 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.etsy.com/uk/shop/SurrealMythDesigns?section_id=15417734&ref=shopsection_leftnav_9>;rel="original"
+,<//wayback.archive-it.org/all/20150107133237/https://www.etsy.com/uk/shop/SurrealMythDesigns?section_id=15417734&ref=shopsection_leftnav_9>;rel="memento first"; datetime="Wed, 07 Jan 2015 13:32:37 GMT"
+,<http://web.archive.org/web/20150407111608/https://www.etsy.com/uk/shop/SurrealMythDesigns?section_id=15417734&ref=shopsection_leftnav_9>;rel="memento last"; datetime="Tue, 07 Apr 2015 11:16:08 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.etsy.com/uk/shop/SurrealMythDesigns?section_id=15417734&ref=shopsection_leftnav_9>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.etsy.com/uk/shop/SurrealMythDesigns?section_id=15417734&ref=shopsection_leftnav_9>;rel="self"; type="application/link-format"; from ="Wed, 07 Jan 2015 13:32:37 GMT";until="Tue, 07 Apr 2015 11:16:08 GMT"

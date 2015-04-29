@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:13:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.canadianmetalworking.com/events/mmp-expo-coming-winnipeg-108539.html>;rel="original"
+,<http://web.archive.org/web/20150319090107/http://www.canadianmetalworking.com/events/mmp-expo-coming-winnipeg-108539.html>;rel="memento first"; datetime="Thu, 19 Mar 2015 09:01:07 GMT"
+,<http://web.archive.org/web/20150404160517/http://www.canadianmetalworking.com/events/mmp-expo-coming-winnipeg-108539.html>;rel="memento last"; datetime="Sat, 04 Apr 2015 16:05:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.canadianmetalworking.com/events/mmp-expo-coming-winnipeg-108539.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.canadianmetalworking.com/events/mmp-expo-coming-winnipeg-108539.html>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 09:01:07 GMT";until="Sat, 04 Apr 2015 16:05:17 GMT"

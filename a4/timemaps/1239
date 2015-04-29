@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:30:32 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.brobible.com/life/article/motorcycle-crash-biker-sticks-landing/>;rel="original"
+,<http://web.archive.org/web/20150405163848/http://www.brobible.com/life/article/motorcycle-crash-biker-sticks-landing/>;rel="memento first"; datetime="Sun, 05 Apr 2015 16:38:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.brobible.com/life/article/motorcycle-crash-biker-sticks-landing/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.brobible.com/life/article/motorcycle-crash-biker-sticks-landing/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 16:38:48 GMT";until="Sun, 05 Apr 2015 16:38:48 GMT"

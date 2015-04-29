@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://news.vice.com/article/how-a-military-memo-could-save-the-nurse-who-refused-to-force-feed-guantanamo-detainees>;rel="original"
+,<http://archive.is/20150130054842/https://news.vice.com/article/how-a-military-memo-could-save-the-nurse-who-refused-to-force-feed-guantanamo-detainees>;rel="memento first"; datetime="Fri, 30 Jan 2015 05:48:42 GMT"
+,<http://web.archive.org/web/20150319144734/https://news.vice.com/article/how-a-military-memo-could-save-the-nurse-who-refused-to-force-feed-guantanamo-detainees>;rel="memento"; datetime="Thu, 19 Mar 2015 14:47:34 GMT"
+,<http://web.archive.org/web/20150404232734/https://news.vice.com/article/how-a-military-memo-could-save-the-nurse-who-refused-to-force-feed-guantanamo-detainees>;rel="memento"; datetime="Sat, 04 Apr 2015 23:27:34 GMT"
+,<http://web.archive.org/web/20150408034052/https://news.vice.com/article/how-a-military-memo-could-save-the-nurse-who-refused-to-force-feed-guantanamo-detainees>;rel="memento last"; datetime="Wed, 08 Apr 2015 03:40:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://news.vice.com/article/how-a-military-memo-could-save-the-nurse-who-refused-to-force-feed-guantanamo-detainees>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://news.vice.com/article/how-a-military-memo-could-save-the-nurse-who-refused-to-force-feed-guantanamo-detainees>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 05:48:42 GMT";until="Wed, 08 Apr 2015 03:40:52 GMT"

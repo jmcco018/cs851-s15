@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://investorshangout.com/Sphere-3D-Corp-ANY-90422/>;rel="original"
+,<http://web.archive.org/web/20150318234255/http://investorshangout.com/Sphere-3D-Corp-ANY-90422/>;rel="memento first"; datetime="Wed, 18 Mar 2015 23:42:55 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://investorshangout.com/Sphere-3D-Corp-ANY-90422/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://investorshangout.com/Sphere-3D-Corp-ANY-90422/>;rel="self"; type="application/link-format"; from ="Wed, 18 Mar 2015 23:42:55 GMT";until="Wed, 18 Mar 2015 23:42:55 GMT"

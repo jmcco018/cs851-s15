@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:07:59 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.imore.com/how-upload-non-square-photo-instagram>;rel="original"
+,<http://web.archive.org/web/20150131012134/http://www.imore.com/how-upload-non-square-photo-instagram>;rel="memento first"; datetime="Sat, 31 Jan 2015 01:21:34 GMT"
+,<http://web.archive.org/web/20150405154723/http://www.imore.com/how-upload-non-square-photo-instagram>;rel="memento last"; datetime="Sun, 05 Apr 2015 15:47:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.imore.com/how-upload-non-square-photo-instagram>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.imore.com/how-upload-non-square-photo-instagram>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 01:21:34 GMT";until="Sun, 05 Apr 2015 15:47:23 GMT"

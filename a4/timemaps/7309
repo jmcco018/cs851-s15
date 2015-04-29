@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:17:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.morehandles.co.uk/blog/kirkpatrick-ironmongery-english-made-black-antique-hardware>;rel="original"
+,<http://web.archive.org/web/20150331172036/http://www.morehandles.co.uk/blog/kirkpatrick-ironmongery-english-made-black-antique-hardware/>;rel="memento first"; datetime="Tue, 31 Mar 2015 17:20:36 GMT"
+,<http://web.archive.org/web/20150411054333/http://www.morehandles.co.uk/blog/kirkpatrick-ironmongery-english-made-black-antique-hardware>;rel="memento last"; datetime="Sat, 11 Apr 2015 05:43:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.morehandles.co.uk/blog/kirkpatrick-ironmongery-english-made-black-antique-hardware>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.morehandles.co.uk/blog/kirkpatrick-ironmongery-english-made-black-antique-hardware>;rel="self"; type="application/link-format"; from ="Tue, 31 Mar 2015 17:20:36 GMT";until="Sat, 11 Apr 2015 05:43:33 GMT"

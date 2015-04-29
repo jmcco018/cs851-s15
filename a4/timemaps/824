@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:23:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="original"
+,<http://web.archive.org/web/20131105214624/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento first"; datetime="Tue, 05 Nov 2013 21:46:24 GMT"
+,<http://web.archive.org/web/20131107020331/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Thu, 07 Nov 2013 02:03:31 GMT"
+,<http://web.archive.org/web/20131108154530/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Fri, 08 Nov 2013 15:45:30 GMT"
+,<http://web.archive.org/web/20131110222852/http://the-toast.net/2013/11/04/male-novelist-jokes/?>;rel="memento"; datetime="Sun, 10 Nov 2013 22:28:52 GMT"
+,<http://web.archive.org/web/20140108074031/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Wed, 08 Jan 2014 07:40:31 GMT"
+,<http://web.archive.org/web/20140209204543/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Sun, 09 Feb 2014 20:45:43 GMT"
+,<http://web.archive.org/web/20140509070839/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Fri, 09 May 2014 07:08:39 GMT"
+,<http://web.archive.org/web/20140628233631/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Sat, 28 Jun 2014 23:36:31 GMT"
+,<http://web.archive.org/web/20140802012128/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Sat, 02 Aug 2014 01:21:28 GMT"
+,<http://web.archive.org/web/20140802023232/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Sat, 02 Aug 2014 02:32:32 GMT"
+,<http://web.archive.org/web/20140802063901/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Sat, 02 Aug 2014 06:39:01 GMT"
+,<http://web.archive.org/web/20141110222716/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Mon, 10 Nov 2014 22:27:16 GMT"
+,<http://archive.is/20141110222823/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Mon, 10 Nov 2014 22:28:23 GMT"
+,<http://web.archive.org/web/20141126001505/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Wed, 26 Nov 2014 00:15:05 GMT"
+,<http://web.archive.org/web/20141205230437/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Fri, 05 Dec 2014 23:04:37 GMT"
+,<http://web.archive.org/web/20150101013542/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Thu, 01 Jan 2015 01:35:42 GMT"
+,<http://web.archive.org/web/20150212174423/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Thu, 12 Feb 2015 17:44:23 GMT"
+,<http://web.archive.org/web/20150322233333/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento"; datetime="Sun, 22 Mar 2015 23:33:33 GMT"
+,<http://web.archive.org/web/20150420032831/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="memento last"; datetime="Mon, 20 Apr 2015 03:28:31 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://the-toast.net/2013/11/04/male-novelist-jokes/>;rel="self"; type="application/link-format"; from ="Tue, 05 Nov 2013 21:46:24 GMT";until="Mon, 20 Apr 2015 03:28:31 GMT"

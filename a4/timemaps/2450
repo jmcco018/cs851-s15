@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:49:51 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://rabble.ca/blogs/bloggers/council-canadians/2015/01/premiers-need-to-see-climate-change-elephant-room>;rel="original"
+,<http://web.archive.org/web/20150408200812/http://rabble.ca/blogs/bloggers/council-canadians/2015/01/premiers-need-to-see-climate-change-elephant-room>;rel="memento first"; datetime="Wed, 08 Apr 2015 20:08:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://rabble.ca/blogs/bloggers/council-canadians/2015/01/premiers-need-to-see-climate-change-elephant-room>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://rabble.ca/blogs/bloggers/council-canadians/2015/01/premiers-need-to-see-climate-change-elephant-room>;rel="self"; type="application/link-format"; from ="Wed, 08 Apr 2015 20:08:12 GMT";until="Wed, 08 Apr 2015 20:08:12 GMT"

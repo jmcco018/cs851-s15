@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://paper.li/MrHolise/no-meat-allowed-6>;rel="original"
+,<//wayback.archive-it.org/all/20110409144852/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento first"; datetime="Sat, 09 Apr 2011 14:48:52 GMT"
+,<//wayback.archive-it.org/all/20110409145045/http://paper.li/MrHolise/no-meat-allowed-6/>;rel="memento"; datetime="Sat, 09 Apr 2011 14:50:45 GMT"
+,<http://web.archive.org/web/20110613142722/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento"; datetime="Mon, 13 Jun 2011 14:27:22 GMT"
+,<http://web.archive.org/web/20110714065707/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento"; datetime="Thu, 14 Jul 2011 06:57:07 GMT"
+,<http://web.archive.org/web/20110814065939/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento"; datetime="Sun, 14 Aug 2011 06:59:39 GMT"
+,<http://web.archive.org/web/20111012124735/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento"; datetime="Wed, 12 Oct 2011 12:47:35 GMT"
+,<http://web.archive.org/web/20111112115156/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento"; datetime="Sat, 12 Nov 2011 11:51:56 GMT"
+,<http://web.archive.org/web/20111213073639/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento"; datetime="Tue, 13 Dec 2011 07:36:39 GMT"
+,<http://web.archive.org/web/20120117183527/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento"; datetime="Tue, 17 Jan 2012 18:35:27 GMT"
+,<http://web.archive.org/web/20120408195830/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento"; datetime="Sun, 08 Apr 2012 19:58:30 GMT"
+,<http://web.archive.org/web/20120509220220/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento"; datetime="Wed, 09 May 2012 22:02:20 GMT"
+,<http://web.archive.org/web/20120622154502/http://paper.li/MrHolise/no-meat-allowed-6>;rel="memento last"; datetime="Fri, 22 Jun 2012 15:45:02 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://paper.li/MrHolise/no-meat-allowed-6>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://paper.li/MrHolise/no-meat-allowed-6>;rel="self"; type="application/link-format"; from ="Sat, 09 Apr 2011 14:48:52 GMT";until="Fri, 22 Jun 2012 15:45:02 GMT"

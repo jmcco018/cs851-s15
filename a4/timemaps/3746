@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:15:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.boreddaddy.com/when-you-start-doing-these-15-things-your-quality-of-life-will-improve-instantly/>;rel="original"
+,<http://archive.is/20150228213532/http://www.boreddaddy.com/when-you-start-doing-these-15-things-your-quality-of-life-will-improve-instantly/>;rel="memento first"; datetime="Sat, 28 Feb 2015 21:35:32 GMT"
+,<http://web.archive.org/web/20150318082048/http://www.boreddaddy.com/when-you-start-doing-these-15-things-your-quality-of-life-will-improve-instantly/>;rel="memento last"; datetime="Wed, 18 Mar 2015 08:20:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.boreddaddy.com/when-you-start-doing-these-15-things-your-quality-of-life-will-improve-instantly/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.boreddaddy.com/when-you-start-doing-these-15-things-your-quality-of-life-will-improve-instantly/>;rel="self"; type="application/link-format"; from ="Sat, 28 Feb 2015 21:35:32 GMT";until="Wed, 18 Mar 2015 08:20:48 GMT"

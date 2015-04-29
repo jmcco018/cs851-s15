@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:15:38 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www-935.ibm.com/services/uk/gbs/online/>;rel="original"
+,<http://web.archive.org/web/20140823073323/http://www-935.ibm.com/services/uk/gbs/online/>;rel="memento first"; datetime="Sat, 23 Aug 2014 07:33:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www-935.ibm.com/services/uk/gbs/online/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www-935.ibm.com/services/uk/gbs/online/>;rel="self"; type="application/link-format"; from ="Sat, 23 Aug 2014 07:33:23 GMT";until="Sat, 23 Aug 2014 07:33:23 GMT"

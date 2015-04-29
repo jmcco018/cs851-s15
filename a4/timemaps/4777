@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:33:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://nakedsecurity.sophos.com/2014/12/12/retailers-are-overconfident-about-their-security-majority-have-fundamental-gaps/>;rel="original"
+,<http://web.archive.org/web/20141212135145/http://nakedsecurity.sophos.com/2014/12/12/retailers-are-overconfident-about-their-security-majority-have-fundamental-gaps/>;rel="memento first"; datetime="Fri, 12 Dec 2014 13:51:45 GMT"
+,<http://web.archive.org/web/20150202130751/https://nakedsecurity.sophos.com/2014/12/12/retailers-are-overconfident-about-their-security-majority-have-fundamental-gaps/>;rel="memento"; datetime="Mon, 02 Feb 2015 13:07:51 GMT"
+,<http://web.archive.org/web/20150319112410/https://nakedsecurity.sophos.com/2014/12/12/retailers-are-overconfident-about-their-security-majority-have-fundamental-gaps/>;rel="memento"; datetime="Thu, 19 Mar 2015 11:24:10 GMT"
+,<http://web.archive.org/web/20150403151251/http://nakedsecurity.sophos.com/2014/12/12/retailers-are-overconfident-about-their-security-majority-have-fundamental-gaps>;rel="memento last"; datetime="Fri, 03 Apr 2015 15:12:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://nakedsecurity.sophos.com/2014/12/12/retailers-are-overconfident-about-their-security-majority-have-fundamental-gaps/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://nakedsecurity.sophos.com/2014/12/12/retailers-are-overconfident-about-their-security-majority-have-fundamental-gaps/>;rel="self"; type="application/link-format"; from ="Fri, 12 Dec 2014 13:51:45 GMT";until="Fri, 03 Apr 2015 15:12:51 GMT"

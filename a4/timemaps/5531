@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:47:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nramuseum.org/guns/the-galleries/a-nation-asunder-1861-to-1865/case-13-confederate-arms/abe-williams-percussion-sharpshooter-rifle.aspx>;rel="original"
+,<http://web.archive.org/web/20150403073844/http://nramuseum.org/guns/the-galleries/a-nation-asunder-1861-to-1865/case-13-confederate-arms/abe-williams-percussion-sharpshooter-rifle.aspx>;rel="memento first"; datetime="Fri, 03 Apr 2015 07:38:44 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nramuseum.org/guns/the-galleries/a-nation-asunder-1861-to-1865/case-13-confederate-arms/abe-williams-percussion-sharpshooter-rifle.aspx>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nramuseum.org/guns/the-galleries/a-nation-asunder-1861-to-1865/case-13-confederate-arms/abe-williams-percussion-sharpshooter-rifle.aspx>;rel="self"; type="application/link-format"; from ="Fri, 03 Apr 2015 07:38:44 GMT";until="Fri, 03 Apr 2015 07:38:44 GMT"

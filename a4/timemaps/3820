@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:18:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cc.com/video-collections/ecfy9u/the-cost-of-not-having-health-insurance/euqihg>;rel="original"
+,<http://web.archive.org/web/20150114052007/http://www.cc.com/video-collections/ecfy9u/the-cost-of-not-having-health-insurance/euqihg>;rel="memento first"; datetime="Wed, 14 Jan 2015 05:20:07 GMT"
+,<http://web.archive.org/web/20150120071354/http://www.cc.com/video-collections/ecfy9u/the-cost-of-not-having-health-insurance/euqihg>;rel="memento"; datetime="Tue, 20 Jan 2015 07:13:54 GMT"
+,<http://web.archive.org/web/20150127081953/http://www.cc.com/video-collections/ecfy9u/the-cost-of-not-having-health-insurance/euqihg>;rel="memento last"; datetime="Tue, 27 Jan 2015 08:19:53 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cc.com/video-collections/ecfy9u/the-cost-of-not-having-health-insurance/euqihg>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cc.com/video-collections/ecfy9u/the-cost-of-not-having-health-insurance/euqihg>;rel="self"; type="application/link-format"; from ="Wed, 14 Jan 2015 05:20:07 GMT";until="Tue, 27 Jan 2015 08:19:53 GMT"

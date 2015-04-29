@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:21:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://cassiefairy.com/2015/01/30/smoothie-recipes-for-a-healthy-start-to-the-year/>;rel="original"
+,<http://web.archive.org/web/20150316054612/http://cassiefairy.com/2015/01/30/smoothie-recipes-for-a-healthy-start-to-the-year/>;rel="memento first"; datetime="Mon, 16 Mar 2015 05:46:12 GMT"
+,<http://web.archive.org/web/20150404205156/http://cassiefairy.com/2015/01/30/smoothie-recipes-for-a-healthy-start-to-the-year/>;rel="memento last"; datetime="Sat, 04 Apr 2015 20:51:56 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://cassiefairy.com/2015/01/30/smoothie-recipes-for-a-healthy-start-to-the-year/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://cassiefairy.com/2015/01/30/smoothie-recipes-for-a-healthy-start-to-the-year/>;rel="self"; type="application/link-format"; from ="Mon, 16 Mar 2015 05:46:12 GMT";until="Sat, 04 Apr 2015 20:51:56 GMT"

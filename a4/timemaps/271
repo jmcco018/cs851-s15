@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:38 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/us/album/party-rock-anthem-feat.-lauren/id440148435?i=440148440&ign-mpt=uo%3D4>;rel="original"
+,<http://web.archive.org/web/20120205113120/http://itunes.apple.com/us/album/party-rock-anthem-feat.-lauren/id440148435?i=440148440&ign-mpt=uo%3D4>;rel="memento first"; datetime="Sun, 05 Feb 2012 11:31:20 GMT"
+,<http://web.archive.org/web/20120223021721/http://itunes.apple.com/us/album/party-rock-anthem-feat.-lauren/id440148435?i=440148440&ign-mpt=uo%3D4>;rel="memento"; datetime="Thu, 23 Feb 2012 02:17:21 GMT"
+,<http://web.archive.org/web/20140410132957/https://itunes.apple.com/us/album/party-rock-anthem-feat.-lauren/id440148435?i=440148440&ign-mpt=uo%3D4>;rel="memento"; datetime="Thu, 10 Apr 2014 13:29:57 GMT"
+,<http://web.archive.org/web/20140626040921/https://itunes.apple.com/us/album/party-rock-anthem-feat.-lauren/id440148435?i=440148440&ign-mpt=uo%3D4>;rel="memento"; datetime="Thu, 26 Jun 2014 04:09:21 GMT"
+,<http://web.archive.org/web/20150318125417/https://itunes.apple.com/us/album/party-rock-anthem-feat.-lauren/id440148435?i=440148440&ign-mpt=uo%3D4>;rel="memento last"; datetime="Wed, 18 Mar 2015 12:54:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/us/album/party-rock-anthem-feat.-lauren/id440148435?i=440148440&ign-mpt=uo%3D4>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/us/album/party-rock-anthem-feat.-lauren/id440148435?i=440148440&ign-mpt=uo%3D4>;rel="self"; type="application/link-format"; from ="Sun, 05 Feb 2012 11:31:20 GMT";until="Wed, 18 Mar 2015 12:54:17 GMT"

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:03:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.brits.co.uk/voting/british-breakthrough-act>;rel="original"
+,<//wayback.archive-it.org/all/20150211080108/http://www.brits.co.uk/voting/british-breakthrough-act>;rel="memento first"; datetime="Wed, 11 Feb 2015 08:01:08 GMT"
+,<//wayback.archive-it.org/all/20150211185819/http://www.brits.co.uk/voting/british-breakthrough-act>;rel="memento"; datetime="Wed, 11 Feb 2015 18:58:19 GMT"
+,<//wayback.archive-it.org/all/20150214235823/http://www.brits.co.uk/voting/british-breakthrough-act>;rel="memento"; datetime="Sat, 14 Feb 2015 23:58:23 GMT"
+,<http://web.archive.org/web/20150218004946/http://www.brits.co.uk/voting/british-breakthrough-act>;rel="memento"; datetime="Wed, 18 Feb 2015 00:49:46 GMT"
+,<http://web.archive.org/web/20150319012350/http://www.brits.co.uk/voting/british-breakthrough-act>;rel="memento"; datetime="Thu, 19 Mar 2015 01:23:50 GMT"
+,<http://web.archive.org/web/20150324130353/http://www.brits.co.uk/voting/british-breakthrough-act>;rel="memento"; datetime="Tue, 24 Mar 2015 13:03:53 GMT"
+,<http://web.archive.org/web/20150331123126/http://www.brits.co.uk/voting/british-breakthrough-act>;rel="memento last"; datetime="Tue, 31 Mar 2015 12:31:26 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.brits.co.uk/voting/british-breakthrough-act>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.brits.co.uk/voting/british-breakthrough-act>;rel="self"; type="application/link-format"; from ="Wed, 11 Feb 2015 08:01:08 GMT";until="Tue, 31 Mar 2015 12:31:26 GMT"

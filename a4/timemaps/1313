@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:31:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://ctm.ciegam.es/cartownios/api/redirect/viral?type=1>;rel="original"
+,<http://web.archive.org/web/20130914080811/http://ctm.ciegam.es/cartownios/api/redirect/viral?type=1>;rel="memento first"; datetime="Sat, 14 Sep 2013 08:08:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://ctm.ciegam.es/cartownios/api/redirect/viral?type=1>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://ctm.ciegam.es/cartownios/api/redirect/viral?type=1>;rel="self"; type="application/link-format"; from ="Sat, 14 Sep 2013 08:08:11 GMT";until="Sat, 14 Sep 2013 08:08:11 GMT"

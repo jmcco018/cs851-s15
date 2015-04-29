@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:02:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thespectrummonitor.com/index.aspx>;rel="original"
+,<http://web.archive.org/web/20131031095116/http://www.thespectrummonitor.com/index.aspx>;rel="memento first"; datetime="Thu, 31 Oct 2013 09:51:16 GMT"
+,<http://web.archive.org/web/20131102110608/http://www.thespectrummonitor.com/index.aspx>;rel="memento"; datetime="Sat, 02 Nov 2013 11:06:08 GMT"
+,<http://web.archive.org/web/20140915190245/http://www.thespectrummonitor.com/index.aspx>;rel="memento"; datetime="Mon, 15 Sep 2014 19:02:45 GMT"
+,<http://web.archive.org/web/20150324032409/http://www.thespectrummonitor.com/index.aspx>;rel="memento last"; datetime="Tue, 24 Mar 2015 03:24:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thespectrummonitor.com/index.aspx>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thespectrummonitor.com/index.aspx>;rel="self"; type="application/link-format"; from ="Thu, 31 Oct 2013 09:51:16 GMT";until="Tue, 24 Mar 2015 03:24:09 GMT"

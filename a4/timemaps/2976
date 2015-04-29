@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:58:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://gardenandgun.com/article/fork-road-hites-barbecue>;rel="original"
+,<http://web.archive.org/web/20150224040241/http://gardenandgun.com/article/fork-road-hites-barbecue>;rel="memento first"; datetime="Tue, 24 Feb 2015 04:02:41 GMT"
+,<http://web.archive.org/web/20150317211152/http://gardenandgun.com/article/fork-road-hites-barbecue>;rel="memento"; datetime="Tue, 17 Mar 2015 21:11:52 GMT"
+,<http://web.archive.org/web/20150331114429/http://www.gardenandgun.com/article/fork-road-hites-barbecue>;rel="memento last"; datetime="Tue, 31 Mar 2015 11:44:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://gardenandgun.com/article/fork-road-hites-barbecue>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://gardenandgun.com/article/fork-road-hites-barbecue>;rel="self"; type="application/link-format"; from ="Tue, 24 Feb 2015 04:02:41 GMT";until="Tue, 31 Mar 2015 11:44:29 GMT"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:09:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://pccl14002.brandmovers.co/>;rel="original"
+,<http://web.archive.org/web/20150315035729/http://pccl14002.brandmovers.co/>;rel="memento first"; datetime="Sun, 15 Mar 2015 03:57:29 GMT"
+,<http://archive.is/20150411200734/http://pccl14002.brandmovers.co/>;rel="memento last"; datetime="Sat, 11 Apr 2015 20:07:34 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://pccl14002.brandmovers.co/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://pccl14002.brandmovers.co/>;rel="self"; type="application/link-format"; from ="Sun, 15 Mar 2015 03:57:29 GMT";until="Sat, 11 Apr 2015 20:07:34 GMT"

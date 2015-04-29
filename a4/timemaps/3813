@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:18:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://dailytwocents.com/cheap-insurance-can-costly/>;rel="original"
+,<//wayback.archive-it.org/all/20150113163428/http://dailytwocents.com/cheap-insurance-can-costly/>;rel="memento first"; datetime="Tue, 13 Jan 2015 16:34:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://dailytwocents.com/cheap-insurance-can-costly/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://dailytwocents.com/cheap-insurance-can-costly/>;rel="self"; type="application/link-format"; from ="Tue, 13 Jan 2015 16:34:28 GMT";until="Tue, 13 Jan 2015 16:34:28 GMT"

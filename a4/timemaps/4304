@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:05 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://news.distractify.com/quinn/random-things-found-at-chinese-walmart/>;rel="original"
+,<http://archive.is/20150220024551/http://news.distractify.com/quinn/random-things-found-at-chinese-walmart/>;rel="memento first"; datetime="Fri, 20 Feb 2015 02:45:51 GMT"
+,<http://web.archive.org/web/20150313192407/http://news.distractify.com/quinn/random-things-found-at-chinese-walmart/>;rel="memento last"; datetime="Fri, 13 Mar 2015 19:24:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://news.distractify.com/quinn/random-things-found-at-chinese-walmart/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://news.distractify.com/quinn/random-things-found-at-chinese-walmart/>;rel="self"; type="application/link-format"; from ="Fri, 20 Feb 2015 02:45:51 GMT";until="Fri, 13 Mar 2015 19:24:07 GMT"

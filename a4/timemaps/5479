@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://thenextweb.com/apps/2015/01/15/google-updates-maps-mobile-apps-brings-direction-sharing-better-restaurant-search/>;rel="original"
+,<http://web.archive.org/web/20150421032624/http://thenextweb.com/apps/2015/01/15/google-updates-maps-mobile-apps-brings-direction-sharing-better-restaurant-search/>;rel="memento first"; datetime="Tue, 21 Apr 2015 03:26:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://thenextweb.com/apps/2015/01/15/google-updates-maps-mobile-apps-brings-direction-sharing-better-restaurant-search/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://thenextweb.com/apps/2015/01/15/google-updates-maps-mobile-apps-brings-direction-sharing-better-restaurant-search/>;rel="self"; type="application/link-format"; from ="Tue, 21 Apr 2015 03:26:24 GMT";until="Tue, 21 Apr 2015 03:26:24 GMT"

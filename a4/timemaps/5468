@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.parismatch.com/Chroniques/Art-de-vivre/Sexe-O-Clock-692746>;rel="original"
+,<http://web.archive.org/web/20150122214223/http://www.parismatch.com/Chroniques/Art-de-vivre/Sexe-O-Clock-692746>;rel="memento first"; datetime="Thu, 22 Jan 2015 21:42:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.parismatch.com/Chroniques/Art-de-vivre/Sexe-O-Clock-692746>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.parismatch.com/Chroniques/Art-de-vivre/Sexe-O-Clock-692746>;rel="self"; type="application/link-format"; from ="Thu, 22 Jan 2015 21:42:23 GMT";until="Thu, 22 Jan 2015 21:42:23 GMT"

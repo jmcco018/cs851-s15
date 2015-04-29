@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:57:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.iqboom.com/divergent/divergent-font>;rel="original"
+,<//wayback.archive-it.org/all/20141217103623/http://www.iqboom.com/divergent/divergent-font>;rel="memento first"; datetime="Wed, 17 Dec 2014 10:36:23 GMT"
+,<//wayback.archive-it.org/all/20141218073943/http://www.iqboom.com/divergent/divergent-font>;rel="memento"; datetime="Thu, 18 Dec 2014 07:39:43 GMT"
+,<//wayback.archive-it.org/all/20150108082949/http://www.iqboom.com/divergent/divergent-font>;rel="memento"; datetime="Thu, 08 Jan 2015 08:29:49 GMT"
+,<//wayback.archive-it.org/all/20150109112741/http://www.iqboom.com/divergent/divergent-font>;rel="memento"; datetime="Fri, 09 Jan 2015 11:27:41 GMT"
+,<//wayback.archive-it.org/all/20150110152214/http://www.iqboom.com/divergent/divergent-font>;rel="memento"; datetime="Sat, 10 Jan 2015 15:22:14 GMT"
+,<//wayback.archive-it.org/all/20150122102439/http://www.iqboom.com/divergent/divergent-font>;rel="memento"; datetime="Thu, 22 Jan 2015 10:24:39 GMT"
+,<//wayback.archive-it.org/all/20150123084821/http://www.iqboom.com/divergent/divergent-font>;rel="memento last"; datetime="Fri, 23 Jan 2015 08:48:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.iqboom.com/divergent/divergent-font>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.iqboom.com/divergent/divergent-font>;rel="self"; type="application/link-format"; from ="Wed, 17 Dec 2014 10:36:23 GMT";until="Fri, 23 Jan 2015 08:48:21 GMT"

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:57:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bbc.co.uk/news/science-environment-31028901>;rel="original"
+,<http://web.archive.org/web/20150129090558/http://www.bbc.co.uk/news/science-environment-31028901>;rel="memento first"; datetime="Thu, 29 Jan 2015 09:05:58 GMT"
+,<http://archive.is/20150131210115/http://www.bbc.co.uk/news/science-environment-31028901>;rel="memento"; datetime="Sat, 31 Jan 2015 21:01:15 GMT"
+,<http://web.archive.org/web/20150201051117/http://www.bbc.co.uk/news/science-environment-31028901>;rel="memento"; datetime="Sun, 01 Feb 2015 05:11:17 GMT"
+,<http://web.archive.org/web/20150208052347/http://www.bbc.co.uk/news/science-environment-31028901>;rel="memento"; datetime="Sun, 08 Feb 2015 05:23:47 GMT"
+,<http://web.archive.org/web/20150213020440/http://www.bbc.co.uk/news/science-environment-31028901>;rel="memento"; datetime="Fri, 13 Feb 2015 02:04:40 GMT"
+,<http://web.archive.org/web/20150220021122/http://www.bbc.co.uk/news/science-environment-31028901>;rel="memento last"; datetime="Fri, 20 Feb 2015 02:11:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bbc.co.uk/news/science-environment-31028901>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bbc.co.uk/news/science-environment-31028901>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 09:05:58 GMT";until="Fri, 20 Feb 2015 02:11:22 GMT"

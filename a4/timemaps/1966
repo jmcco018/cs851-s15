@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:41:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cpfc.co.uk/news/article/crystal-palace-striker-glenn-murray-has-signed-a-one-year-contract-extension-with-the-club.-2236616.aspx>;rel="original"
+,<http://archive.is/20150130142638/http://www.cpfc.co.uk/news/article/crystal-palace-striker-glenn-murray-has-signed-a-one-year-contract-extension-with-the-club.-2236616.aspx>;rel="memento first"; datetime="Fri, 30 Jan 2015 14:26:38 GMT"
+,<http://web.archive.org/web/20150201151811/http://www.cpfc.co.uk/news/article/crystal-palace-striker-glenn-murray-has-signed-a-one-year-contract-extension-with-the-club.-2236616.aspx>;rel="memento last"; datetime="Sun, 01 Feb 2015 15:18:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cpfc.co.uk/news/article/crystal-palace-striker-glenn-murray-has-signed-a-one-year-contract-extension-with-the-club.-2236616.aspx>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cpfc.co.uk/news/article/crystal-palace-striker-glenn-murray-has-signed-a-one-year-contract-extension-with-the-club.-2236616.aspx>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 14:26:38 GMT";until="Sun, 01 Feb 2015 15:18:11 GMT"

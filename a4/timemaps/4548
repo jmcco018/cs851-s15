@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:09 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.csmonitor.com/USA/DC-Decoder/Decoder-Buzz/2015/0129/Loretta-Lynch-hearing-Why-all-those-red-suits-in-the-crowd-video>;rel="original"
+,<http://web.archive.org/web/20150130081236/http://www.csmonitor.com/USA/DC-Decoder/Decoder-Buzz/2015/0129/Loretta-Lynch-hearing-Why-all-those-red-suits-in-the-crowd-video>;rel="memento first"; datetime="Fri, 30 Jan 2015 08:12:36 GMT"
+,<http://web.archive.org/web/20150131022241/http://www.csmonitor.com/USA/DC-Decoder/Decoder-Buzz/2015/0129/Loretta-Lynch-hearing-Why-all-those-red-suits-in-the-crowd-video>;rel="memento"; datetime="Sat, 31 Jan 2015 02:22:41 GMT"
+,<//wayback.archive-it.org/all/20150204111836/http://www.csmonitor.com/USA/DC-Decoder/Decoder-Buzz/2015/0129/Loretta-Lynch-hearing-Why-all-those-red-suits-in-the-crowd-video>;rel="memento last"; datetime="Wed, 04 Feb 2015 11:18:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.csmonitor.com/USA/DC-Decoder/Decoder-Buzz/2015/0129/Loretta-Lynch-hearing-Why-all-those-red-suits-in-the-crowd-video>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.csmonitor.com/USA/DC-Decoder/Decoder-Buzz/2015/0129/Loretta-Lynch-hearing-Why-all-those-red-suits-in-the-crowd-video>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 08:12:36 GMT";until="Wed, 04 Feb 2015 11:18:36 GMT"

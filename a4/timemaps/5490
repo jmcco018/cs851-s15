@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.grubstreet.com/2015/01/b-smith-restaurant-closed.html>;rel="original"
+,<http://web.archive.org/web/20150130031632/http://www.grubstreet.com/2015/01/b-smith-restaurant-closed.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 03:16:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.grubstreet.com/2015/01/b-smith-restaurant-closed.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.grubstreet.com/2015/01/b-smith-restaurant-closed.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 03:16:32 GMT";until="Fri, 30 Jan 2015 03:16:32 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:13:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.metoffice.gov.uk/learning/ice/severe-ice-infographic?WT.mc_id=Twitter_Warnings_Ice>;rel="original"
+,<http://web.archive.org/web/20150131155811/http://www.metoffice.gov.uk/learning/ice/severe-ice-infographic?WT.mc_id=Twitter_Warnings_Ice>;rel="memento first"; datetime="Sat, 31 Jan 2015 15:58:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.metoffice.gov.uk/learning/ice/severe-ice-infographic?WT.mc_id=Twitter_Warnings_Ice>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.metoffice.gov.uk/learning/ice/severe-ice-infographic?WT.mc_id=Twitter_Warnings_Ice>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 15:58:11 GMT";until="Sat, 31 Jan 2015 15:58:11 GMT"

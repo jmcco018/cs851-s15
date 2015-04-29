@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://getrealphilippines.com/blog/2013/03/noynoys-incompetence-is-undeniably-a-cause-of-death-in-filipino-society/>;rel="original"
+,<http://web.archive.org/web/20130310043457/http://getrealphilippines.com/blog/2013/03/noynoys-incompetence-is-undeniably-a-cause-of-death-in-filipino-society/>;rel="memento first"; datetime="Sun, 10 Mar 2013 04:34:57 GMT"
+,<http://web.archive.org/web/20130312042325/http://getrealphilippines.com/blog/2013/03/noynoys-incompetence-is-undeniably-a-cause-of-death-in-filipino-society/>;rel="memento"; datetime="Tue, 12 Mar 2013 04:23:25 GMT"
+,<http://web.archive.org/web/20131209024002/http://getrealphilippines.com/blog/2013/03/noynoys-incompetence-is-undeniably-a-cause-of-death-in-filipino-society/>;rel="memento"; datetime="Mon, 09 Dec 2013 02:40:02 GMT"
+,<http://web.archive.org/web/20131211184047/http://getrealphilippines.com/blog/2013/03/noynoys-incompetence-is-undeniably-a-cause-of-death-in-filipino-society/>;rel="memento last"; datetime="Wed, 11 Dec 2013 18:40:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://getrealphilippines.com/blog/2013/03/noynoys-incompetence-is-undeniably-a-cause-of-death-in-filipino-society/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://getrealphilippines.com/blog/2013/03/noynoys-incompetence-is-undeniably-a-cause-of-death-in-filipino-society/>;rel="self"; type="application/link-format"; from ="Sun, 10 Mar 2013 04:34:57 GMT";until="Wed, 11 Dec 2013 18:40:47 GMT"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:12:09 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/music/2015/jan/30/marina-and-the-diamonds-interview-new-album-froot>;rel="original"
+,<http://archive.is/20150130165020/http://www.theguardian.com/music/2015/jan/30/marina-and-the-diamonds-interview-new-album-froot>;rel="memento first"; datetime="Fri, 30 Jan 2015 16:50:20 GMT"
+,<http://web.archive.org/web/20150206032703/http://www.theguardian.com/music/2015/jan/30/marina-and-the-diamonds-interview-new-album-froot>;rel="memento last"; datetime="Fri, 06 Feb 2015 03:27:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/music/2015/jan/30/marina-and-the-diamonds-interview-new-album-froot>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/music/2015/jan/30/marina-and-the-diamonds-interview-new-album-froot>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 16:50:20 GMT";until="Fri, 06 Feb 2015 03:27:03 GMT"

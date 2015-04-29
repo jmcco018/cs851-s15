@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:43:32 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://carriercallcentre.com/>;rel="original"
+,<http://web.archive.org/web/20110712122638/http://carriercallcentre.com/>;rel="memento first"; datetime="Tue, 12 Jul 2011 12:26:38 GMT"
+,<http://web.archive.org/web/20111117022338/http://www.carriercallcentre.com/>;rel="memento"; datetime="Thu, 17 Nov 2011 02:23:38 GMT"
+,<http://web.archive.org/web/20111220033216/http://carriercallcentre.com/>;rel="memento"; datetime="Tue, 20 Dec 2011 03:32:16 GMT"
+,<http://web.archive.org/web/20130301051832/http://carriercallcentre.com/>;rel="memento"; datetime="Fri, 01 Mar 2013 05:18:32 GMT"
+,<http://web.archive.org/web/20130601111417/http://carriercallcentre.com/>;rel="memento"; datetime="Sat, 01 Jun 2013 11:14:17 GMT"
+,<http://web.archive.org/web/20130713080811/http://www.carriercallcentre.com/>;rel="memento"; datetime="Sat, 13 Jul 2013 08:08:11 GMT"
+,<http://web.archive.org/web/20140517061628/http://carriercallcentre.com/>;rel="memento"; datetime="Sat, 17 May 2014 06:16:28 GMT"
+,<http://web.archive.org/web/20141217013750/http://carriercallcentre.com/>;rel="memento last"; datetime="Wed, 17 Dec 2014 01:37:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://carriercallcentre.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://carriercallcentre.com/>;rel="self"; type="application/link-format"; from ="Tue, 12 Jul 2011 12:26:38 GMT";until="Wed, 17 Dec 2014 01:37:50 GMT"

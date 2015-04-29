@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:00:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nationalreview.com/article/397520/why-obama-and-saudis-low-gas-prices-jonah-goldberg>;rel="original"
+,<http://web.archive.org/web/20150130053917/http://www.nationalreview.com/article/397520/why-obama-and-saudis-low-gas-prices-jonah-goldberg>;rel="memento first"; datetime="Fri, 30 Jan 2015 05:39:17 GMT"
+,<http://web.archive.org/web/20150318114217/http://www.nationalreview.com/article/397520/why-obama-and-saudis-low-gas-prices-jonah-goldberg>;rel="memento last"; datetime="Wed, 18 Mar 2015 11:42:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nationalreview.com/article/397520/why-obama-and-saudis-low-gas-prices-jonah-goldberg>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nationalreview.com/article/397520/why-obama-and-saudis-low-gas-prices-jonah-goldberg>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 05:39:17 GMT";until="Wed, 18 Mar 2015 11:42:17 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:23:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://thiskidreviewsbooks.com/2015/01/30/perfect-picture-book-friday-my-teacher-is-a-monster-no-i-am-not-by-peter-brown/>;rel="original"
+,<http://web.archive.org/web/20150406023959/http://thiskidreviewsbooks.com/2015/01/30/perfect-picture-book-friday-my-teacher-is-a-monster-no-i-am-not-by-peter-brown/>;rel="memento first"; datetime="Mon, 06 Apr 2015 02:39:59 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://thiskidreviewsbooks.com/2015/01/30/perfect-picture-book-friday-my-teacher-is-a-monster-no-i-am-not-by-peter-brown/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://thiskidreviewsbooks.com/2015/01/30/perfect-picture-book-friday-my-teacher-is-a-monster-no-i-am-not-by-peter-brown/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 02:39:59 GMT";until="Mon, 06 Apr 2015 02:39:59 GMT"

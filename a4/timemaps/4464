@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:29:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.hollywoodreporter.com/news/outlander-star-joining-george-clooney-768355>;rel="original"
+,<http://archive.is/20150130141244/http://www.hollywoodreporter.com/news/outlander-star-joining-george-clooney-768355>;rel="memento first"; datetime="Fri, 30 Jan 2015 14:12:44 GMT"
+,<http://web.archive.org/web/20150317115535/http://www.hollywoodreporter.com/news/outlander-star-joining-george-clooney-768355>;rel="memento last"; datetime="Tue, 17 Mar 2015 11:55:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.hollywoodreporter.com/news/outlander-star-joining-george-clooney-768355>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.hollywoodreporter.com/news/outlander-star-joining-george-clooney-768355>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 14:12:44 GMT";until="Tue, 17 Mar 2015 11:55:35 GMT"

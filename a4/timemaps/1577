@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:36:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.independent.co.uk/life-style/health-and-families/health-news/church-of-england-says-more-research-is-needed-on-threeparent-babies-10012381.html>;rel="original"
+,<http://web.archive.org/web/20150130022549/http://www.independent.co.uk/life-style/health-and-families/health-news/church-of-england-says-more-research-is-needed-on-threeparent-babies-10012381.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 02:25:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.independent.co.uk/life-style/health-and-families/health-news/church-of-england-says-more-research-is-needed-on-threeparent-babies-10012381.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.independent.co.uk/life-style/health-and-families/health-news/church-of-england-says-more-research-is-needed-on-threeparent-babies-10012381.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 02:25:49 GMT";until="Fri, 30 Jan 2015 02:25:49 GMT"

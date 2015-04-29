@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/app/id884009993>;rel="original"
+,<http://web.archive.org/web/20150406223816/http://itunes.apple.com/app/id884009993>;rel="memento first"; datetime="Mon, 06 Apr 2015 22:38:16 GMT"
+,<http://web.archive.org/web/20150406223817/https://itunes.apple.com/app/id884009993>;rel="memento last"; datetime="Mon, 06 Apr 2015 22:38:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/app/id884009993>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/app/id884009993>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 22:38:16 GMT";until="Mon, 06 Apr 2015 22:38:17 GMT"

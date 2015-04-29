@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cityam.com/208156/every-cycling-accident-in-london-mapped-where-are-the-most-dangerous-places-to-ride-a-bike-and-how-many-accidents-are-there-each-year>;rel="original"
+,<http://archive.is/20150129232452/http://www.cityam.com/208156/every-cycling-accident-in-london-mapped-where-are-the-most-dangerous-places-to-ride-a-bike-and-how-many-accidents-are-there-each-year>;rel="memento first"; datetime="Thu, 29 Jan 2015 23:24:52 GMT"
+,<http://web.archive.org/web/20150203004950/http://www.cityam.com/208156/every-cycling-accident-in-london-mapped-where-are-the-most-dangerous-places-to-ride-a-bike-and-how-many-accidents-are-there-each-year>;rel="memento last"; datetime="Tue, 03 Feb 2015 00:49:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cityam.com/208156/every-cycling-accident-in-london-mapped-where-are-the-most-dangerous-places-to-ride-a-bike-and-how-many-accidents-are-there-each-year>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cityam.com/208156/every-cycling-accident-in-london-mapped-where-are-the-most-dangerous-places-to-ride-a-bike-and-how-many-accidents-are-there-each-year>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 23:24:52 GMT";until="Tue, 03 Feb 2015 00:49:50 GMT"

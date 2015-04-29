@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:46:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.schoolsportsnews.co.za/rugby/poaching-the-real-enemy/>;rel="original"
+,<http://web.archive.org/web/20150418084927/http://www.schoolsportsnews.co.za/rugby/poaching-the-real-enemy/>;rel="memento first"; datetime="Sat, 18 Apr 2015 08:49:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.schoolsportsnews.co.za/rugby/poaching-the-real-enemy/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.schoolsportsnews.co.za/rugby/poaching-the-real-enemy/>;rel="self"; type="application/link-format"; from ="Sat, 18 Apr 2015 08:49:27 GMT";until="Sat, 18 Apr 2015 08:49:27 GMT"

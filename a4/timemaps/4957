@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:37:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://filmingcops.com/cop-goes-crazy/>;rel="original"
+,<http://archive.is/20150130055715/http://filmingcops.com/cop-goes-crazy/>;rel="memento first"; datetime="Fri, 30 Jan 2015 05:57:15 GMT"
+,<http://web.archive.org/web/20150318104555/http://filmingcops.com/cop-goes-crazy/>;rel="memento last"; datetime="Wed, 18 Mar 2015 10:45:55 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://filmingcops.com/cop-goes-crazy/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://filmingcops.com/cop-goes-crazy/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 05:57:15 GMT";until="Wed, 18 Mar 2015 10:45:55 GMT"

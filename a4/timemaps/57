@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:10:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://qz.com/335794/watch-asias-air-pollution-spread-across-the-globe/>;rel="original"
+, <http://web.archive.org/web/20150406071158/http://qz.com/335794/watch-asias-air-pollution-spread-across-the-globe>;rel="memento"; datetime="Mon, 06 Apr 2015 03:11:58 GMT"
+, <http://web.archive.org/web/20150413132257/http://qz.com/335794/watch-asias-air-pollution-spread-across-the-globe/>;rel="memento"; datetime="Mon, 13 Apr 2015 09:22:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://qz.com/335794/watch-asias-air-pollution-spread-across-the-globe/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://qz.com/335794/watch-asias-air-pollution-spread-across-the-globe/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 03:11:58 GMT";until="Mon, 13 Apr 2015 09:22:57 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:05 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://wizzley.com/easy-essential-oil-insect-recipe/>;rel="original"
+,<http://web.archive.org/web/20150406163238/http://wizzley.com/easy-essential-oil-insect-recipe/>;rel="memento first"; datetime="Mon, 06 Apr 2015 16:32:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://wizzley.com/easy-essential-oil-insect-recipe/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://wizzley.com/easy-essential-oil-insect-recipe/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 16:32:38 GMT";until="Mon, 06 Apr 2015 16:32:38 GMT"

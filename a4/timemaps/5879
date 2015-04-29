@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:53:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://time.com/3673567/sodium-older-adults/>;rel="original"
+,<http://web.archive.org/web/20150119162017/http://time.com/3673567/sodium-older-adults/>;rel="memento first"; datetime="Mon, 19 Jan 2015 16:20:17 GMT"
+,<http://web.archive.org/web/20150119170924/http://time.com/3673567/sodium-older-adults/>;rel="memento"; datetime="Mon, 19 Jan 2015 17:09:24 GMT"
+,<http://web.archive.org/web/20150119194000/http://time.com/3673567/sodium-older-adults/>;rel="memento"; datetime="Mon, 19 Jan 2015 19:40:00 GMT"
+,<http://archive.is/20150120142454/http://time.com/3673567/sodium-older-adults/>;rel="memento"; datetime="Tue, 20 Jan 2015 14:24:54 GMT"
+,<http://web.archive.org/web/20150122214652/http://time.com/3673567/sodium-older-adults/>;rel="memento"; datetime="Thu, 22 Jan 2015 21:46:52 GMT"
+,<http://web.archive.org/web/20150127173338/http://time.com/3673567/sodium-older-adults/>;rel="memento"; datetime="Tue, 27 Jan 2015 17:33:38 GMT"
+,<http://web.archive.org/web/20150128074429/http://time.com/3673567/sodium-older-adults/>;rel="memento"; datetime="Wed, 28 Jan 2015 07:44:29 GMT"
+,<http://web.archive.org/web/20150129095742/http://time.com/3673567/sodium-older-adults/>;rel="memento"; datetime="Thu, 29 Jan 2015 09:57:42 GMT"
+,<http://web.archive.org/web/20150129201017/http://time.com/3673567/sodium-older-adults/>;rel="memento last"; datetime="Thu, 29 Jan 2015 20:10:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://time.com/3673567/sodium-older-adults/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://time.com/3673567/sodium-older-adults/>;rel="self"; type="application/link-format"; from ="Mon, 19 Jan 2015 16:20:17 GMT";until="Thu, 29 Jan 2015 20:10:17 GMT"

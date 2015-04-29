@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:57:51 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="original"
+,<http://web.archive.org/web/20150120001014/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="memento first"; datetime="Tue, 20 Jan 2015 00:10:14 GMT"
+,<http://web.archive.org/web/20150120160045/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="memento"; datetime="Tue, 20 Jan 2015 16:00:45 GMT"
+,<http://archive.is/20150121052915/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="memento"; datetime="Wed, 21 Jan 2015 05:29:15 GMT"
+,<http://web.archive.org/web/20150121232323/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="memento"; datetime="Wed, 21 Jan 2015 23:23:23 GMT"
+,<http://web.archive.org/web/20150122235516/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="memento"; datetime="Thu, 22 Jan 2015 23:55:16 GMT"
+,<http://web.archive.org/web/20150124093338/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="memento"; datetime="Sat, 24 Jan 2015 09:33:38 GMT"
+,<http://web.archive.org/web/20150125104707/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="memento"; datetime="Sun, 25 Jan 2015 10:47:07 GMT"
+,<http://web.archive.org/web/20150126133128/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="memento last"; datetime="Mon, 26 Jan 2015 13:31:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dailymail.co.uk/sport/football/article-2917119/Wolfsburg-make-23m-Andre-Schurrle-club-look-beat-Borussia-Dortmund-Chelsea-forward-s-signature.html>;rel="self"; type="application/link-format"; from ="Tue, 20 Jan 2015 00:10:14 GMT";until="Mon, 26 Jan 2015 13:31:28 GMT"

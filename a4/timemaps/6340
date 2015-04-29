@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:00:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blog.capterra.com/5-popular-online-school-administration-software-options/>;rel="original"
+,<http://archive.is/20150108174258/http://blog.capterra.com/5-popular-online-school-administration-software-options/>;rel="memento first"; datetime="Thu, 08 Jan 2015 17:42:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blog.capterra.com/5-popular-online-school-administration-software-options/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blog.capterra.com/5-popular-online-school-administration-software-options/>;rel="self"; type="application/link-format"; from ="Thu, 08 Jan 2015 17:42:58 GMT";until="Thu, 08 Jan 2015 17:42:58 GMT"

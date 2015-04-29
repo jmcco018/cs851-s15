@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:40:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thehindubusinessline.com/features/blink/explore/telegraphic-tales-from-the-raj/article6835052.ece>;rel="original"
+,<http://web.archive.org/web/20150131114033/http://www.thehindubusinessline.com/features/blink/explore/telegraphic-tales-from-the-raj/article6835052.ece>;rel="memento first"; datetime="Sat, 31 Jan 2015 11:40:33 GMT"
+,<http://web.archive.org/web/20150131114050/http://www.thehindubusinessline.com/features/blink/explore/telegraphic-tales-from-the-raj/article6835052.ece>;rel="memento last"; datetime="Sat, 31 Jan 2015 11:40:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thehindubusinessline.com/features/blink/explore/telegraphic-tales-from-the-raj/article6835052.ece>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thehindubusinessline.com/features/blink/explore/telegraphic-tales-from-the-raj/article6835052.ece>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 11:40:33 GMT";until="Sat, 31 Jan 2015 11:40:50 GMT"

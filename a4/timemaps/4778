@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:34:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.medianigeria.com/68944/flying-eagles-wont-overconfident-garba/>;rel="original"
+,<http://web.archive.org/web/20150412190810/http://www.medianigeria.com/68944/flying-eagles-wont-overconfident-garba/>;rel="memento first"; datetime="Sun, 12 Apr 2015 19:08:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.medianigeria.com/68944/flying-eagles-wont-overconfident-garba/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.medianigeria.com/68944/flying-eagles-wont-overconfident-garba/>;rel="self"; type="application/link-format"; from ="Sun, 12 Apr 2015 19:08:10 GMT";until="Sun, 12 Apr 2015 19:08:10 GMT"

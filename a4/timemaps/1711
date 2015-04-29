@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:38:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://androidanalytic.com>;rel="original"
+,<http://web.archive.org/web/20120419133342/http://www.androidanalytic.com/?>;rel="memento first"; datetime="Thu, 19 Apr 2012 13:33:42 GMT"
+,<http://web.archive.org/web/20120520153135/http://www.androidanalytic.com/?>;rel="memento"; datetime="Sun, 20 May 2012 15:31:35 GMT"
+,<http://web.archive.org/web/20120620123405/http://www.androidanalytic.com/?>;rel="memento"; datetime="Wed, 20 Jun 2012 12:34:05 GMT"
+,<http://web.archive.org/web/20120726052858/http://www.androidanalytic.com/?>;rel="memento"; datetime="Thu, 26 Jul 2012 05:28:58 GMT"
+,<http://web.archive.org/web/20120826160636/http://www.androidanalytic.com/?>;rel="memento"; datetime="Sun, 26 Aug 2012 16:06:36 GMT"
+,<http://web.archive.org/web/20121002001147/http://www.androidanalytic.com/?>;rel="memento"; datetime="Tue, 02 Oct 2012 00:11:47 GMT"
+,<http://web.archive.org/web/20121025172119/http://www.androidanalytic.com/>;rel="memento"; datetime="Thu, 25 Oct 2012 17:21:19 GMT"
+,<http://web.archive.org/web/20121102033036/http://www.androidanalytic.com/?>;rel="memento"; datetime="Fri, 02 Nov 2012 03:30:36 GMT"
+,<http://web.archive.org/web/20130514051430/http://androidanalytic.com/?>;rel="memento"; datetime="Tue, 14 May 2013 05:14:30 GMT"
+,<http://web.archive.org/web/20130521002811/http://androidanalytic.com/>;rel="memento"; datetime="Tue, 21 May 2013 00:28:11 GMT"
+,<http://web.archive.org/web/20141216190305/http://androidanalytic.com/>;rel="memento last"; datetime="Tue, 16 Dec 2014 19:03:05 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://androidanalytic.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://androidanalytic.com>;rel="self"; type="application/link-format"; from ="Thu, 19 Apr 2012 13:33:42 GMT";until="Tue, 16 Dec 2014 19:03:05 GMT"

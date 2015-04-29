@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://twitter.com/PTibz/status/561191484209500160>;rel="original"
+,<http://archive.is/20150130161332/https://twitter.com/PTibz/status/561191484209500160>;rel="memento first"; datetime="Fri, 30 Jan 2015 16:13:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://twitter.com/PTibz/status/561191484209500160>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://twitter.com/PTibz/status/561191484209500160>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 16:13:32 GMT";until="Fri, 30 Jan 2015 16:13:32 GMT"

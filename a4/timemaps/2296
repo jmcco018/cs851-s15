@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:47:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.fewerunits.co.uk>;rel="original"
+,<http://web.archive.org/web/20130415093212/http://www.fewerunits.co.uk/>;rel="memento first"; datetime="Mon, 15 Apr 2013 09:32:12 GMT"
+,<http://web.archive.org/web/20130504120038/http://www.fewerunits.co.uk/>;rel="memento"; datetime="Sat, 04 May 2013 12:00:38 GMT"
+,<http://web.archive.org/web/20130516140646/http://fewerunits.co.uk>;rel="memento"; datetime="Thu, 16 May 2013 14:06:46 GMT"
+,<http://web.archive.org/web/20130528092038/http://www.fewerunits.co.uk/>;rel="memento"; datetime="Tue, 28 May 2013 09:20:38 GMT"
+,<http://web.archive.org/web/20130705081144/http://www.fewerunits.co.uk/>;rel="memento"; datetime="Fri, 05 Jul 2013 08:11:44 GMT"
+,<http://web.archive.org/web/20130806205752/http://www.fewerunits.co.uk/>;rel="memento"; datetime="Tue, 06 Aug 2013 20:57:52 GMT"
+,<http://web.archive.org/web/20130808110130/http://www.fewerunits.co.uk/>;rel="memento"; datetime="Thu, 08 Aug 2013 11:01:30 GMT"
+,<http://web.archive.org/web/20130911234853/http://www.fewerunits.co.uk/>;rel="memento"; datetime="Wed, 11 Sep 2013 23:48:53 GMT"
+,<http://web.archive.org/web/20131016201511/http://www.fewerunits.co.uk/>;rel="memento"; datetime="Wed, 16 Oct 2013 20:15:11 GMT"
+,<http://web.archive.org/web/20131120055302/http://www.fewerunits.co.uk/>;rel="memento"; datetime="Wed, 20 Nov 2013 05:53:02 GMT"
+,<http://web.archive.org/web/20140516211353/http://fewerunits.co.uk/>;rel="memento"; datetime="Fri, 16 May 2014 21:13:53 GMT"
+,<http://web.archive.org/web/20141218160232/http://fewerunits.co.uk/>;rel="memento last"; datetime="Thu, 18 Dec 2014 16:02:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.fewerunits.co.uk>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.fewerunits.co.uk>;rel="self"; type="application/link-format"; from ="Mon, 15 Apr 2013 09:32:12 GMT";until="Thu, 18 Dec 2014 16:02:32 GMT"

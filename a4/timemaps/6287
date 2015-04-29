@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://america.aljazeera.com/opinions/2015/1/economy-grows-incomes-shrink.html>;rel="original"
+,<http://archive.is/20150130205449/http://america.aljazeera.com/opinions/2015/1/economy-grows-incomes-shrink.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 20:54:49 GMT"
+,<http://web.archive.org/web/20150203043021/http://america.aljazeera.com/opinions/2015/1/economy-grows-incomes-shrink.html>;rel="memento"; datetime="Tue, 03 Feb 2015 04:30:21 GMT"
+,<http://web.archive.org/web/20150318144430/http://america.aljazeera.com/opinions/2015/1/economy-grows-incomes-shrink.html>;rel="memento last"; datetime="Wed, 18 Mar 2015 14:44:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://america.aljazeera.com/opinions/2015/1/economy-grows-incomes-shrink.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://america.aljazeera.com/opinions/2015/1/economy-grows-incomes-shrink.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 20:54:49 GMT";until="Wed, 18 Mar 2015 14:44:30 GMT"

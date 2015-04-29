@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:00:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update/>;rel="original"
+,<http://archive.is/20150130062859/http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update/>;rel="memento first"; datetime="Fri, 30 Jan 2015 06:28:59 GMT"
+,<http://web.archive.org/web/20150130223044/http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update/>;rel="memento"; datetime="Fri, 30 Jan 2015 22:30:44 GMT"
+,<http://web.archive.org/web/20150315191711/http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update/>;rel="memento"; datetime="Sun, 15 Mar 2015 19:17:11 GMT"
+,<http://web.archive.org/web/20150321054609/http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update/>;rel="memento"; datetime="Sat, 21 Mar 2015 05:46:09 GMT"
+,<http://web.archive.org/web/20150324171005/http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update/>;rel="memento"; datetime="Tue, 24 Mar 2015 17:10:05 GMT"
+,<http://web.archive.org/web/20150406071907/http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update>;rel="memento"; datetime="Mon, 06 Apr 2015 07:19:07 GMT"
+,<http://web.archive.org/web/20150422094421/http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update/>;rel="memento last"; datetime="Wed, 22 Apr 2015 09:44:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://techcrunch.com/2015/01/29/teslas-p85d-will-get-even-faster-thanks-to-a-software-update/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 06:28:59 GMT";until="Wed, 22 Apr 2015 09:44:21 GMT"

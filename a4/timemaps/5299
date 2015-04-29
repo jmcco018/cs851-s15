@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:43:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.economist.com/blogs/democracyinamerica/2015/01/capital-punishment>;rel="original"
+,<http://web.archive.org/web/20150128000547/http://www.economist.com/blogs/democracyinamerica/2015/01/capital-punishment>;rel="memento first"; datetime="Wed, 28 Jan 2015 00:05:47 GMT"
+,<http://web.archive.org/web/20150128063202/http://www.economist.com/blogs/democracyinamerica/2015/01/capital-punishment>;rel="memento"; datetime="Wed, 28 Jan 2015 06:32:02 GMT"
+,<http://web.archive.org/web/20150128165005/http://www.economist.com/blogs/democracyinamerica/2015/01/capital-punishment>;rel="memento"; datetime="Wed, 28 Jan 2015 16:50:05 GMT"
+,<http://web.archive.org/web/20150129064527/http://www.economist.com/blogs/democracyinamerica/2015/01/capital-punishment>;rel="memento"; datetime="Thu, 29 Jan 2015 06:45:27 GMT"
+,<http://web.archive.org/web/20150129085226/http://www.economist.com/blogs/democracyinamerica/2015/01/capital-punishment>;rel="memento"; datetime="Thu, 29 Jan 2015 08:52:26 GMT"
+,<//wayback.archive-it.org/all/20150201035821/http://www.economist.com/blogs/democracyinamerica/2015/01/capital-punishment>;rel="memento last"; datetime="Sun, 01 Feb 2015 03:58:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.economist.com/blogs/democracyinamerica/2015/01/capital-punishment>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.economist.com/blogs/democracyinamerica/2015/01/capital-punishment>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 00:05:47 GMT";until="Sun, 01 Feb 2015 03:58:21 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.behance.net/gallery/22602437/Insect-Alphabet>;rel="original"
+,<//wayback.archive-it.org/all/20150214224432/https://www.behance.net/gallery/22602437/Insect-Alphabet>;rel="memento first"; datetime="Sat, 14 Feb 2015 22:44:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.behance.net/gallery/22602437/Insect-Alphabet>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.behance.net/gallery/22602437/Insect-Alphabet>;rel="self"; type="application/link-format"; from ="Sat, 14 Feb 2015 22:44:32 GMT";until="Sat, 14 Feb 2015 22:44:32 GMT"

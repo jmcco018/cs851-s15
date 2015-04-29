@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:36:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://abcnews.go.com/International/photos/romanian-ice-church-opens-28587658>;rel="original"
+,<http://web.archive.org/web/20150129233137/https://abcnews.go.com/International/photos/romanian-ice-church-opens-28587658>;rel="memento first"; datetime="Thu, 29 Jan 2015 23:31:37 GMT"
+,<http://web.archive.org/web/20150130073144/http://abcnews.go.com/International/photos/romanian-ice-church-opens-28587658>;rel="memento last"; datetime="Fri, 30 Jan 2015 07:31:44 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://abcnews.go.com/International/photos/romanian-ice-church-opens-28587658>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://abcnews.go.com/International/photos/romanian-ice-church-opens-28587658>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 23:31:37 GMT";until="Fri, 30 Jan 2015 07:31:44 GMT"

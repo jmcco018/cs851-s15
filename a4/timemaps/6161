@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:57:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cafepress.com/leehillerdesigns.1216706509>;rel="original"
+,<//wayback.archive-it.org/all/20150111081128/http://www.cafepress.com/leehillerdesigns.1216706509>;rel="memento first"; datetime="Sun, 11 Jan 2015 08:11:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cafepress.com/leehillerdesigns.1216706509>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cafepress.com/leehillerdesigns.1216706509>;rel="self"; type="application/link-format"; from ="Sun, 11 Jan 2015 08:11:28 GMT";until="Sun, 11 Jan 2015 08:11:28 GMT"

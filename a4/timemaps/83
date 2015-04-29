@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:10:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.radiooltrepo.com>;rel="original"
+,<http://web.archive.org/web/20100826130034/http://www.radiooltrepo.com/>;rel="memento first"; datetime="Thu, 26 Aug 2010 13:00:34 GMT"
+,<http://web.archive.org/web/20110612123001/http://www.radiooltrepo.com/>;rel="memento"; datetime="Sun, 12 Jun 2011 12:30:01 GMT"
+,<http://web.archive.org/web/20110811191741/http://www.radiooltrepo.com/>;rel="memento"; datetime="Thu, 11 Aug 2011 19:17:41 GMT"
+,<http://web.archive.org/web/20110907011218/http://www.radiooltrepo.com/>;rel="memento"; datetime="Wed, 07 Sep 2011 01:12:18 GMT"
+,<http://web.archive.org/web/20111115172035/http://www.radiooltrepo.com/>;rel="memento"; datetime="Tue, 15 Nov 2011 17:20:35 GMT"
+,<http://web.archive.org/web/20120106055912/http://www.radiooltrepo.com/>;rel="memento"; datetime="Fri, 06 Jan 2012 05:59:12 GMT"
+,<http://web.archive.org/web/20120904000144/http://www.radiooltrepo.com/>;rel="memento"; datetime="Tue, 04 Sep 2012 00:01:44 GMT"
+,<http://web.archive.org/web/20130614072402/http://radiooltrepo.com/>;rel="memento"; datetime="Fri, 14 Jun 2013 07:24:02 GMT"
+,<http://web.archive.org/web/20140104211409/http://radiooltrepo.com/>;rel="memento"; datetime="Sat, 04 Jan 2014 21:14:09 GMT"
+,<http://web.archive.org/web/20140331114059/http://www.radiooltrepo.com/>;rel="memento"; datetime="Mon, 31 Mar 2014 11:40:59 GMT"
+,<http://web.archive.org/web/20140531110027/http://www.radiooltrepo.com/>;rel="memento"; datetime="Sat, 31 May 2014 11:00:27 GMT"
+,<http://web.archive.org/web/20141218033256/http://radiooltrepo.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 03:32:56 GMT"
+,<http://web.archive.org/web/20150217154537/http://www.radiooltrepo.com/>;rel="memento last"; datetime="Tue, 17 Feb 2015 15:45:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.radiooltrepo.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.radiooltrepo.com>;rel="self"; type="application/link-format"; from ="Thu, 26 Aug 2010 13:00:34 GMT";until="Tue, 17 Feb 2015 15:45:37 GMT"

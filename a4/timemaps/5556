@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:48:05 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.etsy.com/listing/213520777/hand-carved-from-walnut-firefly-flask?utm_source=etsyfu&utm_medium=api&utm_campaign=api>;rel="original"
+,<http://web.archive.org/web/20150110110806/https://www.etsy.com/listing/213520777/hand-carved-from-walnut-firefly-flask?utm_source=etsyfu&utm_medium=api&utm_campaign=api>;rel="memento first"; datetime="Sat, 10 Jan 2015 11:08:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.etsy.com/listing/213520777/hand-carved-from-walnut-firefly-flask?utm_source=etsyfu&utm_medium=api&utm_campaign=api>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.etsy.com/listing/213520777/hand-carved-from-walnut-firefly-flask?utm_source=etsyfu&utm_medium=api&utm_campaign=api>;rel="self"; type="application/link-format"; from ="Sat, 10 Jan 2015 11:08:06 GMT";until="Sat, 10 Jan 2015 11:08:06 GMT"

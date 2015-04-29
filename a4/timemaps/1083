@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:27:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/lifeandstyle/2015/jan/30/brief-history-of-ipa-india-pale-ale-empire-drinks>;rel="original"
+,<http://archive.is/20150202165434/http://www.theguardian.com/lifeandstyle/2015/jan/30/brief-history-of-ipa-india-pale-ale-empire-drinks>;rel="memento first"; datetime="Mon, 02 Feb 2015 16:54:34 GMT"
+,<http://web.archive.org/web/20150319022945/http://www.theguardian.com/lifeandstyle/2015/jan/30/brief-history-of-ipa-india-pale-ale-empire-drinks>;rel="memento last"; datetime="Thu, 19 Mar 2015 02:29:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/lifeandstyle/2015/jan/30/brief-history-of-ipa-india-pale-ale-empire-drinks>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/lifeandstyle/2015/jan/30/brief-history-of-ipa-india-pale-ale-empire-drinks>;rel="self"; type="application/link-format"; from ="Mon, 02 Feb 2015 16:54:34 GMT";until="Thu, 19 Mar 2015 02:29:45 GMT"

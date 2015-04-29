@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:31:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="original"
+,<http://web.archive.org/web/20140404085626/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="memento first"; datetime="Fri, 04 Apr 2014 08:56:26 GMT"
+,<http://web.archive.org/web/20140405180824/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="memento"; datetime="Sat, 05 Apr 2014 18:08:24 GMT"
+,<http://web.archive.org/web/20140408004345/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="memento"; datetime="Tue, 08 Apr 2014 00:43:45 GMT"
+,<http://web.archive.org/web/20140418211058/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html?>;rel="memento"; datetime="Fri, 18 Apr 2014 21:10:58 GMT"
+,<http://web.archive.org/web/20140505063511/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="memento"; datetime="Mon, 05 May 2014 06:35:11 GMT"
+,<http://web.archive.org/web/20140520022444/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html?>;rel="memento"; datetime="Tue, 20 May 2014 02:24:44 GMT"
+,<http://web.archive.org/web/20140605161210/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="memento"; datetime="Thu, 05 Jun 2014 16:12:10 GMT"
+,<http://web.archive.org/web/20140619190235/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html?>;rel="memento"; datetime="Thu, 19 Jun 2014 19:02:35 GMT"
+,<http://web.archive.org/web/20140706003552/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="memento"; datetime="Sun, 06 Jul 2014 00:35:52 GMT"
+,<http://web.archive.org/web/20140721011014/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html?>;rel="memento"; datetime="Mon, 21 Jul 2014 01:10:14 GMT"
+,<http://web.archive.org/web/20140805215324/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="memento"; datetime="Tue, 05 Aug 2014 21:53:24 GMT"
+,<http://web.archive.org/web/20140820191115/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html?>;rel="memento"; datetime="Wed, 20 Aug 2014 19:11:15 GMT"
+,<http://web.archive.org/web/20140905194801/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="memento last"; datetime="Fri, 05 Sep 2014 19:48:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.yummyhealthyeasy.com/2014/04/easter-carrot-cheese-ball.html>;rel="self"; type="application/link-format"; from ="Fri, 04 Apr 2014 08:56:26 GMT";until="Fri, 05 Sep 2014 19:48:01 GMT"

@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:02:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.litanyjewelrydesigns.com/>;rel="original"
+,<http://web.archive.org/web/20140728213110/http://www.litanyjewelrydesigns.com/>;rel="memento first"; datetime="Mon, 28 Jul 2014 21:31:10 GMT"
+,<http://web.archive.org/web/20140828205629/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Thu, 28 Aug 2014 20:56:29 GMT"
+,<http://web.archive.org/web/20140905002135/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Fri, 05 Sep 2014 00:21:35 GMT"
+,<http://web.archive.org/web/20140929124111/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Mon, 29 Sep 2014 12:41:11 GMT"
+,<http://web.archive.org/web/20141028194612/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Tue, 28 Oct 2014 19:46:12 GMT"
+,<http://web.archive.org/web/20141128214328/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Fri, 28 Nov 2014 21:43:28 GMT"
+,<http://web.archive.org/web/20141217122334/http://litanyjewelrydesigns.com/>;rel="memento"; datetime="Wed, 17 Dec 2014 12:23:34 GMT"
+,<http://web.archive.org/web/20141220025118/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Sat, 20 Dec 2014 02:51:18 GMT"
+,<http://web.archive.org/web/20141228191058/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Sun, 28 Dec 2014 19:10:58 GMT"
+,<http://web.archive.org/web/20150129075243/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Thu, 29 Jan 2015 07:52:43 GMT"
+,<http://web.archive.org/web/20150228201906/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Sat, 28 Feb 2015 20:19:06 GMT"
+,<http://web.archive.org/web/20150317055244/http://litanyjewelrydesigns.com/>;rel="memento"; datetime="Tue, 17 Mar 2015 05:52:44 GMT"
+,<http://web.archive.org/web/20150321194330/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Sat, 21 Mar 2015 19:43:30 GMT"
+,<http://web.archive.org/web/20150329034709/http://www.litanyjewelrydesigns.com/>;rel="memento"; datetime="Sun, 29 Mar 2015 03:47:09 GMT"
+,<//wayback.archive-it.org/all/20150329034827/http://litanyjewelrydesigns.com/>;rel="memento last"; datetime="Sun, 29 Mar 2015 03:48:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.litanyjewelrydesigns.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.litanyjewelrydesigns.com/>;rel="self"; type="application/link-format"; from ="Mon, 28 Jul 2014 21:31:10 GMT";until="Sun, 29 Mar 2015 03:48:27 GMT"

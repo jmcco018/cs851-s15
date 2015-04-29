@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:26:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="original"
+,<http://web.archive.org/web/20150129173313/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento first"; datetime="Thu, 29 Jan 2015 17:33:13 GMT"
+,<http://web.archive.org/web/20150310101611/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Tue, 10 Mar 2015 10:16:11 GMT"
+,<http://web.archive.org/web/20150313000859/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Fri, 13 Mar 2015 00:08:59 GMT"
+,<http://web.archive.org/web/20150314065959/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Sat, 14 Mar 2015 06:59:59 GMT"
+,<http://web.archive.org/web/20150315125618/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Sun, 15 Mar 2015 12:56:18 GMT"
+,<http://web.archive.org/web/20150316185835/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Mon, 16 Mar 2015 18:58:35 GMT"
+,<http://web.archive.org/web/20150318002917/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Wed, 18 Mar 2015 00:29:17 GMT"
+,<http://web.archive.org/web/20150319061919/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Thu, 19 Mar 2015 06:19:19 GMT"
+,<http://web.archive.org/web/20150320104831/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Fri, 20 Mar 2015 10:48:31 GMT"
+,<http://web.archive.org/web/20150321154648/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Sat, 21 Mar 2015 15:46:48 GMT"
+,<http://web.archive.org/web/20150322223308/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Sun, 22 Mar 2015 22:33:08 GMT"
+,<http://web.archive.org/web/20150324093110/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento"; datetime="Tue, 24 Mar 2015 09:31:10 GMT"
+,<http://web.archive.org/web/20150330111034/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="memento last"; datetime="Mon, 30 Mar 2015 11:10:34 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.abc.net.au/news/2015-01-29/tasmanian-couple-cut-poppy-shaped-maze-into-sorghum-field/6055858>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 17:33:13 GMT";until="Mon, 30 Mar 2015 11:10:34 GMT"

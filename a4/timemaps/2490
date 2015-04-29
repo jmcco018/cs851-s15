@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:50:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.petersfraserdunlop.com/about-us/careers>;rel="original"
+,<http://web.archive.org/web/20140429034959/http://www.petersfraserdunlop.com/about-us/careers>;rel="memento first"; datetime="Tue, 29 Apr 2014 03:49:59 GMT"
+,<http://web.archive.org/web/20140703140732/http://www.petersfraserdunlop.com/about-us/careers>;rel="memento"; datetime="Thu, 03 Jul 2014 14:07:32 GMT"
+,<http://web.archive.org/web/20140822094517/http://www.petersfraserdunlop.com/about-us/careers>;rel="memento"; datetime="Fri, 22 Aug 2014 09:45:17 GMT"
+,<http://web.archive.org/web/20140902222132/http://www.petersfraserdunlop.com/about-us/careers>;rel="memento"; datetime="Tue, 02 Sep 2014 22:21:32 GMT"
+,<http://web.archive.org/web/20141220210617/http://www.petersfraserdunlop.com/about-us/careers>;rel="memento last"; datetime="Sat, 20 Dec 2014 21:06:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.petersfraserdunlop.com/about-us/careers>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.petersfraserdunlop.com/about-us/careers>;rel="self"; type="application/link-format"; from ="Tue, 29 Apr 2014 03:49:59 GMT";until="Sat, 20 Dec 2014 21:06:17 GMT"

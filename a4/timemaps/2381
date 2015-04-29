@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:48:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://solarsystem.nasa.gov/news/display.cfm?News_ID=48702>;rel="original"
+,<http://archive.is/20150126223134/http://solarsystem.nasa.gov/news/display.cfm?News_ID=48702>;rel="memento first"; datetime="Mon, 26 Jan 2015 22:31:34 GMT"
+,<http://web.archive.org/web/20150414184858/http://solarsystem.nasa.gov/news/display.cfm?News_ID=48702>;rel="memento last"; datetime="Tue, 14 Apr 2015 18:48:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://solarsystem.nasa.gov/news/display.cfm?News_ID=48702>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://solarsystem.nasa.gov/news/display.cfm?News_ID=48702>;rel="self"; type="application/link-format"; from ="Mon, 26 Jan 2015 22:31:34 GMT";until="Tue, 14 Apr 2015 18:48:58 GMT"

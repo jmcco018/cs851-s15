@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.macrumors.com/2015/01/30/aapl-jan-2015-record/>;rel="original"
+,<http://web.archive.org/web/20150406032020/http://www.macrumors.com/2015/01/30/aapl-jan-2015-record/>;rel="memento first"; datetime="Mon, 06 Apr 2015 03:20:20 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.macrumors.com/2015/01/30/aapl-jan-2015-record/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.macrumors.com/2015/01/30/aapl-jan-2015-record/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 03:20:20 GMT";until="Mon, 06 Apr 2015 03:20:20 GMT"

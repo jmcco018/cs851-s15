@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:54:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cbsnews.com/news/nasas-smap-satellite-launch-called-off-again/>;rel="original"
+,<http://web.archive.org/web/20150130153609/http://www.cbsnews.com/news/nasas-smap-satellite-launch-called-off-again/>;rel="memento first"; datetime="Fri, 30 Jan 2015 15:36:09 GMT"
+,<http://web.archive.org/web/20150406010440/http://www.cbsnews.com/news/nasas-smap-satellite-launch-called-off-again/>;rel="memento last"; datetime="Mon, 06 Apr 2015 01:04:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cbsnews.com/news/nasas-smap-satellite-launch-called-off-again/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cbsnews.com/news/nasas-smap-satellite-launch-called-off-again/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 15:36:09 GMT";until="Mon, 06 Apr 2015 01:04:40 GMT"

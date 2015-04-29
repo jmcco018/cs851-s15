@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:19:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://GasAndClutch.com>;rel="original"
+,<http://web.archive.org/web/20141129105536/http://gasandclutch.com/>;rel="memento first"; datetime="Sat, 29 Nov 2014 10:55:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://GasAndClutch.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://GasAndClutch.com>;rel="self"; type="application/link-format"; from ="Sat, 29 Nov 2014 10:55:36 GMT";until="Sat, 29 Nov 2014 10:55:36 GMT"

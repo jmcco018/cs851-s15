@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:58:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://medium.com/node-js-javascript/state-of-io-js-2b3094e6f923>;rel="original"
+,<http://archive.is/20150128073556/https://medium.com/node-js-javascript/state-of-io-js-2b3094e6f923>;rel="memento first"; datetime="Wed, 28 Jan 2015 07:35:56 GMT"
+,<http://web.archive.org/web/20150128073607/https://medium.com/node-js-javascript/state-of-io-js-2b3094e6f923>;rel="memento"; datetime="Wed, 28 Jan 2015 07:36:07 GMT"
+,<http://web.archive.org/web/20150315045503/https://medium.com/node-js-javascript/state-of-io-js-2b3094e6f923>;rel="memento last"; datetime="Sun, 15 Mar 2015 04:55:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://medium.com/node-js-javascript/state-of-io-js-2b3094e6f923>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://medium.com/node-js-javascript/state-of-io-js-2b3094e6f923>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 07:35:56 GMT";until="Sun, 15 Mar 2015 04:55:03 GMT"

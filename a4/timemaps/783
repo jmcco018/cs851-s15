@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:22:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.weeklystandard.com/articles/beyond-sanctions_831133.html>;rel="original"
+,<http://web.archive.org/web/20150131231151/http://www.weeklystandard.com/articles/beyond-sanctions_831133.html>;rel="memento first"; datetime="Sat, 31 Jan 2015 23:11:51 GMT"
+,<http://web.archive.org/web/20150321030510/http://www.weeklystandard.com/articles/beyond-sanctions_831133.html>;rel="memento"; datetime="Sat, 21 Mar 2015 03:05:10 GMT"
+,<http://web.archive.org/web/20150406035031/http://www.weeklystandard.com/articles/beyond-sanctions_831133.html>;rel="memento last"; datetime="Mon, 06 Apr 2015 03:50:31 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.weeklystandard.com/articles/beyond-sanctions_831133.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.weeklystandard.com/articles/beyond-sanctions_831133.html>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 23:11:51 GMT";until="Mon, 06 Apr 2015 03:50:31 GMT"

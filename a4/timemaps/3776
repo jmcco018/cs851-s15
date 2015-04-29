@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://mass.innovationnights.com/events/mass-innovation-nights-min-foodie-8>;rel="original"
+,<http://web.archive.org/web/20150130173618/http://mass.innovationnights.com/events/mass-innovation-nights-min-foodie-8>;rel="memento first"; datetime="Fri, 30 Jan 2015 17:36:18 GMT"
+,<http://web.archive.org/web/20150317155113/http://mass.innovationnights.com/events/mass-innovation-nights-min-foodie-8>;rel="memento last"; datetime="Tue, 17 Mar 2015 15:51:13 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://mass.innovationnights.com/events/mass-innovation-nights-min-foodie-8>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://mass.innovationnights.com/events/mass-innovation-nights-min-foodie-8>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 17:36:18 GMT";until="Tue, 17 Mar 2015 15:51:13 GMT"

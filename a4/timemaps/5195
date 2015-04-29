@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:41:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.packsandcards.com/products/search.asp?lookin=CATEGORYID:74>;rel="original"
+,<http://web.archive.org/web/20060213192236/http://www.packsandcards.com/products/search.asp?lookin=CATEGORYID:74>;rel="memento first"; datetime="Mon, 13 Feb 2006 19:22:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.packsandcards.com/products/search.asp?lookin=CATEGORYID:74>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.packsandcards.com/products/search.asp?lookin=CATEGORYID:74>;rel="self"; type="application/link-format"; from ="Mon, 13 Feb 2006 19:22:36 GMT";until="Mon, 13 Feb 2006 19:22:36 GMT"

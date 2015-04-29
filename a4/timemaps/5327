@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:43:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://atlantadailyworld.com/2015/01/29/teen-life-fills-the-big-screen-in-at-the-top-of-the-pyramid/>;rel="original"
+,<http://web.archive.org/web/20150406060626/http://atlantadailyworld.com/2015/01/29/teen-life-fills-the-big-screen-in-at-the-top-of-the-pyramid>;rel="memento first"; datetime="Mon, 06 Apr 2015 06:06:26 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://atlantadailyworld.com/2015/01/29/teen-life-fills-the-big-screen-in-at-the-top-of-the-pyramid/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://atlantadailyworld.com/2015/01/29/teen-life-fills-the-big-screen-in-at-the-top-of-the-pyramid/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 06:06:26 GMT";until="Mon, 06 Apr 2015 06:06:26 GMT"

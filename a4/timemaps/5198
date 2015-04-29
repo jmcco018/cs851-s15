@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:41:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.techshow.com/2015/01/microsoft-removes-preview-label-from-office-for-android-apps-also-launches-preview-of-outlook-for-android/>;rel="original"
+,<http://web.archive.org/web/20150331193809/http://www.techshow.com/2015/01/microsoft-removes-preview-label-from-office-for-android-apps-also-launches-preview-of-outlook-for-android/>;rel="memento first"; datetime="Tue, 31 Mar 2015 19:38:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.techshow.com/2015/01/microsoft-removes-preview-label-from-office-for-android-apps-also-launches-preview-of-outlook-for-android/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.techshow.com/2015/01/microsoft-removes-preview-label-from-office-for-android-apps-also-launches-preview-of-outlook-for-android/>;rel="self"; type="application/link-format"; from ="Tue, 31 Mar 2015 19:38:09 GMT";until="Tue, 31 Mar 2015 19:38:09 GMT"

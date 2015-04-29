@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:34:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bbc.co.uk/news/world-europe-30993608>;rel="original"
+,<http://web.archive.org/web/20150127065002/http://www.bbc.co.uk/news/world-europe-30993608>;rel="memento first"; datetime="Tue, 27 Jan 2015 06:50:02 GMT"
+,<http://archive.is/20150127123211/http://www.bbc.co.uk/news/world-europe-30993608>;rel="memento"; datetime="Tue, 27 Jan 2015 12:32:11 GMT"
+,<http://web.archive.org/web/20150127190143/http://www.bbc.co.uk/news/world-europe-30993608>;rel="memento"; datetime="Tue, 27 Jan 2015 19:01:43 GMT"
+,<http://web.archive.org/web/20150128001512/http://www.bbc.co.uk/news/world-europe-30993608>;rel="memento"; datetime="Wed, 28 Jan 2015 00:15:12 GMT"
+,<http://web.archive.org/web/20150128024702/http://www.bbc.co.uk/news/world-europe-30993608>;rel="memento"; datetime="Wed, 28 Jan 2015 02:47:02 GMT"
+,<http://web.archive.org/web/20150129135344/http://www.bbc.co.uk/news/world-europe-30993608>;rel="memento"; datetime="Thu, 29 Jan 2015 13:53:44 GMT"
+,<http://web.archive.org/web/20150225090130/http://www.bbc.co.uk/news/world-europe-30993608>;rel="memento last"; datetime="Wed, 25 Feb 2015 09:01:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bbc.co.uk/news/world-europe-30993608>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bbc.co.uk/news/world-europe-30993608>;rel="self"; type="application/link-format"; from ="Tue, 27 Jan 2015 06:50:02 GMT";until="Wed, 25 Feb 2015 09:01:30 GMT"

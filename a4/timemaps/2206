@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:46:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.bkgjewelry.com/multi-gemstone-pendant/953-14k-yellow-gold-diamond-multi-gemstone-pendant.html>;rel="original"
+,<http://web.archive.org/web/20131028054354/http://www.bkgjewelry.com/multi-gemstone-pendant/953-14k-yellow-gold-diamond-multi-gemstone-pendant.html>;rel="memento first"; datetime="Mon, 28 Oct 2013 05:43:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.bkgjewelry.com/multi-gemstone-pendant/953-14k-yellow-gold-diamond-multi-gemstone-pendant.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.bkgjewelry.com/multi-gemstone-pendant/953-14k-yellow-gold-diamond-multi-gemstone-pendant.html>;rel="self"; type="application/link-format"; from ="Mon, 28 Oct 2013 05:43:54 GMT";until="Mon, 28 Oct 2013 05:43:54 GMT"

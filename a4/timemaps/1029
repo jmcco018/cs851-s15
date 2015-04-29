@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.justgiving.com/JeffreyGreyMemorial/>;rel="original"
+,<http://web.archive.org/web/20140123072907/http://www.justgiving.com/JeffreyGreyMemorial>;rel="memento first"; datetime="Thu, 23 Jan 2014 07:29:07 GMT"
+,<//wayback.archive-it.org/all/20140124151517/http://www.justgiving.com/JeffreyGreyMemorial>;rel="memento last"; datetime="Fri, 24 Jan 2014 15:15:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.justgiving.com/JeffreyGreyMemorial/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.justgiving.com/JeffreyGreyMemorial/>;rel="self"; type="application/link-format"; from ="Thu, 23 Jan 2014 07:29:07 GMT";until="Fri, 24 Jan 2014 15:15:17 GMT"

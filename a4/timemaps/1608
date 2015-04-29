@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:36:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://niume.com/pages/circle/?circleID=208>;rel="original"
+,<http://web.archive.org/web/20141008185354/https://niume.com/pages/circle/?circleID=208>;rel="memento first"; datetime="Wed, 08 Oct 2014 18:53:54 GMT"
+,<http://web.archive.org/web/20141117033935/https://niume.com/pages/circle/?circleID=208>;rel="memento"; datetime="Mon, 17 Nov 2014 03:39:35 GMT"
+,<http://web.archive.org/web/20141218113833/https://niume.com/pages/circle/?circleID=208>;rel="memento"; datetime="Thu, 18 Dec 2014 11:38:33 GMT"
+,<http://web.archive.org/web/20150108022811/https://niume.com/pages/circle/?circleID=208>;rel="memento"; datetime="Thu, 08 Jan 2015 02:28:11 GMT"
+,<http://web.archive.org/web/20150108064357/https://niume.com/pages/circle/?circleID=208>;rel="memento"; datetime="Thu, 08 Jan 2015 06:43:57 GMT"
+,<http://web.archive.org/web/20150108072620/https://niume.com/pages/circle/?circleID=208>;rel="memento"; datetime="Thu, 08 Jan 2015 07:26:20 GMT"
+,<http://web.archive.org/web/20150108082137/https://niume.com/pages/circle/?circleID=208>;rel="memento"; datetime="Thu, 08 Jan 2015 08:21:37 GMT"
+,<http://web.archive.org/web/20150108094727/https://niume.com/pages/circle/?circleID=208>;rel="memento"; datetime="Thu, 08 Jan 2015 09:47:27 GMT"
+,<http://web.archive.org/web/20150109132336/https://niume.com/pages/circle/?circleID=208>;rel="memento"; datetime="Fri, 09 Jan 2015 13:23:36 GMT"
+,<http://web.archive.org/web/20150109153951/https://niume.com/pages/circle/?circleID=208>;rel="memento"; datetime="Fri, 09 Jan 2015 15:39:51 GMT"
+,<http://web.archive.org/web/20150113101539/https://niume.com/pages/circle/?circleID=208>;rel="memento last"; datetime="Tue, 13 Jan 2015 10:15:39 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://niume.com/pages/circle/?circleID=208>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://niume.com/pages/circle/?circleID=208>;rel="self"; type="application/link-format"; from ="Wed, 08 Oct 2014 18:53:54 GMT";until="Tue, 13 Jan 2015 10:15:39 GMT"

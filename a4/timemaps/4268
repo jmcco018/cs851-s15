@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:26:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.balleralert.com/profiles/blogs/k-michelle-breaks-it-off-with-bobby-maze-says-he-s-fame-hungry>;rel="original"
+,<http://web.archive.org/web/20150217033112/http://www.balleralert.com/profiles/blogs/k-michelle-breaks-it-off-with-bobby-maze-says-he-s-fame-hungry>;rel="memento first"; datetime="Tue, 17 Feb 2015 03:31:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.balleralert.com/profiles/blogs/k-michelle-breaks-it-off-with-bobby-maze-says-he-s-fame-hungry>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.balleralert.com/profiles/blogs/k-michelle-breaks-it-off-with-bobby-maze-says-he-s-fame-hungry>;rel="self"; type="application/link-format"; from ="Tue, 17 Feb 2015 03:31:12 GMT";until="Tue, 17 Feb 2015 03:31:12 GMT"

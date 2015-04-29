@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<!--
+                             _ _
+ _ __   __ _ _ __   ___ _ __| (_)
+| '_ \ / _` | '_ \ / _ \ '__| | |
+| |_) | (_| | |_) |  __/ | _| | |
+| .__/ \__,_| .__/ \___|_|(_)_|_|
+|_|         |_|
+
+
+-->
+<html
+  lang="en"
+  class="no-js"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:paperli="http://paper.li/ns#">
+  
+  <head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app19.us.archive.org";archive_analytics.values.server_ms=113;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+    <title>The #SMEcommunity Review</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="SmallRivers">
+        <meta content="The #SMEcommunity Review" property="og:title" />
+  <meta content="The #SMEcommunity Review, by #SMEcommunity: updated automatically with a curated selection of articles, blog posts, videos and photos." property="og:description" />
+  <meta content="paper_li:newspaper" property="og:type" />
+  <meta content="http://paper.li/SMEcommunity_ie/1311435271" property="og:url" />
+  <meta content="http://assets.paper.li/images/fb-post-logo-new.png" property="og:image" />
+  <meta content="paper.li" property="og:site_name" />
+  <meta content="362293833600" property="fb:app_id" />
+  
+  <meta content="en_US" property="og:locale" />
+
+      <meta content="en_US" property="og:locale:alternate" />
+      <meta content="de_DE" property="og:locale:alternate" />
+      <meta content="es_ES" property="og:locale:alternate" />
+      <meta content="fr_FR" property="og:locale:alternate" />
+      <meta content="ja_JP" property="og:locale:alternate" />
+      <meta content="pt_PT" property="og:locale:alternate" />
+  
+  <link href="http://assets.paper.li/images/fb-post-logo-new.png" rel="image_src" />
+
+
+
+    <meta name="viewport" content="width=device-width, maximum-scale=1">
+    
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/web/20130625231621im_/http://paper.li/favicon.ico">
+
+    <link rel="image_src" href="http://assets.paper.li/images/fb-post-logo-new.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+    
+    <script type="text/javascript">
+      paperli = window.paperli || {};
+      paperli.locale = 'en';
+      paperli.logged_in = false;
+      paperli.host = 'paper.li';
+      paperli.imageproxy_token = {"tokenValidity":"1372202782176","token":"6b890e4ace0a85585d5a6ecbb5ae2bc1b9c96fa3"};
+    </script>
+
+    <link href="/web/20130625231621cs_/http://paper.li/assets/application-8c82cc9808ace049a6c456aff18c7683.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="/web/20130625231621cs_/http://paper.li/assets/icons-619de38c702d17adc4044f9496632c3b.css" media="all" rel="stylesheet" type="text/css" />
+    
+      <script type="text/javascript">
+    "seo ignore"; // seo hint;
+    
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-15250297-1']);
+    _gaq.push(['_setDomainName', 'paper.li']);
+    _gaq.push(['_setAllowLinker', true]);
+    
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? '/web/20130625231621/https://ssl' : '/web/20130625231621/http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+    /* social tracking */
+    
+    var _ga = _ga || {};
+    
+    _ga.getSocialActionTrackers_ = function(
+        network, socialAction, opt_target, opt_pagePath) {
+      return function() {
+        var trackers = _gat._getTrackers();
+        for (var i = 0, tracker; tracker = trackers[i]; i++) {
+          tracker._trackSocial(network, socialAction, opt_target, opt_pagePath);
+        }
+      };
+    };
+    
+    _ga.trackFacebook = function(opt_pagePath) {
+      try {
+        if (FB && FB.Event && FB.Event.subscribe) {
+          FB.Event.subscribe('edge.create', function(opt_target) {
+            _gaq.push(_ga.getSocialActionTrackers_('facebook', 'like',
+                opt_target, opt_pagePath));
+          });
+          FB.Event.subscribe('edge.remove', function(opt_target) {
+            _gaq.push(_ga.getSocialActionTrackers_('facebook', 'unlike',
+                opt_target, opt_pagePath));
+          });
+          FB.Event.subscribe('message.send', function(opt_target) {
+            _gaq.push(_ga.getSocialActionTrackers_('facebook', 'send',
+                opt_target, opt_pagePath));
+          });
+        }
+      } catch (e) {}
+    };
+    
+    
+    _ga.trackTwitterHandler_ = function(intent_event, opt_pagePath) {
+      var opt_target; //Default value is undefined
+      if (intent_event && intent_event.type == 'tweet' ||
+              intent_event.type == 'click') {
+        if (intent_event.target.nodeName == 'IFRAME') {
+          opt_target = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+        }
+        var socialAction = intent_event.type + ((intent_event.type == 'click') ?
+            '-' + intent_event.region : ''); //append the type of click to action
+        _gaq.push(_ga.getSocialActionTrackers_('twitter', socialAction, opt_target,
+            opt_pagePath));
+      }
+    };
+    
+    _ga.trackTwitter = function(opt_pagePath) {
+      intent_handler = function(intent_event) {
+        _ga.trackTwitterHandler_(intent_event, opt_pagePath);
+      };
+    
+      //bind twitter Click and Tweet events to Twitter tracking handler
+      twttr.events.bind('click', intent_handler);
+      twttr.events.bind('tweet', intent_handler);
+    };
+    
+    
+    _ga.extractParamFromUri_ = function(uri, paramName) {
+      if (!uri) {
+        return;
+      }
+      var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+      var params = regex.exec(uri);
+      if (params != null) {
+        return unescape(params[1]);
+      }
+      return;
+    };    
+  </script>    
+
+    <script type="text/javascript" charset="utf-8">
+  "seo ignore"; // seo hint;
+  
+  window.twttr = (function (d,s,id) {
+    var t, js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+    js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+  }(document, "script", "twitter-wjs"));
+  
+  // Wait for the asynchronous resources to load
+  twttr.ready(function(twttr) {
+    _ga.trackTwitter(); //Google Analytics tracking
+  });
+</script>
+
+    <!-- vendor plugins -->
+    <script src="/web/20130625231621js_/http://paper.li/assets/vendor-848bdcee997c969cca0b121d3329a8fe.js" type="text/javascript"></script>
+
+    <!-- language -->
+    <script src="/web/20130625231621js_/http://paper.li/assets/i18n/en-a003edcd4104b9ada67e4fda9cbd98d5.js" type="text/javascript"></script>
+    <script src="/web/20130625231621js_/http://paper.li/assets/i18n/i18n-dee887c118135b977dffba901e89b51d.js" type="text/javascript"></script>
+
+    <!-- configuration -->
+    <script src="/web/20130625231621js_/http://paper.li/assets/conf/app/default-1e57fb855d7e85b0e147653758c7315a.js" type="text/javascript"></script>
+    <script src="/web/20130625231621js_/http://paper.li/assets/conf/featured_sources/main/en-ef0c7e7df803b16df754b6bcfb66a705.js" type="text/javascript"></script>
+    <script src="/web/20130625231621js_/http://paper.li/assets/conf/search_sources_providers/default-1cb3497311501850826366159ccd4439.js" type="text/javascript"></script>
+
+    <!-- main inclusion -->
+    <script src="/web/20130625231621js_/http://paper.li/assets/app-90deb09114ab1ebf5f7d8bfb7a4d3d70.js" type="text/javascript"></script>
+    
+    
+
+    <meta content="The #SMEcommunity Review, by #SMEcommunity: updated automatically with a curated selection of articles, blog posts, videos and photos." name="description" /><meta content="!" name="fragment" />
+  <style>
+    body{
+        background-image: url("/web/20130625231621im_/http://s3.amazonaws.com/assets.paper.li/backgrounds/360aa1e0-82f0-012f-25ad-12313d16b843/original/sme_25.png?1348275713");
+      
+        background-position: center top;
+      
+        background-color: #ffffff;
+      
+        background-repeat: repeat;
+      
+      background-attachment: fixed;
+    }
+  
+  
+  
+  
+  </style>
+  
+  
+  <script src="/web/20130625231621js_/http://paper.li/assets/paper.view-d6d57bc8784582dcae3a3d892feeeb68.js" type="text/javascript"></script>
+  <script type="text/javascript">
+      var addthis_config = {
+        data_track_clickback: false
+      };
+      var addthis_share = {};
+  </script>
+  <script src="/web/20130625231621js_/http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5135cc42378c0c26" type="text/javascript"></script>
+
+  <script type="text/javascript">
+    OA_zones = {"tpl1":4,"mpl3":3,"mpl2":2,"mpl1":1};
+    OA_source = 'Human Interest';
+  </script>
+  <script src="/web/20130625231621js_/http://ads.paper.li/delivery/spcjs.php?id=1" type="text/javascript"></script>
+  
+
+
+    <!-- plugin language initialization -->
+    
+    
+
+    <meta name="google-site-verification" content="wFFH4bLMmgYz1xXS9FCutijYdbwmOhKCr9z9uWMdslc" />
+    <script>
+  if (!window.paperli) {
+    window.paperli = {};
+  }
+
+  paperli.origin_data = {
+    identifier: 'paper.li:main',
+    kiosk: false,
+    paper_on_domain_alias: false 
+  };
+  
+</script>
+  </head>
+  <body class="papers-show">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://paper.li/SMEcommunity_ie/1311435271";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "25";
+var displayMonth = "Jun";
+var displayYear = "2013";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://paper.li/SMEcommunity_ie/1311435271" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20130625231621" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20130111100231/http://paper.li/SMEcommunity_ie/1311435271" title="11 Jan 2013">JAN</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 23:16:21 Jun 25, 2013">JUN</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20130729072527/http://paper.li/SMEcommunity_ie/1311435271" title="29 Jul 2013"><strong>JUL</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130111100231/http://paper.li/SMEcommunity_ie/1311435271" title="10:02:31 Jan 11, 2013"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 23:16:21 Jun 25, 2013">25</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20130729072527/http://paper.li/SMEcommunity_ie/1311435271" title="7:25:27 Jul 29, 2013"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20120604083837/http://paper.li/SMEcommunity_ie/1311435271" title="4 Jun 2012"><strong>2012</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 23:16:21 Jun 25, 2013">2013</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2014
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20130625231621*/http://paper.li/SMEcommunity_ie/1311435271" title="See a list of every capture for this URL">26 captures</a>
+           <div class="r" title="Timespan for captures of this URL">12 Oct 11 - 16 Apr 14</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000111_2012:-1:313201110020_2013:5:100001101100_2014:-1:003100000000_2015:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+    <div id="fb-root"></div>
+<script>
+  "seo ignore"; // seo hint;
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : paperli.conf.facebook_app_id, // App ID
+      channelUrl : '//paper.li/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+    $(document).trigger('fb.init');
+    
+    _ga.trackFacebook(); //Google Analytics tracking
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+
+    <!-- WEBSITE MAIN WRAPPER -->
+    <div id="wrapper" class="page-frame">
+      <!-- Main header -->
+      <div id="header" class="page-row">
+        <div class="navbar navbar-fixed-top center">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+ 
+      <a href="/web/20130625231621/http://paper.li/" class="brand brand-logo">
+        <img style="margin-bottom: -4px; margin-top: -7px;" alt="Paper.li" src="/web/20130625231621im_/http://paper.li/assets/logos/logo_paperli_dark.png">
+</a> 
+        <div class="nav-collapse collapse">
+          <ul class="nav pull-right">
+            <li class="dropdown">
+              <a id="drop1" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-lightbulb"></i> Learn more <b class="caret"></b></a>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+                <li><a href="/web/20130625231621/http://paper.li/learn-more.html" tabindex="-1">How it works</a></li>
+                <li><a href="/web/20130625231621/http://paper.li/pro.html" tabindex="-1">Paper.li Pro</a></li>
+                <li class="divider"></li>
+                <li><a href="/web/20130625231621/http://community.paper.li/" tabindex="-1">Community blog</a></li>
+                <li><a href="/web/20130625231621/http://blog.paper.li/" tabindex="-1">Product blog</a></li>
+              </ul>
+            </li>
+            <li>
+              <a href="/web/20130625231621/http://paper.li/newsstand">
+                <i class="icon-th-list"></i><span class="nav-text"> Newsstand</span>
+</a>            </li>
+            <li>
+              <a href="#" class="signin">
+                <i class="icon-user"></i><span class="nav-text"> sign up / log in</span>
+</a>            </li>
+          </ul>               
+        </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+
+      <!-- ALERTS AND NOTIFICATIONS AREA -->
+      <div id="alerts">
+        
+        
+        
+<div id="ie_banner" class="m-banner m-warning">
+  <div class="message">
+    You are using an old version of <strong>Internet Explorer</strong>. To view Paper.li correctly please <a href="/web/20130625231621/http://www.microsoft.com/internetexplorer" target="_blank">upgrade</a> or switch to a another browser.
+  </div>
+  <a class="close hide-me" href="javascript:;"><i class="icon-remove"></i></a>
+</div>
+
+        <noscript>
+   <div id="alertbar" class="m-banner m-warning" style="display:block">
+     <div class="message">
+       <span style="font-size: 16px;">Please enable Javascript to correctly display the contents on Paper.li</span>
+     </div>
+   </div>
+</noscript>
+      </div>
+
+      <!-- Sticky container for flash messages -->
+      <div id="sticky-container" data-spy="affix" data-offset-top="1">
+        
+        <div id="flash-message-js"></div>
+      </div>
+  
+      <!-- Main content -->
+      
+
+
+
+
+
+
+
+
+
+
+<div id="paper" class="clearfix"></div>
+
+
+      <div id="push"></div>
+    </div>      
+    <!-- Main footer -->
+    <div id="footer" class="page-row">
+      <div class="footer">
+  <div class="container">
+    <div class="row footer-row">
+      <div class="span12">
+        <div class="row">
+          <ul class="footer-menu">
+            <li><a href="/web/20130625231621/http://paper.li/introduction.html">About Us</a></li>
+            <li><a href="/web/20130625231621/http://paper.li/jobs.html"><span class="translation_missing" title="translation missing: en.link.jobs">Jobs</span></a></li>
+            <li><a href="/web/20130625231621/http://community.paper.li/" target="_blank">Community</a></li>
+            <li><a href="/web/20130625231621/http://blog.paper.li/" target="_blank">Blog</a></li>
+            <li><a href="/web/20130625231621/http://support.paper.li/" target="_blank">Help</a></li>
+            <li><a href="/web/20130625231621/http://paper.li/stop-mentions.html">Stop mentions</a></li>
+            <li><a href="/web/20130625231621/http://paper.li/terms.html">Terms</a></li>
+            <li><a href="/web/20130625231621/http://paper.li/privacy.html">Privacy</a> </li>
+            
+            <li><a href="/web/20130625231621/http://twitter.com/smallrivers" target="_blank"><i class="icon-twitter"></i></a></li>
+            <li><a href="/web/20130625231621/http://www.facebook.com/pages/Paperli/199618576802286" target="_blank"><i class="icon-facebook"></i></a></li>
+            <li><a href="/web/20130625231621/http://plus.google.com/u/0/113796188089361585143" target="_blank"><i class="icon-google-plus"></i></a></li>
+            <li><a href="/web/20130625231621/http://blog.paper.li/feeds/posts/default?alt=rss" target="_blank"><i class="icon-rss"></i></a></li>
+          </ul>
+        </div>
+        <div class="row">
+          <ul class="footer-languages" >
+            <li><a href="/web/20130625231621/http://paper.li/SMEcommunity_ie/1311435271?lang=en" class="current">EN</a></li>
+            <li><a href="/web/20130625231621/http://paper.li/SMEcommunity_ie/1311435271?lang=de" class="">DE</a></li>
+            <li><a href="/web/20130625231621/http://paper.li/SMEcommunity_ie/1311435271?lang=fr" class="">FR</a></li>
+            <li><a href="/web/20130625231621/http://paper.li/SMEcommunity_ie/1311435271?lang=es" class="">ES</a></li>
+            <li><a href="/web/20130625231621/http://paper.li/SMEcommunity_ie/1311435271?lang=pt" class="">PT</a></li>
+            <li><a href="/web/20130625231621/http://paper.li/SMEcommunity_ie/1311435271?lang=ja" class="">日本語</a></li>
+          </ul>
+        </div>
+       
+        <div class="row copyright">
+          <p>© SmallRivers 2013</p>
+        </div>
+      </div>
+    </div>            
+  </div>
+ </div>
+    </div>
+
+    <!-- Specific page javascripts -->
+    <script type="text/javascript">
+  $(document).ready(function() {
+    paperli.util.adjustStickyFooter();
+    var options = {"paper":{"id":"360aa1e0-82f0-012f-25ad-12313d16b843","path":"\/SMEcommunity_ie\/1311435271","external_url":null,"domain_alias":null,"title":"The #SMEcommunity Review","styled_title":"<sup><em>The<\/em><\/sup> <strong>#SMEcommunity<\/strong> <sup><em>Review<\/em><\/sup>","description":"","name":"#SMEcommunity","publisher_id":"f1a3e7b0-82e7-012f-25ad-12313d16b843","featured_for":null,"created_at":"2011\/07\/23 15:34:31 +0000","next_edition":"2013\/06\/26 15:34:31 +0000","feed":null},"logo":null,"ads":{},"twitter_widget":null,"edition":{"id":"b9910aa0-ddac-11e2-8a88-0025907212f4","published_at":"2013\/06\/25 15:34:29 +0000"}};
+
+    $('#paper').paper(options);
+  });
+</script>
+
+  <script type="text/javascript" src="/web/20130625231621js_/http://paper.li/assets/analytics.js"></script>
+  <script type="text/javascript">
+  "seo ignore"; // seo hint;
+  
+  try {
+    var srTracker = Paperli.Tracker.getTracker("/~api/analytics");
+  } catch( err ) {}
+  </script>
+  <script>
+    $(document).ready(function(){
+      if ($.browser.msie && parseInt($.browser.version) <= 7){
+        $('#ie_banner').slideDown();
+        
+        $('#ie_banner .close').click(function(){
+          $('#ie_banner').slideUp();
+        });
+      };        
+    });
+  </script>
+
+  </body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 23:16:21 Jun 25, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:46:33 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:34:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.harlanwolff.com/2013/09/27/stella-by-sunlight-a-short-story-by-harlan-wolff/>;rel="original"
+,<http://web.archive.org/web/20131127154051/http://www.harlanwolff.com/2013/09/27/stella-by-sunlight-a-short-story-by-harlan-wolff/>;rel="memento first"; datetime="Wed, 27 Nov 2013 15:40:51 GMT"
+,<http://web.archive.org/web/20140622133701/http://www.harlanwolff.com/2013/09/27/stella-by-sunlight-a-short-story-by-harlan-wolff/>;rel="memento"; datetime="Sun, 22 Jun 2014 13:37:01 GMT"
+,<http://web.archive.org/web/20140625132814/http://www.harlanwolff.com/2013/09/27/stella-by-sunlight-a-short-story-by-harlan-wolff/>;rel="memento last"; datetime="Wed, 25 Jun 2014 13:28:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.harlanwolff.com/2013/09/27/stella-by-sunlight-a-short-story-by-harlan-wolff/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.harlanwolff.com/2013/09/27/stella-by-sunlight-a-short-story-by-harlan-wolff/>;rel="self"; type="application/link-format"; from ="Wed, 27 Nov 2013 15:40:51 GMT";until="Wed, 25 Jun 2014 13:28:14 GMT"

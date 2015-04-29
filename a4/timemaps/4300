@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://cannonandcannon.com/shop/>;rel="original"
+,<http://web.archive.org/web/20121231005452/http://www.cannonandcannon.com/shop/>;rel="memento first"; datetime="Mon, 31 Dec 2012 00:54:52 GMT"
+,<http://web.archive.org/web/20130930213848/http://cannonandcannon.com/shop/>;rel="memento"; datetime="Mon, 30 Sep 2013 21:38:48 GMT"
+,<http://web.archive.org/web/20131201015811/http://cannonandcannon.com/shop/>;rel="memento"; datetime="Sun, 01 Dec 2013 01:58:11 GMT"
+,<http://web.archive.org/web/20131202030755/http://cannonandcannon.com/shop/>;rel="memento"; datetime="Mon, 02 Dec 2013 03:07:55 GMT"
+,<http://web.archive.org/web/20140708033229/http://cannonandcannon.com/shop/>;rel="memento"; datetime="Tue, 08 Jul 2014 03:32:29 GMT"
+,<http://web.archive.org/web/20140907012234/http://cannonandcannon.com/shop/>;rel="memento"; datetime="Sun, 07 Sep 2014 01:22:34 GMT"
+,<http://web.archive.org/web/20150401060011/http://cannonandcannon.com/shop/>;rel="memento"; datetime="Wed, 01 Apr 2015 06:00:11 GMT"
+,<http://web.archive.org/web/20150401060012/http://www.cannonandcannon.com/shop/>;rel="memento last"; datetime="Wed, 01 Apr 2015 06:00:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://cannonandcannon.com/shop/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://cannonandcannon.com/shop/>;rel="self"; type="application/link-format"; from ="Mon, 31 Dec 2012 00:54:52 GMT";until="Wed, 01 Apr 2015 06:00:12 GMT"

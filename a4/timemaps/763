@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:22:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.tots100.co.uk/2015/01/30/fresh-five-blogs-to-make-you-laugh/>;rel="original"
+,<http://web.archive.org/web/20150327192238/http://www.tots100.co.uk/2015/01/30/fresh-five-blogs-to-make-you-laugh/>;rel="memento first"; datetime="Fri, 27 Mar 2015 19:22:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.tots100.co.uk/2015/01/30/fresh-five-blogs-to-make-you-laugh/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.tots100.co.uk/2015/01/30/fresh-five-blogs-to-make-you-laugh/>;rel="self"; type="application/link-format"; from ="Fri, 27 Mar 2015 19:22:38 GMT";until="Fri, 27 Mar 2015 19:22:38 GMT"

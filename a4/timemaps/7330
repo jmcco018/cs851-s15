@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:17:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://i100.independent.co.uk/article/the-bbc-appears-to-have-made-a-channel-just-for-ukip-voters--gJPqj3t9og>;rel="original"
+,<http://web.archive.org/web/20150129203625/http://i100.independent.co.uk/article/the-bbc-appears-to-have-made-a-channel-just-for-ukip-voters--gJPqj3t9og>;rel="memento first"; datetime="Thu, 29 Jan 2015 20:36:25 GMT"
+,<http://web.archive.org/web/20150129213319/http://i100.independent.co.uk/article/the-bbc-appears-to-have-made-a-channel-just-for-ukip-voters--gJPqj3t9og>;rel="memento"; datetime="Thu, 29 Jan 2015 21:33:19 GMT"
+,<//wayback.archive-it.org/all/20150129215759/http://i100.independent.co.uk/article/the-bbc-appears-to-have-made-a-channel-just-for-ukip-voters--gJPqj3t9og>;rel="memento"; datetime="Thu, 29 Jan 2015 21:57:59 GMT"
+,<http://web.archive.org/web/20150129233050/http://i100.independent.co.uk/article/the-bbc-appears-to-have-made-a-channel-just-for-ukip-voters--gJPqj3t9og>;rel="memento"; datetime="Thu, 29 Jan 2015 23:30:50 GMT"
+,<http://archive.is/20150130111534/http://i100.independent.co.uk/article/the-bbc-appears-to-have-made-a-channel-just-for-ukip-voters--gJPqj3t9og>;rel="memento last"; datetime="Fri, 30 Jan 2015 11:15:34 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://i100.independent.co.uk/article/the-bbc-appears-to-have-made-a-channel-just-for-ukip-voters--gJPqj3t9og>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://i100.independent.co.uk/article/the-bbc-appears-to-have-made-a-channel-just-for-ukip-voters--gJPqj3t9og>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 20:36:25 GMT";until="Fri, 30 Jan 2015 11:15:34 GMT"

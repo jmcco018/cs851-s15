@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:33:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="original"
+,<http://web.archive.org/web/20150310072727/http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="memento first"; datetime="Tue, 10 Mar 2015 07:27:27 GMT"
+,<http://web.archive.org/web/20150311132946/http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="memento"; datetime="Wed, 11 Mar 2015 13:29:46 GMT"
+,<http://web.archive.org/web/20150313034207/http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="memento"; datetime="Fri, 13 Mar 2015 03:42:07 GMT"
+,<http://web.archive.org/web/20150314051548/http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="memento"; datetime="Sat, 14 Mar 2015 05:15:48 GMT"
+,<http://web.archive.org/web/20150315044815/http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="memento"; datetime="Sun, 15 Mar 2015 04:48:15 GMT"
+,<http://web.archive.org/web/20150316073042/http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="memento"; datetime="Mon, 16 Mar 2015 07:30:42 GMT"
+,<http://web.archive.org/web/20150402155550/http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="memento last"; datetime="Thu, 02 Apr 2015 15:55:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.huffingtonpost.com/vala-afshar/salesforcecom-chief-strat_b_6570936.html>;rel="self"; type="application/link-format"; from ="Tue, 10 Mar 2015 07:27:27 GMT";until="Thu, 02 Apr 2015 15:55:50 GMT"

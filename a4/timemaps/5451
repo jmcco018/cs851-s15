@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.businessinsider.com/baltic-dry-index-hits-record-low-2008-crash-2015-1>;rel="original"
+,<http://web.archive.org/web/20150218204441/http://www.businessinsider.com/baltic-dry-index-hits-record-low-2008-crash-2015-1>;rel="memento first"; datetime="Wed, 18 Feb 2015 20:44:41 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.businessinsider.com/baltic-dry-index-hits-record-low-2008-crash-2015-1>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.businessinsider.com/baltic-dry-index-hits-record-low-2008-crash-2015-1>;rel="self"; type="application/link-format"; from ="Wed, 18 Feb 2015 20:44:41 GMT";until="Wed, 18 Feb 2015 20:44:41 GMT"

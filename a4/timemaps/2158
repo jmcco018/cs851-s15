@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:45:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://9to5toys.com/2015/01/24/schoolhouse-electric-giveaway/>;rel="original"
+,<http://web.archive.org/web/20150318152612/http://9to5toys.com/2015/01/24/schoolhouse-electric-giveaway/>;rel="memento first"; datetime="Wed, 18 Mar 2015 15:26:12 GMT"
+,<http://web.archive.org/web/20150404094444/http://9to5toys.com/2015/01/24/schoolhouse-electric-giveaway>;rel="memento last"; datetime="Sat, 04 Apr 2015 09:44:44 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://9to5toys.com/2015/01/24/schoolhouse-electric-giveaway/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://9to5toys.com/2015/01/24/schoolhouse-electric-giveaway/>;rel="self"; type="application/link-format"; from ="Wed, 18 Mar 2015 15:26:12 GMT";until="Sat, 04 Apr 2015 09:44:44 GMT"

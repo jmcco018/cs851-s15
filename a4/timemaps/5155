@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:40:32 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://fstoppers.com/portraits/posing-perfection-10-crucial-steps-pose-model-9582>;rel="original"
+,<http://web.archive.org/web/20140822002343/http://fstoppers.com/portraits/posing-perfection-10-crucial-steps-pose-model-9582>;rel="memento first"; datetime="Fri, 22 Aug 2014 00:23:43 GMT"
+,<http://web.archive.org/web/20141022051156/http://fstoppers.com/portraits/posing-perfection-10-crucial-steps-pose-model-9582>;rel="memento"; datetime="Wed, 22 Oct 2014 05:11:56 GMT"
+,<http://web.archive.org/web/20141025164257/https://fstoppers.com/portraits/posing-perfection-10-crucial-steps-pose-model-9582>;rel="memento"; datetime="Sat, 25 Oct 2014 16:42:57 GMT"
+,<http://web.archive.org/web/20150407132840/http://fstoppers.com/portraits/posing-perfection-10-crucial-steps-pose-model-9582>;rel="memento"; datetime="Tue, 07 Apr 2015 13:28:40 GMT"
+,<http://web.archive.org/web/20150409164305/https://fstoppers.com/portraits/posing-perfection-10-crucial-steps-pose-model-9582>;rel="memento last"; datetime="Thu, 09 Apr 2015 16:43:05 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://fstoppers.com/portraits/posing-perfection-10-crucial-steps-pose-model-9582>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://fstoppers.com/portraits/posing-perfection-10-crucial-steps-pose-model-9582>;rel="self"; type="application/link-format"; from ="Fri, 22 Aug 2014 00:23:43 GMT";until="Thu, 09 Apr 2015 16:43:05 GMT"

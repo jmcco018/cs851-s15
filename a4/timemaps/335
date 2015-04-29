@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:14:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.495chryslerjeepdodge.net/commercial.htm>;rel="original"
+,<http://web.archive.org/web/20130803113737/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="memento first"; datetime="Sat, 03 Aug 2013 11:37:37 GMT"
+,<http://web.archive.org/web/20131003175323/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="memento"; datetime="Thu, 03 Oct 2013 17:53:23 GMT"
+,<http://web.archive.org/web/20131204044141/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="memento"; datetime="Wed, 04 Dec 2013 04:41:41 GMT"
+,<http://web.archive.org/web/20140202200942/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="memento"; datetime="Sun, 02 Feb 2014 20:09:42 GMT"
+,<http://web.archive.org/web/20140203213827/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="memento"; datetime="Mon, 03 Feb 2014 21:38:27 GMT"
+,<http://web.archive.org/web/20140205073703/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="memento"; datetime="Wed, 05 Feb 2014 07:37:03 GMT"
+,<http://web.archive.org/web/20140407032149/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="memento"; datetime="Mon, 07 Apr 2014 03:21:49 GMT"
+,<http://web.archive.org/web/20140811054401/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="memento last"; datetime="Mon, 11 Aug 2014 05:44:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.495chryslerjeepdodge.net/commercial.htm>;rel="self"; type="application/link-format"; from ="Sat, 03 Aug 2013 11:37:37 GMT";until="Mon, 11 Aug 2014 05:44:01 GMT"

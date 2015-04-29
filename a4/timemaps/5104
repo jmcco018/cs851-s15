@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.huffingtonpost.com/alejandro-rojas/ufo-buzzed-french-nuclear_b_6558798.html>;rel="original"
+,<http://web.archive.org/web/20150129042104/http://www.huffingtonpost.com/alejandro-rojas/ufo-buzzed-french-nuclear_b_6558798.html>;rel="memento first"; datetime="Thu, 29 Jan 2015 04:21:04 GMT"
+,<http://archive.is/20150219181948/http://www.huffingtonpost.com/alejandro-rojas/ufo-buzzed-french-nuclear_b_6558798.html>;rel="memento"; datetime="Thu, 19 Feb 2015 18:19:48 GMT"
+,<http://web.archive.org/web/20150326212841/http://www.huffingtonpost.com/alejandro-rojas/ufo-buzzed-french-nuclear_b_6558798.html>;rel="memento"; datetime="Thu, 26 Mar 2015 21:28:41 GMT"
+,<http://web.archive.org/web/20150405190715/http://www.huffingtonpost.com/alejandro-rojas/ufo-buzzed-french-nuclear_b_6558798.html>;rel="memento last"; datetime="Sun, 05 Apr 2015 19:07:15 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.huffingtonpost.com/alejandro-rojas/ufo-buzzed-french-nuclear_b_6558798.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.huffingtonpost.com/alejandro-rojas/ufo-buzzed-french-nuclear_b_6558798.html>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 04:21:04 GMT";until="Sun, 05 Apr 2015 19:07:15 GMT"

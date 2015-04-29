@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:07:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://decipherment.wordpress.com/2015/01/26/the-royal-headband-a-pan-mesoamerican-hieroglyph-for-ruler/>;rel="original"
+,<http://web.archive.org/web/20150204023433/https://decipherment.wordpress.com/2015/01/26/the-royal-headband-a-pan-mesoamerican-hieroglyph-for-ruler/>;rel="memento first"; datetime="Wed, 04 Feb 2015 02:34:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://decipherment.wordpress.com/2015/01/26/the-royal-headband-a-pan-mesoamerican-hieroglyph-for-ruler/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://decipherment.wordpress.com/2015/01/26/the-royal-headband-a-pan-mesoamerican-hieroglyph-for-ruler/>;rel="self"; type="application/link-format"; from ="Wed, 04 Feb 2015 02:34:33 GMT";until="Wed, 04 Feb 2015 02:34:33 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://radar.oreilly.com/2015/01/a-human-centered-approach-to-data-driven-design.html>;rel="original"
+,<http://web.archive.org/web/20150401235333/http://radar.oreilly.com/2015/01/a-human-centered-approach-to-data-driven-design.html>;rel="memento first"; datetime="Wed, 01 Apr 2015 23:53:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://radar.oreilly.com/2015/01/a-human-centered-approach-to-data-driven-design.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://radar.oreilly.com/2015/01/a-human-centered-approach-to-data-driven-design.html>;rel="self"; type="application/link-format"; from ="Wed, 01 Apr 2015 23:53:33 GMT";until="Wed, 01 Apr 2015 23:53:33 GMT"

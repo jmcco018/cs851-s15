@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:06:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.texasobserver.org/texas-muslims-try-voice-heard-angry-protests/>;rel="original"
+,<http://web.archive.org/web/20150322194421/http://www.texasobserver.org/texas-muslims-try-voice-heard-angry-protests/>;rel="memento first"; datetime="Sun, 22 Mar 2015 19:44:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.texasobserver.org/texas-muslims-try-voice-heard-angry-protests/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.texasobserver.org/texas-muslims-try-voice-heard-angry-protests/>;rel="self"; type="application/link-format"; from ="Sun, 22 Mar 2015 19:44:21 GMT";until="Sun, 22 Mar 2015 19:44:21 GMT"

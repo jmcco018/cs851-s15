@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.o2academyleeds.co.uk/event/72454/digital-society-presents-ds8-the-8th-anniversary-tickets>;rel="original"
+,<//wayback.archive-it.org/all/20150312062217/http://www.o2academyleeds.co.uk/event/72454/digital-society-presents-ds8-the-8th-anniversary-tickets>;rel="memento first"; datetime="Thu, 12 Mar 2015 06:22:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.o2academyleeds.co.uk/event/72454/digital-society-presents-ds8-the-8th-anniversary-tickets>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.o2academyleeds.co.uk/event/72454/digital-society-presents-ds8-the-8th-anniversary-tickets>;rel="self"; type="application/link-format"; from ="Thu, 12 Mar 2015 06:22:17 GMT";until="Thu, 12 Mar 2015 06:22:17 GMT"

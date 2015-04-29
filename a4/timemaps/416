@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:15:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.makinggameofthrones.com/production-diary/2014/12/3/costume-designer-michele-clapton-talks-armor-and-armies>;rel="original"
+,<http://web.archive.org/web/20141208052946/http://www.makinggameofthrones.com/production-diary/2014/12/3/costume-designer-michele-clapton-talks-armor-and-armies>;rel="memento first"; datetime="Mon, 08 Dec 2014 05:29:46 GMT"
+,<http://web.archive.org/web/20141216194554/http://www.makinggameofthrones.com/production-diary/2014/12/3/costume-designer-michele-clapton-talks-armor-and-armies>;rel="memento"; datetime="Tue, 16 Dec 2014 19:45:54 GMT"
+,<http://web.archive.org/web/20150201055846/http://www.makinggameofthrones.com/production-diary/2014/12/3/costume-designer-michele-clapton-talks-armor-and-armies>;rel="memento"; datetime="Sun, 01 Feb 2015 05:58:46 GMT"
+,<http://web.archive.org/web/20150204162713/http://www.makinggameofthrones.com/production-diary/2014/12/3/costume-designer-michele-clapton-talks-armor-and-armies>;rel="memento"; datetime="Wed, 04 Feb 2015 16:27:13 GMT"
+,<http://archive.is/20150213002946/http://www.makinggameofthrones.com/production-diary/2014/12/3/costume-designer-michele-clapton-talks-armor-and-armies>;rel="memento"; datetime="Fri, 13 Feb 2015 00:29:46 GMT"
+,<http://web.archive.org/web/20150316230845/http://www.makinggameofthrones.com/production-diary/2014/12/3/costume-designer-michele-clapton-talks-armor-and-armies>;rel="memento last"; datetime="Mon, 16 Mar 2015 23:08:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.makinggameofthrones.com/production-diary/2014/12/3/costume-designer-michele-clapton-talks-armor-and-armies>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.makinggameofthrones.com/production-diary/2014/12/3/costume-designer-michele-clapton-talks-armor-and-armies>;rel="self"; type="application/link-format"; from ="Mon, 08 Dec 2014 05:29:46 GMT";until="Mon, 16 Mar 2015 23:08:45 GMT"

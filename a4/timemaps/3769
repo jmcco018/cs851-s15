@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="original"
+,<http://web.archive.org/web/20120520062212/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento first"; datetime="Sun, 20 May 2012 06:22:12 GMT"
+,<http://web.archive.org/web/20120720011129/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Fri, 20 Jul 2012 01:11:29 GMT"
+,<http://web.archive.org/web/20120920162512/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Thu, 20 Sep 2012 16:25:12 GMT"
+,<http://web.archive.org/web/20121120163449/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Tue, 20 Nov 2012 16:34:49 GMT"
+,<http://web.archive.org/web/20121212085528/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Wed, 12 Dec 2012 08:55:28 GMT"
+,<http://web.archive.org/web/20121219105618/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Wed, 19 Dec 2012 10:56:18 GMT"
+,<http://web.archive.org/web/20121225235650/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Tue, 25 Dec 2012 23:56:50 GMT"
+,<http://web.archive.org/web/20130117112423/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Thu, 17 Jan 2013 11:24:23 GMT"
+,<http://web.archive.org/web/20130122075635/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Tue, 22 Jan 2013 07:56:35 GMT"
+,<http://web.archive.org/web/20130206115253/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Wed, 06 Feb 2013 11:52:53 GMT"
+,<http://web.archive.org/web/20130310091727/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Sun, 10 Mar 2013 09:17:27 GMT"
+,<http://web.archive.org/web/20130411135036/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Thu, 11 Apr 2013 13:50:36 GMT"
+,<http://web.archive.org/web/20130513080139/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Mon, 13 May 2013 08:01:39 GMT"
+,<http://web.archive.org/web/20130523063531/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Thu, 23 May 2013 06:35:31 GMT"
+,<http://web.archive.org/web/20130531045254/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento"; datetime="Fri, 31 May 2013 04:52:54 GMT"
+,<//wayback.archive-it.org/all/20150110195039/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="memento last"; datetime="Sat, 10 Jan 2015 19:50:39 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://hochmanphotography.com/2012/05/closeup-fly-enchanted-forest-park/>;rel="self"; type="application/link-format"; from ="Sun, 20 May 2012 06:22:12 GMT";until="Sat, 10 Jan 2015 19:50:39 GMT"

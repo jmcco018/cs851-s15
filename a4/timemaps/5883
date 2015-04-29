@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:53:09 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://apod.nasa.gov/apod/ap140916.html>;rel="original"
+,<http://archive.is/20140916091119/http://apod.nasa.gov/apod/ap140916.html>;rel="memento first"; datetime="Tue, 16 Sep 2014 09:11:19 GMT"
+,<http://web.archive.org/web/20150203033952/http://apod.nasa.gov/apod/ap140916.html>;rel="memento"; datetime="Tue, 03 Feb 2015 03:39:52 GMT"
+,<http://web.archive.org/web/20150316064603/http://apod.nasa.gov/apod/ap140916.html>;rel="memento"; datetime="Mon, 16 Mar 2015 06:46:03 GMT"
+,<http://web.archive.org/web/20150318123203/http://apod.nasa.gov/apod/ap140916.html>;rel="memento last"; datetime="Wed, 18 Mar 2015 12:32:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://apod.nasa.gov/apod/ap140916.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://apod.nasa.gov/apod/ap140916.html>;rel="self"; type="application/link-format"; from ="Tue, 16 Sep 2014 09:11:19 GMT";until="Wed, 18 Mar 2015 12:32:03 GMT"

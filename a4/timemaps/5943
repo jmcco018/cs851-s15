@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:54:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ulalaunch.com/delta-ii-to-launch-nasa-smap.aspx>;rel="original"
+,<http://web.archive.org/web/20150122020639/http://www.ulalaunch.com/delta-ii-to-launch-nasa-smap.aspx>;rel="memento first"; datetime="Thu, 22 Jan 2015 02:06:39 GMT"
+,<http://web.archive.org/web/20150405192645/http://www.ulalaunch.com/delta-ii-to-launch-nasa-smap.aspx>;rel="memento last"; datetime="Sun, 05 Apr 2015 19:26:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ulalaunch.com/delta-ii-to-launch-nasa-smap.aspx>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ulalaunch.com/delta-ii-to-launch-nasa-smap.aspx>;rel="self"; type="application/link-format"; from ="Thu, 22 Jan 2015 02:06:39 GMT";until="Sun, 05 Apr 2015 19:26:45 GMT"

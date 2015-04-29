@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dailymail.co.uk/sciencetech/article-2930150/Travel-time-bottle-BEER-Alcohol-archaeologist-creates-authentic-ales-wines-using-2-000-year-old-residues-pots.html>;rel="original"
+,<http://web.archive.org/web/20150130002557/http://www.dailymail.co.uk/sciencetech/article-2930150/Travel-time-bottle-BEER-Alcohol-archaeologist-creates-authentic-ales-wines-using-2-000-year-old-residues-pots.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 00:25:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dailymail.co.uk/sciencetech/article-2930150/Travel-time-bottle-BEER-Alcohol-archaeologist-creates-authentic-ales-wines-using-2-000-year-old-residues-pots.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dailymail.co.uk/sciencetech/article-2930150/Travel-time-bottle-BEER-Alcohol-archaeologist-creates-authentic-ales-wines-using-2-000-year-old-residues-pots.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 00:25:57 GMT";until="Fri, 30 Jan 2015 00:25:57 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:41:59 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://3dprint.com/40971/pancakebot-storebound-partner/>;rel="original"
+,<http://web.archive.org/web/20150316123644/http://3dprint.com/40971/pancakebot-storebound-partner/>;rel="memento first"; datetime="Mon, 16 Mar 2015 12:36:44 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://3dprint.com/40971/pancakebot-storebound-partner/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://3dprint.com/40971/pancakebot-storebound-partner/>;rel="self"; type="application/link-format"; from ="Mon, 16 Mar 2015 12:36:44 GMT";until="Mon, 16 Mar 2015 12:36:44 GMT"

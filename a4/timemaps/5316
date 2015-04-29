@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:43:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.aclu.org/capital-punishment/texas-court-denies-death-penalty-appeal-intellectually-disabled-man>;rel="original"
+,<http://web.archive.org/web/20150225213735/https://www.aclu.org/capital-punishment/texas-court-denies-death-penalty-appeal-intellectually-disabled-man>;rel="memento first"; datetime="Wed, 25 Feb 2015 21:37:35 GMT"
+,<http://web.archive.org/web/20150313000224/https://www.aclu.org/capital-punishment/texas-court-denies-death-penalty-appeal-intellectually-disabled-man>;rel="memento"; datetime="Fri, 13 Mar 2015 00:02:24 GMT"
+,<http://web.archive.org/web/20150325212503/https://www.aclu.org/capital-punishment/texas-court-denies-death-penalty-appeal-intellectually-disabled-man>;rel="memento last"; datetime="Wed, 25 Mar 2015 21:25:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.aclu.org/capital-punishment/texas-court-denies-death-penalty-appeal-intellectually-disabled-man>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.aclu.org/capital-punishment/texas-court-denies-death-penalty-appeal-intellectually-disabled-man>;rel="self"; type="application/link-format"; from ="Wed, 25 Feb 2015 21:37:35 GMT";until="Wed, 25 Mar 2015 21:25:03 GMT"

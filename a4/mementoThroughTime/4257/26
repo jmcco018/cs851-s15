@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en"> <!--<![endif]-->
+
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app10.us.archive.org";archive_analytics.values.server_ms=152;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+	<meta charset="utf-8">
+	
+	<!-- Set the viewport width to device width for mobile if using media queries -->
+	<!--<meta name="viewport" content="width=device-width" />-->
+	
+	<title>Welcome to Greenlight Networks</title>
+	<meta name="description" content="You'll surf the web, stream video and download files at speeds faster then you ever thought possible. With Greenlight, you now have all the fiber-optic power you need to transform the way you live, work and play." />
+	
+	<link rel="stylesheet" href="/web/20141027150355cs_/http://greenlightnetworks.com/styles/main.css" />
+<!--[if lte IE 8]>
+	<link rel="stylesheet" href="/styles/ie.css" />
+<![endif]-->
+
+	<!-- Use this section for CSS overrides that only affect this page. -->
+	<style>
+	<!--
+		section.main {
+			background: none;
+		}
+		#home-intro {
+			height: 322px;
+		}
+		#home-intro h2,
+		#home-intro h3 {
+			width: 550px;
+			margin: 30px 0 10px 0;
+			color: #F7F7F7;
+			font-size: 5.0em;
+			line-height: 1;
+			text-shadow: 0 0 5px rgba(0, 0, 0, 0.75);
+		}
+		#home-intro h2 span {
+			color: #EEE;
+		}
+		#home-intro h3 {
+			margin-top: 0;
+			color: #E8E8E8;
+			font-size: 2.0em;
+			font-style: italic;
+			font-weight: 600;
+		}
+		#home-intro figure {
+			position: absolute;
+			top: 0;
+			right: 0;
+		}
+		.learn-more {
+			width: 320px;
+			padding: 15px 100px 25px 15px;
+			border-radius: 12px 12px 0 0;
+			position: absolute;
+			bottom: 0;
+			left: 44px;
+			background: #587D27;
+			background: rgba(0, 0, 0, 0.25);
+		}
+		.learn-more h4 {
+			margin-bottom: 0;
+			color: #D9F75B;
+			font-size: 2.4em;
+			line-height: 1.25;
+			font-style: italic;
+		}
+		.learn-more h5 {
+			color: #FFF;
+			font-size: 1.9em;
+			line-height: 30px;
+			font-weight: normal;
+		}
+		.learn-more h5 b {
+			font-size: 1.263158em;
+		}
+		.learn-more a.button {
+			width: auto;
+			position: absolute;
+			right: -36px;
+			bottom: 20px;
+		}
+		.home-mid {
+			height: 166px;
+			overflow: hidden;
+			position: relative;
+			margin: 12px 0 30px;
+		}
+		.home-mid aside {
+			width: 121px;
+			height: 66px;
+			padding: 46px 10px 54px;
+			float: left;
+			margin: 0 12px;
+			background: url('images/green-orb.png') no-repeat;
+			color: #3F6013;
+			font-size: 2.2em;
+			line-height: 1.090909;
+			text-align: center;
+		}
+		.home-mid h2 {
+			margin: 0;
+			font-size: 2.2em;
+			line-height: 1.5;
+			font-weight: normal;
+		}
+		.home-mid p {
+			margin: 0;
+			color: #666;
+			font-size: 1.4em;
+		}
+		ul.media-services {
+			height: 68px;
+			padding-right: 20px;
+			border-radius: 12px;
+			margin: 7px 0 0;
+			background: #FFF;
+			line-height: 64px;
+			text-align: center;
+			list-style: none;
+		}
+		.media-services li {
+			display: inline;
+			margin-left: 17px;
+			vertical-align: middle;
+		}
+		.media-services li:first-child {
+			margin-left: 0;
+		}
+		.media-services img {
+			display: inline;
+			vertical-align: middle;
+		}
+		.home-features section {
+			padding: 14px 14px;
+			border: 1px solid #D5D5D5;
+			border-radius: 12px;
+			position: relative;
+			margin-bottom: 20px;
+			background: #EEE;
+			background: -moz-linear-gradient(top, #ffffff 0%, #dddddd 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#dddddd)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top, #ffffff 0%,#dddddd 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top, #ffffff 0%,#dddddd 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top, #ffffff 0%,#dddddd 100%); /* IE10+ */
+			background: linear-gradient(to bottom, #ffffff 0%,#dddddd 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#dddddd',GradientType=0 ); /* IE6-9 */
+		}
+		.signup,
+		.testimonials {
+			height: 280px;
+		}
+		.home-features h2 {
+			margin: 0;
+			font-size: 2.6em;
+			line-height: 1;
+		}
+		.signup h2,
+		.testimonials h2 {
+			color: #666;
+			font-size: 1.7em;
+			line-height: inherit;
+			font-weight: normal;
+		}
+		.home-features h2 b, .home-features h2 strong {
+			color: #38661A;
+		}
+		.signup p {
+			line-height: 1.454545;
+			margin: 8px 10px 16px 0;
+		}
+		label {
+			display: none;
+		}
+		input {
+			width: 258px;
+			padding: 3px 5px;
+			border: 1px solid #BFBFBF;
+			border-radius: 8px;
+			margin-bottom: 8px;
+			box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.25);
+			font-family: 'open-sans', sans-serif;
+			font-size: 1.1em;
+		}
+		input#submit {
+			width: auto;
+			height: 30px;
+			float: right;
+			font-family: 'open-sans', sans-serif;
+			display: block;
+			padding: 0 10px 3px;
+			border: 1px solid #FFF;
+			border-radius: 12px;
+			background: #D9F75B;
+			box-shadow: inset 0 -4px 0 7px #C0E137, 0 0 4px rgba(0, 0, 0, 0.2);
+			color: #3F6013;
+			font-size: 16px;
+			line-height: 1;
+			font-weight: bold;
+			text-align: center;
+			cursor:pointer;
+			position: absolute;
+			right: 15px;
+			bottom: 9px;
+			margin: 0;
+		}
+		div.note {
+			padding: 0;
+			margin: 0;
+			background: none;
+			color: #666;
+			font-size: 1.1em;
+		}
+		.home-features h3 {
+			margin: 4px 0 8px;
+			color: #666;
+			font-size: 1.4em;
+			line-height: 1.285714; /* 18/14 */
+			font-weight: normal;
+		}
+		section.solutions {
+			height: 110px;
+			padding-right: 150px;
+		}
+		.solutions p,
+		.tv p {
+			margin-bottom: 0;
+		}
+		.solutions img {
+			position: absolute;
+			top: -1px;
+			right: -11px;
+		}
+		#home-intro>img, #home-intro>div, #home-intro>a {
+			position: absolute;
+		}
+		#home-intro>div.content {
+			width:960px;
+			height:321px;
+			display:none;
+		}
+		#home-intro>div.content:first-child {
+			display:block;
+			position:absolute;
+		}
+	-->
+	</style>
+	
+
+	<!-- IE Fix for HTML5 Elements -->
+    <!--[if lte IE 8]>
+        <script src="/web/20141027150355/http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+	<script src="/web/20141027150355js_/http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/web/20141027150355js_/http://greenlightnetworks.com/scripts/jquery.placeholder.min.js"></script>
+	<script src="/web/20141027150355js_/http://greenlightnetworks.com/scripts/hashgrid.js"></script>
+	
+	<script type="text/javascript" src="/web/20141027150355js_/http://use.typekit.net/uog5lrt.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    
+	<!-- CMS:REMOVE -->
+    <style>
+	.testimonials blockquote {
+		display:none;
+	}
+	</style>
+    <!-- CMS:END-REMOVE -->
+	</head>
+
+<body class="in-tab1">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://greenlightnetworks.com/";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "27";
+var displayMonth = "Oct";
+var displayYear = "2014";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://greenlightnetworks.com/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20141027150355" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20140517085636/http://greenlightnetworks.com/" title="17 May 2014">MAY</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 15:03:55 Oct 27, 2014">OCT</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20141217041933/http://greenlightnetworks.com/" title="17 Dec 2014"><strong>DEC</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20140517085636/http://greenlightnetworks.com/" title="8:56:36 May 17, 2014"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 15:03:55 Oct 27, 2014">27</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20141217041933/http://greenlightnetworks.com/" title="4:19:33 Dec 17, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130609150830/http://greenlightnetworks.com/" title="9 Jun 2013"><strong>2013</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 15:03:55 Oct 27, 2014">2014</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2015
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20141027150355*/http://greenlightnetworks.com/" title="See a list of every capture for this URL">30 captures</a>
+           <div class="r" title="Timespan for captures of this URL">2 Dec 01 - 31 Mar 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000001_2002:-1:000000102020_2003:-1:111101101111_2004:-1:000110011010_2005:-1:010000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:011000000000_2012:-1:000000000000_2013:-1:000001000000_2014:9:100010000101_2015:-1:001000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ <!-- in-tab# class activates selected-tab highlighting -->
+	
+	<header>
+		<div class="container">
+	
+			<a class="logo" href="/web/20141027150355/http://greenlightnetworks.com/"><img src="/web/20141027150355im_/http://greenlightnetworks.com/images/logo.png" alt="Greenlight Networks logo" width="278" height="65" /></a>
+			
+			<!-- Text-Based Tab Navigation, Based on CSS Tabs 2.0 by Joshua Kaufman, unraveled.com -->
+			<nav class="primaryNav">
+<!-- ATTENTION: Insert a slash in front of the href to make links relative to the site root. -->
+				<div id="primaryEditableNav">
+                    <ul>
+                        <li class="tab1"><a href="/web/20141027150355/http://greenlightnetworks.com/"><span class="icon-arrow-right"></span> home</a></li>
+                        <li class="tab2"><a href="/web/20141027150355/http://greenlightnetworks.com/faq"><span class="icon-help"></span> FAQ's</a></li>
+                        <li class="tab3"><a href="/web/20141027150355/http://greenlightnetworks.com/sign-up-for-service"><span class="icon-plus"></span> Sign-Up for Service</a></li>
+                    </ul>
+                </div>
+			</nav>
+			
+			<nav class="secondaryNav">
+				<div id="secondaryNavEditable" class="cms-editable">
+<ul>
+<li class="tab4"><a href="/web/20141027150355/http://greenlightnetworks.com/about">About Greenlight</a></li>
+<li class="tab5"><a href="/web/20141027150355/http://greenlightnetworks.com/pricing">Pricing</a></li>
+<li class="tab6"><a href="/web/20141027150355/http://greenlightnetworks.com/solutions">Solutions</a></li>
+<li class="tab7"><a href="/web/20141027150355/http://greenlightnetworks.com/support-and-contact">Support &amp; Contact</a></li>
+</ul>
+</div>
+			</nav>
+		
+		</div>
+	</header>
+		
+	<div class="container">
+		
+		<section class="main">
+		
+			<h1 class="seoOnly">Welcome to Greenlight Networks!</h1>
+			
+			<section id="home-intro">
+				<div class="content">
+					<h2>A Cord-Cutter&rsquo;s <span>Dream Come True!</span></h2>
+					<h3>High-Speed Internet without Cable, Phones, or Contracts!</h3>
+					<figure>
+						<img src="/web/20141027150355im_/http://greenlightnetworks.com/images/slide_cord-cutters.png" alt="" />
+					</figure>
+					<div class="learn-more">
+						<h4>Plans starting at:</h4>
+						<h5><b>100 Megabits per second</b> &amp; up to <b>1 Gigabit per second</b></h5>
+						<a href="/web/20141027150355/http://greenlightnetworks.com/why-choose-greenlight" class="button">Learn More</a>
+					</div>
+				</div>
+				<div class="content">
+					<h2>Bandwidth for the <span>Entire Family!</span></h2>
+					<h3>Enough for all the devices in your home!</h3>
+					<figure>
+						<img src="/web/20141027150355im_/http://greenlightnetworks.com/images/slide_family.png" alt="" />
+					</figure>
+					<div class="learn-more">
+						<h4>Plans starting at:</h4>
+						<h5><b>100 Megabits per second</b> &amp; up to <b>1 Gigabit per second</b></h5>
+						<a href="/web/20141027150355/http://greenlightnetworks.com/why-choose-greenlight" class="button">Learn More</a>
+					</div>
+				</div>
+				<div class="content">
+					<h2>Unlimited Bandwidth! <span>No Limits!</span></h2>
+					<h3>Perfect for streaming video &amp; playing games!</h3>
+					<figure>
+						<img src="/web/20141027150355im_/http://greenlightnetworks.com/images/slide_gaming.png" alt="" />
+					</figure>
+					<div class="learn-more">
+						<h4>Plans starting at:</h4>
+						<h5><b>100 Megabits per second</b> &amp; up to <b>1 Gigabit per second</b></h5>
+						<a href="/web/20141027150355/http://greenlightnetworks.com/why-choose-greenlight" class="button">Learn More</a>
+					</div>
+				</div>
+			</section>
+			
+			<section class="home-mid">
+				<aside>Perfect for <b>Streaming</b></aside>
+				<h2><b>Up to 100x faster</b> than a broadband Internet connection!</h2>
+				<p>You'll surf the web, stream video and download files at speeds faster then you ever thought possible.</p>
+				<p>With Greenlight, you now have all the fiber-optic power you need to transform the way you live, work and play.</p>
+				<p><a href="/web/20141027150355/http://greenlightnetworks.com/why-choose-greenlight">Learn More Now!</a></p>
+				<ul class="media-services">
+					<li><a href="/web/20141027150355/http://www.netflix.com/" target="_blank"><img src="/web/20141027150355im_/http://greenlightnetworks.com/images/logo_netflix.png" alt="Netflix"></a></li>
+					<li><a href="/web/20141027150355/http://www.hulu.com/" target="_blank"><img src="/web/20141027150355im_/http://greenlightnetworks.com/images/logo_hulu.png" alt="Hulu"></a></li>
+					<li><a href="/web/20141027150355/http://www.youtube.com/" target="_blank"><img src="/web/20141027150355im_/http://greenlightnetworks.com/images/logo_youtube.png" alt="YouTube"></a></li>
+					<li><a href="/web/20141027150355/http://www.amazon.com/" target="_blank"><img src="/web/20141027150355im_/http://greenlightnetworks.com/images/logo_amazon.png" alt="Amazon Prime"></a></li>
+					<li><a href="/web/20141027150355/http://www.pandora.com/" target="_blank"><img src="/web/20141027150355im_/http://greenlightnetworks.com/images/logo_pandora.png" alt="Pandora"></a></li>
+					<li><a href="/web/20141027150355/http://www.itunes.com/" target="_blank"><img src="/web/20141027150355im_/http://greenlightnetworks.com/images/logo_itunes.png" alt="iTunes"></a></li>
+				</ul>
+			</section>
+			
+			<section class="home-features row">
+				
+				<div class="column four">
+					<section class="signup">
+						<h2><b>Sign-Up</b> and be the <b>first-to-know</b> when we will be <b>in your area!</b></h2>
+						<p>Greenlight Networks will inform you by email when we are prepared to bring service to your area.</p>
+						<p>Please enter your e-mail below.</p>
+						
+						<form name="ccoptin" action="/web/20141027150355/http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" id="contactForm" class="sideLabels">
+
+    <input type="hidden" name="llr" value="mdzcxkoab">
+    <input type="hidden" name="sit" value="t6mejueib">
+    <input type="hidden" name="m" value="1114903766124">
+    <input type="hidden" name="p" value="oi">
+    
+    <label for="email-address">E-mail Address:</label>
+    <input type="text" placeholder="E-mail *" name="ea" size="20" value="">
+    
+    <input type="submit" name="go" value="Sign-Up" id="submit" class="submit">
+
+</form>
+
+<img src="/web/20141027150355im_/https://imgssl.constantcontact.com/ui/images1/safe_subscribe_logo.gif" border="0" width="168" height="14" alt="" style="margin:15px auto 0;" />					</section>
+				</div>
+				
+				<div class="column four">
+					<section class="solutions">
+						<h2><a href="/web/20141027150355/http://greenlightnetworks.com/solutions">Solutions</a></h2>
+						<h3>for Homes, Apartments &amp; Businesses</h3>
+						<p><a href="/web/20141027150355/http://greenlightnetworks.com/solutions">Learn More</a></p>
+						<img src="/web/20141027150355im_/http://greenlightnetworks.com/images/laptop.png" alt="" />
+					</section>
+					
+					<section class="tv">
+						<h2><a href="/web/20141027150355/http://greenlightnetworks.com/solutions/#tv">But how do I watch TV without cable?</a></h2>
+						<h3>Get tips on how to see your favorite programming without cable!</h3>
+						<p><a href="/web/20141027150355/http://greenlightnetworks.com/watching-tv-without-cable">Learn More</a></p>
+					</section>
+				</div>
+				
+				<div class="column four">
+					<section class="testimonials">
+						<h2 id="newsTitleEditable" class="cms-editable">News from <strong>Greenlight</strong> Networks:</h2>
+						<div id="newsEditable" class="cms-editable">
+<p>Our featured&nbsp;<a href="/web/20141027150355/http://greenlightnetworks.com/cms-assets/documents/134419-902097.greenlight-08.30.13.pdf">article</a> in the RBJ!</p>
+<p>Greenlight in City Newspaper! Download the <a href="/web/20141027150355/http://www.rochestercitynewspaper.com/rochester/ImageArchives?page=12&amp;oid=2258984">article</a>.</p>
+<p>It was great to be on America's Longest running computer show! If you missed it, the podcast is available at <a href="/web/20141027150355/http://www.soundbytes.org/">SoundBytes.org.&nbsp;</a></p>
+<p>Greenlight 'lights' up the Academy Building downtown! Download our <a href="/web/20141027150355/http://greenlightnetworks.com/cms-assets/documents/126009-898425.academy-building-release--1.pdf">Press Release!</a></p>
+</div>
+						<a href="/web/20141027150355/http://greenlightnetworks.com/news/" class="button">More News</a>
+					</section>
+				</div>
+				
+			</section>
+		
+		</section>
+	
+	</div>
+		
+	<footer>
+		<div class="container">
+		
+			<nav class="footerPrimary">
+                <ul>
+                    <li class="tab1"><a href="/web/20141027150355/http://greenlightnetworks.com/"><span aria-hidden="true" class="icon-arrow-right"></span> home</a></li>
+                    <li class="tab2"><a href="/web/20141027150355/http://greenlightnetworks.com/why-choose-greenlight"><span aria-hidden="true" class="icon-help"></span> Why Choose Greenlight?</a></li>
+                    <li class="tab3"><a href="/web/20141027150355/http://greenlightnetworks.com/sign-up-for-service"><span aria-hidden="true" class="icon-plus"></span> Sign-Up for Service</a></li>
+                </ul>
+			</nav>
+			
+			<nav class="footerSecondary">
+				<div id="footerSecondaryEditable" class="cms-editable">
+<ul>
+<li class="tab4"><a href="/web/20141027150355/http://greenlightnetworks.com/about">About Greenlight</a></li>
+<li class="tab5"><a href="/web/20141027150355/http://greenlightnetworks.com/solutions">Solutions</a></li>
+<li class="tab6"><a href="/web/20141027150355/http://greenlightnetworks.com/support-and-contact">Support &amp; Contact</a></li>
+<li class="tab9"><a href="/web/20141027150355/http://greenlightnetworks.com/careers">Careers</a></li>
+<li class="tab7"><a href="/web/20141027150355/http://greenlightnetworks.com/legal">Legal</a></li>
+<li class="tab8"><a href="/web/20141027150355/http://greenlightnetworks.com/privacy">Privacy Policy</a></li>
+</ul>
+</div>
+			</nav>
+			
+						<section id="hcard-GreenlightNetworks" class="vcard">
+				<div id="hcardEditable" class="cms-editable">
+<p id="copy"><small>&copy; 2014</small> <span class="fn org">Greenlight Networks, LLC</span></p>
+<div class="adr"><span class="street-address">300 Main Street,&nbsp;</span><span class="street-address">Suite 4-103</span></div>
+<div class="adr">East Rochester, <span class="region">NY</span> <span class="postal-code">14445</span></div>
+<div class="email"><a href="mailto:support@greenlightnetworks.com">support@greenlightnetworks.com</a></div>
+<div class="email"><a href="mailto:sales@greenlightnetworks.com">sales@greenlightnetworks.com</a></div>
+</div>
+			</section>
+			
+			<ul class="social">
+				<li><a href="/web/20141027150355/http://facebook.com/greenlightnetworks" title="Like us on Facebook" class="icon-alone"><span aria-hidden="true" class="icon-facebook"></span> <span class="screen-reader-text">Facebook</span></a></li>
+				<li><a href="/web/20141027150355/http://twitter.com/greenlightfiber" title="Follow us on Twitter" class="icon-alone"><span aria-hidden="true"class="icon-twitter"></span> <span class="screen-reader-text">Twitter</span></a></li>
+			</ul>
+			
+			<small class="credits">
+				<span>Download and upload time estimates based on maximum connection speeds. Actual speeds will vary.
+100 times faster Internet comparison is based on average US download speeds of 6.613 Mbps according to Akamai's State of the Internet 2Q2012, where Greenlight offers up to 1,000 Mbps download. Actual Greenlight offers unlimited usage for Internet services and does not impose data usage caps on our customers. Logos are the trademarks and/or servicemarks of their respective owners.</span>
+
+				<!--<span>Site design by <a href="/web/20141027150355/http://www.prospermktg.com/" target="_blank">Prosper Branding + Marketing</a> &amp; <a href="/web/20141027150355/http://www.sukhenko.com/" target="_blank">Michael Sukhenko Graphic Design</a>.
+				Site development by <a href="/web/20141027150355/http://www.stratejus.com/" target="_blank">Stratejus</a>.</span>-->
+			</small>
+
+		</div>
+	</footer>
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3023479-48', 'auto');
+ga('send', 'pageview');
+
+var quotes = $('.testimonials blockquote'),
+	rand = Math.floor(Math.random() * quotes.length);
+
+quotes.eq(rand).show();
+</script><script>
+var counter = 1,
+autoPlay = true,
+rotateSpeed = 5000,
+numSlides = $('#home-intro > div').length - 1;
+function rotate() {
+	if($('#home-intro > div:visible').index('#home-intro > div') < numSlides){
+		$('#home-intro > div').fadeOut('slow').eq(''+counter+'').fadeIn('slow');
+		counter++;
+	}else{
+		counter = 0;
+		$('#home-intro > div').fadeOut('slow').eq(''+counter+'').fadeIn('slow');
+		counter++;
+	}
+}
+if(autoPlay){
+	run = setInterval(rotate, rotateSpeed);
+}
+</script>
+</body>
+
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 15:03:55 Oct 27, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:50:31 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

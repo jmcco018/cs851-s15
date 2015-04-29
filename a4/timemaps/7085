@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:13:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.amazon.com/Lucky-The-Harmony-Series-ebook/dp/B004HZXQIC/ref=sr_1_8?ie=UTF8&qid=1319687574&sr=8-8>;rel="original"
+,<http://web.archive.org/web/20150121204932/http://www.amazon.com/Lucky-The-Harmony-Series-ebook/dp/B004HZXQIC/ref=sr_1_8?ie=UTF8&qid=1319687574&sr=8-8>;rel="memento first"; datetime="Wed, 21 Jan 2015 20:49:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.amazon.com/Lucky-The-Harmony-Series-ebook/dp/B004HZXQIC/ref=sr_1_8?ie=UTF8&qid=1319687574&sr=8-8>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.amazon.com/Lucky-The-Harmony-Series-ebook/dp/B004HZXQIC/ref=sr_1_8?ie=UTF8&qid=1319687574&sr=8-8>;rel="self"; type="application/link-format"; from ="Wed, 21 Jan 2015 20:49:32 GMT";until="Wed, 21 Jan 2015 20:49:32 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dailystar.com.lb/News/Middle-East/2015/Jan-30/285874-al-qaeda-in-yemen-says-france-top-enemy.ashx>;rel="original"
+,<http://web.archive.org/web/20150416031113/http://www.dailystar.com.lb/News/Middle-East/2015/Jan-30/285874-al-qaeda-in-yemen-says-france-top-enemy.ashx>;rel="memento first"; datetime="Thu, 16 Apr 2015 03:11:13 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dailystar.com.lb/News/Middle-East/2015/Jan-30/285874-al-qaeda-in-yemen-says-france-top-enemy.ashx>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dailystar.com.lb/News/Middle-East/2015/Jan-30/285874-al-qaeda-in-yemen-says-france-top-enemy.ashx>;rel="self"; type="application/link-format"; from ="Thu, 16 Apr 2015 03:11:13 GMT";until="Thu, 16 Apr 2015 03:11:13 GMT"

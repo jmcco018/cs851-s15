@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:38 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bbc.com/culture/story/20150122-could-a-robot-write-a-novel>;rel="original"
+,<http://archive.is/20150122161535/http://www.bbc.com/culture/story/20150122-could-a-robot-write-a-novel>;rel="memento first"; datetime="Thu, 22 Jan 2015 16:15:35 GMT"
+,<//wayback.archive-it.org/all/20150122165919/http://www.bbc.com/culture/story/20150122-could-a-robot-write-a-novel>;rel="memento"; datetime="Thu, 22 Jan 2015 16:59:19 GMT"
+,<http://web.archive.org/web/20150123152911/http://www.bbc.com/culture/story/20150122-could-a-robot-write-a-novel>;rel="memento"; datetime="Fri, 23 Jan 2015 15:29:11 GMT"
+,<http://web.archive.org/web/20150329192952/http://www.bbc.com/culture/story/20150122-could-a-robot-write-a-novel>;rel="memento last"; datetime="Sun, 29 Mar 2015 19:29:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bbc.com/culture/story/20150122-could-a-robot-write-a-novel>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bbc.com/culture/story/20150122-could-a-robot-write-a-novel>;rel="self"; type="application/link-format"; from ="Thu, 22 Jan 2015 16:15:35 GMT";until="Sun, 29 Mar 2015 19:29:52 GMT"

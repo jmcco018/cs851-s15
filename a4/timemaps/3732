@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:14:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.whitehouse.gov/live/president-obama-speaks-precision-medicine-initiative>;rel="original"
+,<//wayback.archive-it.org/all/20150201023443/http://www.whitehouse.gov/live/president-obama-speaks-precision-medicine-initiative>;rel="memento first"; datetime="Sun, 01 Feb 2015 02:34:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.whitehouse.gov/live/president-obama-speaks-precision-medicine-initiative>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.whitehouse.gov/live/president-obama-speaks-precision-medicine-initiative>;rel="self"; type="application/link-format"; from ="Sun, 01 Feb 2015 02:34:43 GMT";until="Sun, 01 Feb 2015 02:34:43 GMT"

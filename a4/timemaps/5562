@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:48:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://patriotaction.net/contest>;rel="original"
+,<http://web.archive.org/web/20150314234812/http://patriotaction.net/contest>;rel="memento first"; datetime="Sat, 14 Mar 2015 23:48:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://patriotaction.net/contest>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://patriotaction.net/contest>;rel="self"; type="application/link-format"; from ="Sat, 14 Mar 2015 23:48:12 GMT";until="Sat, 14 Mar 2015 23:48:12 GMT"

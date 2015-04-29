@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/us/podcast/join-up-dots-with-david-ralph/id866951968?mt=2&ls=1>;rel="original"
+,<http://web.archive.org/web/20150109104255/https://itunes.apple.com/us/podcast/join-up-dots-with-david-ralph/id866951968?mt=2&ls=1>;rel="memento first"; datetime="Fri, 09 Jan 2015 10:42:55 GMT"
+,<http://web.archive.org/web/20150110081328/https://itunes.apple.com/us/podcast/join-up-dots-with-david-ralph/id866951968?mt=2&ls=1>;rel="memento"; datetime="Sat, 10 Jan 2015 08:13:28 GMT"
+,<http://web.archive.org/web/20150110121356/https://itunes.apple.com/us/podcast/join-up-dots-with-david-ralph/id866951968?mt=2&ls=1>;rel="memento"; datetime="Sat, 10 Jan 2015 12:13:56 GMT"
+,<http://web.archive.org/web/20150113071008/https://itunes.apple.com/us/podcast/join-up-dots-with-david-ralph/id866951968?mt=2&ls=1>;rel="memento last"; datetime="Tue, 13 Jan 2015 07:10:08 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/us/podcast/join-up-dots-with-david-ralph/id866951968?mt=2&ls=1>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/us/podcast/join-up-dots-with-david-ralph/id866951968?mt=2&ls=1>;rel="self"; type="application/link-format"; from ="Fri, 09 Jan 2015 10:42:55 GMT";until="Tue, 13 Jan 2015 07:10:08 GMT"

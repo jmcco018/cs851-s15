@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://paper.li/AZElkSociety/1360759862>;rel="original"
+,<http://web.archive.org/web/20130328045427/http://paper.li/AZElkSociety/1360759862>;rel="memento first"; datetime="Thu, 28 Mar 2013 04:54:27 GMT"
+,<http://web.archive.org/web/20130329130006/http://paper.li/AZElkSociety/1360759862>;rel="memento"; datetime="Fri, 29 Mar 2013 13:00:06 GMT"
+,<http://web.archive.org/web/20130523080029/http://paper.li/AZElkSociety/1360759862>;rel="memento"; datetime="Thu, 23 May 2013 08:00:29 GMT"
+,<http://web.archive.org/web/20130529071541/http://paper.li/AZElkSociety/1360759862>;rel="memento"; datetime="Wed, 29 May 2013 07:15:41 GMT"
+,<http://web.archive.org/web/20131122122307/http://paper.li/AZElkSociety/1360759862>;rel="memento"; datetime="Fri, 22 Nov 2013 12:23:07 GMT"
+,<http://web.archive.org/web/20131123215203/http://paper.li/AZElkSociety/1360759862>;rel="memento last"; datetime="Sat, 23 Nov 2013 21:52:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://paper.li/AZElkSociety/1360759862>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://paper.li/AZElkSociety/1360759862>;rel="self"; type="application/link-format"; from ="Thu, 28 Mar 2013 04:54:27 GMT";until="Sat, 23 Nov 2013 21:52:03 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://cornellsun.com/blog/2015/01/30/cornell%E2%80%88students-create-insect-based-tofu/>;rel="original"
+,<http://web.archive.org/web/20150405171114/http://cornellsun.com/blog/2015/01/30/cornell%e2%80%88students-create-insect-based-tofu/>;rel="memento first"; datetime="Sun, 05 Apr 2015 17:11:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://cornellsun.com/blog/2015/01/30/cornell%E2%80%88students-create-insect-based-tofu/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://cornellsun.com/blog/2015/01/30/cornell%E2%80%88students-create-insect-based-tofu/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 17:11:14 GMT";until="Sun, 05 Apr 2015 17:11:14 GMT"

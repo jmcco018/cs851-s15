@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nationaltheatre.org.uk/shows/the-hard-problem>;rel="original"
+,<http://web.archive.org/web/20141011164645/http://www.nationaltheatre.org.uk/shows/the-hard-problem>;rel="memento first"; datetime="Sat, 11 Oct 2014 16:46:45 GMT"
+,<http://web.archive.org/web/20150106131709/http://www.nationaltheatre.org.uk/shows/the-hard-problem>;rel="memento"; datetime="Tue, 06 Jan 2015 13:17:09 GMT"
+,<http://web.archive.org/web/20150113133430/http://www.nationaltheatre.org.uk/shows/the-hard-problem>;rel="memento"; datetime="Tue, 13 Jan 2015 13:34:30 GMT"
+,<http://web.archive.org/web/20150316193448/http://www.nationaltheatre.org.uk/shows/the-hard-problem>;rel="memento"; datetime="Mon, 16 Mar 2015 19:34:48 GMT"
+,<http://web.archive.org/web/20150318192657/http://www.nationaltheatre.org.uk/shows/the-hard-problem>;rel="memento"; datetime="Wed, 18 Mar 2015 19:26:57 GMT"
+,<http://web.archive.org/web/20150321121243/http://www.nationaltheatre.org.uk/shows/the-hard-problem>;rel="memento last"; datetime="Sat, 21 Mar 2015 12:12:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nationaltheatre.org.uk/shows/the-hard-problem>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nationaltheatre.org.uk/shows/the-hard-problem>;rel="self"; type="application/link-format"; from ="Sat, 11 Oct 2014 16:46:45 GMT";until="Sat, 21 Mar 2015 12:12:43 GMT"

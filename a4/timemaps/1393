@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:32:53 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cnn.com/2015/01/29/politics/rand-paul-texas/>;rel="original"
+,<http://archive.is/20150131145414/http://www.cnn.com/2015/01/29/politics/rand-paul-texas/>;rel="memento first"; datetime="Sat, 31 Jan 2015 14:54:14 GMT"
+,<http://web.archive.org/web/20150205035430/http://www.cnn.com/2015/01/29/politics/rand-paul-texas/>;rel="memento last"; datetime="Thu, 05 Feb 2015 03:54:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cnn.com/2015/01/29/politics/rand-paul-texas/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cnn.com/2015/01/29/politics/rand-paul-texas/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 14:54:14 GMT";until="Thu, 05 Feb 2015 03:54:30 GMT"

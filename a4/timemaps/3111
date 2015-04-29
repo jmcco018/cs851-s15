@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:00:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.salon.com/2015/01/30/the_nightly_show_on_deflategate_keeping_it_70_is_the_nfls_jam/>;rel="original"
+,<http://web.archive.org/web/20150131152010/http://www.salon.com/2015/01/30/the_nightly_show_on_deflategate_keeping_it_70_is_the_nfls_jam/>;rel="memento first"; datetime="Sat, 31 Jan 2015 15:20:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.salon.com/2015/01/30/the_nightly_show_on_deflategate_keeping_it_70_is_the_nfls_jam/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.salon.com/2015/01/30/the_nightly_show_on_deflategate_keeping_it_70_is_the_nfls_jam/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 15:20:10 GMT";until="Sat, 31 Jan 2015 15:20:10 GMT"

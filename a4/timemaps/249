@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/us/album/loyalty/id962417994>;rel="original"
+,<http://archive.is/20150131074340/https://itunes.apple.com/us/album/loyalty/id962417994>;rel="memento first"; datetime="Sat, 31 Jan 2015 07:43:40 GMT"
+,<http://web.archive.org/web/20150208221757/https://itunes.apple.com/us/album/loyalty/id962417994>;rel="memento"; datetime="Sun, 08 Feb 2015 22:17:57 GMT"
+,<http://web.archive.org/web/20150304075925/https://itunes.apple.com/us/album/loyalty/id962417994>;rel="memento"; datetime="Wed, 04 Mar 2015 07:59:25 GMT"
+,<http://web.archive.org/web/20150420192037/https://itunes.apple.com/us/album/loyalty/id962417994>;rel="memento last"; datetime="Mon, 20 Apr 2015 19:20:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/us/album/loyalty/id962417994>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/us/album/loyalty/id962417994>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 07:43:40 GMT";until="Mon, 20 Apr 2015 19:20:37 GMT"

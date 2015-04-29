@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://pocketrangerblog.com/wp-content/uploads/2013/12/tumblr_mxayq87Zh91qkhaito1_1280.png>;rel="original"
+,<http://web.archive.org/web/20140225062225/http://pocketrangerblog.com/wp-content/uploads/2013/12/tumblr_mxayq87Zh91qkhaito1_1280.png>;rel="memento first"; datetime="Tue, 25 Feb 2014 06:22:25 GMT"
+,<http://web.archive.org/web/20140326132036/http://pocketrangerblog.com/wp-content/uploads/2013/12/tumblr_mxayq87Zh91qkhaito1_1280.png>;rel="memento last"; datetime="Wed, 26 Mar 2014 13:20:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://pocketrangerblog.com/wp-content/uploads/2013/12/tumblr_mxayq87Zh91qkhaito1_1280.png>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://pocketrangerblog.com/wp-content/uploads/2013/12/tumblr_mxayq87Zh91qkhaito1_1280.png>;rel="self"; type="application/link-format"; from ="Tue, 25 Feb 2014 06:22:25 GMT";until="Wed, 26 Mar 2014 13:20:36 GMT"

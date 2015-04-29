@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:12:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://smarturl.it/NBBiTunesDLX>;rel="original"
+,<http://web.archive.org/web/20150323111346/http://smarturl.it/NBBiTunesDLX>;rel="memento first"; datetime="Mon, 23 Mar 2015 11:13:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://smarturl.it/NBBiTunesDLX>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://smarturl.it/NBBiTunesDLX>;rel="self"; type="application/link-format"; from ="Mon, 23 Mar 2015 11:13:46 GMT";until="Mon, 23 Mar 2015 11:13:46 GMT"

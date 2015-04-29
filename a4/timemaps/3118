@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:00:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://RockfileRadio.com>;rel="original"
+,<http://web.archive.org/web/20120622061947/http://www.rockfileradio.com/>;rel="memento first"; datetime="Fri, 22 Jun 2012 06:19:47 GMT"
+,<http://web.archive.org/web/20120713083810/http://www.rockfileradio.com/>;rel="memento"; datetime="Fri, 13 Jul 2012 08:38:10 GMT"
+,<http://web.archive.org/web/20120919235832/http://rockfileradio.com/>;rel="memento"; datetime="Wed, 19 Sep 2012 23:58:32 GMT"
+,<http://web.archive.org/web/20121204174222/http://rockfileradio.com/>;rel="memento"; datetime="Tue, 04 Dec 2012 17:42:22 GMT"
+,<http://web.archive.org/web/20130217031145/http://www.rockfileradio.com/>;rel="memento"; datetime="Sun, 17 Feb 2013 03:11:45 GMT"
+,<http://web.archive.org/web/20130623073250/http://rockfileradio.com/>;rel="memento"; datetime="Sun, 23 Jun 2013 07:32:50 GMT"
+,<http://web.archive.org/web/20130905135523/http://www.rockfileradio.com/>;rel="memento"; datetime="Thu, 05 Sep 2013 13:55:23 GMT"
+,<http://web.archive.org/web/20131104030305/http://www.rockfileradio.com/>;rel="memento"; datetime="Mon, 04 Nov 2013 03:03:05 GMT"
+,<http://web.archive.org/web/20131104054014/http://rockfileradio.com/>;rel="memento"; datetime="Mon, 04 Nov 2013 05:40:14 GMT"
+,<http://web.archive.org/web/20131113024553/http://www.rockfileradio.com/>;rel="memento"; datetime="Wed, 13 Nov 2013 02:45:53 GMT"
+,<http://web.archive.org/web/20140110052407/http://rockfileradio.com/>;rel="memento"; datetime="Fri, 10 Jan 2014 05:24:07 GMT"
+,<http://web.archive.org/web/20140316170336/http://rockfileradio.com/>;rel="memento"; datetime="Sun, 16 Mar 2014 17:03:36 GMT"
+,<http://web.archive.org/web/20140416191751/http://rockfileradio.com/>;rel="memento"; datetime="Wed, 16 Apr 2014 19:17:51 GMT"
+,<http://web.archive.org/web/20140618142940/http://www.rockfileradio.com/>;rel="memento"; datetime="Wed, 18 Jun 2014 14:29:40 GMT"
+,<http://web.archive.org/web/20140728064738/http://www.rockfileradio.com/>;rel="memento"; datetime="Mon, 28 Jul 2014 06:47:38 GMT"
+,<http://web.archive.org/web/20141218053717/http://rockfileradio.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 05:37:17 GMT"
+,<//wayback.archive-it.org/all/20150109062044/http://rockfileradio.com/>;rel="memento"; datetime="Fri, 09 Jan 2015 06:20:44 GMT"
+,<http://web.archive.org/web/20150218005340/http://www.rockfileradio.com/>;rel="memento last"; datetime="Wed, 18 Feb 2015 00:53:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://RockfileRadio.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://RockfileRadio.com>;rel="self"; type="application/link-format"; from ="Fri, 22 Jun 2012 06:19:47 GMT";until="Wed, 18 Feb 2015 00:53:40 GMT"

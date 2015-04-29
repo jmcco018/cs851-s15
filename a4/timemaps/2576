@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:54 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bakedbyrachel.com/mac-and-cheese-cups-with-broccoli-and-bacon/>;rel="original"
+,<http://web.archive.org/web/20150326161838/http://www.bakedbyrachel.com/mac-and-cheese-cups-with-broccoli-and-bacon/>;rel="memento first"; datetime="Thu, 26 Mar 2015 16:18:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bakedbyrachel.com/mac-and-cheese-cups-with-broccoli-and-bacon/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bakedbyrachel.com/mac-and-cheese-cups-with-broccoli-and-bacon/>;rel="self"; type="application/link-format"; from ="Thu, 26 Mar 2015 16:18:38 GMT";until="Thu, 26 Mar 2015 16:18:38 GMT"

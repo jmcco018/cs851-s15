@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:19:46 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.iqboom.com/bali/>;rel="original"
+,<http://web.archive.org/web/20140818221923/http://iqboom.com/bali>;rel="memento first"; datetime="Mon, 18 Aug 2014 22:19:23 GMT"
+,<http://web.archive.org/web/20140828114206/http://www.iqboom.com/bali/>;rel="memento"; datetime="Thu, 28 Aug 2014 11:42:06 GMT"
+,<//wayback.archive-it.org/all/20141010230525/http://iqboom.com/bali>;rel="memento"; datetime="Fri, 10 Oct 2014 23:05:25 GMT"
+,<//wayback.archive-it.org/all/20141010230526/http://www.iqboom.com/bali/>;rel="memento"; datetime="Fri, 10 Oct 2014 23:05:26 GMT"
+,<//wayback.archive-it.org/all/20141020032612/http://iqboom.com/bali>;rel="memento"; datetime="Mon, 20 Oct 2014 03:26:12 GMT"
+,<//wayback.archive-it.org/all/20141020032613/http://www.iqboom.com/bali/>;rel="memento"; datetime="Mon, 20 Oct 2014 03:26:13 GMT"
+,<//wayback.archive-it.org/all/20141129233337/http://iqboom.com/bali>;rel="memento"; datetime="Sat, 29 Nov 2014 23:33:37 GMT"
+,<//wayback.archive-it.org/all/20141129233338/http://iqboom.com/bali/>;rel="memento"; datetime="Sat, 29 Nov 2014 23:33:38 GMT"
+,<//wayback.archive-it.org/all/20141129233340/http://www.iqboom.com/bali/>;rel="memento"; datetime="Sat, 29 Nov 2014 23:33:40 GMT"
+,<//wayback.archive-it.org/all/20141130231108/http://iqboom.com/bali>;rel="memento"; datetime="Sun, 30 Nov 2014 23:11:08 GMT"
+,<//wayback.archive-it.org/all/20141130231111/http://iqboom.com/bali/>;rel="memento"; datetime="Sun, 30 Nov 2014 23:11:11 GMT"
+,<//wayback.archive-it.org/all/20141130231113/http://www.iqboom.com/bali/>;rel="memento"; datetime="Sun, 30 Nov 2014 23:11:13 GMT"
+,<//wayback.archive-it.org/all/20150107135704/http://iqboom.com/bali>;rel="memento"; datetime="Wed, 07 Jan 2015 13:57:04 GMT"
+,<//wayback.archive-it.org/all/20150107135705/http://www.iqboom.com/bali/>;rel="memento"; datetime="Wed, 07 Jan 2015 13:57:05 GMT"
+,<//wayback.archive-it.org/all/20150108030418/http://iqboom.com/bali>;rel="memento"; datetime="Thu, 08 Jan 2015 03:04:18 GMT"
+,<//wayback.archive-it.org/all/20150108030419/http://www.iqboom.com/bali/>;rel="memento last"; datetime="Thu, 08 Jan 2015 03:04:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.iqboom.com/bali/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.iqboom.com/bali/>;rel="self"; type="application/link-format"; from ="Mon, 18 Aug 2014 22:19:23 GMT";until="Thu, 08 Jan 2015 03:04:19 GMT"

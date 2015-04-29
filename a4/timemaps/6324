@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.creativecouponing.com/hsns-special-of-the-day-is-for-acer-aspire-17-3-led-intel-quad-core-8gb-ram-1tb-hdd-windows-8-1-laptop-with-software-and-lifetime-support/>;rel="original"
+,<http://web.archive.org/web/20150406035742/http://www.creativecouponing.com/hsns-special-of-the-day-is-for-acer-aspire-17-3-led-intel-quad-core-8gb-ram-1tb-hdd-windows-8-1-laptop-with-software-and-lifetime-support/>;rel="memento first"; datetime="Mon, 06 Apr 2015 03:57:42 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.creativecouponing.com/hsns-special-of-the-day-is-for-acer-aspire-17-3-led-intel-quad-core-8gb-ram-1tb-hdd-windows-8-1-laptop-with-software-and-lifetime-support/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.creativecouponing.com/hsns-special-of-the-day-is-for-acer-aspire-17-3-led-intel-quad-core-8gb-ram-1tb-hdd-windows-8-1-laptop-with-software-and-lifetime-support/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 03:57:42 GMT";until="Mon, 06 Apr 2015 03:57:42 GMT"

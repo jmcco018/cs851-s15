@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.whole-dog-journal.com/issues/17_12/features/Spice-It-Up_21104-1.html>;rel="original"
+,<http://web.archive.org/web/20150210010710/http://www.whole-dog-journal.com/issues/17_12/features/Spice-It-Up_21104-1.html>;rel="memento first"; datetime="Tue, 10 Feb 2015 01:07:10 GMT"
+,<//wayback.archive-it.org/all/20150214083115/http://www.whole-dog-journal.com/issues/17_12/features/Spice-It-Up_21104-1.html>;rel="memento"; datetime="Sat, 14 Feb 2015 08:31:15 GMT"
+,<http://web.archive.org/web/20150320100447/http://www.whole-dog-journal.com/issues/17_12/features/Spice-It-Up_21104-1.html>;rel="memento last"; datetime="Fri, 20 Mar 2015 10:04:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.whole-dog-journal.com/issues/17_12/features/Spice-It-Up_21104-1.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.whole-dog-journal.com/issues/17_12/features/Spice-It-Up_21104-1.html>;rel="self"; type="application/link-format"; from ="Tue, 10 Feb 2015 01:07:10 GMT";until="Fri, 20 Mar 2015 10:04:47 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:42:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www8.hp.com/us/en/ads/science-of-printing/overview.html>;rel="original"
+,<//wayback.archive-it.org/all/20150214154946/http://www8.hp.com/us/en/ads/science-of-printing/overview.html>;rel="memento first"; datetime="Sat, 14 Feb 2015 15:49:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www8.hp.com/us/en/ads/science-of-printing/overview.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www8.hp.com/us/en/ads/science-of-printing/overview.html>;rel="self"; type="application/link-format"; from ="Sat, 14 Feb 2015 15:49:46 GMT";until="Sat, 14 Feb 2015 15:49:46 GMT"

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:29:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.upi.com/Health_News/2015/01/28/Floridians-petition-against-release-of-genetically-modified-mosquitoes/6841422470154/>;rel="original"
+,<http://web.archive.org/web/20150129070016/http://www.upi.com/Health_News/2015/01/28/Floridians-petition-against-release-of-genetically-modified-mosquitoes/6841422470154/>;rel="memento first"; datetime="Thu, 29 Jan 2015 07:00:16 GMT"
+,<http://web.archive.org/web/20150131060023/http://www.upi.com/Health_News/2015/01/28/Floridians-petition-against-release-of-genetically-modified-mosquitoes/6841422470154/>;rel="memento"; datetime="Sat, 31 Jan 2015 06:00:23 GMT"
+,<http://web.archive.org/web/20150202231018/http://www.upi.com/Health_News/2015/01/28/Floridians-petition-against-release-of-genetically-modified-mosquitoes/6841422470154/>;rel="memento"; datetime="Mon, 02 Feb 2015 23:10:18 GMT"
+,<http://web.archive.org/web/20150421091054/http://www.upi.com/Health_News/2015/01/28/Floridians-petition-against-release-of-genetically-modified-mosquitoes/6841422470154/>;rel="memento last"; datetime="Tue, 21 Apr 2015 09:10:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.upi.com/Health_News/2015/01/28/Floridians-petition-against-release-of-genetically-modified-mosquitoes/6841422470154/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.upi.com/Health_News/2015/01/28/Floridians-petition-against-release-of-genetically-modified-mosquitoes/6841422470154/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 07:00:16 GMT";until="Tue, 21 Apr 2015 09:10:54 GMT"

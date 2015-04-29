@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:41:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://kotlele.co.nr>;rel="original"
+,<http://web.archive.org/web/20120224085720/http://kotlele.co.nr/>;rel="memento first"; datetime="Fri, 24 Feb 2012 08:57:20 GMT"
+,<http://web.archive.org/web/20120426081757/http://kotlele.co.nr/>;rel="memento"; datetime="Thu, 26 Apr 2012 08:17:57 GMT"
+,<http://web.archive.org/web/20120523202754/http://kotlele.co.nr/>;rel="memento"; datetime="Wed, 23 May 2012 20:27:54 GMT"
+,<http://web.archive.org/web/20120623175728/http://kotlele.co.nr/>;rel="memento"; datetime="Sat, 23 Jun 2012 17:57:28 GMT"
+,<http://web.archive.org/web/20121105140602/http://kotlele.co.nr/>;rel="memento"; datetime="Mon, 05 Nov 2012 14:06:02 GMT"
+,<http://web.archive.org/web/20140517004716/http://kotlele.co.nr/>;rel="memento"; datetime="Sat, 17 May 2014 00:47:16 GMT"
+,<http://web.archive.org/web/20141222025929/http://kotlele.co.nr/>;rel="memento last"; datetime="Mon, 22 Dec 2014 02:59:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://kotlele.co.nr>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://kotlele.co.nr>;rel="self"; type="application/link-format"; from ="Fri, 24 Feb 2012 08:57:20 GMT";until="Mon, 22 Dec 2014 02:59:29 GMT"

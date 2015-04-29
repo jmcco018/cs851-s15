@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:18:49 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://electronicintifada.net/content/i-always-thought-id-be-next-die-gaza-journalists-reflect-bloody-2014/14212>;rel="original"
+,<http://web.archive.org/web/20150131221446/http://electronicintifada.net/content/i-always-thought-id-be-next-die-gaza-journalists-reflect-bloody-2014/14212>;rel="memento first"; datetime="Sat, 31 Jan 2015 22:14:46 GMT"
+,<http://web.archive.org/web/20150321190350/http://electronicintifada.net/content/i-always-thought-id-be-next-die-gaza-journalists-reflect-bloody-2014/14212>;rel="memento"; datetime="Sat, 21 Mar 2015 19:03:50 GMT"
+,<http://web.archive.org/web/20150327024101/http://electronicintifada.net/content/i-always-thought-id-be-next-die-gaza-journalists-reflect-bloody-2014/14212>;rel="memento last"; datetime="Fri, 27 Mar 2015 02:41:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://electronicintifada.net/content/i-always-thought-id-be-next-die-gaza-journalists-reflect-bloody-2014/14212>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://electronicintifada.net/content/i-always-thought-id-be-next-die-gaza-journalists-reflect-bloody-2014/14212>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 22:14:46 GMT";until="Fri, 27 Mar 2015 02:41:01 GMT"

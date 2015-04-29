@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:35:51 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ilovechocolates.co.uk>;rel="original"
+,<//wayback.archive-it.org/all/20150123185241/http://www.ilovechocolates.co.uk/>;rel="memento first"; datetime="Fri, 23 Jan 2015 18:52:41 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ilovechocolates.co.uk>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ilovechocolates.co.uk>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 18:52:41 GMT";until="Fri, 23 Jan 2015 18:52:41 GMT"

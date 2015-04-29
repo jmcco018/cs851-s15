@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://gigaom.com/2015/01/30/inventor-dean-kamen-wants-you-at-his-robot-competitions/>;rel="original"
+,<http://web.archive.org/web/20150209015846/https://gigaom.com/2015/01/30/inventor-dean-kamen-wants-you-at-his-robot-competitions/>;rel="memento first"; datetime="Mon, 09 Feb 2015 01:58:46 GMT"
+,<http://web.archive.org/web/20150405214517/http://gigaom.com/2015/01/30/inventor-dean-kamen-wants-you-at-his-robot-competitions>;rel="memento"; datetime="Sun, 05 Apr 2015 21:45:17 GMT"
+,<http://web.archive.org/web/20150406022000/http://gigaom.com/2015/01/30/inventor-dean-kamen-wants-you-at-his-robot-competitions/>;rel="memento last"; datetime="Mon, 06 Apr 2015 02:20:00 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://gigaom.com/2015/01/30/inventor-dean-kamen-wants-you-at-his-robot-competitions/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://gigaom.com/2015/01/30/inventor-dean-kamen-wants-you-at-his-robot-competitions/>;rel="self"; type="application/link-format"; from ="Mon, 09 Feb 2015 01:58:46 GMT";until="Mon, 06 Apr 2015 02:20:00 GMT"

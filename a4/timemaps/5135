@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:40:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.independent.co.uk/environment/have-we-reached-peak-food-shortages-loom-as-global-production-rates-slow-10009185.html>;rel="original"
+,<http://web.archive.org/web/20150128220839/http://www.independent.co.uk/environment/have-we-reached-peak-food-shortages-loom-as-global-production-rates-slow-10009185.html>;rel="memento first"; datetime="Wed, 28 Jan 2015 22:08:39 GMT"
+,<http://web.archive.org/web/20150129203157/http://www.independent.co.uk/environment/have-we-reached-peak-food-shortages-loom-as-global-production-rates-slow-10009185.html>;rel="memento"; datetime="Thu, 29 Jan 2015 20:31:57 GMT"
+,<http://archive.is/20150129215619/http://www.independent.co.uk/environment/have-we-reached-peak-food-shortages-loom-as-global-production-rates-slow-10009185.html>;rel="memento"; datetime="Thu, 29 Jan 2015 21:56:19 GMT"
+,<http://web.archive.org/web/20150129231440/http://www.independent.co.uk/environment/have-we-reached-peak-food-shortages-loom-as-global-production-rates-slow-10009185.html>;rel="memento"; datetime="Thu, 29 Jan 2015 23:14:40 GMT"
+,<http://web.archive.org/web/20150316101058/http://www.independent.co.uk/environment/have-we-reached-peak-food-shortages-loom-as-global-production-rates-slow-10009185.html>;rel="memento last"; datetime="Mon, 16 Mar 2015 10:10:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.independent.co.uk/environment/have-we-reached-peak-food-shortages-loom-as-global-production-rates-slow-10009185.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.independent.co.uk/environment/have-we-reached-peak-food-shortages-loom-as-global-production-rates-slow-10009185.html>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 22:08:39 GMT";until="Mon, 16 Mar 2015 10:10:58 GMT"

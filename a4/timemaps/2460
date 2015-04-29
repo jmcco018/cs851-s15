@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:49:59 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://inspirationalshit.com/booklist>;rel="original"
+,<http://web.archive.org/web/20150110050854/http://inspirationalshit.com/booklist>;rel="memento first"; datetime="Sat, 10 Jan 2015 05:08:54 GMT"
+,<http://web.archive.org/web/20150113101520/http://inspirationalshit.com/booklist>;rel="memento"; datetime="Tue, 13 Jan 2015 10:15:20 GMT"
+,<http://web.archive.org/web/20150122183908/http://inspirationalshit.com/booklist>;rel="memento"; datetime="Thu, 22 Jan 2015 18:39:08 GMT"
+,<http://web.archive.org/web/20150123014040/http://inspirationalshit.com/booklist>;rel="memento"; datetime="Fri, 23 Jan 2015 01:40:40 GMT"
+,<http://web.archive.org/web/20150217070534/http://inspirationalshit.com/booklist>;rel="memento"; datetime="Tue, 17 Feb 2015 07:05:34 GMT"
+,<http://web.archive.org/web/20150329135536/http://inspirationalshit.com/booklist>;rel="memento"; datetime="Sun, 29 Mar 2015 13:55:36 GMT"
+,<http://web.archive.org/web/20150401111442/http://inspirationalshit.com/booklist>;rel="memento last"; datetime="Wed, 01 Apr 2015 11:14:42 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://inspirationalshit.com/booklist>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://inspirationalshit.com/booklist>;rel="self"; type="application/link-format"; from ="Sat, 10 Jan 2015 05:08:54 GMT";until="Wed, 01 Apr 2015 11:14:42 GMT"

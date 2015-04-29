@@ -1,0 +1,37 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:30:19 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.youlikecars.co.uk>;rel="original"
+,<http://web.archive.org/web/20130719052322/http://www.youlikecars.co.uk/>;rel="memento first"; datetime="Fri, 19 Jul 2013 05:23:22 GMT"
+,<http://web.archive.org/web/20130727002828/http://youlikecars.co.uk>;rel="memento"; datetime="Sat, 27 Jul 2013 00:28:28 GMT"
+,<http://web.archive.org/web/20130819075431/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Mon, 19 Aug 2013 07:54:31 GMT"
+,<http://web.archive.org/web/20130920190818/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Fri, 20 Sep 2013 19:08:18 GMT"
+,<http://web.archive.org/web/20131017075410/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Thu, 17 Oct 2013 07:54:10 GMT"
+,<http://archive.is/20131120184911/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Wed, 20 Nov 2013 18:49:11 GMT"
+,<http://web.archive.org/web/20131202133608/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Mon, 02 Dec 2013 13:36:08 GMT"
+,<http://web.archive.org/web/20131224055240/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Tue, 24 Dec 2013 05:52:40 GMT"
+,<http://web.archive.org/web/20140111043602/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Sat, 11 Jan 2014 04:36:02 GMT"
+,<http://web.archive.org/web/20140208014106/http://youlikecars.co.uk/>;rel="memento"; datetime="Sat, 08 Feb 2014 01:41:06 GMT"
+,<http://web.archive.org/web/20140208040949/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Sat, 08 Feb 2014 04:09:49 GMT"
+,<http://archive.is/20140208050702/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Sat, 08 Feb 2014 05:07:02 GMT"
+,<http://web.archive.org/web/20140216122606/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Sun, 16 Feb 2014 12:26:06 GMT"
+,<http://web.archive.org/web/20140410063516/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Thu, 10 Apr 2014 06:35:16 GMT"
+,<http://web.archive.org/web/20140421131337/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Mon, 21 Apr 2014 13:13:37 GMT"
+,<http://web.archive.org/web/20140509022421/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Fri, 09 May 2014 02:24:21 GMT"
+,<http://web.archive.org/web/20140517024702/http://youlikecars.co.uk/>;rel="memento"; datetime="Sat, 17 May 2014 02:47:02 GMT"
+,<http://web.archive.org/web/20140625035639/http://youlikecars.co.uk/>;rel="memento"; datetime="Wed, 25 Jun 2014 03:56:39 GMT"
+,<http://web.archive.org/web/20140625091519/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Wed, 25 Jun 2014 09:15:19 GMT"
+,<http://web.archive.org/web/20140628040044/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Sat, 28 Jun 2014 04:00:44 GMT"
+,<http://web.archive.org/web/20140714065327/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Mon, 14 Jul 2014 06:53:27 GMT"
+,<http://web.archive.org/web/20140807005516/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Thu, 07 Aug 2014 00:55:16 GMT"
+,<http://web.archive.org/web/20140912034530/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Fri, 12 Sep 2014 03:45:30 GMT"
+,<http://web.archive.org/web/20141218191018/http://youlikecars.co.uk/>;rel="memento"; datetime="Thu, 18 Dec 2014 19:10:18 GMT"
+,<http://web.archive.org/web/20141223055206/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Tue, 23 Dec 2014 05:52:06 GMT"
+,<http://web.archive.org/web/20150109140109/http://www.youlikecars.co.uk/>;rel="memento"; datetime="Fri, 09 Jan 2015 14:01:09 GMT"
+,<http://web.archive.org/web/20150110113915/http://www.youlikecars.co.uk/>;rel="memento last"; datetime="Sat, 10 Jan 2015 11:39:15 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.youlikecars.co.uk>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.youlikecars.co.uk>;rel="self"; type="application/link-format"; from ="Fri, 19 Jul 2013 05:23:22 GMT";until="Sat, 10 Jan 2015 11:39:15 GMT"

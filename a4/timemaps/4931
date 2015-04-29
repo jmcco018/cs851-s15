@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:36:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://rt.com/usa/227567-seattle-pepper-spray-teacher/>;rel="original"
+,<http://archive.is/20150203002926/http://rt.com/usa/227567-seattle-pepper-spray-teacher/>;rel="memento first"; datetime="Tue, 03 Feb 2015 00:29:26 GMT"
+,<//wayback.archive-it.org/all/20150212200823/http://rt.com/usa/227567-seattle-pepper-spray-teacher/>;rel="memento"; datetime="Thu, 12 Feb 2015 20:08:23 GMT"
+,<http://web.archive.org/web/20150403163248/http://rt.com/usa/227567-seattle-pepper-spray-teacher/>;rel="memento last"; datetime="Fri, 03 Apr 2015 16:32:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://rt.com/usa/227567-seattle-pepper-spray-teacher/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://rt.com/usa/227567-seattle-pepper-spray-teacher/>;rel="self"; type="application/link-format"; from ="Tue, 03 Feb 2015 00:29:26 GMT";until="Fri, 03 Apr 2015 16:32:48 GMT"

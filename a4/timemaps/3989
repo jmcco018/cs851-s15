@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:21:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.motherjones.com/mixed-media/2014/12/princeton-mom-rape-learning-experience>;rel="original"
+,<http://web.archive.org/web/20141220163733/http://www.motherjones.com/mixed-media/2014/12/princeton-mom-rape-learning-experience>;rel="memento first"; datetime="Sat, 20 Dec 2014 16:37:33 GMT"
+,<http://web.archive.org/web/20150104111825/http://www.motherjones.com/mixed-media/2014/12/princeton-mom-rape-learning-experience>;rel="memento"; datetime="Sun, 04 Jan 2015 11:18:25 GMT"
+,<http://web.archive.org/web/20150118200146/http://www.motherjones.com/mixed-media/2014/12/princeton-mom-rape-learning-experience>;rel="memento"; datetime="Sun, 18 Jan 2015 20:01:46 GMT"
+,<http://web.archive.org/web/20150125200323/http://www.motherjones.com/mixed-media/2014/12/princeton-mom-rape-learning-experience>;rel="memento"; datetime="Sun, 25 Jan 2015 20:03:23 GMT"
+,<//wayback.archive-it.org/all/20150215135305/http://www.motherjones.com/mixed-media/2014/12/princeton-mom-rape-learning-experience>;rel="memento"; datetime="Sun, 15 Feb 2015 13:53:05 GMT"
+,<http://web.archive.org/web/20150222174940/http://www.motherjones.com/mixed-media/2014/12/princeton-mom-rape-learning-experience>;rel="memento last"; datetime="Sun, 22 Feb 2015 17:49:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.motherjones.com/mixed-media/2014/12/princeton-mom-rape-learning-experience>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.motherjones.com/mixed-media/2014/12/princeton-mom-rape-learning-experience>;rel="self"; type="application/link-format"; from ="Sat, 20 Dec 2014 16:37:33 GMT";until="Sun, 22 Feb 2015 17:49:40 GMT"

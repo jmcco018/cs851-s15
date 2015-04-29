@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:40:53 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://play.google.com/store/apps/details?id=pl.netigen.collection_tools_free>;rel="original"
+,<http://web.archive.org/web/20150321032714/https://play.google.com/store/apps/details?id=pl.netigen.collection_tools_free>;rel="memento first"; datetime="Sat, 21 Mar 2015 03:27:14 GMT"
+,<http://web.archive.org/web/20150418163452/https://play.google.com/store/apps/details?id=pl.netigen.collection_tools_free>;rel="memento last"; datetime="Sat, 18 Apr 2015 16:34:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://play.google.com/store/apps/details?id=pl.netigen.collection_tools_free>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://play.google.com/store/apps/details?id=pl.netigen.collection_tools_free>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 03:27:14 GMT";until="Sat, 18 Apr 2015 16:34:52 GMT"

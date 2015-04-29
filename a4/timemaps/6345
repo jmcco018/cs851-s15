@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:00:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.informationweek.com/cloud/software-as-a-service/how-cios-can-win-in-the-cloud/a/d-id/1318739>;rel="original"
+,<http://web.archive.org/web/20150404133449/http://www.informationweek.com/cloud/software-as-a-service/how-cios-can-win-in-the-cloud/a/d-id/1318739>;rel="memento first"; datetime="Sat, 04 Apr 2015 13:34:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.informationweek.com/cloud/software-as-a-service/how-cios-can-win-in-the-cloud/a/d-id/1318739>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.informationweek.com/cloud/software-as-a-service/how-cios-can-win-in-the-cloud/a/d-id/1318739>;rel="self"; type="application/link-format"; from ="Sat, 04 Apr 2015 13:34:49 GMT";until="Sat, 04 Apr 2015 13:34:49 GMT"

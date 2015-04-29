@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:33:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://fathersworkandfamily.com/2015/01/27/sotu-swiffer-buzzfeed-the-onion-and-ruth-bader-ginsberg-work-family-news-roundup-january-2015/>;rel="original"
+,<http://web.archive.org/web/20150406043330/http://fathersworkandfamily.com/2015/01/27/sotu-swiffer-buzzfeed-the-onion-and-ruth-bader-ginsberg-work-family-news-roundup-january-2015/>;rel="memento first"; datetime="Mon, 06 Apr 2015 04:33:30 GMT"
+,<http://web.archive.org/web/20150418085756/http://fathersworkandfamily.com/2015/01/27/sotu-swiffer-buzzfeed-the-onion-and-ruth-bader-ginsberg-work-family-news-roundup-january-2015/>;rel="memento last"; datetime="Sat, 18 Apr 2015 08:57:56 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://fathersworkandfamily.com/2015/01/27/sotu-swiffer-buzzfeed-the-onion-and-ruth-bader-ginsberg-work-family-news-roundup-january-2015/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://fathersworkandfamily.com/2015/01/27/sotu-swiffer-buzzfeed-the-onion-and-ruth-bader-ginsberg-work-family-news-roundup-january-2015/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 04:33:30 GMT";until="Sat, 18 Apr 2015 08:57:56 GMT"

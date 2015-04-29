@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:42:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www1.skysports.com/news/12930/9683066/Terms-and-Conditions-Sky-Go-Promotion>;rel="original"
+,<http://web.archive.org/web/20150312031116/http://www1.skysports.com/news/12930/9683066/Terms-and-Conditions-Sky-Go-Promotion>;rel="memento first"; datetime="Thu, 12 Mar 2015 03:11:16 GMT"
+,<http://web.archive.org/web/20150313122719/http://www1.skysports.com/news/12930/9683066/Terms-and-Conditions-Sky-Go-Promotion>;rel="memento"; datetime="Fri, 13 Mar 2015 12:27:19 GMT"
+,<http://web.archive.org/web/20150314214043/http://www1.skysports.com/news/12930/9683066/Terms-and-Conditions-Sky-Go-Promotion>;rel="memento"; datetime="Sat, 14 Mar 2015 21:40:43 GMT"
+,<http://web.archive.org/web/20150316080949/http://www1.skysports.com/news/12930/9683066/Terms-and-Conditions-Sky-Go-Promotion>;rel="memento last"; datetime="Mon, 16 Mar 2015 08:09:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www1.skysports.com/news/12930/9683066/Terms-and-Conditions-Sky-Go-Promotion>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www1.skysports.com/news/12930/9683066/Terms-and-Conditions-Sky-Go-Promotion>;rel="self"; type="application/link-format"; from ="Thu, 12 Mar 2015 03:11:16 GMT";until="Mon, 16 Mar 2015 08:09:49 GMT"

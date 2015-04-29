@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:50:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://ovni.fm/discojaguar>;rel="original"
+,<http://web.archive.org/web/20130810004435/http://ovni.fm/discojaguar>;rel="memento first"; datetime="Sat, 10 Aug 2013 00:44:35 GMT"
+,<http://web.archive.org/web/20150321054931/http://ovni.fm/discojaguar>;rel="memento last"; datetime="Sat, 21 Mar 2015 05:49:31 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://ovni.fm/discojaguar>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://ovni.fm/discojaguar>;rel="self"; type="application/link-format"; from ="Sat, 10 Aug 2013 00:44:35 GMT";until="Sat, 21 Mar 2015 05:49:31 GMT"

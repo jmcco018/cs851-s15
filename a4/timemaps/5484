@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mirror.co.uk/news/uk-news/steven-gerrards-warehouse-restaurant-close-5069395>;rel="original"
+,<http://web.archive.org/web/20150130122008/http://www.mirror.co.uk/news/uk-news/steven-gerrards-warehouse-restaurant-close-5069395>;rel="memento first"; datetime="Fri, 30 Jan 2015 12:20:08 GMT"
+,<http://web.archive.org/web/20150202154952/http://www.mirror.co.uk/news/uk-news/steven-gerrards-warehouse-restaurant-close-5069395>;rel="memento"; datetime="Mon, 02 Feb 2015 15:49:52 GMT"
+,<http://web.archive.org/web/20150324102111/http://www.mirror.co.uk/news/uk-news/steven-gerrards-warehouse-restaurant-close-5069395>;rel="memento last"; datetime="Tue, 24 Mar 2015 10:21:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mirror.co.uk/news/uk-news/steven-gerrards-warehouse-restaurant-close-5069395>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mirror.co.uk/news/uk-news/steven-gerrards-warehouse-restaurant-close-5069395>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 12:20:08 GMT";until="Tue, 24 Mar 2015 10:21:11 GMT"

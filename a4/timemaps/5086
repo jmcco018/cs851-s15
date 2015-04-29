@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="original"
+,<http://web.archive.org/web/20130618221930/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="memento first"; datetime="Tue, 18 Jun 2013 22:19:30 GMT"
+,<http://web.archive.org/web/20131027082942/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="memento"; datetime="Sun, 27 Oct 2013 08:29:42 GMT"
+,<http://web.archive.org/web/20140702141708/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="memento"; datetime="Wed, 02 Jul 2014 14:17:08 GMT"
+,<http://web.archive.org/web/20141025061950/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="memento"; datetime="Sat, 25 Oct 2014 06:19:50 GMT"
+,<http://web.archive.org/web/20141027214814/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="memento"; datetime="Mon, 27 Oct 2014 21:48:14 GMT"
+,<http://web.archive.org/web/20141029222102/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="memento"; datetime="Wed, 29 Oct 2014 22:21:02 GMT"
+,<http://web.archive.org/web/20141106221628/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="memento"; datetime="Thu, 06 Nov 2014 22:16:28 GMT"
+,<http://web.archive.org/web/20141125164827/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="memento last"; datetime="Tue, 25 Nov 2014 16:48:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.anime-planet.com/images/characters/rikka_takanashi_43640.jpg>;rel="self"; type="application/link-format"; from ="Tue, 18 Jun 2013 22:19:30 GMT";until="Tue, 25 Nov 2014 16:48:27 GMT"

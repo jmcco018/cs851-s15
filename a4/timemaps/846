@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:23:43 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.warchild.org.uk/about/our-friends/tantalus-redemption>;rel="original"
+,<http://web.archive.org/web/20140831004409/http://www.warchild.org.uk/about/our-friends/tantalus-redemption>;rel="memento first"; datetime="Sun, 31 Aug 2014 00:44:09 GMT"
+,<http://web.archive.org/web/20150109051543/http://www.warchild.org.uk/about/our-friends/tantalus-redemption>;rel="memento"; datetime="Fri, 09 Jan 2015 05:15:43 GMT"
+,<http://web.archive.org/web/20150319084618/http://www.warchild.org.uk/about/our-friends/tantalus-redemption>;rel="memento last"; datetime="Thu, 19 Mar 2015 08:46:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.warchild.org.uk/about/our-friends/tantalus-redemption>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.warchild.org.uk/about/our-friends/tantalus-redemption>;rel="self"; type="application/link-format"; from ="Sun, 31 Aug 2014 00:44:09 GMT";until="Thu, 19 Mar 2015 08:46:18 GMT"

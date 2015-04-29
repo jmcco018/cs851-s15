@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:22:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bbc.co.uk/news/world-asia-31056086>;rel="original"
+,<http://web.archive.org/web/20150130102021/http://www.bbc.co.uk/news/world-asia-31056086>;rel="memento first"; datetime="Fri, 30 Jan 2015 10:20:21 GMT"
+,<http://web.archive.org/web/20150407063922/http://www.bbc.co.uk/news/world-asia-31056086>;rel="memento last"; datetime="Tue, 07 Apr 2015 06:39:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bbc.co.uk/news/world-asia-31056086>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bbc.co.uk/news/world-asia-31056086>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 10:20:21 GMT";until="Tue, 07 Apr 2015 06:39:22 GMT"

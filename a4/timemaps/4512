@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:30:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.atlasobscura.com/articles/on-the-shores-of-new-yorks-mysterious-island-of-animal-disease>;rel="original"
+,<http://web.archive.org/web/20150204034138/http://www.atlasobscura.com/articles/on-the-shores-of-new-yorks-mysterious-island-of-animal-disease>;rel="memento first"; datetime="Wed, 04 Feb 2015 03:41:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.atlasobscura.com/articles/on-the-shores-of-new-yorks-mysterious-island-of-animal-disease>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.atlasobscura.com/articles/on-the-shores-of-new-yorks-mysterious-island-of-animal-disease>;rel="self"; type="application/link-format"; from ="Wed, 04 Feb 2015 03:41:38 GMT";until="Wed, 04 Feb 2015 03:41:38 GMT"

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards/>;rel="original"
+,<http://web.archive.org/web/20140821031934/http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards/>;rel="memento first"; datetime="Thu, 21 Aug 2014 03:19:34 GMT"
+,<http://web.archive.org/web/20140825200558/http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards/>;rel="memento"; datetime="Mon, 25 Aug 2014 20:05:58 GMT"
+,<http://web.archive.org/web/20140923081508/http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards/>;rel="memento"; datetime="Tue, 23 Sep 2014 08:15:08 GMT"
+,<http://web.archive.org/web/20141021033927/http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards>;rel="memento"; datetime="Tue, 21 Oct 2014 03:39:27 GMT"
+,<http://web.archive.org/web/20141021033928/http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards/>;rel="memento"; datetime="Tue, 21 Oct 2014 03:39:28 GMT"
+,<http://web.archive.org/web/20141112164356/http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards/>;rel="memento"; datetime="Wed, 12 Nov 2014 16:43:56 GMT"
+,<http://web.archive.org/web/20141223085714/http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards/>;rel="memento last"; datetime="Tue, 23 Dec 2014 08:57:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/18/scholarly-versus-activist-identities-standards/>;rel="self"; type="application/link-format"; from ="Thu, 21 Aug 2014 03:19:34 GMT";until="Tue, 23 Dec 2014 08:57:14 GMT"

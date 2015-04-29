@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://insidedvla.blog.gov.uk/jobs/>;rel="original"
+,<http://webarchive.nationalarchives.gov.uk/20150210084749/https://insidedvla.blog.gov.uk/jobs/>;rel="memento first"; datetime="Tue, 10 Feb 2015 08:47:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://insidedvla.blog.gov.uk/jobs/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://insidedvla.blog.gov.uk/jobs/>;rel="self"; type="application/link-format"; from ="Tue, 10 Feb 2015 08:47:49 GMT";until="Tue, 10 Feb 2015 08:47:49 GMT"

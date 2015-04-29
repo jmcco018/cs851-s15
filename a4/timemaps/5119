@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.shalemarkets.com/gail-india-to-convert-lpg-plant-to-supply-petrochemicals-feedstocks-in-assam/>;rel="original"
+,<http://web.archive.org/web/20150405224718/http://www.shalemarkets.com/gail-india-to-convert-lpg-plant-to-supply-petrochemicals-feedstocks-in-assam/>;rel="memento first"; datetime="Sun, 05 Apr 2015 22:47:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.shalemarkets.com/gail-india-to-convert-lpg-plant-to-supply-petrochemicals-feedstocks-in-assam/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.shalemarkets.com/gail-india-to-convert-lpg-plant-to-supply-petrochemicals-feedstocks-in-assam/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 22:47:18 GMT";until="Sun, 05 Apr 2015 22:47:18 GMT"

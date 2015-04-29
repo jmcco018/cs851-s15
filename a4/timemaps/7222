@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:15:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://bridesofdiablo.wordpress.com/>;rel="original"
+,<//wayback.archive-it.org/all/20150108093612/http://www.bridesofdiablo.wordpress.com/>;rel="memento first"; datetime="Thu, 08 Jan 2015 09:36:12 GMT"
+,<//wayback.archive-it.org/all/20150108093613/http://bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 09:36:13 GMT"
+,<//wayback.archive-it.org/all/20150108093616/https://bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 09:36:16 GMT"
+,<//wayback.archive-it.org/all/20150108180243/http://www.bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 18:02:43 GMT"
+,<//wayback.archive-it.org/all/20150108180244/http://bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 18:02:44 GMT"
+,<//wayback.archive-it.org/all/20150108180246/https://bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Thu, 08 Jan 2015 18:02:46 GMT"
+,<//wayback.archive-it.org/all/20150109100726/http://www.bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Fri, 09 Jan 2015 10:07:26 GMT"
+,<//wayback.archive-it.org/all/20150109100728/http://bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Fri, 09 Jan 2015 10:07:28 GMT"
+,<//wayback.archive-it.org/all/20150109100730/https://bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Fri, 09 Jan 2015 10:07:30 GMT"
+,<//wayback.archive-it.org/all/20150109124013/http://www.bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Fri, 09 Jan 2015 12:40:13 GMT"
+,<//wayback.archive-it.org/all/20150109124014/http://bridesofdiablo.wordpress.com/>;rel="memento"; datetime="Fri, 09 Jan 2015 12:40:14 GMT"
+,<//wayback.archive-it.org/all/20150109124016/https://bridesofdiablo.wordpress.com/>;rel="memento last"; datetime="Fri, 09 Jan 2015 12:40:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://bridesofdiablo.wordpress.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://bridesofdiablo.wordpress.com/>;rel="self"; type="application/link-format"; from ="Thu, 08 Jan 2015 09:36:12 GMT";until="Fri, 09 Jan 2015 12:40:16 GMT"

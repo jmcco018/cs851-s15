@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:07:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://mygovhelp.us/newtonma/_cs/supporthome.aspx?sSessionID=86EC5C5803BC4F7F87C8C15AE92774FDBZMDINHH>;rel="original"
+,<http://web.archive.org/web/20121027090712/http://mygovhelp.us/newtonma/_cs/supporthome.aspx?sSessionID=86EC5C5803BC4F7F87C8C15AE92774FDBZMDINHH>;rel="memento first"; datetime="Sat, 27 Oct 2012 09:07:12 GMT"
+,<http://web.archive.org/web/20121203090421/http://mygovhelp.us/newtonma/_cs/supporthome.aspx?sSessionID=86EC5C5803BC4F7F87C8C15AE92774FDBZMDINHH>;rel="memento last"; datetime="Mon, 03 Dec 2012 09:04:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://mygovhelp.us/newtonma/_cs/supporthome.aspx?sSessionID=86EC5C5803BC4F7F87C8C15AE92774FDBZMDINHH>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://mygovhelp.us/newtonma/_cs/supporthome.aspx?sSessionID=86EC5C5803BC4F7F87C8C15AE92774FDBZMDINHH>;rel="self"; type="application/link-format"; from ="Sat, 27 Oct 2012 09:07:12 GMT";until="Mon, 03 Dec 2012 09:04:21 GMT"

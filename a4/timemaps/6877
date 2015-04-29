@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.last.fm/music/Al+Barry+&+The+Cimarons/_/Morning+Sun>;rel="original"
+,<http://web.archive.org/web/20080302152244/http://www.last.fm/music/Al%2BBarry%2B%2526%2BThe%2BCimarons/_/Morning+Sun?>;rel="memento first"; datetime="Sun, 02 Mar 2008 15:22:44 GMT"
+,<http://web.archive.org/web/20090122231611/http://www.last.fm/music/Al+Barry+&+The+Cimarons/_/Morning+Sun?>;rel="memento"; datetime="Thu, 22 Jan 2009 23:16:11 GMT"
+,<http://web.archive.org/web/20090622000057/http://www.last.fm/music/Al+Barry+&+The+Cimarons/_/Morning+Sun>;rel="memento last"; datetime="Mon, 22 Jun 2009 00:00:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.last.fm/music/Al+Barry+&+The+Cimarons/_/Morning+Sun>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.last.fm/music/Al+Barry+&+The+Cimarons/_/Morning+Sun>;rel="self"; type="application/link-format"; from ="Sun, 02 Mar 2008 15:22:44 GMT";until="Mon, 22 Jun 2009 00:00:57 GMT"

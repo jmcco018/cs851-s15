@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:25:56 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://java67.blogspot.com/2015/01/how-to-convert-map-to-list-in-java.html>;rel="original"
+,<http://web.archive.org/web/20150325144004/http://java67.blogspot.com/2015/01/how-to-convert-map-to-list-in-java.html>;rel="memento first"; datetime="Wed, 25 Mar 2015 14:40:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://java67.blogspot.com/2015/01/how-to-convert-map-to-list-in-java.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://java67.blogspot.com/2015/01/how-to-convert-map-to-list-in-java.html>;rel="self"; type="application/link-format"; from ="Wed, 25 Mar 2015 14:40:04 GMT";until="Wed, 25 Mar 2015 14:40:04 GMT"

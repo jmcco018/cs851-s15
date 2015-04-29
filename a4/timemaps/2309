@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:47:34 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dailymotion.com/video/x2cw43a_the-smashing-pumpkins-drum-fife-oui-fm-rock-sessions_music>;rel="original"
+,<http://web.archive.org/web/20141225161643/http://www.dailymotion.com/video/x2cw43a_the-smashing-pumpkins-drum-fife-oui-fm-rock-sessions_music>;rel="memento first"; datetime="Thu, 25 Dec 2014 16:16:43 GMT"
+,<http://web.archive.org/web/20141230061612/http://www.dailymotion.com/video/x2cw43a_the-smashing-pumpkins-drum-fife-oui-fm-rock-sessions_music>;rel="memento"; datetime="Tue, 30 Dec 2014 06:16:12 GMT"
+,<http://web.archive.org/web/20150102162629/http://www.dailymotion.com/video/x2cw43a_the-smashing-pumpkins-drum-fife-oui-fm-rock-sessions_music>;rel="memento"; datetime="Fri, 02 Jan 2015 16:26:29 GMT"
+,<http://web.archive.org/web/20150103183521/http://www.dailymotion.com/video/x2cw43a_the-smashing-pumpkins-drum-fife-oui-fm-rock-sessions_music>;rel="memento"; datetime="Sat, 03 Jan 2015 18:35:21 GMT"
+,<http://web.archive.org/web/20150104214643/http://www.dailymotion.com/video/x2cw43a_the-smashing-pumpkins-drum-fife-oui-fm-rock-sessions_music>;rel="memento last"; datetime="Sun, 04 Jan 2015 21:46:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dailymotion.com/video/x2cw43a_the-smashing-pumpkins-drum-fife-oui-fm-rock-sessions_music>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dailymotion.com/video/x2cw43a_the-smashing-pumpkins-drum-fife-oui-fm-rock-sessions_music>;rel="self"; type="application/link-format"; from ="Thu, 25 Dec 2014 16:16:43 GMT";until="Sun, 04 Jan 2015 21:46:43 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blogs.discovermagazine.com/seriouslyscience/2015/01/29/pandas-ancestors-ditch-meat-bamboo/>;rel="original"
+,<http://web.archive.org/web/20150319144932/http://blogs.discovermagazine.com/seriouslyscience/2015/01/29/pandas-ancestors-ditch-meat-bamboo/>;rel="memento first"; datetime="Thu, 19 Mar 2015 14:49:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blogs.discovermagazine.com/seriouslyscience/2015/01/29/pandas-ancestors-ditch-meat-bamboo/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blogs.discovermagazine.com/seriouslyscience/2015/01/29/pandas-ancestors-ditch-meat-bamboo/>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 14:49:32 GMT";until="Thu, 19 Mar 2015 14:49:32 GMT"

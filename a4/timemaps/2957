@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:57:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.livemixtapes.com/mixtapes/32212/quality-fork-music.html>;rel="original"
+,<http://web.archive.org/web/20150418213505/http://www.livemixtapes.com/mixtapes/32212/quality-fork-music.html>;rel="memento first"; datetime="Sat, 18 Apr 2015 21:35:05 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.livemixtapes.com/mixtapes/32212/quality-fork-music.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.livemixtapes.com/mixtapes/32212/quality-fork-music.html>;rel="self"; type="application/link-format"; from ="Sat, 18 Apr 2015 21:35:05 GMT";until="Sat, 18 Apr 2015 21:35:05 GMT"

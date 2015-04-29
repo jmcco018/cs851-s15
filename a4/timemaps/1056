@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:27:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://fineartamerica.com/featured/water-lilies-under-the-bridge-mary-lou-constantine.html>;rel="original"
+,<http://web.archive.org/web/20150326112124/http://fineartamerica.com/featured/water-lilies-under-the-bridge-mary-lou-constantine.html>;rel="memento first"; datetime="Thu, 26 Mar 2015 11:21:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://fineartamerica.com/featured/water-lilies-under-the-bridge-mary-lou-constantine.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://fineartamerica.com/featured/water-lilies-under-the-bridge-mary-lou-constantine.html>;rel="self"; type="application/link-format"; from ="Thu, 26 Mar 2015 11:21:24 GMT";until="Thu, 26 Mar 2015 11:21:24 GMT"

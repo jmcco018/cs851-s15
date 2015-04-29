@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:00:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.independent.co.uk/news/world/americas/balloonists-make-history-by-surpassing-world-distance-record-for-human-flight-in-a-gas-balloon-after-crossing-pacific-ocean-10012690.html>;rel="original"
+,<http://web.archive.org/web/20150130123319/http://www.independent.co.uk/news/world/americas/balloonists-make-history-by-surpassing-world-distance-record-for-human-flight-in-a-gas-balloon-after-crossing-pacific-ocean-10012690.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 12:33:19 GMT"
+,<http://web.archive.org/web/20150131002207/http://www.independent.co.uk/news/world/americas/balloonists-make-history-by-surpassing-world-distance-record-for-human-flight-in-a-gas-balloon-after-crossing-pacific-ocean-10012690.html>;rel="memento"; datetime="Sat, 31 Jan 2015 00:22:07 GMT"
+,<http://web.archive.org/web/20150310034932/http://www.independent.co.uk/news/world/americas/balloonists-make-history-by-surpassing-world-distance-record-for-human-flight-in-a-gas-balloon-after-crossing-pacific-ocean-10012690.html>;rel="memento"; datetime="Tue, 10 Mar 2015 03:49:32 GMT"
+,<http://web.archive.org/web/20150311102002/http://www.independent.co.uk/news/world/americas/balloonists-make-history-by-surpassing-world-distance-record-for-human-flight-in-a-gas-balloon-after-crossing-pacific-ocean-10012690.html>;rel="memento"; datetime="Wed, 11 Mar 2015 10:20:02 GMT"
+,<http://web.archive.org/web/20150312184913/http://www.independent.co.uk/news/world/americas/balloonists-make-history-by-surpassing-world-distance-record-for-human-flight-in-a-gas-balloon-after-crossing-pacific-ocean-10012690.html>;rel="memento"; datetime="Thu, 12 Mar 2015 18:49:13 GMT"
+,<http://web.archive.org/web/20150413034153/http://www.independent.co.uk/news/world/americas/balloonists-make-history-by-surpassing-world-distance-record-for-human-flight-in-a-gas-balloon-after-crossing-pacific-ocean-10012690.html>;rel="memento last"; datetime="Mon, 13 Apr 2015 03:41:53 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.independent.co.uk/news/world/americas/balloonists-make-history-by-surpassing-world-distance-record-for-human-flight-in-a-gas-balloon-after-crossing-pacific-ocean-10012690.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.independent.co.uk/news/world/americas/balloonists-make-history-by-surpassing-world-distance-record-for-human-flight-in-a-gas-balloon-after-crossing-pacific-ocean-10012690.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 12:33:19 GMT";until="Mon, 13 Apr 2015 03:41:53 GMT"

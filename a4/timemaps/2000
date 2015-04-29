@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:42:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.stokecityfc.com/news/article/potters-in-fa-youth-cup-action-tonight-2236315.aspx>;rel="original"
+,<http://web.archive.org/web/20150201205701/http://www.stokecityfc.com/news/article/potters-in-fa-youth-cup-action-tonight-2236315.aspx>;rel="memento first"; datetime="Sun, 01 Feb 2015 20:57:01 GMT"
+,<http://web.archive.org/web/20150202012546/http://www.stokecityfc.com/news/article/potters-in-fa-youth-cup-action-tonight-2236315.aspx>;rel="memento last"; datetime="Mon, 02 Feb 2015 01:25:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.stokecityfc.com/news/article/potters-in-fa-youth-cup-action-tonight-2236315.aspx>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.stokecityfc.com/news/article/potters-in-fa-youth-cup-action-tonight-2236315.aspx>;rel="self"; type="application/link-format"; from ="Sun, 01 Feb 2015 20:57:01 GMT";until="Mon, 02 Feb 2015 01:25:46 GMT"

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:43:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.aclu.org/capital-punishment/texas-executes-intellectually-disabled-man-violating-constitution>;rel="original"
+,<http://web.archive.org/web/20150216015706/https://www.aclu.org/capital-punishment/texas-executes-intellectually-disabled-man-violating-constitution>;rel="memento first"; datetime="Mon, 16 Feb 2015 01:57:06 GMT"
+,<//wayback.archive-it.org/all/20150225213713/https://www.aclu.org/capital-punishment/texas-executes-intellectually-disabled-man-violating-constitution>;rel="memento"; datetime="Wed, 25 Feb 2015 21:37:13 GMT"
+,<//wayback.archive-it.org/all/20150313000047/https://www.aclu.org/capital-punishment/texas-executes-intellectually-disabled-man-violating-constitution>;rel="memento"; datetime="Fri, 13 Mar 2015 00:00:47 GMT"
+,<//wayback.archive-it.org/all/20150325212441/https://www.aclu.org/capital-punishment/texas-executes-intellectually-disabled-man-violating-constitution>;rel="memento last"; datetime="Wed, 25 Mar 2015 21:24:41 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.aclu.org/capital-punishment/texas-executes-intellectually-disabled-man-violating-constitution>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.aclu.org/capital-punishment/texas-executes-intellectually-disabled-man-violating-constitution>;rel="self"; type="application/link-format"; from ="Mon, 16 Feb 2015 01:57:06 GMT";until="Wed, 25 Mar 2015 21:24:41 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:25:53 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://workfromhometeaching.com/is-affiliate-marketing-a-real-business/>;rel="original"
+,<http://web.archive.org/web/20150322230238/http://workfromhometeaching.com/is-affiliate-marketing-a-real-business/>;rel="memento first"; datetime="Sun, 22 Mar 2015 23:02:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://workfromhometeaching.com/is-affiliate-marketing-a-real-business/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://workfromhometeaching.com/is-affiliate-marketing-a-real-business/>;rel="self"; type="application/link-format"; from ="Sun, 22 Mar 2015 23:02:38 GMT";until="Sun, 22 Mar 2015 23:02:38 GMT"

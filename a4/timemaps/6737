@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:07:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ecfr.eu/scorecard/2015/russia/>;rel="original"
+,<http://web.archive.org/web/20150317184444/http://www.ecfr.eu/scorecard/2015/russia>;rel="memento first"; datetime="Tue, 17 Mar 2015 18:44:44 GMT"
+,<http://web.archive.org/web/20150404150406/http://www.ecfr.eu/scorecard/2015/russia/>;rel="memento"; datetime="Sat, 04 Apr 2015 15:04:06 GMT"
+,<http://web.archive.org/web/20150404172126/http://www.ecfr.eu/scorecard/2015/russia>;rel="memento"; datetime="Sat, 04 Apr 2015 17:21:26 GMT"
+,<http://web.archive.org/web/20150419171812/http://www.ecfr.eu/scorecard/2015/russia/>;rel="memento last"; datetime="Sun, 19 Apr 2015 17:18:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ecfr.eu/scorecard/2015/russia/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ecfr.eu/scorecard/2015/russia/>;rel="self"; type="application/link-format"; from ="Tue, 17 Mar 2015 18:44:44 GMT";until="Sun, 19 Apr 2015 17:18:12 GMT"

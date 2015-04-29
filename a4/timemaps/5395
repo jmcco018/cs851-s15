@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://temporaryartreview.com/springsteen/>;rel="original"
+,<http://web.archive.org/web/20150319044629/http://temporaryartreview.com/springsteen/>;rel="memento first"; datetime="Thu, 19 Mar 2015 04:46:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://temporaryartreview.com/springsteen/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://temporaryartreview.com/springsteen/>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 04:46:29 GMT";until="Thu, 19 Mar 2015 04:46:29 GMT"

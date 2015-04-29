@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:01:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blog.hubspot.com/marketing/charts-marketing-life>;rel="original"
+,<http://web.archive.org/web/20150405084128/http://blog.hubspot.com/marketing/charts-marketing-life>;rel="memento first"; datetime="Sun, 05 Apr 2015 08:41:28 GMT"
+,<http://web.archive.org/web/20150414120233/http://blog.hubspot.com/marketing/charts-marketing-life>;rel="memento last"; datetime="Tue, 14 Apr 2015 12:02:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blog.hubspot.com/marketing/charts-marketing-life>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blog.hubspot.com/marketing/charts-marketing-life>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 08:41:28 GMT";until="Tue, 14 Apr 2015 12:02:33 GMT"

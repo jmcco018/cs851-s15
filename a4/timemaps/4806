@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:34:30 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dallasnews.com/opinion/editorials/20150129-editorial-capitol-spectacle-brings-shame-on-texas.ece>;rel="original"
+,<http://web.archive.org/web/20150201031128/http://www.dallasnews.com/opinion/editorials/20150129-editorial-capitol-spectacle-brings-shame-on-texas.ece>;rel="memento first"; datetime="Sun, 01 Feb 2015 03:11:28 GMT"
+,<http://web.archive.org/web/20150323031837/http://www.dallasnews.com/opinion/editorials/20150129-editorial-capitol-spectacle-brings-shame-on-texas.ece>;rel="memento last"; datetime="Mon, 23 Mar 2015 03:18:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dallasnews.com/opinion/editorials/20150129-editorial-capitol-spectacle-brings-shame-on-texas.ece>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dallasnews.com/opinion/editorials/20150129-editorial-capitol-spectacle-brings-shame-on-texas.ece>;rel="self"; type="application/link-format"; from ="Sun, 01 Feb 2015 03:11:28 GMT";until="Mon, 23 Mar 2015 03:18:37 GMT"

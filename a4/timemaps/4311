@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.change.org/p/harvey-s-perlman-stop-experiments-at-the-u-s-meat-animal-research-center>;rel="original"
+,<//wayback.archive-it.org/all/20150217020316/https://www.change.org/p/harvey-s-perlman-stop-experiments-at-the-u-s-meat-animal-research-center>;rel="memento first"; datetime="Tue, 17 Feb 2015 02:03:16 GMT"
+,<//wayback.archive-it.org/all/20150224110232/https://www.change.org/p/harvey-s-perlman-stop-experiments-at-the-u-s-meat-animal-research-center>;rel="memento last"; datetime="Tue, 24 Feb 2015 11:02:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.change.org/p/harvey-s-perlman-stop-experiments-at-the-u-s-meat-animal-research-center>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.change.org/p/harvey-s-perlman-stop-experiments-at-the-u-s-meat-animal-research-center>;rel="self"; type="application/link-format"; from ="Tue, 17 Feb 2015 02:03:16 GMT";until="Tue, 24 Feb 2015 11:02:32 GMT"

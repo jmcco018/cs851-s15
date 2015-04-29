@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:18:41 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://onedad3girls.com/braun-no-touch-forehead-thermometer/>;rel="original"
+,<http://web.archive.org/web/20150326070558/http://onedad3girls.com/braun-no-touch-forehead-thermometer/>;rel="memento first"; datetime="Thu, 26 Mar 2015 07:05:58 GMT"
+,<http://web.archive.org/web/20150405141454/http://onedad3girls.com/braun-no-touch-forehead-thermometer/>;rel="memento last"; datetime="Sun, 05 Apr 2015 14:14:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://onedad3girls.com/braun-no-touch-forehead-thermometer/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://onedad3girls.com/braun-no-touch-forehead-thermometer/>;rel="self"; type="application/link-format"; from ="Thu, 26 Mar 2015 07:05:58 GMT";until="Sun, 05 Apr 2015 14:14:54 GMT"

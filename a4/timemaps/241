@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://thenextweb.com/apple/2015/01/30/itunes-12-updated-yosemite-notification-center-widget/>;rel="original"
+,<http://web.archive.org/web/20150418223736/http://thenextweb.com/apple/2015/01/30/itunes-12-updated-yosemite-notification-center-widget/>;rel="memento first"; datetime="Sat, 18 Apr 2015 22:37:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://thenextweb.com/apple/2015/01/30/itunes-12-updated-yosemite-notification-center-widget/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://thenextweb.com/apple/2015/01/30/itunes-12-updated-yosemite-notification-center-widget/>;rel="self"; type="application/link-format"; from ="Sat, 18 Apr 2015 22:37:36 GMT";until="Sat, 18 Apr 2015 22:37:36 GMT"

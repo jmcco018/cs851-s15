@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:18:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://kyvan82.com>;rel="original"
+,<http://web.archive.org/web/20120510180306/http://www.kyvan82.com/>;rel="memento first"; datetime="Thu, 10 May 2012 18:03:06 GMT"
+,<http://web.archive.org/web/20120519111052/http://kyvan82.com/>;rel="memento"; datetime="Sat, 19 May 2012 11:10:52 GMT"
+,<http://web.archive.org/web/20120726001853/http://www.kyvan82.com/>;rel="memento"; datetime="Thu, 26 Jul 2012 00:18:53 GMT"
+,<http://web.archive.org/web/20130409091751/http://www.kyvan82.com/>;rel="memento"; datetime="Tue, 09 Apr 2013 09:17:51 GMT"
+,<http://web.archive.org/web/20130611124120/http://kyvan82.com/>;rel="memento"; datetime="Tue, 11 Jun 2013 12:41:20 GMT"
+,<http://web.archive.org/web/20130629035033/http://www.kyvan82.com/>;rel="memento"; datetime="Sat, 29 Jun 2013 03:50:33 GMT"
+,<http://web.archive.org/web/20130913111424/http://www.kyvan82.com/>;rel="memento"; datetime="Fri, 13 Sep 2013 11:14:24 GMT"
+,<http://web.archive.org/web/20131104142959/http://www.kyvan82.com/>;rel="memento"; datetime="Mon, 04 Nov 2013 14:29:59 GMT"
+,<http://web.archive.org/web/20131231110326/http://kyvan82.com/>;rel="memento"; datetime="Tue, 31 Dec 2013 11:03:26 GMT"
+,<http://web.archive.org/web/20140111074620/http://kyvan82.com/>;rel="memento"; datetime="Sat, 11 Jan 2014 07:46:20 GMT"
+,<http://web.archive.org/web/20140209195435/http://www.kyvan82.com/>;rel="memento"; datetime="Sun, 09 Feb 2014 19:54:35 GMT"
+,<http://web.archive.org/web/20140517212242/http://kyvan82.com/>;rel="memento"; datetime="Sat, 17 May 2014 21:22:42 GMT"
+,<http://web.archive.org/web/20140629081404/http://www.kyvan82.com/>;rel="memento"; datetime="Sun, 29 Jun 2014 08:14:04 GMT"
+,<http://web.archive.org/web/20140713065313/http://kyvan82.com/>;rel="memento"; datetime="Sun, 13 Jul 2014 06:53:13 GMT"
+,<http://web.archive.org/web/20141217230114/http://kyvan82.com/>;rel="memento last"; datetime="Wed, 17 Dec 2014 23:01:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://kyvan82.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://kyvan82.com>;rel="self"; type="application/link-format"; from ="Thu, 10 May 2012 18:03:06 GMT";until="Wed, 17 Dec 2014 23:01:14 GMT"

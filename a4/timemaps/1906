@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:41:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.jdradio.net>;rel="original"
+,<http://web.archive.org/web/20150210011024/http://www.jdradio.net/>;rel="memento first"; datetime="Tue, 10 Feb 2015 01:10:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.jdradio.net>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.jdradio.net>;rel="self"; type="application/link-format"; from ="Tue, 10 Feb 2015 01:10:24 GMT";until="Tue, 10 Feb 2015 01:10:24 GMT"

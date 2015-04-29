@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.verticalresponse.com/blog/14-sweet-valentines-day-email-subject-lines-3-ways-to-spice-up-your-emails/>;rel="original"
+,<http://web.archive.org/web/20150418203224/http://www.verticalresponse.com/blog/14-sweet-valentines-day-email-subject-lines-3-ways-to-spice-up-your-emails/>;rel="memento first"; datetime="Sat, 18 Apr 2015 20:32:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.verticalresponse.com/blog/14-sweet-valentines-day-email-subject-lines-3-ways-to-spice-up-your-emails/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.verticalresponse.com/blog/14-sweet-valentines-day-email-subject-lines-3-ways-to-spice-up-your-emails/>;rel="self"; type="application/link-format"; from ="Sat, 18 Apr 2015 20:32:24 GMT";until="Sat, 18 Apr 2015 20:32:24 GMT"

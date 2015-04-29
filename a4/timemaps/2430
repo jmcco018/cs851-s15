@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:49:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.reuters.com/article/2015/01/22/us-gaza-aid-reconstruction-idUSKBN0KV20920150122>;rel="original"
+,<http://web.archive.org/web/20150123133344/http://www.reuters.com/article/2015/01/22/us-gaza-aid-reconstruction-idUSKBN0KV20920150122>;rel="memento first"; datetime="Fri, 23 Jan 2015 13:33:44 GMT"
+,<http://web.archive.org/web/20150124163130/http://www.reuters.com/article/2015/01/22/us-gaza-aid-reconstruction-idUSKBN0KV20920150122>;rel="memento"; datetime="Sat, 24 Jan 2015 16:31:30 GMT"
+,<http://web.archive.org/web/20150125210451/http://www.reuters.com/article/2015/01/22/us-gaza-aid-reconstruction-idUSKBN0KV20920150122>;rel="memento"; datetime="Sun, 25 Jan 2015 21:04:51 GMT"
+,<http://web.archive.org/web/20150403190107/http://www.reuters.com/article/2015/01/22/us-gaza-aid-reconstruction-idUSKBN0KV20920150122>;rel="memento"; datetime="Fri, 03 Apr 2015 19:01:07 GMT"
+,<http://web.archive.org/web/20150419002118/http://www.reuters.com/article/2015/01/22/us-gaza-aid-reconstruction-idUSKBN0KV20920150122>;rel="memento last"; datetime="Sun, 19 Apr 2015 00:21:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.reuters.com/article/2015/01/22/us-gaza-aid-reconstruction-idUSKBN0KV20920150122>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.reuters.com/article/2015/01/22/us-gaza-aid-reconstruction-idUSKBN0KV20920150122>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 13:33:44 GMT";until="Sun, 19 Apr 2015 00:21:18 GMT"

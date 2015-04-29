@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:44:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://tabletolic.com/40230/furinno-14098r1lcbk-easy-assembly-computer-desk-light-cherry-4>;rel="original"
+,<http://web.archive.org/web/20150407231648/http://tabletolic.com/40230/furinno-14098r1lcbk-easy-assembly-computer-desk-light-cherry-4>;rel="memento first"; datetime="Tue, 07 Apr 2015 23:16:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://tabletolic.com/40230/furinno-14098r1lcbk-easy-assembly-computer-desk-light-cherry-4>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://tabletolic.com/40230/furinno-14098r1lcbk-easy-assembly-computer-desk-light-cherry-4>;rel="self"; type="application/link-format"; from ="Tue, 07 Apr 2015 23:16:48 GMT";until="Tue, 07 Apr 2015 23:16:48 GMT"

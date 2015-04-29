@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:02 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.metalinjection.net/upcoming-releases/dont-expect-that-new-morbid-angel-album-this-year>;rel="original"
+,<http://web.archive.org/web/20150326012155/http://www.metalinjection.net/upcoming-releases/dont-expect-that-new-morbid-angel-album-this-year>;rel="memento first"; datetime="Thu, 26 Mar 2015 01:21:55 GMT"
+,<http://web.archive.org/web/20150406082446/http://www.metalinjection.net/upcoming-releases/dont-expect-that-new-morbid-angel-album-this-year>;rel="memento last"; datetime="Mon, 06 Apr 2015 08:24:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.metalinjection.net/upcoming-releases/dont-expect-that-new-morbid-angel-album-this-year>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.metalinjection.net/upcoming-releases/dont-expect-that-new-morbid-angel-album-this-year>;rel="self"; type="application/link-format"; from ="Thu, 26 Mar 2015 01:21:55 GMT";until="Mon, 06 Apr 2015 08:24:46 GMT"

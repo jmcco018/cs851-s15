@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:36:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theverge.com/2014/12/16/7402499/pebble-actionable-notifications-android>;rel="original"
+,<http://web.archive.org/web/20141216182354/http://www.theverge.com/2014/12/16/7402499/pebble-actionable-notifications-android>;rel="memento first"; datetime="Tue, 16 Dec 2014 18:23:54 GMT"
+,<http://archive.is/20141216210425/http://www.theverge.com/2014/12/16/7402499/pebble-actionable-notifications-android>;rel="memento"; datetime="Tue, 16 Dec 2014 21:04:25 GMT"
+,<http://web.archive.org/web/20141216211932/http://www.theverge.com/2014/12/16/7402499/pebble-actionable-notifications-android>;rel="memento"; datetime="Tue, 16 Dec 2014 21:19:32 GMT"
+,<http://web.archive.org/web/20141217233012/http://www.theverge.com/2014/12/16/7402499/pebble-actionable-notifications-android>;rel="memento"; datetime="Wed, 17 Dec 2014 23:30:12 GMT"
+,<http://web.archive.org/web/20141219042545/http://www.theverge.com/2014/12/16/7402499/pebble-actionable-notifications-android>;rel="memento"; datetime="Fri, 19 Dec 2014 04:25:45 GMT"
+,<http://web.archive.org/web/20150202065349/http://www.theverge.com/2014/12/16/7402499/pebble-actionable-notifications-android>;rel="memento last"; datetime="Mon, 02 Feb 2015 06:53:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theverge.com/2014/12/16/7402499/pebble-actionable-notifications-android>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theverge.com/2014/12/16/7402499/pebble-actionable-notifications-android>;rel="self"; type="application/link-format"; from ="Tue, 16 Dec 2014 18:23:54 GMT";until="Mon, 02 Feb 2015 06:53:49 GMT"

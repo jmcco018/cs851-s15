@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://hochmanphotography.com/2011/10/monarch-butterfly-weed/>;rel="original"
+,<http://web.archive.org/web/20111010045605/http://hochmanphotography.com/2011/10/monarch-butterfly-weed/>;rel="memento first"; datetime="Mon, 10 Oct 2011 04:56:05 GMT"
+,<http://web.archive.org/web/20111210040240/http://hochmanphotography.com/2011/10/monarch-butterfly-weed/>;rel="memento last"; datetime="Sat, 10 Dec 2011 04:02:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://hochmanphotography.com/2011/10/monarch-butterfly-weed/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://hochmanphotography.com/2011/10/monarch-butterfly-weed/>;rel="self"; type="application/link-format"; from ="Mon, 10 Oct 2011 04:56:05 GMT";until="Sat, 10 Dec 2011 04:02:40 GMT"

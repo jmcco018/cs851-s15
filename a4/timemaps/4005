@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:21:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://moddea.com/2015/01/26/butterup-knife/>;rel="original"
+,<http://web.archive.org/web/20150322214453/http://moddea.com/2015/01/26/butterup-knife/>;rel="memento first"; datetime="Sun, 22 Mar 2015 21:44:53 GMT"
+,<http://web.archive.org/web/20150405034647/http://moddea.com/2015/01/26/butterup-knife/>;rel="memento last"; datetime="Sun, 05 Apr 2015 03:46:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://moddea.com/2015/01/26/butterup-knife/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://moddea.com/2015/01/26/butterup-knife/>;rel="self"; type="application/link-format"; from ="Sun, 22 Mar 2015 21:44:53 GMT";until="Sun, 05 Apr 2015 03:46:47 GMT"

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:57:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://deldot.gov/public.ejs?command=PublicBusinessPSIDisplay&id=T201107203>;rel="original"
+,<http://web.archive.org/web/20141011185832/http://www.deldot.gov/public.ejs?command=PublicBusinessPSIDisplay&id=T201107203>;rel="memento first"; datetime="Sat, 11 Oct 2014 18:58:32 GMT"
+,<http://web.archive.org/web/20150211191918/http://www.deldot.gov/public.ejs?command=PublicBusinessPSIDisplay&id=T201107203>;rel="memento"; datetime="Wed, 11 Feb 2015 19:19:18 GMT"
+,<http://web.archive.org/web/20150311193237/http://www.deldot.gov/public.ejs?command=PublicBusinessPSIDisplay&id=T201107203>;rel="memento"; datetime="Wed, 11 Mar 2015 19:32:37 GMT"
+,<http://web.archive.org/web/20150318171846/http://deldot.gov/public.ejs?command=PublicBusinessPSIDisplay&id=T201107203>;rel="memento"; datetime="Wed, 18 Mar 2015 17:18:46 GMT"
+,<http://web.archive.org/web/20150411184418/http://www.deldot.gov/public.ejs?command=PublicBusinessPSIDisplay&id=T201107203>;rel="memento last"; datetime="Sat, 11 Apr 2015 18:44:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://deldot.gov/public.ejs?command=PublicBusinessPSIDisplay&id=T201107203>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://deldot.gov/public.ejs?command=PublicBusinessPSIDisplay&id=T201107203>;rel="self"; type="application/link-format"; from ="Sat, 11 Oct 2014 18:58:32 GMT";until="Sat, 11 Apr 2015 18:44:18 GMT"

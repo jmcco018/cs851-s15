@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:46:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://sanfrancisco.cbslocal.com/2015/01/30/comedian-w-kamau-bell-says-he-was-profiled-berkeley-restaurant/>;rel="original"
+,<http://web.archive.org/web/20150320005741/http://sanfrancisco.cbslocal.com/2015/01/30/comedian-w-kamau-bell-says-he-was-profiled-berkeley-restaurant/>;rel="memento first"; datetime="Fri, 20 Mar 2015 00:57:41 GMT"
+,<http://web.archive.org/web/20150406065903/http://sanfrancisco.cbslocal.com/2015/01/30/comedian-w-kamau-bell-says-he-was-profiled-berkeley-restaurant>;rel="memento last"; datetime="Mon, 06 Apr 2015 06:59:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://sanfrancisco.cbslocal.com/2015/01/30/comedian-w-kamau-bell-says-he-was-profiled-berkeley-restaurant/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://sanfrancisco.cbslocal.com/2015/01/30/comedian-w-kamau-bell-says-he-was-profiled-berkeley-restaurant/>;rel="self"; type="application/link-format"; from ="Fri, 20 Mar 2015 00:57:41 GMT";until="Mon, 06 Apr 2015 06:59:03 GMT"

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:53:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.independent.co.uk/arts-entertainment/music/news/wireless-festival-2015-lineup-nicki-minaj-avicii-and-drake-confirmed-to-perform-10013587.html>;rel="original"
+,<http://archive.is/20150131120629/http://www.independent.co.uk/arts-entertainment/music/news/wireless-festival-2015-lineup-nicki-minaj-avicii-and-drake-confirmed-to-perform-10013587.html>;rel="memento first"; datetime="Sat, 31 Jan 2015 12:06:29 GMT"
+,<http://web.archive.org/web/20150131151514/http://www.independent.co.uk/arts-entertainment/music/news/wireless-festival-2015-lineup-nicki-minaj-avicii-and-drake-confirmed-to-perform-10013587.html>;rel="memento"; datetime="Sat, 31 Jan 2015 15:15:14 GMT"
+,<http://web.archive.org/web/20150408173430/http://www.independent.co.uk/arts-entertainment/music/news/wireless-festival-2015-lineup-nicki-minaj-avicii-and-drake-confirmed-to-perform-10013587.html>;rel="memento last"; datetime="Wed, 08 Apr 2015 17:34:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.independent.co.uk/arts-entertainment/music/news/wireless-festival-2015-lineup-nicki-minaj-avicii-and-drake-confirmed-to-perform-10013587.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.independent.co.uk/arts-entertainment/music/news/wireless-festival-2015-lineup-nicki-minaj-avicii-and-drake-confirmed-to-perform-10013587.html>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 12:06:29 GMT";until="Wed, 08 Apr 2015 17:34:30 GMT"

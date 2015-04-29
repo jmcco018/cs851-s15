@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:51:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bbc.co.uk/news/world-australia-31052633>;rel="original"
+,<//wayback.archive-it.org/all/20150201061346/http://www.bbc.co.uk/news/world-australia-31052633>;rel="memento first"; datetime="Sun, 01 Feb 2015 06:13:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bbc.co.uk/news/world-australia-31052633>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bbc.co.uk/news/world-australia-31052633>;rel="self"; type="application/link-format"; from ="Sun, 01 Feb 2015 06:13:46 GMT";until="Sun, 01 Feb 2015 06:13:46 GMT"

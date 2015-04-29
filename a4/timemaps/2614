@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:52:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.oracle.com/us/corporate/profit/big-ideas/012715-dlilley-2411421.html>;rel="original"
+,<http://web.archive.org/web/20150403124406/http://www.oracle.com/us/corporate/profit/big-ideas/012715-dlilley-2411421.html>;rel="memento first"; datetime="Fri, 03 Apr 2015 12:44:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.oracle.com/us/corporate/profit/big-ideas/012715-dlilley-2411421.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.oracle.com/us/corporate/profit/big-ideas/012715-dlilley-2411421.html>;rel="self"; type="application/link-format"; from ="Fri, 03 Apr 2015 12:44:06 GMT";until="Fri, 03 Apr 2015 12:44:06 GMT"

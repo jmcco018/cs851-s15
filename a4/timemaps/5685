@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:50:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.universetoday.com/118431/exploring-the-universe-with-nuclear-power/>;rel="original"
+,<http://archive.is/20150131141954/http://www.universetoday.com/118431/exploring-the-universe-with-nuclear-power/>;rel="memento first"; datetime="Sat, 31 Jan 2015 14:19:54 GMT"
+,<http://web.archive.org/web/20150406072636/http://www.universetoday.com/118431/exploring-the-universe-with-nuclear-power/>;rel="memento last"; datetime="Mon, 06 Apr 2015 07:26:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.universetoday.com/118431/exploring-the-universe-with-nuclear-power/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.universetoday.com/118431/exploring-the-universe-with-nuclear-power/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 14:19:54 GMT";until="Mon, 06 Apr 2015 07:26:36 GMT"

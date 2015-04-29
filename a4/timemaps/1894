@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:40:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nba.com/2015/news/as.rising.stars/01/28/rising-stars-roster-official-release/>;rel="original"
+,<http://webcitation.org/query?id=1423299625490455>;rel="memento first"; datetime="Sat, 07 Feb 2015 09:00:30 GMT"
+,<http://archive.is/20150209114156/http://www.nba.com/2015/news/as.rising.stars/01/28/rising-stars-roster-official-release/>;rel="memento"; datetime="Mon, 09 Feb 2015 11:41:56 GMT"
+,<http://web.archive.org/web/20150323113332/http://www.nba.com/2015/news/as.rising.stars/01/28/rising-stars-roster-official-release/>;rel="memento last"; datetime="Mon, 23 Mar 2015 11:33:32 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nba.com/2015/news/as.rising.stars/01/28/rising-stars-roster-official-release/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nba.com/2015/news/as.rising.stars/01/28/rising-stars-roster-official-release/>;rel="self"; type="application/link-format"; from ="Sat, 07 Feb 2015 09:00:30 GMT";until="Mon, 23 Mar 2015 11:33:32 GMT"

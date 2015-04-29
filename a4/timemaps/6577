@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.fantasyalarm.com/articles/jeffmans/19866/super-bowl-xlix-the-ultimate-super-bowl-pool/>;rel="original"
+,<http://web.archive.org/web/20150318093831/http://www.fantasyalarm.com/articles/jeffmans/19866/super-bowl-xlix-the-ultimate-super-bowl-pool/>;rel="memento first"; datetime="Wed, 18 Mar 2015 09:38:31 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.fantasyalarm.com/articles/jeffmans/19866/super-bowl-xlix-the-ultimate-super-bowl-pool/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.fantasyalarm.com/articles/jeffmans/19866/super-bowl-xlix-the-ultimate-super-bowl-pool/>;rel="self"; type="application/link-format"; from ="Wed, 18 Mar 2015 09:38:31 GMT";until="Wed, 18 Mar 2015 09:38:31 GMT"

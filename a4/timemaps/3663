@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:13:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.amazon.com/dp/B00N9QOV7U>;rel="original"
+,<http://web.archive.org/web/20141217225432/http://amazon.com/dp/B00N9QOV7U>;rel="memento first"; datetime="Wed, 17 Dec 2014 22:54:32 GMT"
+,<http://web.archive.org/web/20141217230721/https://www.amazon.com/dp/B00N9QOV7U>;rel="memento last"; datetime="Wed, 17 Dec 2014 23:07:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.amazon.com/dp/B00N9QOV7U>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.amazon.com/dp/B00N9QOV7U>;rel="self"; type="application/link-format"; from ="Wed, 17 Dec 2014 22:54:32 GMT";until="Wed, 17 Dec 2014 23:07:21 GMT"

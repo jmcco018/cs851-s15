@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:21:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="original"
+,<http://web.archive.org/web/20131230210829/http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="memento first"; datetime="Mon, 30 Dec 2013 21:08:29 GMT"
+,<http://web.archive.org/web/20140725014737/http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="memento"; datetime="Fri, 25 Jul 2014 01:47:37 GMT"
+,<http://web.archive.org/web/20140726200048/http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="memento"; datetime="Sat, 26 Jul 2014 20:00:48 GMT"
+,<http://web.archive.org/web/20140814213142/http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="memento"; datetime="Thu, 14 Aug 2014 21:31:42 GMT"
+,<http://web.archive.org/web/20140831074944/http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="memento"; datetime="Sun, 31 Aug 2014 07:49:44 GMT"
+,<http://web.archive.org/web/20150219064103/http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="memento"; datetime="Thu, 19 Feb 2015 06:41:03 GMT"
+,<http://web.archive.org/web/20150418084021/http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="memento last"; datetime="Sat, 18 Apr 2015 08:40:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://notalllikethat.org/taking-god-at-his-word-the-bible-and-homosexuality/>;rel="self"; type="application/link-format"; from ="Mon, 30 Dec 2013 21:08:29 GMT";until="Sat, 18 Apr 2015 08:40:21 GMT"

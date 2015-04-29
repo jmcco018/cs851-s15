@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:17:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://couponing4you.net/4-disney-movies-and-a-free-backpack-for-1-shipped/>;rel="original"
+,<http://web.archive.org/web/20140213043144/http://couponing4you.net/4-disney-movies-and-a-free-backpack-for-1-shipped/>;rel="memento first"; datetime="Thu, 13 Feb 2014 04:31:44 GMT"
+,<http://web.archive.org/web/20140323112806/http://couponing4you.net/4-disney-movies-and-a-free-backpack-for-1-shipped/>;rel="memento"; datetime="Sun, 23 Mar 2014 11:28:06 GMT"
+,<http://web.archive.org/web/20140325153443/http://couponing4you.net/4-disney-movies-and-a-free-backpack-for-1-shipped/>;rel="memento last"; datetime="Tue, 25 Mar 2014 15:34:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://couponing4you.net/4-disney-movies-and-a-free-backpack-for-1-shipped/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://couponing4you.net/4-disney-movies-and-a-free-backpack-for-1-shipped/>;rel="self"; type="application/link-format"; from ="Thu, 13 Feb 2014 04:31:44 GMT";until="Tue, 25 Mar 2014 15:34:43 GMT"

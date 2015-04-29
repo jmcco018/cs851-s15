@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://dellarice.com/eat-sleep-be-blogger-creates-a-turkey-tex-mex-rice-bowl-stir-recipe/>;rel="original"
+,<http://web.archive.org/web/20150324044150/http://dellarice.com/eat-sleep-be-blogger-creates-a-turkey-tex-mex-rice-bowl-stir-recipe/>;rel="memento first"; datetime="Tue, 24 Mar 2015 04:41:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://dellarice.com/eat-sleep-be-blogger-creates-a-turkey-tex-mex-rice-bowl-stir-recipe/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://dellarice.com/eat-sleep-be-blogger-creates-a-turkey-tex-mex-rice-bowl-stir-recipe/>;rel="self"; type="application/link-format"; from ="Tue, 24 Mar 2015 04:41:50 GMT";until="Tue, 24 Mar 2015 04:41:50 GMT"

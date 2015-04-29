@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:11:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.tesfanews.net/esat-establishes-contact-with-defected-ethiopian-helicopter-pilots/>;rel="original"
+,<http://web.archive.org/web/20150406075004/http://www.tesfanews.net/esat-establishes-contact-with-defected-ethiopian-helicopter-pilots/>;rel="memento first"; datetime="Mon, 06 Apr 2015 07:50:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.tesfanews.net/esat-establishes-contact-with-defected-ethiopian-helicopter-pilots/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.tesfanews.net/esat-establishes-contact-with-defected-ethiopian-helicopter-pilots/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 07:50:04 GMT";until="Mon, 06 Apr 2015 07:50:04 GMT"

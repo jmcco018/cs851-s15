@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:33:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blogs.unicef.org/2015/01/27/why-nutrition-and-breastfeeding-are-crucial-to-sustainable-development/>;rel="original"
+,<http://web.archive.org/web/20150406083114/http://blogs.unicef.org/2015/01/27/why-nutrition-and-breastfeeding-are-crucial-to-sustainable-development/>;rel="memento first"; datetime="Mon, 06 Apr 2015 08:31:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blogs.unicef.org/2015/01/27/why-nutrition-and-breastfeeding-are-crucial-to-sustainable-development/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blogs.unicef.org/2015/01/27/why-nutrition-and-breastfeeding-are-crucial-to-sustainable-development/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 08:31:14 GMT";until="Mon, 06 Apr 2015 08:31:14 GMT"

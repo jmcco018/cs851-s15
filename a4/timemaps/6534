@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.fastcompany.com/3041761/fast-feed/jay-z-buys-music-streaming-aspiro-for-56-million>;rel="original"
+,<//wayback.archive-it.org/all/20150309134852/http://www.fastcompany.com/3041761/fast-feed/jay-z-buys-music-streaming-aspiro-for-56-million>;rel="memento first"; datetime="Mon, 09 Mar 2015 13:48:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.fastcompany.com/3041761/fast-feed/jay-z-buys-music-streaming-aspiro-for-56-million>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.fastcompany.com/3041761/fast-feed/jay-z-buys-music-streaming-aspiro-for-56-million>;rel="self"; type="application/link-format"; from ="Mon, 09 Mar 2015 13:48:52 GMT";until="Mon, 09 Mar 2015 13:48:52 GMT"

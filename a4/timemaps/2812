@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:55:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="original"
+,<http://web.archive.org/web/20150130120045/http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 12:00:45 GMT"
+,<http://archive.is/20150130170404/http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="memento"; datetime="Fri, 30 Jan 2015 17:04:04 GMT"
+,<http://web.archive.org/web/20150130202840/http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="memento"; datetime="Fri, 30 Jan 2015 20:28:40 GMT"
+,<//wayback.archive-it.org/all/20150201111556/http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="memento"; datetime="Sun, 01 Feb 2015 11:15:56 GMT"
+,<http://web.archive.org/web/20150207135743/http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="memento"; datetime="Sat, 07 Feb 2015 13:57:43 GMT"
+,<http://web.archive.org/web/20150210053949/http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="memento"; datetime="Tue, 10 Feb 2015 05:39:49 GMT"
+,<http://web.archive.org/web/20150407075240/http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="memento last"; datetime="Tue, 07 Apr 2015 07:52:40 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dailymail.co.uk/news/article-2932702/Now-ISIS-threatened-prisoners-executed-Jordan-says-hang-Islamic-State-prisoners-terror-group-killed-pilot-hostage.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 12:00:45 GMT";until="Tue, 07 Apr 2015 07:52:40 GMT"

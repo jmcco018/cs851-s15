@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:29:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.okayafrica.com/news/boom-africa-love-affair-okmalumkoolkat-kalaf-nastio-mosquito/>;rel="original"
+,<http://web.archive.org/web/20150205004554/http://www.okayafrica.com/news/boom-africa-love-affair-okmalumkoolkat-kalaf-nastio-mosquito/>;rel="memento first"; datetime="Thu, 05 Feb 2015 00:45:54 GMT"
+,<http://web.archive.org/web/20150327100157/http://www.okayafrica.com/news/boom-africa-love-affair-okmalumkoolkat-kalaf-nastio-mosquito/>;rel="memento last"; datetime="Fri, 27 Mar 2015 10:01:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.okayafrica.com/news/boom-africa-love-affair-okmalumkoolkat-kalaf-nastio-mosquito/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.okayafrica.com/news/boom-africa-love-affair-okmalumkoolkat-kalaf-nastio-mosquito/>;rel="self"; type="application/link-format"; from ="Thu, 05 Feb 2015 00:45:54 GMT";until="Fri, 27 Mar 2015 10:01:57 GMT"

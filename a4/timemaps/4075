@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:23:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.hypefortype.com/foundries/the-northern-block.html>;rel="original"
+,<http://web.archive.org/web/20140527090722/http://www.hypefortype.com/foundries/the-northern-block.html>;rel="memento first"; datetime="Tue, 27 May 2014 09:07:22 GMT"
+,<http://web.archive.org/web/20140914014357/http://www.hypefortype.com/foundries/the-northern-block.html>;rel="memento last"; datetime="Sun, 14 Sep 2014 01:43:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.hypefortype.com/foundries/the-northern-block.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.hypefortype.com/foundries/the-northern-block.html>;rel="self"; type="application/link-format"; from ="Tue, 27 May 2014 09:07:22 GMT";until="Sun, 14 Sep 2014 01:43:57 GMT"

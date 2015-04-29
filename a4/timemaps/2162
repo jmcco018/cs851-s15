@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:45:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dsr.fm>;rel="original"
+,<http://web.archive.org/web/20130825001126/http://www.dsr.fm/>;rel="memento first"; datetime="Sun, 25 Aug 2013 00:11:26 GMT"
+,<http://web.archive.org/web/20130826050404/http://www.dsr.fm/>;rel="memento"; datetime="Mon, 26 Aug 2013 05:04:04 GMT"
+,<http://web.archive.org/web/20140412011318/http://www.dsr.fm/>;rel="memento"; datetime="Sat, 12 Apr 2014 01:13:18 GMT"
+,<http://web.archive.org/web/20140517025029/http://dsr.fm/>;rel="memento"; datetime="Sat, 17 May 2014 02:50:29 GMT"
+,<http://web.archive.org/web/20140612050707/http://www.dsr.fm/>;rel="memento"; datetime="Thu, 12 Jun 2014 05:07:07 GMT"
+,<http://web.archive.org/web/20140812052012/http://www.dsr.fm/>;rel="memento"; datetime="Tue, 12 Aug 2014 05:20:12 GMT"
+,<http://web.archive.org/web/20140817061933/http://www.dsr.fm/>;rel="memento"; datetime="Sun, 17 Aug 2014 06:19:33 GMT"
+,<http://web.archive.org/web/20140905073325/http://www.dsr.fm/>;rel="memento"; datetime="Fri, 05 Sep 2014 07:33:25 GMT"
+,<http://web.archive.org/web/20141202163327/http://www.dsr.fm/>;rel="memento"; datetime="Tue, 02 Dec 2014 16:33:27 GMT"
+,<http://web.archive.org/web/20141203153319/http://www.dsr.fm/>;rel="memento"; datetime="Wed, 03 Dec 2014 15:33:19 GMT"
+,<http://web.archive.org/web/20141217034651/http://dsr.fm/>;rel="memento"; datetime="Wed, 17 Dec 2014 03:46:51 GMT"
+,<http://web.archive.org/web/20141219121620/http://www.dsr.fm/>;rel="memento"; datetime="Fri, 19 Dec 2014 12:16:20 GMT"
+,<http://web.archive.org/web/20150119022444/http://www.dsr.fm/>;rel="memento last"; datetime="Mon, 19 Jan 2015 02:24:44 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dsr.fm>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dsr.fm>;rel="self"; type="application/link-format"; from ="Sun, 25 Aug 2013 00:11:26 GMT";until="Mon, 19 Jan 2015 02:24:44 GMT"

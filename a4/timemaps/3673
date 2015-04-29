@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:13:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.420tamilcinema.com/2012/10/11/fifty-amusing-dog-faces-compilation-fifty-humorous-pets-and-humorous-animals-2012/>;rel="original"
+,<http://web.archive.org/web/20150409040206/http://www.420tamilcinema.com/2012/10/11/fifty-amusing-dog-faces-compilation-fifty-humorous-pets-and-humorous-animals-2012/>;rel="memento first"; datetime="Thu, 09 Apr 2015 04:02:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.420tamilcinema.com/2012/10/11/fifty-amusing-dog-faces-compilation-fifty-humorous-pets-and-humorous-animals-2012/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.420tamilcinema.com/2012/10/11/fifty-amusing-dog-faces-compilation-fifty-humorous-pets-and-humorous-animals-2012/>;rel="self"; type="application/link-format"; from ="Thu, 09 Apr 2015 04:02:06 GMT";until="Thu, 09 Apr 2015 04:02:06 GMT"

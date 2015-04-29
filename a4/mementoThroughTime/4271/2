@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<!--
+                             _ _
+ _ __   __ _ _ __   ___ _ __| (_)
+| '_ \ / _` | '_ \ / _ \ '__| | |
+| |_) | (_| | |_) |  __/ | _| | |
+| .__/ \__,_| .__/ \___|_|(_)_|_|
+|_|         |_|
+
+
+-->
+<html
+   lang="en"
+   class="no-js"
+   xmlns="http://www.w3.org/1999/xhtml" 
+   xmlns:og="http://ogp.me/ns#" 
+   xmlns:fb="http://www.facebook.com/2008/fbml"
+   xmlns:paperli="http://paper.li/ns#">
+
+   <head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app15.us.archive.org";archive_analytics.values.server_ms=230;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+	   <meta charset="utf-8">
+	   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+	   <title>The #SMEcommunity Review</title>
+	
+	  <meta name="author" content="SmallRivers">
+	
+      <link rel="icon" href="/favicon.ico" type="image/x-icon">
+      <link rel="shortcut icon" href="/web/20120117183709im_/http://paper.li/favicon.ico">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+
+	  
+   	  	<link href="/web/20120117183709cs_/http://paper.li/stylesheets/main.css?1326788712" media="all" rel="stylesheet" type="text/css" />
+   	  
+   	
+   	
+   		<script src="/web/20120117183709js_/http://paper.li/javascripts/lib.min.js?1326788676" type="text/javascript"></script>
+   		<script src="/web/20120117183709js_/http://paper.li/javascripts/papers.min.js?1326792183" type="text/javascript"></script>		
+   		<script src="/web/20120117183709js_/http://paper.li/javascripts/app.min.js?1326807515" type="text/javascript"></script>		
+   		<script src="/web/20120117183709js_/http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>	
+   		
+   		<script src="/web/20120117183709js_/http://paper.li/javascripts/papers/en.js?1326788963" type="text/javascript"></script>	
+   		<script src="/web/20120117183709js_/http://paper.li/javascripts/paper_settings.js?1324653235" type="text/javascript"></script>
+   		<script src="/web/20120117183709js_/http://paper.li/javascripts/jquery.ba-throttle-debounce.min.js?1311243681" type="text/javascript"></script>
+   		<script src="/web/20120117183709js_/http://paper.li/javascripts/jquery.ba-bbq.min.js?1320743900" type="text/javascript"></script>
+		<script src="/web/20120117183709js_/http://platform.linkedin.com/in.js" type="text/javascript"></script>
+   	
+
+      <script type="text/javascript">
+//<![CDATA[
+var AUTH_TOKEN = "jwKDts7/NKdVSIbcvqCPpbi89Vwg5EwEmX9h2jUK96I=";
+//]]>
+</script>      <script type="text/javascript">
+//<![CDATA[
+window.user_logged = false;
+//]]>
+</script>      
+      
+        <meta property="og:title" content="The #SMEcommunity Review"/>
+        <meta property="og:description" content="#SMEcommunity is a network set up on Twitter by Irish SMEs for Irish 
+SMEs, the aim is to support, network, help and advise each other through
+ Social Media.
+
+Anyone can join in by using the hashtag #SMEcommunity on Twitter, and 
+get updates from @SMEcommunity_ie
+on Twitter, LinkedIn, and Facebook and all over the web!This initiative also involves organizing Networking Events for 
+business owners and employers across the country who want to connect and
+ discuss positive solutions to issues affecting small business in 
+Ireland. Join the Irish SME conversation by adding the #SMEcommunity hashtag to your tweets ..The #SMEcommunity Review is a daily round-up of #SMEcommunity activity on Twitter!To be featured:1) Follow @SMEcommunity_ie2) Tweet &amp; share links;3) Add the hashtag #SMEcommunity to your tweets."/>
+        <meta property="og:type" content="paper_li:newspaper"/>
+        <meta property="og:url" content="http://paper.li/SMEcommunity_ie/1311435271"/>
+        <meta property="og:image" content="http://themarketingshop.ie/wp-content/uploads/et_temp/STOP-32302_186x186.jpg"/>
+        <meta property="og:site_name" content="paper.li"/>
+        <meta property="fb:app_id" content="362293833600"/>
+        <meta property="og:locale" content="en_US" />
+        
+        <meta property="og:locale:alternate" content="de_DE" />
+        <meta property="og:locale:alternate" content="en_US" />
+        <meta property="og:locale:alternate" content="es_ES" />
+        <meta property="og:locale:alternate" content="fr_FR" />
+        <meta property="og:locale:alternate" content="ja_JP" />
+        <meta property="og:locale:alternate" content="pt_PT" />
+      <meta name="description" content="A personalized newspaper built from articles, blog posts, videos and photos selected by #SMEcommunity." /><meta name="fragment" content="!" />
+	
+	<style>
+		html{
+			 
+				background-image: url("/web/20120117183709im_/http://www.anthonylingwood.com/media/blogs/photo/SME_COMMUNITY.gif") !important;
+			
+			
+			
+				background-position: center top !important;
+			
+			
+			
+			
+			
+				background-repeat: repeat !important;
+				
+			
+			background-attachment: fixed !important;
+		}
+		body{
+			background: none;
+		}
+	</style>
+	
+
+		<script src="/web/20120117183709js_/http://widgets.paper.li/javascripts/init.js" type="text/javascript"></script>
+		<script type="text/javascript"><!--// <![CDATA[
+			OA_zones = {"tpl1":8,"tp-Eco1":16,"tps3":13,"tpl2":9,"tpl3":10,"mpl1":5,"tpl4":14,"topic-browsing-sidebar1":37,"paper1":32,"mpl2":6,"tps1":11,"mpl3":7,"mp-Eco1":15,"tps2":12};
+		// ]]> --></script>
+		<script src="/web/20120117183709js_/http://ads.paper.li/delivery/spcjs.php?id=4" type="text/javascript"></script>
+	
+      
+      
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+      
+	  _gaq.push(['_setAccount', 'UA-15250297-1']);
+      _gaq.push(['_setDomainName', '.paper.li']);
+      
+      _gaq.push(['_setAllowHash', 'false']);
+	  
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? '/web/20120117183709/https://ssl' : '/web/20120117183709/http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>		
+
+      
+      <script type="text/javascript" src="/web/20120117183709js_/https://apis.google.com/js/plusone.js">
+	
+   		{lang: 'en'}
+	 
+</script>
+      <meta name="google-site-verification" content="wFFH4bLMmgYz1xXS9FCutijYdbwmOhKCr9z9uWMdslc" />
+   </head>
+
+   <body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://paper.li/SMEcommunity_ie/1311435271";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "17";
+var displayMonth = "Jan";
+var displayYear = "2012";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://paper.li/SMEcommunity_ie/1311435271" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20120117183709" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20111213073810/http://paper.li/SMEcommunity_ie/1311435271" title="13 Dec 2011">DEC</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 18:37:09 Jan 17, 2012">JAN</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20120317025738/http://paper.li/smecommunity_ie/1311435271" title="17 Mar 2012"><strong>MAR</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20111213073810/http://paper.li/SMEcommunity_ie/1311435271" title="7:38:10 Dec 13, 2011"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 18:37:09 Jan 17, 2012">17</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20120119120154/http://paper.li/SMEcommunity_ie/1311435271" title="12:01:54 Jan 19, 2012"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2011
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 18:37:09 Jan 17, 2012">2012</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20130625231621/http://paper.li/SMEcommunity_ie/1311435271" title="25 Jun 2013"><strong>2013</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20120117183709*/http://paper.li/SMEcommunity_ie/1311435271" title="See a list of every capture for this URL">26 captures</a>
+           <div class="r" title="Timespan for captures of this URL">12 Oct 11 - 16 Apr 14</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000111_2012:0:313201110020_2013:-1:100001101100_2014:-1:003100000000_2015:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+	   <div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId: '362293833600', 
+			status: true, 
+			cookie: true, 
+			xfbml: true, 
+			channelUrl  : '/web/20120117183709/http://paper.li/channel.html'  // custom channel
+		});
+	};
+	(function() {
+		var e = document.createElement('script'); e.async = true;
+		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		document.getElementById('fb-root').appendChild(e);
+	}());
+</script>
+	   
+   	<!-- ALERTS AND NOTIFICATIONS AREA -->
+   	<div id="alerts">
+   		
+   		
+
+<div id="alertbar" class="m-warning">
+	<i class="tm-icon">&nbsp;</i>
+	<div class="alertbar-message">
+		<p>You are using an old version of <strong>Internet Explorer</strong>. To view Paper.li correctly please <a href="/web/20120117183709/http://www.microsoft.com/internetexplorer" target="_blank">upgrade</a> or switch to a another browser.</p>
+	</div>
+	<a class="alertbar-close" href="#"></a>
+</div>
+   		<noscript>
+   <div id="alertbar" class="m-warning" style="display:block">
+   	<div class="alertbar-message">
+   		<p style="font-size: 16px;">Please enable Javascript to correctly display the contents on Paper.li</p>
+   	</div>
+   </div>
+</noscript>
+   	</div>
+	
+   	<!-- WEBSITE MAIN WRAPPER -->
+   	<div id="wrapper">
+		
+   		<!-- Main header -->
+   		<div id="header">
+   		  <div id="navbar">
+   <div class="container">
+      <div class="row">
+         <div class="span18">
+            
+            <a class="nav-logo" href="/web/20120117183709/http://paper.li/" target="_self" title="Paper.li">Paper.li</a>
+            
+            
+      		<div id="nav-search">
+      			<form action="/web/20120117183709/http://paper.li/newsstand" id="paper_search" method="get">
+      				<input class="search-field" id="name" name="q" title="Find papers or people" type="text" />
+      				<input type="submit" value="" class="search-btn" />
+      			</form>
+      		</div>
+      		
+      		
+      		
+      		
+      		<div id="nav-actions">
+               
+               <div id="user-logedout">
+                  <a href="/web/20120117183709/https://login.paper.li/openid/v2/signin?token_url=http%3A%2F%2Fpaper.li%2F%7E%2Frpx%2Flogin_return%3Fredirect_to%3D%252F%257E%252Fpapers%252Fnew" class="rpxnow btn xsmall yellow" onclick="return false;">Start your paper<span></span></a>
+                  <a href="/web/20120117183709/https://login.paper.li/openid/v2/signin?token_url=http%3A%2F%2Fpaper.li%2F%7E%2Frpx%2Flogin_return" class="rpxnow sign-in-bt" onclick="return false;">sign up / log in<span></span></a>
+      			</div>
+               
+      		</div>
+      		
+      	</div>
+      </div>
+   </div>
+</div>
+   		</div>
+		
+   		<!-- Sticky container for flash messages -->
+   		<div id="sticky-container">
+   			
+   			<div id="flash-message-js"></div>
+   		</div>
+		
+   		<!-- Main content -->
+   		<div id="main">
+   				
+	
+
+	
+	
+	
+	
+
+	
+
+
+		
+	
+	<div id="newspaper" class="wrapper">
+		<div id="paper-window">
+			<div class="paper-grid">
+				<header id="paper-header">
+					
+
+<div id="paper-top-info">
+	<time class="paper-date">Tuesday, Jan. 17, 2012</time>
+	    
+		
+		
+			<script src="/web/20120117183709js_/http://paper.li/javascripts/archives_picker.min.js?1321008240" type="text/javascript"></script>
+		
+		<script type="text/javascript">
+			// Define current edition date
+			var currentEditionDate = "2012/01/17";
+			
+			// Define paper path
+			var paperPath = "/SMEcommunity_ie/1311435271";
+		</script>
+	
+	<div class="archives">
+		<a class="archives-button" href="javascript:;"><i></i>Archives</a>
+
+		<div class="archives-container">
+			<div id="datepicker"></div>
+		</div>
+	</div>
+
+	
+	<div class="update-wrapper">
+		
+		
+		
+	</div>
+
+	<div class="share-buttons">
+		<div class="share">
+   
+   
+		<span style="float:left;">
+			<fb:like width="50" layout="button_count" show_faces="false" data-send="true"></fb:like>
+		</span>
+	
+   
+	
+		<span style="float:left;">
+			<div class="google_share_button">
+	<g:plusone size="medium"></g:plusone>
+</div>
+		</span>
+	
+
+	
+		<span style="float:left;">
+			
+
+  <a href="/web/20120117183709/http://twitter.com/share" style="display: none;" class="twitter-share-button" data-count="horizontal" data-related="smallrivers">Tweet</a>
+  <script>
+    $(document).ready(function(){
+      $.ajax({
+          url: '/~api/papers/' + settings.paper_id + '/tweet',
+          type: 'get',
+          success: function (resp) {
+            if (resp.status == 200) {
+              $('a.twitter-share-button')
+                .attr('data-text', resp.data);
+              $.getScript('/web/20120117183709/http://platform.twitter.com/widgets.js');
+            }
+          },
+          error: function (xhr, status, error){
+          }
+      });
+    });
+  </script>
+
+
+		</span>
+	
+
+	
+	   <span style="float:right;">
+		   <script type="IN/Share" data-counter="right"></script>
+		</span>
+	
+
+</div>
+	</div>
+</div>
+
+<div id="paper-title-container">
+	
+	<h1 class="paper-title "><div class="title-wrapper"><sup><em>The</em></sup> <strong>#SMEcommunity</strong> <sup><em>Review</em></sup></div></h1>
+	<h2 class="paper-subtitle">Published by <a class="light" href="/web/20120117183709/http://paper.li/~/publisher/710809" target="_blank">#SMEcommunity</a> &#8211; 82 news spotters today</h2>
+	
+</div>
+
+<div id="paper-nav">
+	<div class="paper-nav-top">
+		<div class="paper-nav-links">
+			<ul>
+				
+				
+				
+				
+					<li class="next-edition"><span>Next update in about 21 hours</span></li>
+				
+				
+					
+						<li class="paper-nav-right-buttons">
+							<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/~list" class="pn-articles">See all articles</a>
+						</li>
+					
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+				</header>
+
+				<div id="paper-tabs"></div>
+		
+				<footer id="paper-footer">
+					a <a href="/web/20120117183709/http://paper.li/"><img src="/web/20120117183709im_/http://paper.li/images/paperli-logo-small.png" style="vertical-align: middle;"/></a> newspaper
+				</footer>
+			</div>
+		</div>
+    </div>
+	
+		
+	<div style="display: none;">
+		
+			
+	    	
+	            	
+	                    	
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/07/23">Saturday, 23 - edition 1</a>
+								
+							
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/07/24">Sunday, 24 - edition 1</a>
+								
+							
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/07/25">Monday, 25 - edition 1</a>
+								
+							
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/07/26">Tuesday, 26 - edition 1</a>
+								
+							
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/07/27">Wednesday, 27 - edition 1</a>
+								
+							
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/07/28">Thursday, 28 - edition 1</a>
+								
+							
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/07/29">Friday, 29 - edition 1</a>
+								
+							
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/07/30">Saturday, 30 - edition 1</a>
+								
+							
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/07/31">Sunday, 31 - edition 1</a>
+								
+							
+					
+	                    	
+	                    		
+	                        		<a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271/2011/08/01">Monday, 01 - edition 1</a>
+								
+							
+					
+			
+		
+	</div>
+
+
+	
+	
+	
+
+   		</div>
+	
+         <!-- Sticky footer pusher -->
+         <div class="push"></div>
+
+      </div>
+	
+   	<!-- MAIN FOOTER -->
+      <div id="footer">
+         <div class="container">
+   <div class="row">
+      <div class="span18">
+         <ul class="footer-menu">
+            <li><a href="/web/20120117183709/http://paper.li/stop-mentions.html">Stop mentions</a> / </li>
+            <li><a href="/web/20120117183709/http://paper.li/introduction.html">About Us</a> / </li>
+            <li><a href="/web/20120117183709/http://paper.li/jobs.html">Jobs</a> / </li>
+            <li><a href="/web/20120117183709/http://community.paper.li/" target="_blank">Community</a> / </li>
+            <li><a href="/web/20120117183709/http://blog.paper.li/" target="_blank">Blog</a> / </li>
+            <li><a href="/web/20120117183709/http://support.paper.li/" target="_blank">Help</a> / </li>
+            <li><a href="/web/20120117183709/http://paper.li/terms.html">Terms</a> / </li>
+            <li><a href="/web/20120117183709/http://paper.li/privacy.html">Privacy</a> </li>
+         </ul>
+         
+         <div class="footer-info">
+            <!--<p class="copyrights"></p>-->
+            <p class="copyrights"><a href="/web/20120117183709/http://paper.li/introduction.html" target="_blank">&copy; SmallRivers 2012</a></p>
+   			<p>Paper.li is not affiliated, sponsored or endorsed by Twitter or Facebook.</p>
+			</div>
+
+   		<ul class="footer-lang">
+   			<li><a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271?lang=en" class="current">EN</a> / </li>
+   			<li><a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271?lang=de" class="">DE</a> / </li>
+   			<li><a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271?lang=fr" class="">FR</a> / </li>
+   			<li><a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271?lang=es" class="">ES</a> / </li>
+   			<li><a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271?lang=pt" class="">PT</a> / </li>
+   			<li><a href="/web/20120117183709/http://paper.li/SMEcommunity_ie/1311435271?lang=ja" class="">日本語</a></li>
+   		</ul>
+   		
+   		<ul class="footer-icons">
+   			<li><a href="/web/20120117183709/http://twitter.com/smallrivers" class="ft-twitter" target="_blank">&nbsp;</a></li>
+   			
+   			<li><a href="/web/20120117183709/http://www.facebook.com/pages/smallrivers/274789310110" class="ft-facebook" target="_blank">&nbsp;</a></li>
+   			
+   			<li><a href="/web/20120117183709/http://plus.google.com/u/0/113796188089361585143" class="ft-googleplus" target="_blank">&nbsp;</a></li>
+   			<li><a href="/web/20120117183709/http://blog.paper.li/feeds/posts/default?alt=rss" class="ft-rss" target="_blank">&nbsp;</a></li>
+   		</ul>
+      </div>
+   </div>
+</div>
+      </div>
+  
+      <!-- Promotion and features overlays -->
+      <div>
+        
+        
+        
+      </div>
+
+   	<!-- Specific page javascripts -->
+   	
+	
+
+		<script type="text/javascript">
+			
+				window.paper_editor = false;
+			
+			var settings = {};
+			settings.current_edition = true;
+			settings.paper_id = 883699;
+
+			settings.twitter_widget = {"type":"profile","user":"SMEcommunity_ie"};
+			settings.paper_stats = "<script>\n	$(document).ready(function() {	        \n		$(\'a.ps-bookmark\').tipsy({trigger: \'hover\', gravity: \'s\', offset: 5});\n	});        \n<\/script>\n\n\n<section id=\"paper-stats\">\n	<header>\n		<figure><a href=\"/~/publisher/710809\"><img alt=\"\" src=\"/web/20120117183709/http://a2.twimg.com/profile_images/1453517693/SME_C_normal.jpg\" /><\/a><\/figure>\n		<small>created 6 months ago<\/small>\n		<h2><a href=\"/~/publisher/710809\">#SMEcommunity<\/a><\/h2>\n	<\/header>\n	\n<\/section>\n\n\n<section id=\"subscription-buttons\">\n	<a class=\"ps-alert\" onclick=\"javascript:openSubscribeOverlay(883699);\"><span>Subscribe<\/span><\/a>\n	<a class=\"ps-embed\" original-title=\"<strong>OR<\/strong> promote this paper on your blog or website - \" onclick=\"javascript:openWidgetOverlay(883699);\"><span>Embed<\/span><\/a>\n	<div class=\"small-buttons\">\n		\n\n		\n			<a href=\"/web/20120117183709/https://login.paper.li/openid/v2/signin?token_url=http%3A%2F%2Fpaper.li%2F%7E%2Frpx%2Flogin_return\" class=\"rpxnow ps-bookmark\" onclick=\"return false;\" original-title=\"Sign-in to add this paper to your favorites\"><\/a>\n		\n	<\/div>\n<\/section>";
+			settings.editor_note = "<div class=\"editor-comment-wrapper\">\n\n	<div class=\"editor-comment\">\n	<div class=\"ec-buttons\">\n		\n	<\/div>\n	<span class=\"quote-l\">«<\/span>\n	<span class=\"quote-r\">»<\/span>\n	<div class=\"ec-container\">\n		<h3>Editor\'s note<\/h3>\n		\n		<h2>Irish SME&#8217;s Connecting Online<\/h2>\n		\n		<div class=\"ec-content\">\n		<br><font color=\"#000000\"><b>#SMEcommunity<\/b><\/font> is a network set up on Twitter by Irish SMEs for Irish \nSMEs, the aim is to support, network, help and advise each other through\n Social Media.\n\n<br><br>Anyone can join in by using the hashtag <font color=\"#000000\"><b>#SMEcommunity<\/b><\/font> on Twitter, and \nget updates from <a href=\"/web/20120117183709/http://www.twitter.com/SMEcommunity_ie\">@SMEcommunity_ie<\/a>\non Twitter, <a href=\"/web/20120117183709/http://www.linkedin.com/groups/SMEcommunity-4071468?home=&amp;gid=4071468&amp;trk=anet_ug_hm\">LinkedIn<\/a>, and <a href=\"/web/20120117183709/http://www.facebook.com/SMEcommunity\">Facebook<\/a> and all over the web!<br><br>This initiative also involves organizing <font color=\"#333333\"><b>Networking Events<\/b><\/font> for \nbusiness owners and employers across the country who want to connect and\n discuss positive solutions to issues affecting small business in \nIreland. <br><br><i>Join the Irish SME conversation by adding the #SMEcommunity hashtag to your tweets ..<br><\/i><br><i><b><sup>The<\/sup><\/b> <\/i><b><font color=\"#000000\">#SMEcommunity<\/font><\/b><i><b> <sup>Review<\/sup><\/b><\/i> is a daily round-up of <font color=\"#000000\"><b>#SMEcommunity<\/b><\/font> activity on Twitter!<br><br>To be featured:<br><br>1) Follow <a href=\"/web/20120117183709/http://www.twitter.com/SMEcommunity_ie\">@SMEcommunity_ie<\/a><br>2) Tweet &amp; share links;<br>3) Add the hashtag #SMEcommunity to your tweets.\n		<\/div>\n	<\/div>\n	<div class=\"ec-username\"><a href=\"/~/publisher/710809\">#SMEcommunity<\/a><\/div>\n<\/div>\n\n<script>\n	$(document).ready(function(){\n		$(\'.editor-comment\')\n			.find(\'a.ajax-delete-link\').hideTipsyTooltip().deleteLinkWithAjax().end()\n			.find(\'a.ajax-get-link\').openLinkWithAjax();\n	});\n<\/script>\n<\/div>\n";
+			settings.ads = {"tpl2":"hide","tpl3":"hide","tps1":"hide","tpl4":"hide","tps2":"hide","tps3":"hide","tp-Eco1":"hide"};
+
+			
+			settings.headlines = {"status":200,"data":[{"tld":"themarketingshop.ie","title":"The Marketing Shop \u2013 5 Social Media Don\u2019ts","img":"/web/20120117183709/http://themarketingshop.ie/wp-content/uploads/et_temp/STOP-32302_186x186.jpg","topics":null,"url":"/web/20120117183709/http://themarketingshop.ie/5-Social-Media-Donts","id":9682709251,"article_id":1670274219,"favicon_url":"/web/20120117183709/http://themarketingshop.ie/wp-content/uploads/2011/11/M-Favicon.png","content":"With most companies engaging in some form of Social Media there are those companies who have a dedicated resource for marketing and/or social media, with many more having to manage it themselves \u2013 ...","source":{"avatar_url":"/web/20120117183709/http://a3.twimg.com/profile_images/1723567051/DebTwitterDec11_normal.jpg","timestamp":"2012-01-16T20:22:26Z","username":"marketingdebbie","content":"5 Social Media Don'ts - /web/20120117183709/http://t.co/YeegzNmw via #themarketingshop #in #SMEcommunity &lt; Personal opinion, but worth a read folks!","profile_url":"/web/20120117183709/http://twitter.com/marketingdebbie","status_id":"159007624547942404","provider":"twitter"}},{"tld":"accountancyage.com","title":"A Tweet way to raise your profile\n17 Jan 2012\nAccountancy Age","img":null,"topics":null,"url":"/web/20120117183709/http://www.accountancyage.com/aa/opinion/2137876/tweet-raise-profile?WT.rss_f=&WT.rss_a=A+Tweet+way+to+raise+your+profile","id":9682709103,"article_id":1672548325,"favicon_url":"/web/20120117183709/http://www.accountancyage.com/images/AccountancyAge.png","content":"WHILE SOCIAL MEDIA may seem everywhere in our everyday lives, its use in professional services is still considered new and is often dismissed - as a fad,\u00a0 irrelevant, &quot;full of people talking about ...","source":{"avatar_url":"/web/20120117183709/http://a3.twimg.com/profile_images/392919191/CPA_logo_72_rgb_-_low_res_normal.jpg","timestamp":"2012-01-17T10:08:18Z","username":"CPANews","content":"Great advice for the reluctant tweeter RT @AccountancyAge: A Tweet way to raise your profile /web/20120117183709/http://t.co/sSb0XDCg #SMEcommunity","profile_url":"/web/20120117183709/http://twitter.com/CPANews","status_id":"159215462171934720","provider":"twitter"}},{"tld":"fundit.ie","title":"Fund it :: Project Activity","img":null,"topics":null,"url":"/web/20120117183709/http://www.fundit.ie/project/activity/kilkee-moments---a-shared-album","id":9682709283,"article_id":1672199371,"favicon_url":"/web/20120117183709/http://www.fundit.ie/favicon.ico","content":"60% of our way there!!!! Thank you all.\nUpdate posted on Monday 16th January '12 @ 09:01:19Just a BIG thanks to you all for helping us get to our 60% milestone!!! Let's hope we get the rest of the ...","source":{"avatar_url":"/web/20120117183709/http://a1.twimg.com/profile_images/1729534171/Tus_Nua_Designs_Logo_Leaf_-_Transparent_Background_normal.png","timestamp":"2012-01-17T08:02:32Z","username":"TusNuaDesigns","content":"A great \"Fund it\" idea I have to share from @colmobrien31 FB page /web/20120117183709/http://t.co/lGw4405N #SMEcommunity might be a good option for some of you","profile_url":"/web/20120117183709/http://twitter.com/TusNuaDesigns","status_id":"159183811249307648","provider":"twitter"}},{"tld":"siliconrepublic.com","title":"OpenJaw to create 45 new jobs via \u00803.3m R&D investment - Careers Centre - Careers centre | siliconrepublic.com","img":"/web/20120117183709/http://www.siliconrepublic.com/fs/img/news/201201/rs-426x288/airplanephone.jpg","topics":null,"url":"/web/20120117183709/http://www.siliconrepublic.com/careers-centre/item/25363-openjaw-to-create-45-new-jo","id":9682709457,"article_id":1669391815,"favicon_url":"/web/20120117183709/http://www.siliconrepublic.com/favicon.ico","content":"OpenJaw to create 45 new jobs via \u00803.3m R&amp;D investment\nOnline travel technology company OpenJaw is to create 45 new jobs in Dublin and Galway as part of an Enterprise Ireland-supported \u00803.3m R&amp;D in...","source":{"avatar_url":"/web/20120117183709/http://a1.twimg.com/profile_images/1649997916/New_NovaUCD_Panorama_2010_Web_normal.JPG","timestamp":"2012-01-16T15:44:02Z","username":"NovaUCD","content":"@openjawtech to create 45 new #jobs in #Dublin #Galway via #entirl \u20ac3.3m R&D investment /web/20120117183709/http://t.co/YgSejUvx @siliconrepublic #smecommunity","profile_url":"/web/20120117183709/http://twitter.com/NovaUCD","status_id":"158937561383964673","provider":"twitter"}},{"tld":"europa.eu","title":"EUROPA  -  Press Releases -  Small companies create 85% of new jobs","img":"/web/20120117183709/http://europa.eu/rapid/exploit/2012/01/IP/EN/i12_20.eni/Pictures/100002010000003B000000270EAF35C1.png","topics":null,"url":"/web/20120117183709/http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/20&format=HTML&aged=0&language=EN&guiLanguage=fr","id":9682709121,"article_id":1668467687,"favicon_url":"/web/20120117183709/http://europa.eu/favicon.ico","content":"European Commission - Press release\nSmall companies create 85% of new jobs\nBrussels, 16 January 2012. 85% of net new jobs1 in the EU between 2002 and 2010 were created by small and medium sized ent...","source":{"avatar_url":"/web/20120117183709/http://a2.twimg.com/profile_images/954124200/BioBusiness_Dots_Portrait_normal.jpg","timestamp":"2012-01-16T21:24:18Z","username":"BioBusinessLtd","content":"RT @NovaUCD: Small companies create 85% of new  #jobs /web/20120117183709/http://t.co/BakmO5Mx @eu_commission #eu #SMEcommunity #startup #Entrepreneur #innovation","profile_url":"/web/20120117183709/http://twitter.com/BioBusinessLtd","status_id":"159023195192700929","provider":"twitter"}}],"total":5};
+			
+				settings.media = null;
+			
+			
+				settings.photos = null;
+			
+			settings.categories = [{"type":"topic","title":"Stories","tag_paper_url":false,"type_id":6,"name":"Stories","id":3241239295,"total":25},{"type":"topic","title":"Business","tag_paper_url":false,"type_id":8,"name":"Business","id":3241239299,"total":25},{"type":"topic","title":"Education","tag_paper_url":false,"type_id":2,"name":"Education","id":3241239303,"total":16},{"type":"topic","title":"Technology","tag_paper_url":false,"type_id":4,"name":"Technology","id":3241239305,"total":11},{"type":"topic","title":"Leisure","tag_paper_url":false,"type_id":26,"name":"Travel","id":3241239309,"total":6},{"type":"topic","title":"Society","tag_paper_url":false,"type_id":40,"name":"Society","id":3241239317,"total":4},{"type":"tag","title":"#smecommunity","tag_paper_url":false,"type_id":22589321,"name":"#smecommunity","id":3241238667,"total":26},{"type":"tag","title":"#in","tag_paper_url":"/tag/in","type_id":152,"name":"#in","id":3241238677,"total":4}];
+			settings.related_headlines = "<div id=\"related_headlines\" class=\"related-headiles-box\">\n	<h2>Other headlines of interest <a href=\"javascript:;\" class=\"related-h-help\" original-title=\"Top stories on other closely related papers - by analyzing the content on this paper, Paper.li was able to find other papers with closely matching content & topic mix.\"><\/a><\/h2>\n	<div id=\"headlines_container\">\n		<script>\n			$(document).ready(function(){\n				$.get(\'/~/papers/related/51247979\')\n			});\n		<\/script>\n	<\/div>\n<\/div>\n";
+			
+			var $paper;
+			
+			$(document).ready(function(){
+				$paper = $("#paper-tabs").paper(settings);
+			});
+			
+		</script>
+	
+	<script>
+		$(document).ready(function(){
+			if ($.browser.msie && parseInt($.browser.version) <= 7){
+				$('.m-warning').slideDown();
+				
+				$('.m-warning .alertbar-close').click(function(){
+					$('#alertbar').slideUp();
+				});
+			};				
+	    });
+	</script>
+
+	
+   	  <script type="text/javascript" src="/web/20120117183709js_/http://paper.li/javascripts/analytics.js"></script>
+  <script type="text/javascript">
+	try {
+		var srTracker = Paperli.Tracker.getTracker("/~utm_gif", 883699);
+	} catch( err ) {}
+  </script>
+   	
+	<script type="text/javascript" src="/web/20120117183709js_/https://rpxnow.com/openid/v2/widget"></script>
+	<script type="text/javascript">
+//<![CDATA[
+
+	  RPXNOW.overlay = true;
+	  RPXNOW.language_preference = 'en';
+	
+//]]>
+</script>
+
+
+	</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 18:37:09 Jan 17, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:46:22 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

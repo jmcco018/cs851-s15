@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:26:11 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://fiberforall.org/fios-map/>;rel="original"
+,<http://web.archive.org/web/20140420070549/http://fiberforall.org/fios-map/>;rel="memento first"; datetime="Sun, 20 Apr 2014 07:05:49 GMT"
+,<http://web.archive.org/web/20140422074507/http://fiberforall.org/fios-map/>;rel="memento"; datetime="Tue, 22 Apr 2014 07:45:07 GMT"
+,<http://web.archive.org/web/20140523195315/http://fiberforall.org/fios-map/>;rel="memento"; datetime="Fri, 23 May 2014 19:53:15 GMT"
+,<http://web.archive.org/web/20140627030016/http://fiberforall.org/fios-map/>;rel="memento"; datetime="Fri, 27 Jun 2014 03:00:16 GMT"
+,<http://web.archive.org/web/20140728071152/http://fiberforall.org/fios-map/>;rel="memento"; datetime="Mon, 28 Jul 2014 07:11:52 GMT"
+,<http://web.archive.org/web/20140901033714/http://fiberforall.org/fios-map/>;rel="memento"; datetime="Mon, 01 Sep 2014 03:37:14 GMT"
+,<http://web.archive.org/web/20141030094632/http://fiberforall.org/fios-map/>;rel="memento"; datetime="Thu, 30 Oct 2014 09:46:32 GMT"
+,<http://web.archive.org/web/20141122145719/http://fiberforall.org/fios-map/>;rel="memento"; datetime="Sat, 22 Nov 2014 14:57:19 GMT"
+,<http://archive.is/20150131050135/http://fiberforall.org/fios-map/>;rel="memento"; datetime="Sat, 31 Jan 2015 05:01:35 GMT"
+,<http://web.archive.org/web/20150213154040/http://fiberforall.org/fios-map/>;rel="memento"; datetime="Fri, 13 Feb 2015 15:40:40 GMT"
+,<http://web.archive.org/web/20150315004522/http://fiberforall.org/fios-map/>;rel="memento last"; datetime="Sun, 15 Mar 2015 00:45:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://fiberforall.org/fios-map/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://fiberforall.org/fios-map/>;rel="self"; type="application/link-format"; from ="Sun, 20 Apr 2014 07:05:49 GMT";until="Sun, 15 Mar 2015 00:45:22 GMT"

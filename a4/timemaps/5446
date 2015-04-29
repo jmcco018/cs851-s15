@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:55 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bovada.lv/?extcmpid=affbh>;rel="original"
+,<http://web.archive.org/web/20141108220239/http://www.bovada.lv/?extcmpid=affbh>;rel="memento first"; datetime="Sat, 08 Nov 2014 22:02:39 GMT"
+,<http://web.archive.org/web/20150104050206/http://www.bovada.lv/?extcmpid=affbh>;rel="memento last"; datetime="Sun, 04 Jan 2015 05:02:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bovada.lv/?extcmpid=affbh>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bovada.lv/?extcmpid=affbh>;rel="self"; type="application/link-format"; from ="Sat, 08 Nov 2014 22:02:39 GMT";until="Sun, 04 Jan 2015 05:02:06 GMT"

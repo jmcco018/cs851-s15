@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:51:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://spitalfieldslife.com/2015/01/30/frost-bros-rope-makers-yarn-spinners/>;rel="original"
+,<http://archive.is/20150131231104/http://spitalfieldslife.com/2015/01/30/frost-bros-rope-makers-yarn-spinners/>;rel="memento first"; datetime="Sat, 31 Jan 2015 23:11:04 GMT"
+,<http://web.archive.org/web/20150315062028/http://spitalfieldslife.com/2015/01/30/frost-bros-rope-makers-yarn-spinners/>;rel="memento last"; datetime="Sun, 15 Mar 2015 06:20:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://spitalfieldslife.com/2015/01/30/frost-bros-rope-makers-yarn-spinners/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://spitalfieldslife.com/2015/01/30/frost-bros-rope-makers-yarn-spinners/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 23:11:04 GMT";until="Sun, 15 Mar 2015 06:20:28 GMT"

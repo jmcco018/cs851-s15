@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:09:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ign.com/articles/2015/01/29/star-wars-battlefront-stunning-endor-concept-art-revealed-ign-first>;rel="original"
+,<http://archive.is/20150129193859/http://www.ign.com/articles/2015/01/29/star-wars-battlefront-stunning-endor-concept-art-revealed-ign-first>;rel="memento first"; datetime="Thu, 29 Jan 2015 19:38:59 GMT"
+,<http://archive.is/20150129223815/http://www.ign.com/articles/2015/01/29/star-wars-battlefront-stunning-endor-concept-art-revealed-ign-first>;rel="memento"; datetime="Thu, 29 Jan 2015 22:38:15 GMT"
+,<http://web.archive.org/web/20150130043404/http://www.ign.com/articles/2015/01/29/star-wars-battlefront-stunning-endor-concept-art-revealed-ign-first>;rel="memento"; datetime="Fri, 30 Jan 2015 04:34:04 GMT"
+,<http://archive.is/20150131111552/http://www.ign.com/articles/2015/01/29/star-wars-battlefront-stunning-endor-concept-art-revealed-ign-first>;rel="memento"; datetime="Sat, 31 Jan 2015 11:15:52 GMT"
+,<http://web.archive.org/web/20150406032810/http://www.ign.com/articles/2015/01/29/star-wars-battlefront-stunning-endor-concept-art-revealed-ign-first>;rel="memento"; datetime="Mon, 06 Apr 2015 03:28:10 GMT"
+,<http://web.archive.org/web/20150420045015/http://www.ign.com/articles/2015/01/29/star-wars-battlefront-stunning-endor-concept-art-revealed-ign-first>;rel="memento last"; datetime="Mon, 20 Apr 2015 04:50:15 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ign.com/articles/2015/01/29/star-wars-battlefront-stunning-endor-concept-art-revealed-ign-first>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ign.com/articles/2015/01/29/star-wars-battlefront-stunning-endor-concept-art-revealed-ign-first>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 19:38:59 GMT";until="Mon, 20 Apr 2015 04:50:15 GMT"

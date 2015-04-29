@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:36:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="original"
+,<http://web.archive.org/web/20150127193117/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="memento first"; datetime="Tue, 27 Jan 2015 19:31:17 GMT"
+,<http://web.archive.org/web/20150127224434/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="memento"; datetime="Tue, 27 Jan 2015 22:44:34 GMT"
+,<http://web.archive.org/web/20150127235335/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="memento"; datetime="Tue, 27 Jan 2015 23:53:35 GMT"
+,<http://web.archive.org/web/20150129041436/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="memento"; datetime="Thu, 29 Jan 2015 04:14:36 GMT"
+,<http://web.archive.org/web/20150129061039/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="memento"; datetime="Thu, 29 Jan 2015 06:10:39 GMT"
+,<http://web.archive.org/web/20150129081556/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="memento"; datetime="Thu, 29 Jan 2015 08:15:56 GMT"
+,<http://web.archive.org/web/20150131161521/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="memento"; datetime="Sat, 31 Jan 2015 16:15:21 GMT"
+,<http://web.archive.org/web/20150202122927/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="memento"; datetime="Mon, 02 Feb 2015 12:29:27 GMT"
+,<http://web.archive.org/web/20150202212211/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="memento last"; datetime="Mon, 02 Feb 2015 21:22:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cnn.com/2015/01/27/opinion/schubert-herbicides-crops/index.html>;rel="self"; type="application/link-format"; from ="Tue, 27 Jan 2015 19:31:17 GMT";until="Mon, 02 Feb 2015 21:22:11 GMT"

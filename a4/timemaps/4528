@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:30:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.barnesandnoble.com/w/the-map-of-ages-cl-withers/1110434752?ean=2940014573467>;rel="original"
+,<http://web.archive.org/web/20131211162934/http://www.barnesandnoble.com/w/the-map-of-ages-cl-withers/1110434752?ean=2940014573467>;rel="memento first"; datetime="Wed, 11 Dec 2013 16:29:34 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.barnesandnoble.com/w/the-map-of-ages-cl-withers/1110434752?ean=2940014573467>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.barnesandnoble.com/w/the-map-of-ages-cl-withers/1110434752?ean=2940014573467>;rel="self"; type="application/link-format"; from ="Wed, 11 Dec 2013 16:29:34 GMT";until="Wed, 11 Dec 2013 16:29:34 GMT"

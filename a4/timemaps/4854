@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:35:19 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.techsuplex.com/2015/01/21/heres-new-limited-edition-blackberry-passport/>;rel="original"
+,<http://web.archive.org/web/20150328190916/http://www.techsuplex.com/2015/01/21/heres-new-limited-edition-blackberry-passport/>;rel="memento first"; datetime="Sat, 28 Mar 2015 19:09:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.techsuplex.com/2015/01/21/heres-new-limited-edition-blackberry-passport/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.techsuplex.com/2015/01/21/heres-new-limited-edition-blackberry-passport/>;rel="self"; type="application/link-format"; from ="Sat, 28 Mar 2015 19:09:16 GMT";until="Sat, 28 Mar 2015 19:09:16 GMT"

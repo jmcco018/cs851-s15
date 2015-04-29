@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:40:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bid-compass.com>;rel="original"
+,<http://web.archive.org/web/20130505124634/http://www.bid-compass.com/>;rel="memento first"; datetime="Sun, 05 May 2013 12:46:34 GMT"
+,<http://web.archive.org/web/20130605170252/http://www.bid-compass.com/>;rel="memento"; datetime="Wed, 05 Jun 2013 17:02:52 GMT"
+,<http://web.archive.org/web/20130703055605/http://bid-compass.com>;rel="memento"; datetime="Wed, 03 Jul 2013 05:56:05 GMT"
+,<http://web.archive.org/web/20130707232204/http://www.bid-compass.com/>;rel="memento"; datetime="Sun, 07 Jul 2013 23:22:04 GMT"
+,<http://web.archive.org/web/20140314055451/http://www.bid-compass.com/>;rel="memento"; datetime="Fri, 14 Mar 2014 05:54:51 GMT"
+,<http://web.archive.org/web/20140415070736/http://www.bid-compass.com/>;rel="memento"; datetime="Tue, 15 Apr 2014 07:07:36 GMT"
+,<http://web.archive.org/web/20140516102952/http://www.bid-compass.com/>;rel="memento"; datetime="Fri, 16 May 2014 10:29:52 GMT"
+,<http://web.archive.org/web/20140516214206/http://bid-compass.com/>;rel="memento"; datetime="Fri, 16 May 2014 21:42:06 GMT"
+,<http://web.archive.org/web/20140616115349/http://www.bid-compass.com/>;rel="memento"; datetime="Mon, 16 Jun 2014 11:53:49 GMT"
+,<http://web.archive.org/web/20140626182247/http://www.bid-compass.com/>;rel="memento"; datetime="Thu, 26 Jun 2014 18:22:47 GMT"
+,<http://web.archive.org/web/20141216213731/http://bid-compass.com/>;rel="memento last"; datetime="Tue, 16 Dec 2014 21:37:31 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bid-compass.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bid-compass.com>;rel="self"; type="application/link-format"; from ="Sun, 05 May 2013 12:46:34 GMT";until="Tue, 16 Dec 2014 21:37:31 GMT"

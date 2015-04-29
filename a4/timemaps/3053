@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:59:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.landolakes.com/Blog/the-big-game-and-a-great-appetizer-pull-apart-party-loaf>;rel="original"
+,<http://web.archive.org/web/20140310013722/http://www.landolakes.com/Blog/the-big-game-and-a-great-appetizer-pull-apart-party-loaf>;rel="memento first"; datetime="Mon, 10 Mar 2014 01:37:22 GMT"
+,<http://web.archive.org/web/20140311021148/http://www.landolakes.com/Blog/the-big-game-and-a-great-appetizer-pull-apart-party-loaf>;rel="memento last"; datetime="Tue, 11 Mar 2014 02:11:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.landolakes.com/Blog/the-big-game-and-a-great-appetizer-pull-apart-party-loaf>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.landolakes.com/Blog/the-big-game-and-a-great-appetizer-pull-apart-party-loaf>;rel="self"; type="application/link-format"; from ="Mon, 10 Mar 2014 01:37:22 GMT";until="Tue, 11 Mar 2014 02:11:48 GMT"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:48:51 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.sweetandsavorybyshinee.com/scotch-egg/>;rel="original"
+,<http://web.archive.org/web/20141129235537/http://www.sweetandsavorybyshinee.com/scotch-egg/>;rel="memento first"; datetime="Sat, 29 Nov 2014 23:55:37 GMT"
+,<http://web.archive.org/web/20150421192349/http://www.sweetandsavorybyshinee.com/scotch-egg/>;rel="memento last"; datetime="Tue, 21 Apr 2015 19:23:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.sweetandsavorybyshinee.com/scotch-egg/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.sweetandsavorybyshinee.com/scotch-egg/>;rel="self"; type="application/link-format"; from ="Sat, 29 Nov 2014 23:55:37 GMT";until="Tue, 21 Apr 2015 19:23:49 GMT"

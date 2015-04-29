@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:10:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://damatrixstudiosnetwork.com/>;rel="original"
+, <http://web.archive.org/web/20120228152331/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Tue, 28 Feb 2012 10:23:31 GMT"
+, <http://web.archive.org/web/20120419094652/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Thu, 19 Apr 2012 05:46:52 GMT"
+, <http://web.archive.org/web/20120512005135/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Fri, 11 May 2012 20:51:35 GMT"
+, <http://webarchive.nationalarchives.gov.uk/20120612184324/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Tue, 12 Jun 2012 14:43:24 GMT"
+, <http://web.archive.org/web/20120626132530/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Tue, 26 Jun 2012 09:25:30 GMT"
+, <http://web.archive.org/web/20120707215818/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Sat, 07 Jul 2012 17:58:18 GMT"
+, <http://web.archive.org/web/20130509235243/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Thu, 09 May 2013 19:52:43 GMT"
+, <http://web.archive.org/web/20130515043257/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Wed, 15 May 2013 00:32:57 GMT"
+, <http://web.archive.org/web/20130518100406/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Sat, 18 May 2013 06:04:06 GMT"
+, <http://web.archive.org/web/20130528110927/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Tue, 28 May 2013 07:09:27 GMT"
+, <http://web.archive.org/web/20130530022614/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Wed, 29 May 2013 22:26:14 GMT"
+, <http://web.archive.org/web/20130531040654/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Fri, 31 May 2013 00:06:54 GMT"
+, <http://web.archive.org/web/20131023014917/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Tue, 22 Oct 2013 21:49:17 GMT"
+, <http://web.archive.org/web/20131031115415/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Thu, 31 Oct 2013 07:54:15 GMT"
+, <http://web.archive.org/web/20131207180717/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Sat, 07 Dec 2013 13:07:17 GMT"
+, <http://web.archive.org/web/20140107025508/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Mon, 06 Jan 2014 21:55:08 GMT"
+, <http://web.archive.org/web/20140108194541/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Wed, 08 Jan 2014 14:45:41 GMT"
+, <http://archive.is/20140415195231/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Tue, 15 Apr 2014 15:52:31 GMT"
+, <http://web.archive.org/web/20140517035807/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Fri, 16 May 2014 23:58:07 GMT"
+, <http://web.archive.org/web/20140517055908/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Sat, 17 May 2014 01:59:08 GMT"
+, <http://web.archive.org/web/20140628202356/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Sat, 28 Jun 2014 16:23:56 GMT"
+, <http://web.archive.org/web/20140821015747/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Wed, 20 Aug 2014 21:57:47 GMT"
+, <http://web.archive.org/web/20141216224148/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Tue, 16 Dec 2014 17:41:48 GMT"
+, <http://web.archive.org/web/20141217011443/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Tue, 16 Dec 2014 20:14:43 GMT"
+, <http://web.archive.org/web/20150103192722/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Sat, 03 Jan 2015 14:27:22 GMT"
+, <http://web.archive.org/web/20150103211040/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Sat, 03 Jan 2015 16:10:40 GMT"
+, <http://web.archive.org/web/20150203045943/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Mon, 02 Feb 2015 23:59:43 GMT"
+, <http://web.archive.org/web/20150205044253/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Wed, 04 Feb 2015 23:42:53 GMT"
+, <http://web.archive.org/web/20150403134749/http://damatrixstudiosnetwork.com/>;rel="memento"; datetime="Fri, 03 Apr 2015 09:47:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://damatrixstudiosnetwork.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://damatrixstudiosnetwork.com/>;rel="self"; type="application/link-format"; from ="Tue, 28 Feb 2012 10:23:31 GMT";until="Fri, 03 Apr 2015 09:47:49 GMT"

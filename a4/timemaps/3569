@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:10:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://abdullaha.trustpass.alibaba.com>;rel="original"
+,<http://web.archive.org/web/20150419075617/http://abdullaha.trustpass.alibaba.com/>;rel="memento first"; datetime="Sun, 19 Apr 2015 07:56:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://abdullaha.trustpass.alibaba.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://abdullaha.trustpass.alibaba.com>;rel="self"; type="application/link-format"; from ="Sun, 19 Apr 2015 07:56:17 GMT";until="Sun, 19 Apr 2015 07:56:17 GMT"

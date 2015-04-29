@@ -1,0 +1,2232 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+
+
+	<html lang="en">
+
+<!-- machid: 350 -->
+<head>
+
+	
+	<title>YouTube - Broadcast Yourself.</title>
+
+	<link rel="stylesheet" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541cs_/http://s.ytimg.com/yt/css/base_all-vfl50656.css" type="text/css">
+
+	<link rel="search" type="application/opensearchdescription+xml" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search">
+<style type="text/css">
+#homepage-side-content { white-space: normal; }
+#active_sharing_div { display: block; }
+.sponsored-videos-block { margin-left: 18px; border: 0px #CCC solid; }
+.vfacets { margin-bottom: 0; }
+.spacer-sm { clear: left; height: 1px; }
+.my-list-top { margin: 3px 0; }
+.message-notification-wrapper { padding: 3px 5px; }
+.highlightBox {
+  text-align: center;
+  margin-top: 3px;
+  font-size: 14px;
+}
+.ad-block { padding-top: 10px; }
+.homepage-sponsored-video { margin-bottom: 0; }
+</style>
+	<link rel="icon" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://s.ytimg.com/yt/favicon-vfl1123.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/favicon-vfl1123.ico" type="image/x-icon">
+
+
+	<meta name="description" content="Share your videos with friends, family, and the world">
+	<meta name="keywords" content="video, sharing, camera phone, video phone, free, upload">
+
+	<link rel="alternate" type="application/rss+xml" title="YouTube - [RSS]" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/rssls">
+
+	<link rel="alternate" media="handheld" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://m.youtube.com/index?desktop_uri=%2Findex&">
+
+	<script type="text/javascript">
+			window.google={kHL:"en"};
+	</script>
+
+	<script type="text/javascript" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541js_/http://s.ytimg.com/yt/js/base_all_with_bidi-vfl50880.js"></script>
+
+	<script type="text/javascript">
+
+			function _hbLink (a,b) { return false; }
+			function urchinTracker (a) { }
+			function urchinTrackerDefer(a) { }
+
+		
+	var gXSRF_token = '';
+	var gXSRF_field_name = '';
+	var gXSRF_ql_pair = '';
+	var onLoadFunctionList = onLoadFunctionList || [];
+
+		gXSRF_token = 'opmeLhdHzEbjs6ka0TkAQ-FyWs98MTIxOTIyNDM0Mg==';
+		gXSRF_field_name = 'session_token';
+		onLoadFunctionList.push(function() { populate_session_token() });
+
+		gXSRF_ql_pair = 'session_token=tiaFsZD93cQpHxx2YKAGu5cDgVh8MA==';
+
+
+		var gGoogleSuggest = true;
+		var gPixelGif = 'http://s.ytimg.com/yt/img/pixel-vfl73.gif';
+
+		var gIsResultsPage = false;
+	</script>
+
+
+
+<script type="text/javascript">
+
+function swapVideoList(linkObj)
+{
+	var linkId = linkObj.id;
+	var queryData = '';
+	var newDivId = '';
+	var headlineObj = document.getElementById('hpVideoListHead');
+	var moreLinkObj = document.getElementById('homepage-featured-more-top');
+	var bottomMoreLinkObj = document.getElementById('homepage-featured-more-bottom');
+
+	if (linkId == 'hpMostViewedLink') {
+		queryData = 'videoListType=mostViewed';
+		newDivId = 'hpMostViewed';
+		headlineObj.innerHTML = "Most Viewed Videos";
+		moreLinkObj.innerHTML = "<a href=\"/browse?s=mp\" onmousedown=\"urchinTracker('/Events/Home/SeeMore/MostViewed/Top');\">See More Most Viewed Videos</a>";
+		bottomMoreLinkObj.innerHTML = "<a href=\"/browse?s=mp\" onmousedown=\"urchinTracker('/Events/Home/SeeMore/MostViewed/Bottom');\">See More Most Viewed Videos</a>";
+	}
+	else if (linkId == 'hpMostDiscussedLink') {
+		queryData = 'videoListType=mostDiscussed';
+		newDivId = 'hpMostDiscussed';
+		headlineObj.innerHTML = "Most Discussed Videos";
+		moreLinkObj.innerHTML = "<a href=\"/browse?s=md\" onmousedown=\"urchinTracker('/Events/Home/SeeMore/MostDiscussed/Top');\">See More Most Discussed Videos</a>";
+		bottomMoreLinkObj.innerHTML = "<a href=\"/browse?s=md\" onmousedown=\"urchinTracker('/Events/Home/SeeMore/MostDiscussed/Bottom');\">See More Most Discussed Videos</a>";
+	}
+	else if (linkId == 'hpTopFavoritesLink') {
+		queryData = 'videoListType=topFavorites';
+		newDivId = 'hpTopFavorites';
+		headlineObj.innerHTML = "Top Favorites";
+		moreLinkObj.innerHTML = "<a href=\"/browse?s=mf\" onmousedown=\"urchinTracker('/Events/Home/SeeMore/TopFavorites/Top');\">See More Top Favorites</a>";
+		bottomMoreLinkObj.innerHTML = "<a href=\"/browse?s=mf\" onmousedown=\"urchinTracker('/Events/Home/SeeMore/TopFavorites/Bottom');\">See More Top Favorites</a>";
+	}
+	else if (linkId == 'hpFeaturedLink') {
+		newDivId = 'hpFeatured';
+		headlineObj.innerHTML = "Featured Videos";
+		moreLinkObj.innerHTML = "<a href=\"/browse?s=rf\" onmousedown=\"urchinTracker('/Events/Home/SeeMore/Featured/Top');\">See More Featured Videos</a>";
+		bottomMoreLinkObj.innerHTML = "<a href=\"/browse?s=rf\" onmousedown=\"urchinTracker('/Events/Home/SeeMore/Featured/Bottom');\">See More Featured Videos</a>";
+	} 
+	self.containerDiv = 'homepage-video-list'
+	self.fillDiv = fillDiv
+	self.linkId = linkId
+	self.newDivId = newDivId
+	addClass(_gel(newDivId + 'Link'), 'hilite');
+	if (newDivId != 'hpMostViewed') {
+		removeClass(_gel('hpMostViewedLink'), 'hilite');
+	}
+	if (newDivId != 'hpMostDiscussed') {
+		removeClass(_gel('hpMostDiscussedLink'), 'hilite');
+	}
+	if (newDivId != 'hpTopFavorites') {
+		removeClass(_gel('hpTopFavoritesLink'), 'hilite');
+	}
+	if (newDivId != 'hpFeatured') {
+		removeClass(_gel('hpFeaturedLink'), 'hilite');
+	}
+	if (document.getElementById(newDivId))
+	{
+		document.getElementById(newDivId).style.display = 'block';
+		if (newDivId != 'hpMostViewed' && document.getElementById('hpMostViewed')) document.getElementById('hpMostViewed').style.display = 'none';
+		if (newDivId != 'hpMostDiscussed' && document.getElementById('hpMostDiscussed')) document.getElementById('hpMostDiscussed').style.display = 'none';
+		if (newDivId != 'hpTopFavorites' && document.getElementById('hpTopFavorites')) document.getElementById('hpTopFavorites').style.display = 'none';
+		if (newDivId != 'hpFeatured' && document.getElementById('hpFeatured')) document.getElementById('hpFeatured').style.display = 'none';
+	}
+	else if (queryData != '') {
+		queryData += '&contentLocale=en_US';
+		postUrlXMLResponse('/ajax_video_list',queryData,self.fillDiv);
+	}
+
+	urchinTracker('/Events/Home/Tabs/' + linkId);
+}
+function fillDiv(req)
+{
+	if (document.getElementById('hpMostViewed')) document.getElementById('hpMostViewed').style.display = 'none';
+	if (document.getElementById('hpMostDiscussed')) document.getElementById('hpMostDiscussed').style.display = 'none';
+	if (document.getElementById('hpTopFavorites')) document.getElementById('hpTopFavorites').style.display = 'none';
+	if (document.getElementById('hpFeatured')) document.getElementById('hpFeatured').style.display = 'none';
+	var newContent = getNodeValue(req.responseXML, "html_content");
+	var newdiv = document.createElement('div');
+	newdiv.setAttribute("id",self.newDivId);
+	newdiv.innerHTML = newContent;
+	var container = document.getElementById(self.containerDiv);
+	container.appendChild(newdiv);
+}
+
+function hide_active_sharing() {
+	hideDiv("active_sharing_div");
+}
+
+
+</script>
+
+</head>
+
+
+<body onload="performOnLoadFunctions();" class="en_US is-english">
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+
+<script type="text/javascript" src="http://www.webarchive.org.uk:80/wayback/archive/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="http://www.webarchive.org.uk:80/wayback/archive/js/graph-calc.js" ></script>
+<!-- 
+<script type="text/javascript" src="http://www.webarchive.org.uk:80/wayback/archive/jflot/jquery.min.js" ></script>
+ -->
+<script type="text/javascript">
+/*
+ * Experimental jQuery AJAX method override.
+ * 
+jQuery.ajaxBase = jQuery.ajax;
+jQuery.ajax = function( s ) {
+    console.log("jQuery.ajax.1 "+s.url);
+	  if ( s.url != undefined ) {
+		  s.url = convertToWaybackURL( s.url );
+		  console.log("jQuery.ajax.2 "+s.url);
+	  }
+	  return jQuery.ajaxBase(s);	
+};
+*/
+
+var firstDate = 662688000000;
+var lastDate = 1451606399999;
+var wbPrefix = "http://www.webarchive.org.uk:80/wayback/archive/";
+var wbCurrentUrl = "http://www.youtube.com/index";
+
+var curYear = -1;
+var curMonth = -1;
+var yearCount = 15;
+var firstYear = 1991;
+var imgWidth=375;
+var yearImgWidth = 25;
+var monthImgWidth = 2;
+var trackerVal = "none";
+var displayDay = "19";
+var displayMonth = "Aug";
+var displayYear = "2008";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+function showTrackers(val) {
+	if(val == trackerVal) {
+		return;
+	}
+	if(val == "inline") {
+		document.getElementById("displayYearEl").style.color = "#ec008c";
+		document.getElementById("displayMonthEl").style.color = "#ec008c";
+		document.getElementById("displayDayEl").style.color = "#ec008c";		
+	} else {
+		document.getElementById("displayYearEl").innerHTML = displayYear;
+		document.getElementById("displayYearEl").style.color = "#ff0";
+		document.getElementById("displayMonthEl").innerHTML = displayMonth;
+		document.getElementById("displayMonthEl").style.color = "#ff0";
+		document.getElementById("displayDayEl").innerHTML = displayDay;
+		document.getElementById("displayDayEl").style.color = "#ff0";
+	}
+   document.getElementById("wbMouseTrackYearImg").style.display = val;
+   document.getElementById("wbMouseTrackMonthImg").style.display = val;
+   trackerVal = val;
+}
+function getElementX2(obj) {
+	var thing = jQuery(obj);
+	if((thing == undefined) 
+			|| (typeof thing == "undefined") 
+			|| (typeof thing.offset == "undefined")) {
+		return getElementX(obj);
+	}
+	return Math.round(thing.offset().left);
+}
+function trackMouseMove(event,element) {
+
+   var eventX = getEventX(event);
+   var elementX = getElementX2(element);
+   var xOff = eventX - elementX;
+	if(xOff < 0) {
+		xOff = 0;
+	} else if(xOff > imgWidth) {
+		xOff = imgWidth;
+	}
+   var monthOff = xOff % yearImgWidth;
+
+   var year = Math.floor(xOff / yearImgWidth);
+	var yearStart = year * yearImgWidth;
+   var monthOfYear = Math.floor(monthOff / monthImgWidth);
+   if(monthOfYear > 11) {
+       monthOfYear = 11;
+   }
+   // 1 extra border pixel at the left edge of the year:
+   var month = (year * 12) + monthOfYear;
+   var day = 1;
+	if(monthOff % 2 == 1) {
+		day = 15;
+	}
+	var dateString = 
+		zeroPad(year + firstYear) + 
+		zeroPad(monthOfYear+1,2) +
+		zeroPad(day,2) + "000000";
+
+	var monthString = prettyMonths[monthOfYear];
+	document.getElementById("displayYearEl").innerHTML = year + 1991;
+	document.getElementById("displayMonthEl").innerHTML = monthString;
+	// looks too jarring when it changes..
+	//document.getElementById("displayDayEl").innerHTML = zeroPad(day,2);
+
+	var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+	document.getElementById('wm-graph-anchor').href = url;
+
+   //document.getElementById("wmtbURL").value="evX("+eventX+") elX("+elementX+") xO("+xOff+") y("+year+") m("+month+") monthOff("+monthOff+") DS("+dateString+") Moy("+monthOfYear+") ms("+monthString+")";
+   if(curYear != year) {
+       var yrOff = year * yearImgWidth;
+       document.getElementById("wbMouseTrackYearImg").style.left = yrOff + "px";
+       curYear = year;
+   }
+   if(curMonth != month) {
+       var mtOff = year + (month * monthImgWidth) + 1;
+       document.getElementById("wbMouseTrackMonthImg").style.left = mtOff + "px";
+       curMonth = month;
+   }
+}
+</script>
+
+<style type="text/css">body{margin-top:0!important;padding-top:0!important;min-width:800px!important;}#wm-ipp a:hover{text-decoration:underline!important;}</style>
+<div id="wm-ipp" style="display:none; position:relative;padding:0 5px;min-height:70px;min-width:800px; z-index:9000;">
+<div id="wm-ipp-inside" style="position:fixed;padding:0!important;margin:0!important;width:97%;min-width:780px;border:5px solid #000;border-top:none;background-image:url(http://www.webarchive.org.uk:80/wayback/archive/images/toolbar/wm_tb_bk_trns.png);text-align:center;-moz-box-shadow:1px 1px 3px #333;-webkit-box-shadow:1px 1px 3px #333;box-shadow:1px 1px 3px #333;font-size:11px!important;font-family:'Lucida Grande','Arial',sans-serif!important;">
+   <table style="border-collapse:collapse;margin:0;padding:0;width:100%;"><tbody><tr>
+   <td style="padding:10px;vertical-align:top;width:180px;">
+   <a href="http://www.webarchive.org.uk:80/wayback/archive/" title="Wayback Machine home page" style="background-color:transparent;border:none;float:left;margin-right:4px;"><img src="http://www.webarchive.org.uk:80/wayback/archive/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="40" height="40" border="0"/></a><div style="font-size: 9px !important;color:#333;text-align:center;line-height:1.0em;">External links, forms and search boxes may not function within this archived website.</div>
+   </td>
+   <td style="padding:0!important;text-align:center;vertical-align:top;">
+
+       <table style="border-collapse:collapse;margin:0 auto;padding:0;width:570px;"><tbody><tr>
+       <td style="padding:3px 0;" colspan="2">
+       <form target="_top" method="get" action="http://www.webarchive.org.uk:80/wayback/archive/query" name="wmtb" id="wmtb" style="margin:0!important;padding:0!important;"><input type="text" name="url" id="wmtbURL" value="http://www.youtube.com/index" style="width:400px;font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;"/><input type="hidden" name="type" value="replay"><input type="hidden" name="date" value="20080819092541"><input type="submit" value="Go" style="font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;margin-left:5px;"/><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td style="vertical-align:bottom;padding:5px 0 0 0!important;" rowspan="2">
+           <table style="border-collapse:collapse;width:110px;color:#99a;font-family:'Helvetica','Lucida Grande','Arial',sans-serif;"><tbody>
+			
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr style="width:110px;height:16px;font-size:10px!important;">
+           	<td style="padding-right:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="http://www.webarchive.org.uk:80/wayback/archive/20080717004354/http://youtube.com/index" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="17 Jul 2008"><strong>&#171;JUL</strong></a>
+		                
+               </td>
+               <td id="displayMonthEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight:bold;text-transform:uppercase;width:34px;height:15px;padding-top:1px;text-align:center;" title="You are here: 9:25:41 19 Aug, 2008">AUG</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       Sep
+                       
+               </td>
+           </tr>
+
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr>
+               <td style="padding-right:9px;white-space:nowrap;overflow:visible;text-align:right!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="http://www.webarchive.org.uk:80/wayback/archive/20080717004354/http://youtube.com/index" title="0:43:54 17 Jul, 2008" style="background-color:transparent;border:none;"><img src="http://www.webarchive.org.uk:80/wayback/archive/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+		                
+               </td>
+               <td id="displayDayEl" style="background:#000;color:#ff0;width:34px;height:24px;padding:2px 0 0 0;text-align:center;font-size:24px;font-weight: bold;" title="You are here: 9:25:41 19 Aug, 2008">19</td>
+				<td style="padding-left:9px;white-space:nowrap;overflow:visible;text-align:left!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="http://www.webarchive.org.uk:80/wayback/archive/20080909084323/http://www.youtube.com/index" title="8:43:23 9 Sep, 2008" style="background-color:transparent;border:none;"><img src="http://www.webarchive.org.uk:80/wayback/archive/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0"/></a>
+		                
+			    </td>
+           </tr>
+
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr style="width:110px;height:13px;font-size:9px!important;">
+				<td style="padding-right:9px;font-size:11px!important;font-weight: bold;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       2007
+                       
+               </td>
+               <td id="displayYearEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight: bold;padding-top:1px;width:34px;height:13px;text-align:center;" title="You are here: 9:25:41 19 Aug, 2008">2008</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight: bold;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       2009
+                       
+				</td>
+           </tr>
+           </tbody></table>
+       </td>
+
+       </tr>
+       <tr>
+       <td style="vertical-align:middle;padding:0!important;">
+           <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541*/http://www.youtube.com/index" style="color:#33f;font-size:11px;font-weight:bold;background-color:transparent;border:none;" title="See a list of every capture for this URL"><strong>9 captures</strong></a>
+           <div style="margin:0!important;padding:0!important;color:#666;font-size:9px;padding-top:2px!important;white-space:nowrap;" title="Timespan for captures of this URL">17 May 08 - 9 Sep 08</div>
+       </td>
+       <td style="padding:0!important;">
+       <a style="position:relative; white-space:nowrap; width:375px;height:27px;" href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" style="position:relative; white-space:nowrap; width:375px;height:27px;background-color:#fff;cursor:pointer;border-right:1px solid #ccc;" title="Explore captures for this URL">
+			<img id="sparklineImgId" style="position:absolute; z-index:9012; top:0px; left:0px;"
+				onmouseover="showTrackers('inline');" 
+				onmouseout="showTrackers('none');"
+				onmousemove="trackMouseMove(event,this)"
+				alt="sparklines"
+				width="375"
+				height="27"
+				border="0"
+				src="http://www.webarchive.org.uk:80/wayback/archive/jsp/graph.jsp?graphdata=375_27_1991:-1:000000000000_1992:-1:000000000000_1993:-1:000000000000_1994:-1:000000000000_1995:-1:000000000000_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:7:000014211000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000000000_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:-1:000000000000"></img>
+			<img id="wbMouseTrackYearImg" 
+				style="display:none; position:absolute; z-index:9010;"
+				width="25" 
+				height="27"
+				border="0"
+				src="http://www.webarchive.org.uk:80/wayback/archive/images/toolbar/transp-yellow-pixel.png"></img>
+			<img id="wbMouseTrackMonthImg"
+				style="display:none; position:absolute; z-index:9011; " 
+				width="2"
+				height="27" 
+				border="0"
+				src="http://www.webarchive.org.uk:80/wayback/archive/images/toolbar/transp-red-pixel.png"></img>
+       </div>
+		</a>
+
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td style="text-align:right;padding:5px;width:65px;font-size:11px!important;">
+       <a href="javascript:;" onclick="document.getElementById('wm-ipp').style.display='none';" style="display:block;padding-right:18px;background:url(http://www.webarchive.org.uk:80/wayback/archive/images/toolbar/wm_tb_close.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;margin-bottom:7px;background-color:transparent;border:none;" title="Close the toolbar">Close</a>
+       <a href="http://www.webarchive.org.uk:80/wayback/archive-cy/20080819092541/http://www.youtube.com/index" style="display:block;padding-right:18px;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;margin-bottom:7px;background-color:transparent;border:none;" title="Cymraeg">Cymraeg</a>
+       <a href="http://www.webarchive.org.uk/ukwa/info/faq" style="display:block;padding-right:18px;background:url(http://www.webarchive.org.uk:80/wayback/archive/images/toolbar/wm_tb_help.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;background-color:transparent;border:none;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+
+</div>
+</div>
+<script type="text/javascript">
+ var wmDisclaimBanner = document.getElementById("wm-ipp");
+ if(wmDisclaimBanner != null) {
+   disclaimElement(wmDisclaimBanner);
+ }
+</script>
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7571526-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- Flowplayer overrides -->
+<script type="text/javascript">
+	if( typeof flowplayer != "function" ) {
+		var fScript = document.createElement( "script" );
+		fScript.setAttribute( "type", "text/javascript" );
+		fScript.setAttribute( "src", "http://www.webarchive.org.uk/flowplayer/flowplayer-3.1.4.min.js" );
+		document.getElementsByTagName( "head" )[0].appendChild( fScript );
+	}
+	var dScript= document.createElement( "script" );
+	var oDomain = "http://www.youtube.com/index"; 
+
+	dScript.setAttribute( "type", "text/javascript" );
+
+	regEx = new RegExp( "https?:/+([^/]+)/.*" );
+	oDomain = regEx.exec( oDomain );
+	dScript.setAttribute( "src", "http://www.webarchive.org.uk/flowplayer/" + oDomain[ 1 ] + ".js" );
+	document.getElementsByTagName( "head" )[0].appendChild( dScript );
+	// And fire:
+	var oldOnload = window.onload;
+    window.onload = function()
+    {
+        if( oldOnload ) oldOnload();
+        // Attempt to change the page title:
+        document.title = "[ARCHIVED] " + document.title;
+        // Initiate the flowplayer override:
+		if( typeof streamVideo == "function" ) streamVideo();
+    }
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+
+
+<div id="baseDiv" class="date-20080819 video-info">
+	
+		<div id="masthead">
+		<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/" onmousedown="urchinTracker('/Events/Header/YouTubeLogo');" class="logo"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" width="132" height="63" border="0" alt=""/></a>
+		<div id="non-logo-masthead">
+			<div id="top-margin-links-wrapper">
+				<div class="user-info">
+					
+
+					
+
+
+
+
+	<div id="util-links" class="normal-utility-links">
+
+		<span class="util-item first"><b><a class="hLink" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/signup?next=/index" onclick="_hbLink('SignUp','UtilityLinks');" onmousedown="urchinTracker('/Events/Header/UtilLinks/SignUp');">Sign Up</a></b></span>
+		<span class="util-item"><a class="hLink" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all" onmousedown="urchinTracker('/Events/Header/UtilLinks/QuickList');">QuickList</a> (<span id="quicklist-utility">0</span>)</span>
+		<span class="util-item"><a class="hLink" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://help.youtube.com/support/youtube/bin/static.py?page=start.cs" onmousedown="urchinTracker('/Events/Header/UtilLinks/Help');">Help</a></span>
+				<span class="util-item"><a class="hLink" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/login?next=/index" onmousedown="urchinTracker('/Events/Header/UtilLinks/SignIn');">Sign In</a></span>
+	</div>
+
+	<form name="logoutForm" method="post" target="_top" action="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index">
+		<input type="hidden" name="action_logout" value="1">
+	</form>
+
+
+
+				</div>
+				<div id="lang-locale-picker-links-wrapper">
+							<span class="util-item first with-flag"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="contentRegionPickerLink eLink" onclick="loadFlagImgs();toggleDisplay('contentRegionPickerBox');return false;" onmousedown="urchinTracker('/Events/Header/UtilLinks/I18n/text');">Worldwide</a></span>
+		<span class="util-item"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="uiLanguagePickerLink eLink" onclick="loadFlagImgs();toggleDisplay('uiLanguagePickerBox');return false;" onmousedown="urchinTracker('/Events/Header/UtilLinks/I18n/text');">English</a></span>
+
+				</div>
+						<div id="contentRegionPickerBox">
+		<div class="picker-top">
+			<div class="picker-close-link"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" onclick="closeContentRegionPicker(); return false;"><img onclick="closeContentRegionPicker()" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt="Close"></a></div>
+			<div class="picker-help-link"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="toggleDisplay('region-picker-help'); return false;">(What is this?)</a></div>
+			<h2>Set Your Country Content Preference</h2>
+				<div id="region-picker-help">Choose which country's videos, channels, and activity filters (for example, "Most Viewed"), you would like to view.</div>
+		</div>
+	<div class="flagDiv">
+			<script type="text/javascript">
+				var gContentRegions = [
+				['en_US','US','Worldwide (All)']									,				['en_AU','AU','Australia']									,				['en_CA','CA','Canada']									,				['en_IN','IN','India']									,				['en_IE','IE','Ireland']									,				['en_NZ','NZ','New Zealand']									,				['en_GB','GB','UK']									,				['pt_BR','BR','Brazil']									,				['de_DE','DE','Germany']									,				['es_ES','ES','Spain']									,				['fr_FR','FR','France']									,				['zh_HK','HK','Hong Kong']									,				['it_IT','IT','Italy']									,				['ja_JP','JP','Japan']									,				['ko_KR','KR','South Korea']									,				['es_MX','MX','Mexico']									,				['nl_NL','NL','Netherlands']									,				['pl_PL','PL','Poland']									,				['ru_RU','RU','Russia']									,				['zh_TW','TW','Taiwan']				
+				];
+			</script>
+			<div id="flagDivInnerContentRegion">
+			</div>
+	</div>
+	</div>
+
+						<div id="uiLanguagePickerBox">
+		<div class="picker-top">
+			<div class="picker-close-link"><img onclick="closeUILanguagePicker()" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt="Close"></div>
+			<div class="picker-help-link"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="toggleDisplay('language-picker-help'); return false;">(What is this?)</a></div>
+			<h2>Set Your Language Preference</h2>
+			<div id="language-picker-help">Choose the language in which you want to view YouTube. This will only change the interface, not any text entered by other users.</div>
+		</div>
+	<div class="flagDiv">
+			<script type="text/javascript">
+				var gUILanguages = [
+				['zh-CN','&#20013;&#25991; (&#31616;&#20307;)']									,				['zh-TW','&#20013;&#25991; (&#32321;&#39636;)']									,				['ja','&#26085;&#26412;&#35486;']									,				['ko','&#54620;&#44397;&#50612;']									,				['de','Deutsch']									,				['en-GB','English (UK)']									,				['en','English (US)']									,				['es','Espa&#241;ol (Espa&#241;a)']									,				['es-MX','Espa&#241;ol (Latinoam&#233;rica)']									,				['fr','Fran&#231;ais']									,				['it','Italiano']									,				['nl','Nederlands']									,				['pl','Polski']									,				['pt','Portugu&#234;s (Brasil)']									,				['ru','Pycc&#312;&#1080;&#1081;']				
+				];
+			</script>
+			<div id="flagDivInnerUILanguage">
+			</div>
+	</div>
+	</div>
+
+				
+
+		</div>
+	</div>
+		<div class="nav" id="tab-wrapper">
+			<div class="nav-item first selected" id="nav-item-home">
+				<span class="leftcap"></span>
+				<a class="content" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/" onmousedown="urchinTracker('/Events/Header/MainTabs/HomeTab');">Home</a>
+				<span class="rightcap"></span>
+			</div>
+			<div class="nav-item" id="nav-item-videos">
+				<div class="nav-tab">
+					<span class="leftcap"></span>
+					<a class="content" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/browse?s=mp" onmousedown="urchinTracker('/Events/Header/MainTabs/VideosTab');">Videos</a>
+					<span class="rightcap"></span>
+				</div>
+			</div>
+			<div class="nav-item" id="nav-item-channels">
+				<div class="nav-tab">
+					<span class="leftcap"></span>
+					<a class="content" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/members" onmousedown="urchinTracker('/Events/Header/MainTabs/ChannelsTab');">Channels</a>
+					<span class="rightcap"></span>
+				</div>
+			</div>
+			<div class="nav-item" id="nav-item-community">
+				<div class="nav-tab">
+					<span class="leftcap"></span>
+					<a class="content" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/community" onmousedown="urchinTracker('/Events/Header/MainTabs/CommunityTab');">Community</a>
+					<span class="rightcap"></span>
+				</div>
+			</div>
+		</div>
+
+		<form autocomplete="off" action="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results" method="get" name="searchForm" onsubmit="return submitRegularSearchRequest()">
+
+		<div class="bar">
+			<span class="leftcap"></span>
+			<div class="search-bar">
+				<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/my_videos_upload" onmousedown="urchinTracker('/Events/Header/UploadButton');" id="upload-button" class="action-button">
+					<span class="action-button-leftcap"></span>
+					<span class="action-button-text">Upload</span>
+					<span class="action-button-rightcap"></span>
+				</a>
+				<div id="search-form">
+					<input id="search-term" name="search_query" type="text" tabindex="1" "goog.i18n.bidi.setDirAttribute(event,this)"  value="" maxlength="128" />
+					<select class="search-type" name="search_type">
+						<option value="">Videos</option>
+						<option value="search_users" >Channels</option>
+					</select>
+					<input id="search-button" type="submit" value="Search" />
+				</div>
+				<script type="text/javascript">
+					var gGeoTooltipText =  'Move this marker to a new location then click Search to find videos recorded in that area.';
+					var gGeoTooltipMoreText= 'Zoom in/out to change the radius for your search.';
+					var gGeoTooltipButton = "<div class='alignC marT4'><button onclick='onGeoTooltipSearch(this);'>" + 'Search' + "</button></div>";
+					var gGeoTooltipMore = "<a href='#' onclick='marker.openInfoWindowHtml(gGeoTooltipMore); return false;'>" + 'more' + "&raquo;</a>";
+					var gGeoTooltip = "<div style='width: 200px; padding-right: 10px'>" + gGeoTooltipText + gGeoTooltipMore + gGeoTooltipButton + "</div>";
+					var gGeoTooltipMore = "<div style='width: 200px; padding-right: 10px'>" + gGeoTooltipText + gGeoTooltipMoreText + gGeoTooltipButton + "</div>";
+					var gGeoSelectedLocationText = 'Selected location';
+				</script>
+				<div class="search-settings-link">
+				<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onmousedown="urchinTracker('/Events/Header/AdvancedSearch');" onClick="return toggleAdvSearch('', '', '', '', '', '', '', '')">
+					advanced
+				</a></div>
+			</div>
+			<span class="rightcap"></span>
+		</div>
+
+		</form>
+
+		<div id="search-advanced-form" class="hid">
+			<div class="search-setting-inner alignC">Loading...</div>
+		</div>
+
+		<div class="clear"></div>
+	</div> 
+	<div id="search-settings-clr" class="hid"></div>
+
+	
+	
+	
+
+
+
+
+
+<div id="homepage-main-content"> 
+		<div>
+	<div id="active_sharing_div" name="active_sharing_div"></div>
+	<script type="text/javascript">
+		// <![CDATA[
+		var fo = new SWFObject("active_sharing.swf", "active_sharing", "550", "115", 7, "#FFFFFF");
+		var showstr = "Videos being watched right now...";
+		fo.addParam('wmode', 'opaque');
+		fo.addVariable("t", showstr);
+		fo.write("active_sharing_div");
+		// ]]>
+	</script>
+</div>
+
+			<div class="homepage-content-block sponsored-videos-block">
+		<div class="homepage-block-heading homepage-block-heading-gray">Promoted Videos</div>
+		<div>
+			<div class="homepage-sponsored-video">
+				<div class="videoIconWrapperOuter">
+					<div class="videoIconWrapperInner">
+					<div class="vstill"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/cthru?key=yZE-hMyV2W_cXfRi7V_hNxWiy3Lx0JxX5Rb3HiZmlV2kTG2-W7bMOHOzZtofN5f60RixVdhbK0Sb1fe70czjIpuA7b40dSxj5dtgbtqDKEc-TeBESM0VFAFYOhy4E-bQS3-xUvqSqJyN8T0Ddn4_CrHyabwtfpLe3wO1MRna9LsM1CvLQDv2P3HaZArUR2aLZqmSJ8wgTOQ=" name="&lid=DV+-+BBCNEWTOPGEARPAGENOWLIVEONYOUTUBE+-+TopGear&lpos=hp-s0" onmousedown="urchinTracker('/Events/Home/DV_click/TopGear/BBCNEWTOPGEARPAGENOWLIVEONYOUTUBE');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i3.ytimg.com/vi/raIS7S5MTUY/default.jpg" onload="urchinTrackerDefer('/Events/Home/DV_view/TopGear/BBCNEWTOPGEARPAGENOWLIVEONYOUTUBE');" class="vimg120"></a></div>
+					</div>
+				</div>
+				<div class="vtitle smallText">
+					<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/cthru?key=yZE-hMyV2W_cXfRi7V_hNxWiy3Lx0JxX5Rb3HiZmlV2kTG2-W7bMOHOzZtofN5f60RixVdhbK0Sb1fe70czjIpuA7b40dSxj5dtgbtqDKEc-TeBESM0VFAFYOhy4E-bQS3-xUvqSqJyN8T0Ddn4_CrHyabwtfpLe3wO1MRna9LsM1CvLQDv2P3HaZArUR2aLZqmSJ8wgTOQ=" name="&lid=DV+-+BBCNEWTOPGEARPAGENOWLIVEONYOUTUBE+-+TopGear&lpos=hp-s0">BBC: NEW! TOP GEAR ...</a>
+				</div>
+				<div class="vfacets">
+				<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/TopGear" class="dg">TopGear</a>
+				</div>
+			</div>
+			<div class="homepage-sponsored-video">
+				<div class="videoIconWrapperOuter">
+					<div class="videoIconWrapperInner">
+					<div class="vstill"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/cthru?key=GeEMozUrPg1IcMsTUItizBzAM6f_gH2AQW-W1v5UGbBlP6HVtLtAS7bC5LNqRifvDIItjPOrAgoGhh0LC2DVZLaDtydTbYIzcRl9RH9bFHJV-eIAGCFzkjPjxtoVq9WSSoFud8JVvPhfBIdGtAEhf7D3rclXA59XjjBgQxh02Mz8z2je2XrKTrv-qsLJX-rkKiix1KGCpsI=" name="&lid=DV+-+MrMushroom+-+TheGapYear2008&lpos=hp-s1" onmousedown="urchinTracker('/Events/Home/DV_click/TheGapYear2008/MrMushroom');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i4.ytimg.com/vi/C5ITd55gLH0/default.jpg" onload="urchinTrackerDefer('/Events/Home/DV_view/TheGapYear2008/MrMushroom');" class="vimg120"></a></div>
+					</div>
+				</div>
+				<div class="vtitle smallText">
+					<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/cthru?key=GeEMozUrPg1IcMsTUItizBzAM6f_gH2AQW-W1v5UGbBlP6HVtLtAS7bC5LNqRifvDIItjPOrAgoGhh0LC2DVZLaDtydTbYIzcRl9RH9bFHJV-eIAGCFzkjPjxtoVq9WSSoFud8JVvPhfBIdGtAEhf7D3rclXA59XjjBgQxh02Mz8z2je2XrKTrv-qsLJX-rkKiix1KGCpsI=" name="&lid=DV+-+MrMushroom+-+TheGapYear2008&lpos=hp-s1">Mr Mushroom</a>
+				</div>
+				<div class="vfacets">
+				<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/TheGapYear2008" class="dg">TheGapYear2008</a>
+				</div>
+			</div>
+			<div class="homepage-sponsored-video">
+				<div class="videoIconWrapperOuter">
+					<div class="videoIconWrapperInner">
+					<div class="vstill"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/cthru?key=Bx-OY0SCP0BQeQQd67f97Qm-WYrZEFVkxQyMBeXYL0leFO75AyVE_PIwx5kF8vudgBS2GHEvxokuqEQxhUHFNNhp_ABHohbnYXhQhx-Xp2C6uKJY4mI3BpjWrSHE6elVYECcWnuMU3WuIaPIe0ty7ojk3g5gwEWDL5ZNewEGg6IKAf70fJ2Zd0xegL-0hcv6K5vpEOqqnwU=" name="&lid=DV+-+TheBillGamePlanpt2ITV18pm20thAug+-+999TheBill&lpos=hp-s2" onmousedown="urchinTracker('/Events/Home/DV_click/999TheBill/TheBillGamePlanpt2ITV18pm20thAug');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i2.ytimg.com/vi/iSqwGRrRsLE/default.jpg" onload="urchinTrackerDefer('/Events/Home/DV_view/999TheBill/TheBillGamePlanpt2ITV18pm20thAug');" class="vimg120"></a></div>
+					</div>
+				</div>
+				<div class="vtitle smallText">
+					<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/cthru?key=Bx-OY0SCP0BQeQQd67f97Qm-WYrZEFVkxQyMBeXYL0leFO75AyVE_PIwx5kF8vudgBS2GHEvxokuqEQxhUHFNNhp_ABHohbnYXhQhx-Xp2C6uKJY4mI3BpjWrSHE6elVYECcWnuMU3WuIaPIe0ty7ojk3g5gwEWDL5ZNewEGg6IKAf70fJ2Zd0xegL-0hcv6K5vpEOqqnwU=" name="&lid=DV+-+TheBillGamePlanpt2ITV18pm20thAug+-+999TheBill&lpos=hp-s2">The Bill: Game Plan...</a>
+				</div>
+				<div class="vfacets">
+				<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/999TheBill" class="dg">999TheBill</a>
+				</div>
+			</div>
+			<div class="homepage-sponsored-video">
+				<div class="videoIconWrapperOuter">
+					<div class="videoIconWrapperInner">
+					<div class="vstill"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/cthru?key=5pCSG91w7F40OHkRUNqWmQSy9wcWNkNFtqEWKMqKAdluD24WxgjWDFh1opnw6pd41uOJIq67OLqpry0hIpI5Ju_NxNvk0dWsYpLyPgkK6PAb37XfS5uc_fuPJ-pRq0rL7wDrJhPHoHbdb4xLZHhn8c69q36aCRJ7J7kzgvnM4icc9ro-ae7g81KDy50qTTYL0ioriN_OVfY=" name="&lid=DV+-+DragQueenSchool+-+diagonaluk&lpos=hp-s3" onmousedown="urchinTracker('/Events/Home/DV_click/diagonaluk/DragQueenSchool');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i3.ytimg.com/vi/j8SX1YUbD3A/default.jpg" onload="urchinTrackerDefer('/Events/Home/DV_view/diagonaluk/DragQueenSchool');" class="vimg120"></a></div>
+					</div>
+				</div>
+				<div class="vtitle smallText">
+					<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/cthru?key=5pCSG91w7F40OHkRUNqWmQSy9wcWNkNFtqEWKMqKAdluD24WxgjWDFh1opnw6pd41uOJIq67OLqpry0hIpI5Ju_NxNvk0dWsYpLyPgkK6PAb37XfS5uc_fuPJ-pRq0rL7wDrJhPHoHbdb4xLZHhn8c69q36aCRJ7J7kzgvnM4icc9ro-ae7g81KDy50qTTYL0ioriN_OVfY=" name="&lid=DV+-+DragQueenSchool+-+diagonaluk&lpos=hp-s3">Drag Queen School</a>
+				</div>
+				<div class="vfacets">
+				<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/diagonaluk" class="dg">diagonaluk</a>
+				</div>
+			</div>
+		<div class="spacer-sm"></div>
+		</div>
+	</div>
+
+
+	<div id="homepage-featured-heading">
+			<div id="homepage-featured-more-top"><a id="hpVideoListMoreLink" href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/browse?s=rf" onmousedown="urchinTracker('/Events/Home/SeeMore/Featured/Top');">See More Featured Videos</a></div>
+		<h1 id="hpVideoListHead">Featured Videos</h1>
+	</div>
+
+	<div id="homepage-featured-tabs">
+		<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" id="hpTopFavoritesLink" name="&lid=hpTopFavoritesTab&lpos=hpTabs" onclick="swapVideoList(this); return false;">Top Favorites</a>
+		<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" id="hpMostDiscussedLink" name="&lid=hpMostDiscussedTab&lpos=hpTabs" onclick="swapVideoList(this); return false;">Most Discussed</a>
+		<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" id="hpMostViewedLink" name="&lid=hpMostViewedTab&lpos=hpTabs" onclick="swapVideoList(this); return false;">Most Viewed</a>
+		<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" id="hpFeaturedLink" name="&lid=hpFeaturedTab&lpos=hpTabs" onclick="swapVideoList(this); return false;" class="first hilite">Featured</a>
+		<div class="clear"></div>
+	</div>
+
+
+		<div id="homepage-editor-container">
+				<div id="homepage-editor-img"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/trendspottingtuesday"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i1.ytimg.com/i/p8ep1Y0i4PxkfljoA8CFSg/1.jpg" width="30" height="30" alt="editor image" border="0" /></a></div>
+			<div id="homepage-editor-info">
+				<div id="homepage-editor-head">Featured Videos selected by:
+					<b><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/trendspottingtuesday">trendspottingtuesday</a></b>
+				</div>
+			</div>
+		</div><div class="clear"></div>
+
+	<div id="homepage-video-list" class="browseListView">
+		<div id="hpFeatured">
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=M2-EPiA2Hi0" onmousedown="urchinTracker('/Events/VideoClicks/index/image/The Happy Life');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i2.ytimg.com/vi/M2-EPiA2Hi0/default.jpg"  class="vimg120" title="The Happy Life" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="M2-EPiA2Hi0" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i2.ytimg.com/vi/M2-EPiA2Hi0/default.jpg', 'The Happy Life');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_M2-EPiA2Hi0">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_M2-EPiA2Hi0" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=M2-EPiA2Hi0" onmousedown="urchinTracker('/Events/VideoClicks/index/title/The Happy Life');" title="The Happy Life">The Happy Life</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_M2-EPiA2Hi0" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=M2-EPiA2Hi0" onmousedown="urchinTracker('/Events/VideoClicks/index/title/The Happy Life');" title="The Happy Life">The Happy Life</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDescM2EPiA2Hi0">
+	1 Minute animated shortfilm about... the happy life.
+
+Fifth at "One minute Film & Sound 
+	</span>
+
+			<span  id="RemainvidDescM2EPiA2Hi0" style="display: none">1 Minute animated shortfilm about... the happy life.<br/><br/>Fifth at &quot;One minute Film &amp; Sound Awards&quot; Leffinge 2006.<br/><br/>Nominated at &quot;One Minute Belgian Open&quot; 2006.</span>
+			<span id="MorevidDescM2EPiA2Hi0" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="showDiv('RemainvidDescM2EPiA2Hi0'); hideDiv('MorevidDescM2EPiA2Hi0'); hideDiv('BeginvidDescM2EPiA2Hi0'); showDiv('LessvidDescM2EPiA2Hi0'); return false;">more</a>)</span>
+			<span id="LessvidDescM2EPiA2Hi0" style="display: none" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="hideDiv('RemainvidDescM2EPiA2Hi0'); hideDiv('LessvidDescM2EPiA2Hi0'); showDiv('BeginvidDescM2EPiA2Hi0'); showDiv('MorevidDescM2EPiA2Hi0'); return false;">less</a>)</span>
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/bertdombrecht" onmousedown="urchinTracker('/Events/VideoClicks/index/username/The Happy Life');">bertdombrecht</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 2,921<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-4.5" alt="4.5" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">00:59</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=1" onmousedown="urchinTracker('/Events/VideoClicks/index/category/The Happy Life');">Film &amp; Animation</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=5aFWJewmVcc" onmousedown="urchinTracker('/Events/VideoClicks/index/image/CULTURE by Ari Gold');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i2.ytimg.com/vi/5aFWJewmVcc/default.jpg"  class="vimg120" title="CULTURE by Ari Gold" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="5aFWJewmVcc" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i2.ytimg.com/vi/5aFWJewmVcc/default.jpg', 'CULTURE by Ari Gold');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_5aFWJewmVcc">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_5aFWJewmVcc" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=5aFWJewmVcc" onmousedown="urchinTracker('/Events/VideoClicks/index/title/CULTURE by Ari Gold');" title="CULTURE by Ari Gold">CULTURE by Ari Gold</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_5aFWJewmVcc" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=5aFWJewmVcc" onmousedown="urchinTracker('/Events/VideoClicks/index/title/CULTURE by Ari Gold');" title="CULTURE by Ari Gold">CULTURE by Ari Gold</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDesc5aFWJewmVcc">
+	"The best 60 seconds of film at Sundance" (Reel.com)
+www.arigoldfilms.com
+www.myspace.co
+	</span>
+
+			<span  id="RemainvidDesc5aFWJewmVcc" style="display: none">&quot;The best 60 seconds of film at Sundance&quot; (Reel.com)<br/>www.arigoldfilms.com<br/>www.myspace.com/arigold<br/><br/>BEST NARRATIVE SHORT • SOUTH-BY-SOUTHWEST FILM FESTIVAL<br/>POPULAR JURY AWARD • SAO PAULO SHORT FILM FESTIVAL<br/><br/>dogma rules:<br/>1. THE FILM MUST BE EXACTLY ONE MINUTE IN LENGTH<br/>2. THE FILM MUST HAVE NO CUTS<br/>3. THE NUMBER 3 MUST NOT BE MENTIONED<br/>4. THE FILM MUST HAVE LIVE SOUND ONLY (NO POST)<br/>5. THE FILM MUST HAVE NO DIALOGUE<br/>6. ONLY BLACK, WHITE, &amp; PRIMARY COLORS MAY BE USED<br/>7. THE FILM MUST BE SHOT IN ONE TAKE, WITH NO REHEARSALS<br/>8. THE FILM MUST BE PROJECTED IN 35 MM<br/>9. THE CAMERA MUST NOT MOVE<br/>10. ARI VON GOLD MUST PERFORM IN THE FILM<br/><br/>www.arigoldfilms.com</span>
+			<span id="MorevidDesc5aFWJewmVcc" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="showDiv('RemainvidDesc5aFWJewmVcc'); hideDiv('MorevidDesc5aFWJewmVcc'); hideDiv('BeginvidDesc5aFWJewmVcc'); showDiv('LessvidDesc5aFWJewmVcc'); return false;">more</a>)</span>
+			<span id="LessvidDesc5aFWJewmVcc" style="display: none" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="hideDiv('RemainvidDesc5aFWJewmVcc'); hideDiv('LessvidDesc5aFWJewmVcc'); showDiv('BeginvidDesc5aFWJewmVcc'); showDiv('MorevidDesc5aFWJewmVcc'); return false;">less</a>)</span>
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/arigoldfilms" onmousedown="urchinTracker('/Events/VideoClicks/index/username/CULTURE by Ari Gold');">arigoldfilms</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 17,501<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-3.5" alt="3.5" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">01:00</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=23" onmousedown="urchinTracker('/Events/VideoClicks/index/category/CULTURE by Ari Gold');">Comedy</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=hbb0jPZlFMU" onmousedown="urchinTracker('/Events/VideoClicks/index/image/Surprise');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i1.ytimg.com/vi/hbb0jPZlFMU/default.jpg"  class="vimg120" title="Surprise" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="hbb0jPZlFMU" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i1.ytimg.com/vi/hbb0jPZlFMU/default.jpg', 'Surprise');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+<div class="partner-marker-box"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=hbb0jPZlFMU" title="Partner Video"><img class="partner-marker" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif"></a></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_hbb0jPZlFMU">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_hbb0jPZlFMU" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=hbb0jPZlFMU" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Surprise');" title="Surprise">Surprise</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_hbb0jPZlFMU" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=hbb0jPZlFMU" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Surprise');" title="Surprise">Surprise</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDeschbb0jPZlFMU">
+	Dir: Ben Dodd
+
+Hitchcockian short film noir where a romantic murder is not as it seems.
+	</span>
+
+			<span  id="RemainvidDeschbb0jPZlFMU" style="display: none">Dir: Ben Dodd<br/><br/>Hitchcockian short film noir where a romantic murder is not as it seems.</span>
+			<span id="MorevidDeschbb0jPZlFMU" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="showDiv('RemainvidDeschbb0jPZlFMU'); hideDiv('MorevidDeschbb0jPZlFMU'); hideDiv('BeginvidDeschbb0jPZlFMU'); showDiv('LessvidDeschbb0jPZlFMU'); return false;">more</a>)</span>
+			<span id="LessvidDeschbb0jPZlFMU" style="display: none" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="hideDiv('RemainvidDeschbb0jPZlFMU'); hideDiv('LessvidDeschbb0jPZlFMU'); showDiv('BeginvidDeschbb0jPZlFMU'); showDiv('MorevidDeschbb0jPZlFMU'); return false;">less</a>)</span>
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/futureshorts" onmousedown="urchinTracker('/Events/VideoClicks/index/username/Surprise');">futureshorts</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 37,760<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-4.5" alt="4.5" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">01:34</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=1" onmousedown="urchinTracker('/Events/VideoClicks/index/category/Surprise');">Film &amp; Animation</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=uR_PzFZgsHU" onmousedown="urchinTracker('/Events/VideoClicks/index/image/Wrong side of the bed - Award winning short film');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i2.ytimg.com/vi/uR_PzFZgsHU/default.jpg"  class="vimg120" title="Wrong side of the bed - Award winning short film" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="uR_PzFZgsHU" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i2.ytimg.com/vi/uR_PzFZgsHU/default.jpg', 'Wrong side of the bed - Award winning short film');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_uR_PzFZgsHU">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_uR_PzFZgsHU" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=uR_PzFZgsHU" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Wrong side of the bed - Award winning short film');" title="Wrong side of the bed - Award winning short film">Wrong side of the bed - Award wi...</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_uR_PzFZgsHU" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=uR_PzFZgsHU" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Wrong side of the bed - Award winning short film');" title="Wrong side of the bed - Award winning short film">Wrong side of the bed - Award winning short film</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDescuR_PzFZgsHU">
+	Normality takes a turn on his head when Mr Average Joe suffers a very unlucky day when he 
+	</span>
+
+			<span  id="RemainvidDescuR_PzFZgsHU" style="display: none">Normality takes a turn on his head when Mr Average Joe suffers a very unlucky day when he gets up on the wrong side of the bed. Will he manage to get back on the right side of life or will he be doomed to suffer bad fortune for the rest of the day? This film was the winner of 2006 One Minute Wonder Competition.</span>
+			<span id="MorevidDescuR_PzFZgsHU" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="showDiv('RemainvidDescuR_PzFZgsHU'); hideDiv('MorevidDescuR_PzFZgsHU'); hideDiv('BeginvidDescuR_PzFZgsHU'); showDiv('LessvidDescuR_PzFZgsHU'); return false;">more</a>)</span>
+			<span id="LessvidDescuR_PzFZgsHU" style="display: none" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="hideDiv('RemainvidDescuR_PzFZgsHU'); hideDiv('LessvidDescuR_PzFZgsHU'); showDiv('BeginvidDescuR_PzFZgsHU'); showDiv('MorevidDescuR_PzFZgsHU'); return false;">less</a>)</span>
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/redfaceblue" onmousedown="urchinTracker('/Events/VideoClicks/index/username/Wrong side of the bed - Award winning short film');">redfaceblue</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 14,674<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-4.5" alt="4.5" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">01:31</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=23" onmousedown="urchinTracker('/Events/VideoClicks/index/category/Wrong side of the bed - Award winning short film');">Comedy</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=MJaI-Ohggd4" onmousedown="urchinTracker('/Events/VideoClicks/index/image/The Plastic Battle - Best Green One-minute film');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i2.ytimg.com/vi/MJaI-Ohggd4/default.jpg"  class="vimg120" title="The Plastic Battle - Best Green One-minute film" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="MJaI-Ohggd4" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i2.ytimg.com/vi/MJaI-Ohggd4/default.jpg', 'The Plastic Battle - Best Green One-minute film');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_MJaI-Ohggd4">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_MJaI-Ohggd4" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=MJaI-Ohggd4" onmousedown="urchinTracker('/Events/VideoClicks/index/title/The Plastic Battle - Best Green One-minute film');" title="The Plastic Battle - Best Green One-minute film">The Plastic Battle - Best Green ...</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_MJaI-Ohggd4" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=MJaI-Ohggd4" onmousedown="urchinTracker('/Events/VideoClicks/index/title/The Plastic Battle - Best Green One-minute film');" title="The Plastic Battle - Best Green One-minute film">The Plastic Battle - Best Green One-minute film</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDescMJaIOhggd4">
+	Winner of Friends of the Earth's Best One-minute green film award. 
+
+Director Ulla Jacob
+	</span>
+
+			<span  id="RemainvidDescMJaIOhggd4" style="display: none">Winner of Friends of the Earth's Best One-minute green film award. <br/><br/>Director Ulla Jacobsen (Denmark) on her entry:<br/><br/>&quot;Over-packaging of children's toys takes on absurb dimensions...&quot;<br/><br/>What our judges said:<br/><br/>&quot;Simple story, simply told&quot; - David Sproxton<br/><br/>&quot;Brilliant film. Perfect! The best!&quot; - Dilly Gent<br/><br/>&quot;Good concept&quot; - Andrew Macdonald</span>
+			<span id="MorevidDescMJaIOhggd4" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="showDiv('RemainvidDescMJaIOhggd4'); hideDiv('MorevidDescMJaIOhggd4'); hideDiv('BeginvidDescMJaIOhggd4'); showDiv('LessvidDescMJaIOhggd4'); return false;">more</a>)</span>
+			<span id="LessvidDescMJaIOhggd4" style="display: none" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="hideDiv('RemainvidDescMJaIOhggd4'); hideDiv('LessvidDescMJaIOhggd4'); showDiv('BeginvidDescMJaIOhggd4'); showDiv('MorevidDescMJaIOhggd4'); return false;">less</a>)</span>
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/friendsoftheearth" onmousedown="urchinTracker('/Events/VideoClicks/index/username/The Plastic Battle - Best Green One-minute film');">friendsofthe...</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 14,277<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-4.5" alt="4.5" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">01:04</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=1" onmousedown="urchinTracker('/Events/VideoClicks/index/category/The Plastic Battle - Best Green One-minute film');">Film &amp; Animation</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=YWF-wWV06jI" onmousedown="urchinTracker('/Events/VideoClicks/index/image/My Short Film(1 Minute)');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i2.ytimg.com/vi/YWF-wWV06jI/default.jpg"  class="vimg120" title="My Short Film(1 Minute)" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="YWF-wWV06jI" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i2.ytimg.com/vi/YWF-wWV06jI/default.jpg', 'My Short Film(1 Minute)');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_YWF-wWV06jI">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_YWF-wWV06jI" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=YWF-wWV06jI" onmousedown="urchinTracker('/Events/VideoClicks/index/title/My Short Film(1 Minute)');" title="My Short Film(1 Minute)">My Short Film(1 Minute)</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_YWF-wWV06jI" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=YWF-wWV06jI" onmousedown="urchinTracker('/Events/VideoClicks/index/title/My Short Film(1 Minute)');" title="My Short Film(1 Minute)">My Short Film(1 Minute)</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDescYWFwWV06jI">
+	This is a short film I did in 2005 and it was nominated for India-International Film Festi
+	</span>
+
+			<span  id="RemainvidDescYWFwWV06jI" style="display: none">This is a short film I did in 2005 and it was nominated for India-International Film Festival on disability by a pannel consisting of Adoor Gopalakrishnan,Jaya Bachan,Revathy......</span>
+			<span id="MorevidDescYWFwWV06jI" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="showDiv('RemainvidDescYWFwWV06jI'); hideDiv('MorevidDescYWFwWV06jI'); hideDiv('BeginvidDescYWFwWV06jI'); showDiv('LessvidDescYWFwWV06jI'); return false;">more</a>)</span>
+			<span id="LessvidDescYWFwWV06jI" style="display: none" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="hideDiv('RemainvidDescYWFwWV06jI'); hideDiv('LessvidDescYWFwWV06jI'); showDiv('BeginvidDescYWFwWV06jI'); showDiv('MorevidDescYWFwWV06jI'); return false;">less</a>)</span>
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/georgepaul123" onmousedown="urchinTracker('/Events/VideoClicks/index/username/My Short Film(1 Minute)');">georgepaul123</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 30,330<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-5.0" alt="5.0" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">00:58</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=1" onmousedown="urchinTracker('/Events/VideoClicks/index/category/My Short Film(1 Minute)');">Film &amp; Animation</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=UJytecG5cO0" onmousedown="urchinTracker('/Events/VideoClicks/index/image/The Bathroom');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i2.ytimg.com/vi/UJytecG5cO0/default.jpg"  class="vimg120" title="The Bathroom" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="UJytecG5cO0" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i2.ytimg.com/vi/UJytecG5cO0/default.jpg', 'The Bathroom');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_UJytecG5cO0">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_UJytecG5cO0" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=UJytecG5cO0" onmousedown="urchinTracker('/Events/VideoClicks/index/title/The Bathroom');" title="The Bathroom">The Bathroom</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_UJytecG5cO0" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=UJytecG5cO0" onmousedown="urchinTracker('/Events/VideoClicks/index/title/The Bathroom');" title="The Bathroom">The Bathroom</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDescUJytecG5cO0">
+	A one minute movie, made by, Ellinor Ivemyr, Rebecka Ström and Mårten
+	</span>
+
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/Elliino0r" onmousedown="urchinTracker('/Events/VideoClicks/index/username/The Bathroom');">Elliino0r</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 476<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-4.0" alt="4.0" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">01:00</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=1" onmousedown="urchinTracker('/Events/VideoClicks/index/category/The Bathroom');">Film &amp; Animation</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=nH8TfM-JJmA" onmousedown="urchinTracker('/Events/VideoClicks/index/image/Frans Hofmeester-Labyrinth');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i3.ytimg.com/vi/nH8TfM-JJmA/default.jpg"  class="vimg120" title="Frans Hofmeester-Labyrinth" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="nH8TfM-JJmA" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i3.ytimg.com/vi/nH8TfM-JJmA/default.jpg', 'Frans Hofmeester-Labyrinth');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_nH8TfM-JJmA">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_nH8TfM-JJmA" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=nH8TfM-JJmA" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Frans Hofmeester-Labyrinth');" title="Frans Hofmeester-Labyrinth">Frans Hofmeester-Laby rinth</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_nH8TfM-JJmA" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=nH8TfM-JJmA" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Frans Hofmeester-Labyrinth');" title="Frans Hofmeester-Labyrinth">Frans Hofmeester-Laby rinth</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDescnH8TfMJJmA">
+	Labyrinth by Frans Hofmeester is a One Minute Award winning animation.
+	</span>
+
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/Hofmeester" onmousedown="urchinTracker('/Events/VideoClicks/index/username/Frans Hofmeester-Labyrinth');">Hofmeester</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 757<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-3.0" alt="3.0" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">01:03</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=1" onmousedown="urchinTracker('/Events/VideoClicks/index/category/Frans Hofmeester-Labyrinth');">Film &amp; Animation</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=_6DA458Pyk8" onmousedown="urchinTracker('/Events/VideoClicks/index/image/One Minute movie');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i4.ytimg.com/vi/_6DA458Pyk8/default.jpg"  class="vimg120" title="One Minute movie" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="_6DA458Pyk8" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i4.ytimg.com/vi/_6DA458Pyk8/default.jpg', 'One Minute movie');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox__6DA458Pyk8">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix__6DA458Pyk8" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=_6DA458Pyk8" onmousedown="urchinTracker('/Events/VideoClicks/index/title/One Minute movie');" title="One Minute movie">One Minute movie</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix__6DA458Pyk8" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=_6DA458Pyk8" onmousedown="urchinTracker('/Events/VideoClicks/index/title/One Minute movie');" title="One Minute movie">One Minute movie</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDesc_6DA458Pyk8">
+	time is running out, or passing by
+	</span>
+
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/MichelKuik" onmousedown="urchinTracker('/Events/VideoClicks/index/username/One Minute movie');">MichelKuik</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 404<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-3.0" alt="3.0" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">01:00</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=22" onmousedown="urchinTracker('/Events/VideoClicks/index/category/One Minute movie');">People &amp; Blogs</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=k9IX_3fSbHQ" onmousedown="urchinTracker('/Events/VideoClicks/index/image/Change? A Cinema Workshop One Minute film by Thomas Finer');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i4.ytimg.com/vi/k9IX_3fSbHQ/default.jpg"  class="vimg120" title="Change? A Cinema Workshop One Minute film by Thomas Finer" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="k9IX_3fSbHQ" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i4.ytimg.com/vi/k9IX_3fSbHQ/default.jpg', 'Change? A Cinema Workshop One Minute film by Thomas Finer');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_k9IX_3fSbHQ">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_k9IX_3fSbHQ" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=k9IX_3fSbHQ" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Change? A Cinema Workshop One Minute film by Thomas Finer');" title="Change? A Cinema Workshop One Minute film by Thomas Finer">Change? A Cinema Workshop One Mi...</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_k9IX_3fSbHQ" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=k9IX_3fSbHQ" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Change? A Cinema Workshop One Minute film by Thomas Finer');" title="Change? A Cinema Workshop One Minute film by Thomas Finer">Change? A Cinema Workshop One Minute film by Thomas Finer</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDesck9IX_3fSbHQ">
+	2007 Cinema Workshop One minute Film by Thomas Finer.  Inspired By Aphex Twin and Chris Cu
+	</span>
+
+			<span  id="RemainvidDesck9IX_3fSbHQ" style="display: none">2007 Cinema Workshop One minute Film by Thomas Finer.  Inspired By Aphex Twin and Chris Cunningham.</span>
+			<span id="MorevidDesck9IX_3fSbHQ" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="showDiv('RemainvidDesck9IX_3fSbHQ'); hideDiv('MorevidDesck9IX_3fSbHQ'); hideDiv('BeginvidDesck9IX_3fSbHQ'); showDiv('LessvidDesck9IX_3fSbHQ'); return false;">more</a>)</span>
+			<span id="LessvidDesck9IX_3fSbHQ" style="display: none" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="hideDiv('RemainvidDesck9IX_3fSbHQ'); hideDiv('LessvidDesck9IX_3fSbHQ'); showDiv('BeginvidDesck9IX_3fSbHQ'); showDiv('MorevidDesck9IX_3fSbHQ'); return false;">less</a>)</span>
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/fin3r" onmousedown="urchinTracker('/Events/VideoClicks/index/username/Change? A Cinema Workshop One Minute film by Thomas Finer');">fin3r</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 494<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-2.5" alt="2.5" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">01:22</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=1" onmousedown="urchinTracker('/Events/VideoClicks/index/category/Change? A Cinema Workshop One Minute film by Thomas Finer');">Film &amp; Animation</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=YCg2TQ5ZVyg" onmousedown="urchinTracker('/Events/VideoClicks/index/image/One Minute Short Film - Destiny (Israel, 2005)');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i2.ytimg.com/vi/YCg2TQ5ZVyg/default.jpg"  class="vimg120" title="One Minute Short Film - Destiny (Israel, 2005)" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="YCg2TQ5ZVyg" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i2.ytimg.com/vi/YCg2TQ5ZVyg/default.jpg', 'One Minute Short Film - Destiny (Israel, 2005)');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_YCg2TQ5ZVyg">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_YCg2TQ5ZVyg" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=YCg2TQ5ZVyg" onmousedown="urchinTracker('/Events/VideoClicks/index/title/One Minute Short Film - Destiny (Israel, 2005)');" title="One Minute Short Film - Destiny (Israel, 2005)">One Minute Short Film - Destiny ...</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_YCg2TQ5ZVyg" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=YCg2TQ5ZVyg" onmousedown="urchinTracker('/Events/VideoClicks/index/title/One Minute Short Film - Destiny (Israel, 2005)');" title="One Minute Short Film - Destiny (Israel, 2005)">One Minute Short Film - Destiny (Israel, 2005)</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDescYCg2TQ5ZVyg">
+	Won the first place in the international jerusalem film festival (2005).
+
+This One Shot 
+	</span>
+
+			<span  id="RemainvidDescYCg2TQ5ZVyg" style="display: none">Won the first place in the international jerusalem film festival (2005).<br/><br/>This One Shot was made under two rough rules: The camera can not be stopped, and the length can not go over one minute.<br/><br/>Writing, Directing, Shooting and Editing.</span>
+			<span id="MorevidDescYCg2TQ5ZVyg" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="showDiv('RemainvidDescYCg2TQ5ZVyg'); hideDiv('MorevidDescYCg2TQ5ZVyg'); hideDiv('BeginvidDescYCg2TQ5ZVyg'); showDiv('LessvidDescYCg2TQ5ZVyg'); return false;">more</a>)</span>
+			<span id="LessvidDescYCg2TQ5ZVyg" style="display: none" class="smallText">(<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" class="eLink" onclick="hideDiv('RemainvidDescYCg2TQ5ZVyg'); hideDiv('LessvidDescYCg2TQ5ZVyg'); showDiv('BeginvidDescYCg2TQ5ZVyg'); showDiv('MorevidDescYCg2TQ5ZVyg'); return false;">less</a>)</span>
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/benISRAEL5" onmousedown="urchinTracker('/Events/VideoClicks/index/username/One Minute Short Film - Destiny (Israel, 2005)');">benISRAEL5</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 1,272<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-2.5" alt="2.5" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">00:59</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=22" onmousedown="urchinTracker('/Events/VideoClicks/index/category/One Minute Short Film - Destiny (Israel, 2005)');">People &amp; Blogs</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+
+			
+
+
+
+
+
+
+	<div class="vlentry" >
+
+
+
+
+		<div class="vlcontainer"><div class="v120WideEntry"><div class="v120WrapperOuter"><div class="v120WrapperInner"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=5oqOb_ghio4" onmousedown="urchinTracker('/Events/VideoClicks/index/image/Carax\'s &quot;my last minute&quot;');"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://i2.ytimg.com/vi/5oqOb_ghio4/default.jpg"  class="vimg120" title="Carax's &quot;my last minute&quot;" alt="video"></a><div class="addtoQL90"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#"  ql="5oqOb_ghio4" title="Add Video to QuickList"><img class="QLIconImg" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0"
+	onclick="clicked_add_icon(this, this.parentNode.getAttribute('ql'), 0, 'http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://i2.ytimg.com/vi/5oqOb_ghio4/default.jpg', 'Carax\'s &quot;my last minute&quot;');_hbLink('QuickList+AddTo','na');return false;"
+	onmouseover="mouseOverQuickAdd(this)"
+	onmouseout="mouseOutQuickAdd(this)"></a><div class="hid quicklist-inlist"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch_queue?all">Added</a></div></div>
+
+</div></div>
+			</div>
+
+			<div class="vldescbox" id="vldescbox_5oqOb_ghio4">
+
+
+				<div  class="vltitle">
+					<div class="vlshortTitle">
+							<span id="translated_short_prefix_5oqOb_ghio4" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=5oqOb_ghio4" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Carax\'s &quot;my last minute&quot;');" title="Carax's &quot;my last minute&quot;">Carax's "my last minute"</a>
+					</div>
+					<div class="vllongTitle">
+							<span id="translated_long_prefix_5oqOb_ghio4" class="small hide">[TRANSLATED]</span>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/watch?v=5oqOb_ghio4" onmousedown="urchinTracker('/Events/VideoClicks/index/title/Carax\'s &quot;my last minute&quot;');" title="Carax's &quot;my last minute&quot;">Carax's "my last minute"</a>
+					</div>
+				</div>
+
+
+				<div  class="vldesc">
+					
+				<span  id="BeginvidDesc5oqOb_ghio4">
+	Carax was asked for a one minute film, by the Vienna Film Festival
+	</span>
+
+
+
+
+				</div>
+
+
+			</div>
+
+			<div class="vlclearaltl"></div>
+
+
+
+		</div>
+
+		<div class="vlfacets">
+			<div class="vladded">
+
+			</div>
+				<div><span class="grayText vlfromlbl">From:</span><span class="vlfrom"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/user/lunaa" onmousedown="urchinTracker('/Events/VideoClicks/index/username/Carax\'s &quot;my last minute&quot;');">lunaa</a></span></div>
+				<div class="clearL"></div>
+
+			<span class="grayText">Views:</span> 9,768<br/>
+
+
+
+			<div class="video-thumb-duration-rating">
+								
+
+	<div>
+
+	<img class="ratingVS ratingVS-5.0" alt="5.0" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+
+
+
+	</div>
+
+
+
+
+
+				<div class="runtime">01:15</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="vlcategory">
+					<span class="smgrayText">More in</span> <a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results?search_category=1" onmousedown="urchinTracker('/Events/VideoClicks/index/category/Carax\'s &quot;my last minute&quot;');">Film &amp; Animation</a>
+				</div>
+
+		</div>
+
+		<div class="vlclearaltl"></div>
+
+
+
+
+	</div> <!-- end vEntry -->
+
+
+		</div>
+	</div> <!-- end Video List -->
+	<div id="homepage-featured-more-bottom">
+		<div class="floatR"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/browse?s=rf" onmousedown="urchinTracker('/Events/Home/SeeMore/Featured/Bottom');">See More Featured Videos</a></div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+
+<div id="homepage-side-content">
+	
+	<!-- Begin ad tag -->
+		<div id="ad_creative_1" >
+
+
+	
+
+			<input type="hidden" id="pvaHl" value="en"/>
+	<input type="hidden" id="pvaTag" value="http://n4061ad.doubleclick.net/adj/com.ythome/_default;sz=399x299;kl=N;kga=-1;klg=en;kgg=-1;kcr=us;kmyd=ad_creative_1;tile=1;dcopt=ist;"/>
+	<input type="hidden" id="burl" value="http://www.youtube.com/pva/"/>
+	<input type="hidden" id="canv" value="False"/>
+	<input type="hidden" id="yurl" value="http://s.ytimg.com/yt/swf/yva-vfl48103.swf"/>
+	<input type="hidden" id="tdl" value="http://www.youtube.com/"/>
+	<div id="myAd_banner" style="visibility:hidden;height:35px;"></div>
+	<div id="myAd_pva">
+
+
+		
+	
+	<script type="text/javascript">
+		ord=Math.random()*10000000000000000 + 3;
+		document.write('<script language="JavaScript" src="http://n4061ad.doubleclick.net/adj/com.ythome/_default;sz=399x299;kl=N;kga=-1;klg=en;kgg=-1;kcr=us;kmyd=ad_creative_1;tile=1;dcopt=ist;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script>
+	<noscript><a
+		href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://n4061ad.doubleclick.net/jump/_default;sz=399x299;ord=123456789" target="_blank"><img
+		src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://n4061ad.doubleclick.net/ad/_default;sz=399x299;ord=123456789" width="399" height="299" border="0" alt=""></a>
+	</noscript>
+
+			</div>
+
+
+			<div class="alignC xsmallText grayText padT3">
+				Advertisement
+			</div>
+		</div>
+
+	<!-- End ad tag -->
+
+
+		<div class="homepage-content-block">
+						<div class="signInBoxBorder">
+	<div class="signInBoxContent">
+			<strong>Want to personalize this homepage?</strong><br/>
+		<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/login?next=/index"><strong>Sign in to YouTube now!</strong></a>
+		<div class="homepage-border-dotted"></div>
+		<span class="smgrayText">
+		<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/https://www.google.com/accounts/ServiceLogin?service=youtube&hl=en_US&passive=true&continue=http%3A//www.youtube.com/signup%3Fhl%3Den_US">Sign in with your Google Account!</a>
+		</span>
+		<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/index#" onClick="window.open('/t/help_gaia','login_help','width=580,height=480,resizable=yes,scrollbars=yes,status=0').focus();" rel="nofollow"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" border="0" class="alignMid gaiaHelpBtn" alt=""></a>
+	</div>  
+		</div>  
+
+
+		</div> <!-- end homepage-content-block -->
+
+
+	
+	<!-- Begin ad tag -->
+		<div id="ad_creative_2" class="homepage-content-block ad-block">
+
+
+	
+
+
+	
+	<script type="text/javascript">
+		ord=Math.random()*10000000000000000 + 6;
+		document.write('<script language="JavaScript" src="http://n4061ad.doubleclick.net/adj/com.ythome/promo1;sz=300x50;kl=N;kga=-1;klg=en;kgg=-1;kcr=us;kmyd=ad_creative_2;tile=2;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script>
+	<noscript><a
+		href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://n4061ad.doubleclick.net/jump/promo1;sz=300x50;ord=123456789" target="_blank"><img
+		src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://n4061ad.doubleclick.net/ad/promo1;sz=300x50;ord=123456789" width="300" height="50" border="0" alt=""></a>
+	</noscript>
+
+
+		</div>
+
+	<!-- End ad tag -->
+
+
+	
+	<!-- Begin ad tag -->
+		<div id="ad_creative_4" class="homepage-content-block ad-block">
+
+
+	
+
+
+	
+	<script type="text/javascript">
+		ord=Math.random()*10000000000000000 + 6;
+		document.write('<script language="JavaScript" src="http://n4061ad.doubleclick.net/adj/com.ythome/promo3;sz=300x50;kl=N;kga=-1;klg=en;kgg=-1;kcr=us;kmyd=ad_creative_4;tile=4;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script>
+	<noscript><a
+		href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://n4061ad.doubleclick.net/jump/promo3;sz=300x50;ord=123456789" target="_blank"><img
+		src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://n4061ad.doubleclick.net/ad/promo3;sz=300x50;ord=123456789" width="300" height="50" border="0" alt=""></a>
+	</noscript>
+
+
+		</div>
+
+	<!-- End ad tag -->
+
+
+	<div class="homepage-side-block padT10">
+	<div class="homepage-yellow-block">
+		<div class="homepage-block-heading" style="color:#CC6600">What's New</div>
+
+
+		<div class="homepage-whatsnew-entry">
+			<div class="homepage-whatsnew-image"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/annotations_about"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/whats_new/annotation-vfl42087.gif" border="0" width="30" height="37"/></a></div>
+			<div class="homepage-whatsnew-desc">
+				<b><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/annotations_about">Video Annotations</a></b><br/>Add interactive commentary and links to your videos
+			</div>
+		</div><div class="clear"></div>
+
+
+		<div class="homepage-whatsnew-entry">
+			<div class="homepage-whatsnew-image"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/mobile"><img src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/whats_new/pic_home_mobile_30x37-vfl37458.gif" border="0" width="30" height="37"/></a></div>
+			<div class="homepage-whatsnew-desc">
+				<b><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/mobile">YouTube Mobile</a></b><br/> Watch and upload YouTube videos on your mobile device.
+			</div>
+		</div><div class="clear"></div>
+
+			<div class="bottomBorderDotted"></div>
+			<b><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/blog" style="color:#CC6600">Trendspotting Tuesday: One-Minute Movies</a></b><br>
+			At a time when Hollywood blockbusters often push the two-hour mark, it can be exhilarating to catch films that make a point in a minute. 
+		<div class="alignR padT5">
+			<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/blog" style="color:#CC6600">Read more in our Blog</a>
+		</div>
+		<div style="font-size: 1px; height: 1px;"><br/></div>
+	</div><img class="homepage-yellow-block-bot" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" />
+</div>
+
+
+		
+	<!-- Begin ad tag -->
+		<div id="ad_creative_3" class="homepage-side-block">
+
+
+	
+
+
+	
+	<script type="text/javascript">
+		ord=Math.random()*10000000000000000 + 6;
+		document.write('<script language="JavaScript" src="http://n4061ad.doubleclick.net/adj/com.ythome/promo2;sz=300x50;kl=N;kga=-1;klg=en;kgg=-1;kcr=us;kmyd=ad_creative_3;tile=3;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script>
+	<noscript><a
+		href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://n4061ad.doubleclick.net/jump/promo2;sz=300x50;ord=123456789" target="_blank"><img
+		src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://n4061ad.doubleclick.net/ad/promo2;sz=300x50;ord=123456789" width="300" height="50" border="0" alt=""></a>
+	</noscript>
+
+
+		</div>
+
+	<!-- End ad tag -->
+
+
+
+</div> <!-- end homepage-side-content -->
+
+<div class="clear"></div>
+
+
+	<!-- Begin ad tag -->
+
+
+	
+
+
+	
+	<script type="text/javascript">
+		ord=Math.random()*10000000000000000 + 11;
+		document.write('<script language="JavaScript" src="http://n4061ad.doubleclick.net/adj/com.ythome/t1;sz=1x1;kl=N;kga=-1;klg=en;kgg=-1;kcr=us;tile=5;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script>
+	<noscript><a
+		href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://n4061ad.doubleclick.net/jump/t1;sz=1x1;ord=123456789" target="_blank"><img
+		src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://n4061ad.doubleclick.net/ad/t1;sz=1x1;ord=123456789" width="1" height="1" border="0" alt=""></a>
+	</noscript>
+
+
+
+	<!-- End ad tag -->
+
+
+		<div class="clear"></div>
+	<div id="footer">
+		<div class="search">
+			<div class="promo">
+				<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/youchoose" onclick="_hbLink('FooterPromo','Footer');"><img id="debates_footer_img" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt="footer-promo" /></a>
+				<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/youchoose" onclick="_hbLink('FooterPromo','Footer');">Face The Candidates</a>
+			</div>
+			<form autocomplete="off" name="footer-search-form" method="get" action="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/results" style="width: 73.5%;">
+					<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.google.com/webmasters/igoogle/youtube.html"><img id="igoogle_footer_img" src="http://www.webarchive.org.uk:80/wayback/archive/20080819092541im_/http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""/> <em id="igoogle_footer_text">Add to iGoogle</em></a>
+				<input  type="text" name="search_query" maxlength="128" class="query" "goog.i18n.bidi.setDirAttribute(event,this)" value="" id="footer-search-term">
+				<select class="search-type" name="search_type">
+					<option value="">Videos</option>
+					<option value="search_users" >Channels</option>
+				</select>
+				<input onfocus="urchinTracker('/Events/Footer/Search');" type="submit" name="search" value="Search" class="submit-button">
+			</form>
+		</div>
+		<div class="links">
+			<table cellpadding="0" cellspacing="0">
+				<tr>
+					<th colspan="2">Your Account</th>
+					<th class="separator" colspan="2">Help &amp; Info</th>
+					<th class="separator" colspan="2">YouTube</th>
+				</tr>
+				<tr>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/my_videos" onmousedown="urchinTracker('/Events/Footer/Links/my_videos');">Videos</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/inbox" onmousedown="urchinTracker('/Events/Footer/Links/inbox');">Inbox</a></td>
+					<td class="separator"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://help.youtube.com/support/youtube/bin/static.py?page=start.cs" onmousedown="urchinTracker('/Events/Footer/Links/google_support_url');">Help Resources</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://help.youtube.com/group/youtube-help?hl=en_US" onmousedown="urchinTracker('/Events/Footer/Links/google_groups_url');">Community Help Forums</a></td>
+					<td class="separator"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/about" onmousedown="urchinTracker('/Events/Footer/Links/about');">Company Info</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/press_room" onmousedown="urchinTracker('/Events/Footer/Links/press_room');">Press</a></td>
+				</tr>
+				<tr>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/my_favorites" onmousedown="urchinTracker('/Events/Footer/Links/my_favorites');">Favorites</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/my_subscriptions" onmousedown="urchinTracker('/Events/Footer/Links/my_subscriptions');">Subscriptions</a></td>
+					<td class="separator"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/safety" onmousedown="urchinTracker('/Events/Footer/Links/safety');">Safety Tips</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/dmca_policy" onmousedown="urchinTracker('/Events/Footer/Links/dmca_policy');">Copyright Notices</a></td>
+					<td class="separator"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/testtube" onmousedown="urchinTracker('/Events/Footer/Links/testtube');">TestTube</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/contact_us" onmousedown="urchinTracker('/Events/Footer/Links/contact_us');">Contact</a></td>
+				</tr>
+				<tr>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/my_playlists" onmousedown="urchinTracker('/Events/Footer/Links/my_playlists');">Playlists</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/my_account" onmousedown="urchinTracker('/Events/Footer/Links/my_account');">more...</a></td>
+					<td class="separator"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/dev" onmousedown="urchinTracker('/Events/Footer/Links/dev');">Developer APIs</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/community_guidelines" onmousedown="urchinTracker('/Events/Footer/Links/community_guidelines');">Community Guidelines</a></td>
+					<td class="separator"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/terms" onmousedown="urchinTracker('/Events/Footer/Links/terms');">Terms of Use</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/blog" onmousedown="urchinTracker('/Events/Footer/Links/blog');">Blog</a></td>
+				</tr>
+				<tr>
+					<td colspan="2">&nbsp;</td>
+					<td class="separator"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/advertise" onmousedown="urchinTracker('/Events/Footer/Links/advertise');">Advertising</a></td>
+					<td><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/youtubeonyoursite" onmousedown="urchinTracker('/Events/Footer/Links/youtubeonyoursite');">YouTube On Your Site</a></td>
+					<td class="separator"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/privacy" onmousedown="urchinTracker('/Events/Footer/Links/privacy');">Privacy Policy</a></td>
+					<td>
+						<a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.google.com/jobs/youtube" onmousedown="urchinTracker('/Events/Footer/Links/jobs');">Jobs</a><br/>
+					</td>
+				</tr>
+
+				<tr>
+					<td colspan="2">&nbsp;</td>
+					<td class="separator" colspan="2"><a href="http://www.webarchive.org.uk:80/wayback/archive/20080819092541/http://www.youtube.com/t/yt_handbook_home" onmousedown="urchinTracker('/Events/Footer/Links/yt_handbook_home');">YouTube Handbook</a></td>
+					<td class="separator" colspan="2">&nbsp;</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<div id="copyright">
+		&copy; 2008 YouTube, LLC
+	</div>
+
+
+</div> <!-- end baseDiv -->
+<a name="pageBottom"></a>
+
+
+</body>
+<script type="text/javascript">
+	window.setTimeout('window.google.ac.install(document.searchForm,document.searchForm.search_query,"yt",true,"close",true,"Suggestions")', 100);
+</script>
+
+
+
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 9:25:41 Aug 19, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:43:42 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

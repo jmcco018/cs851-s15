@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="original"
+,<http://web.archive.org/web/20130617040459/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento first"; datetime="Mon, 17 Jun 2013 04:04:59 GMT"
+,<http://web.archive.org/web/20130623032837/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Sun, 23 Jun 2013 03:28:37 GMT"
+,<http://web.archive.org/web/20130724093423/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Wed, 24 Jul 2013 09:34:23 GMT"
+,<http://web.archive.org/web/20130806120638/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Tue, 06 Aug 2013 12:06:38 GMT"
+,<http://web.archive.org/web/20130819182032/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Mon, 19 Aug 2013 18:20:32 GMT"
+,<http://web.archive.org/web/20130823193201/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Fri, 23 Aug 2013 19:32:01 GMT"
+,<http://web.archive.org/web/20130825051255/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Sun, 25 Aug 2013 05:12:55 GMT"
+,<http://web.archive.org/web/20130925110325/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Wed, 25 Sep 2013 11:03:25 GMT"
+,<http://web.archive.org/web/20131026153150/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Sat, 26 Oct 2013 15:31:50 GMT"
+,<http://web.archive.org/web/20131127133011/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Wed, 27 Nov 2013 13:30:11 GMT"
+,<http://web.archive.org/web/20140209133014/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Sun, 09 Feb 2014 13:30:14 GMT"
+,<http://web.archive.org/web/20140702092325/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento"; datetime="Wed, 02 Jul 2014 09:23:25 GMT"
+,<http://web.archive.org/web/20150315111826/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="memento last"; datetime="Sun, 15 Mar 2015 11:18:26 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.timescrest.com/society/till-cinema-do-us-part-10530>;rel="self"; type="application/link-format"; from ="Mon, 17 Jun 2013 04:04:59 GMT";until="Sun, 15 Mar 2015 11:18:26 GMT"

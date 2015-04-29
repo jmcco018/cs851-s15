@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:26:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.peacewalk.eu/map.html>;rel="original"
+,<http://web.archive.org/web/20140627064502/http://www.peacewalk.eu/map.html>;rel="memento first"; datetime="Fri, 27 Jun 2014 06:45:02 GMT"
+,<http://web.archive.org/web/20150217164704/http://peacewalk.eu/map.html>;rel="memento last"; datetime="Tue, 17 Feb 2015 16:47:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.peacewalk.eu/map.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.peacewalk.eu/map.html>;rel="self"; type="application/link-format"; from ="Fri, 27 Jun 2014 06:45:02 GMT";until="Tue, 17 Feb 2015 16:47:04 GMT"

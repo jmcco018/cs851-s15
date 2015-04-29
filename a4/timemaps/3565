@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:10:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="original"
+,<http://web.archive.org/web/20150130173042/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="memento first"; datetime="Fri, 30 Jan 2015 17:30:42 GMT"
+,<http://web.archive.org/web/20150202161354/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="memento"; datetime="Mon, 02 Feb 2015 16:13:54 GMT"
+,<http://web.archive.org/web/20150317144606/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="memento"; datetime="Tue, 17 Mar 2015 14:46:06 GMT"
+,<http://web.archive.org/web/20150320200133/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="memento"; datetime="Fri, 20 Mar 2015 20:01:33 GMT"
+,<http://web.archive.org/web/20150329194947/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="memento"; datetime="Sun, 29 Mar 2015 19:49:47 GMT"
+,<http://web.archive.org/web/20150406124918/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="memento"; datetime="Mon, 06 Apr 2015 12:49:18 GMT"
+,<http://web.archive.org/web/20150407114921/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="memento"; datetime="Tue, 07 Apr 2015 11:49:21 GMT"
+,<http://web.archive.org/web/20150416214503/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="memento last"; datetime="Thu, 16 Apr 2015 21:45:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mirror.co.uk/news/world-news/horse-shaped-ufo-spotted-next-erupting-5072528>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 17:30:42 GMT";until="Thu, 16 Apr 2015 21:45:03 GMT"

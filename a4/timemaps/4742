@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:33:30 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thestar.com/news/gta/2015/01/29/the-needle-and-the-damage-done-fiorito.html>;rel="original"
+,<http://web.archive.org/web/20150316173943/http://www.thestar.com/news/gta/2015/01/29/the-needle-and-the-damage-done-fiorito.html>;rel="memento first"; datetime="Mon, 16 Mar 2015 17:39:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thestar.com/news/gta/2015/01/29/the-needle-and-the-damage-done-fiorito.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thestar.com/news/gta/2015/01/29/the-needle-and-the-damage-done-fiorito.html>;rel="self"; type="application/link-format"; from ="Mon, 16 Mar 2015 17:39:43 GMT";until="Mon, 16 Mar 2015 17:39:43 GMT"

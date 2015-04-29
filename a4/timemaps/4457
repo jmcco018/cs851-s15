@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:29:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://career-advice.monster.com/resumes-cover-letters/Resume-Writing-Tips/words-to-eliminate-from-your-resume/article.aspx>;rel="original"
+,<http://web.archive.org/web/20150320080657/http://career-advice.monster.com/resumes-cover-letters/Resume-Writing-Tips/words-to-eliminate-from-your-resume/article.aspx>;rel="memento first"; datetime="Fri, 20 Mar 2015 08:06:57 GMT"
+,<http://web.archive.org/web/20150403121450/http://career-advice.monster.com/resumes-cover-letters/resume-writing-tips/words-to-eliminate-from-your-resume/article.aspx>;rel="memento last"; datetime="Fri, 03 Apr 2015 12:14:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://career-advice.monster.com/resumes-cover-letters/Resume-Writing-Tips/words-to-eliminate-from-your-resume/article.aspx>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://career-advice.monster.com/resumes-cover-letters/Resume-Writing-Tips/words-to-eliminate-from-your-resume/article.aspx>;rel="self"; type="application/link-format"; from ="Fri, 20 Mar 2015 08:06:57 GMT";until="Fri, 03 Apr 2015 12:14:50 GMT"

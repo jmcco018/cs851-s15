@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:15:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://store.space.com/index.php/orion-starblast-6i-intelliscope-reflector-telescope.html/?ICID=SPACE-beginner-telescopes-2014-06-20>;rel="original"
+,<http://web.archive.org/web/20140908134418/http://store.space.com/index.php/orion-starblast-6i-intelliscope-reflector-telescope.html/?ICID=SPACE-beginner-telescopes-2014-06-20>;rel="memento first"; datetime="Mon, 08 Sep 2014 13:44:18 GMT"
+,<http://web.archive.org/web/20150321111026/http://store.space.com/index.php/orion-starblast-6i-intelliscope-reflector-telescope.html/?ICID=SPACE-beginner-telescopes-2014-06-20>;rel="memento last"; datetime="Sat, 21 Mar 2015 11:10:26 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://store.space.com/index.php/orion-starblast-6i-intelliscope-reflector-telescope.html/?ICID=SPACE-beginner-telescopes-2014-06-20>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://store.space.com/index.php/orion-starblast-6i-intelliscope-reflector-telescope.html/?ICID=SPACE-beginner-telescopes-2014-06-20>;rel="self"; type="application/link-format"; from ="Mon, 08 Sep 2014 13:44:18 GMT";until="Sat, 21 Mar 2015 11:10:26 GMT"

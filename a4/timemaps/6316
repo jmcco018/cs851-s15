@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:30 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cps.gov.uk/news/latest_news/cps_and_police_focus_on_consent_at_first_joint_national_rape_conference/>;rel="original"
+,<http://web.archive.org/web/20150216052521/http://www.cps.gov.uk/news/latest_news/cps_and_police_focus_on_consent_at_first_joint_national_rape_conference/>;rel="memento first"; datetime="Mon, 16 Feb 2015 05:25:21 GMT"
+,<http://web.archive.org/web/20150326221221/http://cps.gov.uk/news/latest_news/cps_and_police_focus_on_consent_at_first_joint_national_rape_conference/>;rel="memento"; datetime="Thu, 26 Mar 2015 22:12:21 GMT"
+,<http://web.archive.org/web/20150328220423/http://www.cps.gov.uk/news/latest_news/cps_and_police_focus_on_consent_at_first_joint_national_rape_conference/>;rel="memento last"; datetime="Sat, 28 Mar 2015 22:04:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cps.gov.uk/news/latest_news/cps_and_police_focus_on_consent_at_first_joint_national_rape_conference/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cps.gov.uk/news/latest_news/cps_and_police_focus_on_consent_at_first_joint_national_rape_conference/>;rel="self"; type="application/link-format"; from ="Mon, 16 Feb 2015 05:25:21 GMT";until="Sat, 28 Mar 2015 22:04:23 GMT"

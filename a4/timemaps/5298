@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:43:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://courtsnewsireland.ie/>;rel="original"
+,<http://web.archive.org/web/20131115075732/http://courtsnewsireland.ie/>;rel="memento first"; datetime="Fri, 15 Nov 2013 07:57:32 GMT"
+,<http://web.archive.org/web/20131117161537/http://courtsnewsireland.ie/>;rel="memento"; datetime="Sun, 17 Nov 2013 16:15:37 GMT"
+,<http://web.archive.org/web/20131120165720/http://courtsnewsireland.ie/>;rel="memento"; datetime="Wed, 20 Nov 2013 16:57:20 GMT"
+,<http://web.archive.org/web/20131220023225/http://courtsnewsireland.ie/>;rel="memento"; datetime="Fri, 20 Dec 2013 02:32:25 GMT"
+,<http://web.archive.org/web/20140122150805/http://courtsnewsireland.ie/>;rel="memento"; datetime="Wed, 22 Jan 2014 15:08:05 GMT"
+,<http://web.archive.org/web/20140226155309/http://courtsnewsireland.ie/>;rel="memento"; datetime="Wed, 26 Feb 2014 15:53:09 GMT"
+,<http://web.archive.org/web/20140330060016/http://www.courtsnewsireland.ie/>;rel="memento"; datetime="Sun, 30 Mar 2014 06:00:16 GMT"
+,<http://web.archive.org/web/20140517060637/http://courtsnewsireland.ie/>;rel="memento"; datetime="Sat, 17 May 2014 06:06:37 GMT"
+,<http://web.archive.org/web/20140730185427/http://courtsnewsireland.ie/>;rel="memento"; datetime="Wed, 30 Jul 2014 18:54:27 GMT"
+,<//wayback.archive-it.org/all/20141209141328/http://www.courtsnewsireland.ie/>;rel="memento"; datetime="Tue, 09 Dec 2014 14:13:28 GMT"
+,<//wayback.archive-it.org/all/20141209141331/http://courtsnewsireland.ie/>;rel="memento"; datetime="Tue, 09 Dec 2014 14:13:31 GMT"
+,<http://web.archive.org/web/20141210161506/http://www.courtsnewsireland.ie/>;rel="memento"; datetime="Wed, 10 Dec 2014 16:15:06 GMT"
+,<//wayback.archive-it.org/all/20141210161510/http://courtsnewsireland.ie/>;rel="memento"; datetime="Wed, 10 Dec 2014 16:15:10 GMT"
+,<http://web.archive.org/web/20141217005058/http://courtsnewsireland.ie/>;rel="memento last"; datetime="Wed, 17 Dec 2014 00:50:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://courtsnewsireland.ie/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://courtsnewsireland.ie/>;rel="self"; type="application/link-format"; from ="Fri, 15 Nov 2013 07:57:32 GMT";until="Wed, 17 Dec 2014 00:50:58 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:52:51 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bikaramba.com/toronto-to-quebec-city-july-7-july-18-register-now/>;rel="original"
+,<http://archive.is/20140406223103/http://www.bikaramba.com/toronto-to-quebec-city-july-7-july-18-register-now/>;rel="memento first"; datetime="Sun, 06 Apr 2014 22:31:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bikaramba.com/toronto-to-quebec-city-july-7-july-18-register-now/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bikaramba.com/toronto-to-quebec-city-july-7-july-18-register-now/>;rel="self"; type="application/link-format"; from ="Sun, 06 Apr 2014 22:31:03 GMT";until="Sun, 06 Apr 2014 22:31:03 GMT"

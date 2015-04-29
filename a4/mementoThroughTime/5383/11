@@ -1,0 +1,863 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app14.us.archive.org";archive_analytics.values.server_ms=201;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+	
+
+	<title>Interactive Radar - Columbia, Jefferson City, Mid-Missouri - News, Weather, Sports</title>
+	<meta name="author" content="kennedyj"/>
+	<meta name="copyright" content="&copy; 2013 KOMU CMS All Rights Reserved"/>
+	<meta name="keywords" content="radar, interactive"/>
+	<meta name="description" content="KOMU's Interactive radar maps of Columbia Missouri and Jefferson City allows you to easily zoom in to your neighborhood so you can get unmatched detail of weather in Missouri. Save favorite weather maps and get local weather reports, see severe weather alerts and weather, and stay ahead of the storm with KOMU's interactive radar. "/>
+	<meta name="revisit-after" content="7 days"/>
+	<meta name="robot" content="All"/>
+	
+	
+	<meta property="og:title" content="Interactive Radar - Columbia, Jefferson City, Mid-Missouri - News, Weather, Sports"/>
+	<meta property="og:image" content="http://www.komu.com/images/logo.png"/>
+	<meta property="og:site_name" content="KOMU.com"/>
+	<meta property="og:description" content="KOMU's Interactive radar maps of Columbia Missouri and Jefferson City allows you to easily zoom in to your neighborhood so you can get unmatched detail of weather in Missouri. Save favorite weather maps and get local weather reports, see severe weather alerts and weather, and stay ahead of the storm with KOMU's interactive radar. "/>	
+	<meta property="og:url" content="http://www.komu.com/pages/interactive-radar/"/>
+	
+	
+	
+		<meta property="fb:app_id" content="120937133004">
+	
+			<meta property="fb:admins" content="jenleereeves"/>
+		
+        
+	<link rel="image_src" href="http://www.komu.com/images/logo.png"/>
+	<link type="text/css" rel="stylesheet" href="/web/20130623220108cs_/http://www.komu.com/css/combine.css?m=1371655021937"/> <script type="text/javascript" src="/web/20130623220108js_/http://www.komu.com/js/combine.js?m=1371832863829"></script> <link rel="shortcut icon" href="/web/20130623220108im_/http://www.komu.com/favicon.ico" />
+
+<meta name="google-site-verification" content="tC6f9zJFdx8r1D6x_pyIHwdxX31KIqfTlbpwjt5bwzc" />
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1698382-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? '/web/20130623220108/https://ssl' : '/web/20130623220108/http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+</head>
+
+<body id="page_interactive-radar">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.komu.com/pages/interactive-radar/";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "23";
+var displayMonth = "Jun";
+var displayYear = "2013";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.komu.com/pages/interactive-radar/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20130623220108" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20120704185235/http://www.komu.com/pages/interactive-radar/" title="4 Jul 2012">JUL</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 22:01:08 Jun 23, 2013">JUN</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20130727064559/http://www.komu.com/pages/interactive-radar" title="27 Jul 2013"><strong>JUL</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130622232427/http://www.komu.com/pages/interactive-radar/" title="23:24:27 Jun 22, 2013"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 22:01:08 Jun 23, 2013">23</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20130625230913/http://www1.komu.com/pages/interactive-radar/" title="23:09:13 Jun 25, 2013"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20120502120027/http://www1.komu.com/pages/interactive-radar/" title="2 May 2012"><strong>2012</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 22:01:08 Jun 23, 2013">2013</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20141001042122/http://www.komu.com/pages/interactive-radar" title="1 Oct 2014"><strong>2014</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20130623220108*/http://www.komu.com/pages/interactive-radar/" title="See a list of every capture for this URL">37 captures</a>
+           <div class="r" title="Timespan for captures of this URL">3 May 11 - 28 Mar 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000022131020_2012:-1:000210200000_2013:5:000005532000_2014:-1:020001000200_2015:-1:001000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+<div id="site">
+	
+	<div class="sk_2ColumnWide">
+		
+		<div class="row" id="row1">
+			
+			<div class="column">
+				
+				
+					<div id="row1column1" class="layoutcell">
+						
+<div class="block ad ad_293">
+	<div class="header_ad">
+	
+						
+						<div class="content">
+							<script type="text/javascript"><!--//<![CDATA[
+					   var m3_u = (location.protocol=="https:"?"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php":"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php");
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ",";
+					   document.write ("<scr"+"ipt type=\"text/javascript\" src=\""+m3_u);
+					   document.write ("?zoneid=1739");
+					   document.write ("&amp;cb=" + m3_r);
+					   if (document.MAX_used != ",") document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write (document.charset ? "&amp;charset="+document.charset : (document.characterSet ? "&amp;charset="+document.characterSet : ""));
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("\"><\/scr"+"ipt>");
+					//]]>--></script><noscript><a href="/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ck.php?n=0vlb2k23&amp;cb=1372024543592" target="_blank"><img src="/web/20130623220108im_/http://adserver2.synapseip.tv/www/delivery/avw.php?zoneid=1739&amp;cb=1372024543592&amp;n=0vlb2k23" border="0" alt="" /></a></noscript>
+						</div>
+					
+	</div>
+</div>
+<div id="header" class="weather-header">
+	<div id="topbar">
+		<div id="topmenu">
+			<h3>Member Center</h3>
+			<ul>				
+				<li><a href="/web/20130623220108/http://www.komu.com/pages/create-membership">Create Account</a></li>
+				<li><a href="/web/20130623220108/http://www.komu.com/pages/login">Log In</a></li>
+			</ul>
+		</div>
+                <h1>&nbsp;</h1>
+		<div id="search">
+			<form id="searchForm" method="get" action="/web/20130623220108/http://www.komu.com/search/">
+				<p>
+					<input type="text" id="s_sitesearch" name="sterm" value="" size="20" class="default-value"/>
+					<input type="submit" id="s_sitesearch_submit" name="s" value="Search" />
+				</p>
+			</form>
+		</div>
+	</div>
+	<div id="header_nav">
+		<div id="menu"><ul id="topnav"><li id="menu_home" class="fly"><a href="/web/20130623220108/http://www.komu.com/home/">Home</a><ul><li id="menu_komu-mobile_86"><a href="/web/20130623220108/http://www.komu.com/mobile/">KOMU Mobile</a></li><li id="menu_iphone-app_82"><a href="/web/20130623220108/http://itunes.apple.com/us/app/komu/id426967749?mt=8" target="_blank">iPhone App</a></li><li id="menu_ipad-app_83"><a href="/web/20130623220108/http://itunes.apple.com/us/app/komu-for-ipad/id491758777?mt=8" target="_blank">iPad App</a></li><li id="menu_android-app_84"><a href="/web/20130623220108/https://play.google.com/store/apps/details?id=com.Synapse.KOMU&amp;feature=nav_result#?t=W251bGwsMSwxLDMsImNvbS5TeW5hcHNlLktPTVUiXQ.." target="_blank">Android App</a></li><li id="menu_iphone-weather-app_98"><a href="/web/20130623220108/https://itunes.apple.com/us/app/id603720417?mt=8" target="_blank">iPhone Weather App</a></li><li id="menu_ipad-weather-app_99"><a href="/web/20130623220108/https://itunes.apple.com/us/app/id603744636?mt=8" target="_blank">iPad Weather App</a></li><li id="menu_android-weather-app_100"><a href="/web/20130623220108/https://play.google.com/store/apps/details?id=com.komu.android.weather&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5rb211LmFuZHJvaWQud2VhdGhlciJd" target="_blank">Android Weather App</a></li></ul></li><li id="menu_news" class="fly"><a href="/web/20130623220108/http://www.komu.com/news/">News</a><ul><li id="menu_video"><a href="/web/20130623220108/http://www.komu.com/video/">Video</a></li><li id="menu_8-goes-green"><a href="/web/20130623220108/http://www.komu.com/8-goes-green/">8 Goes Green</a></li><li id="menu_yourview"><a href="/web/20130623220108/http://www.komu.com/yourview/">YourView</a></li><li id="menu_coverage-from-callaway"><a href="/web/20130623220108/http://www.komu.com/coverage-from-callaway/">Coverage From Callaway</a></li><li id="menu_streaming-newscast"><a href="/web/20130623220108/http://www.komu.com/streaming-newscast/">Streaming Newscast</a></li><li id="menu_meet-the-team"><a href="/web/20130623220108/http://www.komu.com/meet-the-team1/">Meet the Team</a></li><li id="menu_text-alerts_25"><a href="/web/20130623220108/http://my.textcaster.com/ServePopup.aspx?id=573" target="_blank">Text Alerts</a></li></ul></li><li id="menu_weather" class="fly"><a href="/web/20130623220108/http://www.komu.com/weather/">Weather</a><ul><li id="menu_closings-and-cancellations"><a href="/web/20130623220108/http://www.komu.com/closings-and-cancellations/">Closings and Cancellations</a></li><li id="menu_submit-a-closing-or-cancellation"><a href="/web/20130623220108/http://www.komu.com/submit-a-closing-or-cancellation/">Submit a Closing or Cancellation</a></li><li id="menu_interactive-radar"><a href="/web/20130623220108/http://www.komu.com/interactive-radar/">Interactive Radar</a></li><li id="menu_text-alerts_26"><a href="/web/20130623220108/http://my.textcaster.com/ServePopup.aspx?id=573" target="_blank">Text Alerts</a></li><li id="menu_streaming-newscast"><a href="/web/20130623220108/http://www.komu.com/streaming-newscast1/">Streaming Newscast</a></li><li id="menu_meet-the-team"><a href="/web/20130623220108/http://www.komu.com/meet-the-team2/">Meet the Team</a></li></ul></li><li id="menu_sports" class="fly"><a href="/web/20130623220108/http://www.komu.com/sports/">Sports</a><ul><li id="menu_baseball"><a href="/web/20130623220108/http://www.komu.com/baseball/">Baseball</a></li><li id="menu_basketball"><a href="/web/20130623220108/http://www.komu.com/basketball/">Basketball</a></li><li id="menu_football"><a href="/web/20130623220108/http://www.komu.com/football/">Football</a></li><li id="menu_friday-night-fever"><a href="/web/20130623220108/http://www.komu.com/fnf/">Friday Night Fever</a></li><li id="menu_sec-sports"><a href="/web/20130623220108/http://www.komu.com/sec-sports/">SEC Sports</a></li><li id="menu_olympic-sports"><a href="/web/20130623220108/http://www.komu.com/olympic-sports/">Olympic Sports</a></li><li id="menu_text-alerts_27"><a href="/web/20130623220108/http://my.textcaster.com/ServePopup.aspx?id=573" target="_blank">Text Alerts</a></li><li id="menu_meet-the-team"><a href="/web/20130623220108/http://www.komu.com/meet-the-team3/">Meet the Team</a></li></ul></li><li id="menu_social-media" class="fly"><a href="/web/20130623220108/http://www.komu.com/social-media/">Social Media</a><ul><li id="menu_public-insight-network"><a href="/web/20130623220108/http://www.komu.com/public-insight-network/">Public Insight Network</a></li></ul></li><li id="menu_on-komu-8" class="fly"><a href="/web/20130623220108/http://www.komu.com/on-komu-8/">On KOMU 8</a><ul><li id="menu_nbc-programs"><a href="/web/20130623220108/http://www.komu.com/nbc-programs/">NBC Programs</a></li><li id="menu_katie"><a href="/web/20130623220108/http://www.komu.com/katie/">Katie</a></li></ul></li><li id="menu_contacts" class="fly"><a href="/web/20130623220108/http://www.komu.com/contacts/">Contacts</a><ul><li id="menu_meet-the-team"><a href="/web/20130623220108/http://www.komu.com/meet-the-team/">Meet the Team</a></li></ul></li><li id="menu_komu-8-cares" class="fly"><a href="/web/20130623220108/http://www.komu.com/komu-8-cares/">KOMU 8 Cares</a><ul><li id="menu_komu-8-fan-club"><a href="/web/20130623220108/http://www.komu.com/komu-8-fan-club/">KOMU 8 Fan Club</a></li><li id="menu_community-calendar"><a href="/web/20130623220108/http://www.komu.com/community-calendar/">Community Calendar </a></li></ul></li><li id="menu_about-komu-8" class="fly"><a href="/web/20130623220108/http://www.komu.com/about-komu-8/">About KOMU 8</a><ul><li id="menu_advertising-opportunities"><a href="/web/20130623220108/http://www.komu.com/advertising-opportunities/">Advertising Opportunities</a></li><li id="menu_award-winning-journalism"><a href="/web/20130623220108/http://www.komu.com/award-winning-journalism/">Award Winning Journalism</a></li><li id="menu_news-release"><a href="/web/20130623220108/http://www.komu.com/news-release/">News Release</a></li><li id="menu_helpful-downloads"><a href="/web/20130623220108/http://www.komu.com/helpful-downloads/">Helpful Downloads</a></li><li id="menu_meet-the-team"><a href="/web/20130623220108/http://www.komu.com/meet-the-team4/">Meet the Team</a></li><li id="menu_contests"><a href="/web/20130623220108/http://www.komu.com/contests/">Contests</a></li></ul></li><li id="menu_holosnet_87" class="fly"><a href="/web/20130623220108/http://www.holosnetwork.com/" target="_blank">HolosNet</a><ul><li id="menu_holosnetwork-facebook_88"><a href="/web/20130623220108/http://www.facebook.com/holosnetwork" target="_blank">HolosNetwork Facebook</a></li><li id="menu_holosnetwork-android-app_89"><a href="/web/20130623220108/https://play.google.com/store/apps/details?id=com.holosnetwork.komu2" target="_blank">HolosNetwork Android App</a></li><li id="menu_holosnetwork-iphone-app_90"><a href="/web/20130623220108/https://itunes.apple.com/us/app/holos/id438749563?mt=8" target="_blank">HolosNetwork iPhone App</a></li></ul></li><li id="menu_younews_45"><a href="/web/20130623220108/http://www.younewstv.com/areas/komu">YouNews</a></li></ul></div>
+	</div>
+</div>
+
+
+<div id="alerts_ticker" style="display:none;"></div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+  $('#topmenu').load('/users/header.cfm?cb=' + Math.random());
+});
+//]]>
+</script>
+
+					</div>
+					
+			</div>
+		
+		</div>
+		
+		<div class="row" id="row2">
+			
+			<div class="column">
+				
+				
+					<div id="row2column1" class="layoutcell">
+						<style>a.hax-a-plain{color:#000;font-weight:400}a.hax-a-plain:hover{text-decoration:none}div.hax-content{padding:0 10px 20px 10px}div.hax-content.hax-div-part{padding:0 10px}div.hax-content h1{margin:1em 10px;font-size:2em}div.hax-content h2{margin:1em 0 0 10px;font-size:2em}div.hax-content ol li{margin-top:0.5em}div.hax-content ol:first-child{margin-top:0}div.hax-content ul li{margin-top:0.5em}div.hax-content ul:first-child{margin-top:0}div.hax-content ul.hax-ul-big{font-size:1.2em;font-weight:700}div.hax-content table{margin:0;padding:0;width:100%}div.hax-content table.hax-td-top td{vertical-align:top}div.hax-content table.hax-table-fix{table-layout:fixed}div.hax-content div.hax-header{margin-top:10px;padding:3px 5px;color:#fff;font-size:1.2em;font-weight:700;border-top:1px solid #500;border-left:1px solid #500;border-right:1px solid #500;border-radius:5px 5px 0 0;background-color:#940000;background-image:url('/web/20130623220108im_/http://www.komu.com/images/hax/hax-header-gradient.png');background-repeat:repeat-y}div.hax-content div.hax-header.hax-more{margin-top:20px}div.hax-content div.hax-tabbed div{padding-bottom:5px}div.hax-content div.hax-tabbed span{padding:3px 5px;display:inline-block;color:#fff;border-top:1px solid #500;border-left:1px solid #500;border-right:1px solid #500;border-radius:5px 5px 0 0;background:#c80000}div.hax-content div.hax-tabbed span:hover, div.hax-content div.hax-tabbed span:active{background:#da0000}div.hax-content div.hax-tabbed span.hax-selected{color:#000;border-top:1px solid #500;border-left:1px solid #500;border-right:1px solid #500;background:#fff}div.hax-content div.hax-context{border-bottom:1px solid #888;border-left:1px solid #888;border-right:1px solid #888;border-radius:0 0 5px 5px}div.hax-sidebar h1{color:#940000;margin-left:15px;margin-right:15px;font-size:1.3em;border-bottom:1px solid #940000}div.hax-content div.hax-tabbed{margin-top:10px;padding:3px 5px 0 5px;color:#fff;font-size:1.2em;font-weight:700;border-top:1px solid #500;border-left:1px solid #500;border-right:1px solid #500;border-radius:5px 5px 0 0;background-color:#940000;background-image:url('/web/20130623220108im_/http://www.komu.com/images/hax/hax-header-gradient.png');background-repeat:repeat-y}div.ad-expandable{position:relative;z-index:5000;padding:10px 0;width:324px;height:250px;text-align:center;background:#ccc}div.ad-expandable a{height:250px}</style>
+<style>div.hax-content .hot{color:#800}div.hax-content .cold{color:#008}div.hax-content div.wx-p-pad p{margin:0;padding:1em 0 0 0}div.hax-content img.wx-img{width:160px;height:90px;background:#383838}div.hax-content div.wx-outlook{padding:7px;font-weight:700;text-align:center;border:2px solid #888;border-radius:7px;background:#eee;/*background-image:url('/web/20130623220108im_/http://www.komu.com/images/hax/wx-forecast-pattern.png');*/}div.hax-content a div.wx-outlook:hover{text-decoration:none;border:2px solid #555;background:#dcdcdc}.wx-sidebar-container table{margin:10px 0}.wx-sidebar-container table tr td{vertical-align:top}.wx-sidebar-container table tr td.wx-sidebar-header{padding:0 10px;font-size:1.2em;font-weight:700}.wx-sidebar-container table tr td.wx-sidebar-header.wx-more{padding-top:1.5em}.wx-sidebar-container table tr td.wx-sidebar-image{padding:14px 5px 0 10px}.wx-sidebar-container table tr td.wx-sidebar-text{padding:10px 10px 0 5px}.wx-sidebar-container table tr td img{width:120px;height:66px}</style>
+<style>
+.wxc-map {
+  width:644px;
+  height:600px;
+}
+div#wx-radar-container {
+  position:relative;
+  margin:10px 0 20px 0;
+  text-align:center;
+}
+img#wx-radar-branding {
+  position:absolute;
+  z-index:2000;
+  bottom:105px;
+  right:20px;
+}
+</style>
+<div id="wx-radar-container">
+  <wxc:global host="komu"></wxc:global>
+  <wxc:map lat="38.95" lon="-92.33" zoom=8></wxc:map>
+  <img id="wx-radar-branding" src="/web/20130623220108im_/http://www.komu.com/images/weather/interactive_radar_branding.png" alt="" />
+  
+</div>
+
+<div class="block player player_3873">
+	<div class="">
+	
+				<div id="player_wrapper_7E501E27AC9D70B3142390DE7355B2BB" class="player_wrapper">
+					<div class="flow_player_container">
+						<div id="player_embed_container_7E501E27AC9D70B3142390DE7355B2BB" class="player_embed_container">
+							<div id="player_7E501E27AC9D70B3142390DE7355B2BB" class="flow_player"></div>
+							
+							<div id="player_share_7E501E27AC9D70B3142390DE7355B2BB" class="player_share" style="width:570px;">
+								<h3>Share This Video</h3>
+								
+								<p>URL <input type="text" id="urlcode_7E501E27AC9D70B3142390DE7355B2BB" class="embedcode" /></p>
+								
+								<p>Embed <input type="text" id="embedcode_7E501E27AC9D70B3142390DE7355B2BB" class="embedcode" /></p>
+								
+								<p>Iframe <input type="text" id="embedcodeiframe_7E501E27AC9D70B3142390DE7355B2BB" class="embedcode" /></p>
+								
+								<p id="player_share_social_7E501E27AC9D70B3142390DE7355B2BB" class="player_share_social">&nbsp;</p>
+								
+								<a href="#" onclick="toggle_embed_code('player_share','7E501E27AC9D70B3142390DE7355B2BB');return false;" class="player_share_close">close</a>
+							</div>
+						</div>
+					</div>
+					
+					<div class="extra_buttons" style="width:600px;">
+						<div id="extra_buttons_7E501E27AC9D70B3142390DE7355B2BB">
+							<a href="#" onclick="toggle_embed_code('player_share','7E501E27AC9D70B3142390DE7355B2BB');return false;" class="extra_buttons_button"><strong>+</strong> SHARE</a>
+							
+							<div id="rating_container_7E501E27AC9D70B3142390DE7355B2BB" class="rating_container"></div>
+							
+							<div id="player_views_7E501E27AC9D70B3142390DE7355B2BB" class="player_views">Views: <strong></strong></div>
+						</div>
+					</div>
+			
+					
+					
+						<div class="flow_playlist_container" style="width:600px;display:none;">
+							<div id="playlist_7E501E27AC9D70B3142390DE7355B2BB" class="flow_playlist">
+								<div class="clip">
+									<div class="items">
+										<a href="#">
+											<div class="thumb"><img src="${media:thumbnail.url}"/></div>
+											<span class="title">${title}</span>
+											<span class="views left">Views: ${media:community.statistics.views}</span>
+											<span class="rating left">Rating: ${media:community.starRating.average}</span>
+											<span class="date left">${created}</span>
+										</a>
+									</div>
+								</div>
+								<div class="flow_playlist_nav_container">
+									<div class="nav">
+										<button class="prev">Prev</button>
+										<span class="paging"></span>
+										<button class="next">Next</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					
+					
+				</div>
+			
+			
+				<script type="text/javascript">
+				//<![CDATA[			
+					
+					
+					playerGUID = '7E501E27AC9D70B3142390DE7355B2BB';
+
+					createPlayer(
+						'7E501E27AC9D70B3142390DE7355B2BB'
+						,'/videoplayer/playlist_rss.cfm?categories=15&items=1'
+						,'rtmp://hosting5.synapseip.tv/komu/'
+						,'rtmp://hosting5.synapseip.tv/komu-live/'
+						,'/videoplayer/generate_ad.cfm?items=1&categories=15'
+						,'UA-1698382-1'
+						,'/web/20130623220108/http://www.komu.com/'
+						,''
+						,''
+						,''
+						,''
+						,{
+							videoID: ''
+							,livestreamID: ''
+							,categories: '15'
+							,showPlaylist: false
+							,width: 600
+							,height: 338
+							,fitToWindow: false
+							,autoPlay: false
+							,autoHide: false
+							,showInfo: true
+							,showAds: true
+							,showCompanions : false
+							,live: false
+							,playlistItems: 1
+							,playlistWidth: 600
+							,itemsPerPage: 5
+							,pageClass: 'page'
+							,cookie: 'KOMUCMSNetwork'
+							,siteName: 'KOMU.com'
+							,mkey: '500B8962A7E373076379BA8E37726B77'
+							,totalads: 1
+							,prerollParts: [0]
+							,postrollParts: []
+							,licensekey: '#@2885977beb6204ea7f1'
+							,showCaptions: false
+						}
+					);
+				//]]>
+				</script>
+			
+	</div>
+</div>
+
+					
+					<script type="text/javascript">
+						$(document).ready(function(){
+							$('body').bind('player_onStart', function(e){
+								var sponsor = $('#ad300x250_' +  e.guid);
+								var leaderboard = $('#ad728x90_' +  e.guid);
+								
+							});
+						});
+					</script>
+					
+				
+<div class="hax-content hax-div-part">
+  <div class="hax-header hax-more">Live Doppler 8 First Alert Weather</div>
+  <div class="hax-context">
+    <table style="margin:auto;width:97%;">
+      <tr>
+        <td style="width:50%;">
+          
+          <a href="/web/20130623220108/http://www.komu.com/pages/live-streaming-radar" style="font-weight:700;font-size:1.2em;">Live Streaming Radar</a>
+          <div style="margin-top:5px;">KOMU's Doppler 8 First Alert Radar provides a realtime radar image for Columbia and mid-Missouri.</div>
+        </td>
+        <td style="padding-right:20px;">
+          <a href="/web/20130623220108/http://www.komu.com/pages/closings" style="font-weight:700;font-size:1.2em;">Closings and Cancellations</a>
+          <div style="margin-top:5px;">Stay informed of school closings and other event cancellations in mid-Missouri.</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          
+          <a href="/web/20130623220108/http://www.komu.com/pages/myweather" style="font-weight:700;font-size:1.2em;">KOMU MyWeather</a>
+          <div style="margin-top:5px;">Sign up for weather alerts by email and keep up with the latest weather information.</div>
+        </td>
+        <td>
+          <a href="/web/20130623220108/http://my.textcaster.com/ServePopup.aspx?id=573" style="font-weight:700;font-size:1.2em;">Mobile Text Alerts</a>
+          <div style="margin-top:5px;">Recieve weather alerts and other important news information on your mobile device.</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="/web/20130623220108/http://www.komu.com/pages/modot-road-conditions" style="font-weight:700;font-size:1.2em;">MoDOT Road Conditions</a>
+          <div style="margin-top:5px;">Stay updated on highway conditions across Missouri before you head out on the road.</div>
+        </td>
+        <td>
+          <a href="/web/20130623220108/http://www.komu.com/pages/weather-iq" style="font-weight:700;font-size:1.2em;">Weather IQ Question of the Day</a>
+          <div style="margin-top:5px;">Test your weather knowledge with our online quiz featuring the weather question of the day.</div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div class="block ad ad_3997">
+	<div class="default">
+	
+						
+						<div class="content">
+							<script type="text/javascript"><!--//<![CDATA[
+					   var m3_u = (location.protocol=="https:"?"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php":"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php");
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ",";
+					   document.write ("<scr"+"ipt type=\"text/javascript\" src=\""+m3_u);
+					   document.write ("?zoneid=2342");
+					   document.write ("&amp;cb=" + m3_r);
+					   if (document.MAX_used != ",") document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write (document.charset ? "&amp;charset="+document.charset : (document.characterSet ? "&amp;charset="+document.characterSet : ""));
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("\"><\/scr"+"ipt>");
+					//]]>--></script><noscript><a href="/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ck.php?n=c4pva5l7&amp;cb=1372024543670" target="_blank"><img src="/web/20130623220108im_/http://adserver2.synapseip.tv/www/delivery/avw.php?zoneid=2342&amp;cb=1372024543670&amp;n=c4pva5l7" border="0" alt="" /></a></noscript>
+						</div>
+					
+	</div>
+</div>
+
+					</div>
+					
+			</div>
+		
+			<div class="column">
+				
+				
+					<div id="row2column2" class="layoutcell">
+						<div style="margin-top:5px;text-align:center;">
+  <a href="/web/20130623220108/http://www.komu.com/pages/weather"><img src="/web/20130623220108im_/http://www.komu.com/images/weather/first-alert-logo.png" alt="KOMU First Alert Weather" /></a>
+</div>
+
+
+<div style="margin-top:5px;">
+  <table style="width:96%;margin:1em 0;"><tr>
+    <td style="padding:0;text-align:center;"><a href="/web/20130623220108/http://www.komu.com/pages/weather"><img src="/web/20130623220108im_/http://www.komu.com/images/weather_feeds/Missouri_Current_SatRad_Small.jpg" alt="" /></a></td>
+    <td style="padding:0;font-weight:700;">
+      <table style="width:100%;">
+        <tr>
+          <td style="width:50%;text-align:center;"><img style="vertical-align:middle;" src="/web/20130623220108im_/http://www.komu.com/images/weather/wxc-resize/current-sky-conditions/thunderstorm.png" alt="" width="53" height="53" /></td>
+          <td style="margin-top:20px;font-size:2.8em;text-align:center;">70&#176;</td>
+        </tr>
+      </table>
+      <div style="margin-top:0px;text-align:center;font-size:1.2em;"><a href="/web/20130623220108/http://www.komu.com/pages/weather"><div>Current<br />Conditions</div></a></div>
+    </td>
+  </tr></table>
+</div>
+<style>
+table#wx-sidebar-links {
+  margin:10px 0;
+  width:100%;
+}
+table#wx-sidebar-links tr td {
+  vertical-align:top;
+}
+table#wx-sidebar-links tr td a {
+  font-size:1.2em;
+  font-weight:700;
+}
+</style>
+<table id="wx-sidebar-links">
+  <tr>
+    <td style="width:49%;"><a href="/web/20130623220108/http://www.komu.com/pages/interactive-radar">Interactive Radar</a></td>
+    <td style="width:51%;"><a href="/web/20130623220108/http://www.komu.com/pages/weather-maps">Weather Maps</a></td>
+  </tr>
+  <tr>
+    <td>See an up to date radar map for when and where you need it.</td>
+    <td>
+      <a href="/web/20130623220108/http://www.komu.com/pages/weather-maps?q=local" style="font-size:1em;font-weight:400;">Local Satellite &amp; Radar</a><br />
+      <a href="/web/20130623220108/http://www.komu.com/pages/weather-maps?q=state" style="font-size:1em;font-weight:400;">Missouri Satellite &amp; Radar</a><br />
+      <a href="/web/20130623220108/http://www.komu.com/pages/weather-maps?q=midwest" style="font-size:1em;font-weight:400;">Midwest Satellite &amp; Radar</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="/web/20130623220108/http://www.komu.com/pages/closings">School Closings</a></td>
+    <td><a href="/web/20130623220108/http://www.komu.com/pages/modot-road-conditions">Highway Conditions</a></td>
+  </tr>
+  <tr>
+    <td>Stay informed of school closings and other event cancellations.</td>
+    <td>Keep updated on highway conditions across Missouri before you head outside.</td>
+  </tr>
+</table>
+
+<div class="block ad ad_175">
+	<div class="default">
+	
+						
+						<div class="content">
+							<script type="text/javascript"><!--//<![CDATA[
+					   var m3_u = (location.protocol=="https:"?"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php":"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php");
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ",";
+					   document.write ("<scr"+"ipt type=\"text/javascript\" src=\""+m3_u);
+					   document.write ("?zoneid=1735");
+					   document.write ("&amp;cb=" + m3_r);
+					   if (document.MAX_used != ",") document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write (document.charset ? "&amp;charset="+document.charset : (document.characterSet ? "&amp;charset="+document.characterSet : ""));
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("\"><\/scr"+"ipt>");
+					//]]>--></script><noscript><a href="/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ck.php?n=m8hh2jsc&amp;cb=1372024543794" target="_blank"><img src="/web/20130623220108im_/http://adserver2.synapseip.tv/www/delivery/avw.php?zoneid=1735&amp;cb=1372024543794&amp;n=m8hh2jsc" border="0" alt="" /></a></noscript>
+						</div>
+					
+	</div>
+</div>
+
+<script type="text/javascript" src="/web/20130623220108js_/http://itk.wxc.com/loader/loader.js"></script>
+<table width="310" border="0"><tr><td>
+  <script src="/web/20130623220108js_/http://www.komu.com/js/Weather_Spry.js" type="text/javascript"></script>
+  <link href="/web/20130623220108cs_/http://www.komu.com/css/Weather_Spry.css" rel="stylesheet" type="text/css" />
+  
+  <div id="TabbedPanels1" class="TabbedPanels" style="width:310px;" align="center">
+    <ul class="TabbedPanelsTabGroup">
+      <li class="TabbedPanelsTab" tabindex="0" style="font-family:Arial, Helvetica, sans-serif; font-size:11px">Rosie Newberry</li>
+      <li class="TabbedPanelsTab" tabindex="0" style="font-family:Arial, Helvetica, sans-serif; font-size:11px">Eric Aldrich</li>
+      <li class="TabbedPanelsTab" tabindex="0" style="font-family:Arial, Helvetica, sans-serif; font-size:11px">Dave Schmidt</li>
+    </ul>
+    
+    <div class="TabbedPanelsContentGroup" align="center">
+      <div class="TabbedPanelsContent" align="center">
+        <a class="twitter-timeline" data-dnt="true" href="/web/20130623220108/https://twitter.com/RosieNewberry" data-widget-id="345540747799453696" width="300" height="450">Tweets by @RosieNewberry</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div><!-- /TabbedPanelsContent -->
+      
+      <div class="TabbedPanelsContent" align="center">
+        <a class="twitter-timeline" data-dnt="true" href="/web/20130623220108/https://twitter.com/komuEric" data-widget-id="345542382344867840" width="300" height="450">Tweets by @komuEric</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div><!-- /TabbedPanelsContent -->
+      
+      <div class="TabbedPanelsContent" align="center">
+        <a class="twitter-timeline" data-dnt="true" href="/web/20130623220108/https://twitter.com/KOMUDopplerDave" data-widget-id="345542760197136384" width="300" height="450">Tweets by @KOMUDopplerDave</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div><!-- /TabbedPanelsContent -->
+    </div><!-- /TabbedPanelsContentGroup -->
+  </div><!-- /TabbedPanels1 -->
+  
+  <script type="text/javascript">
+  <!--
+  var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+  //-->
+  </script>
+</td></tr></table>
+
+<div class="block ad ad_296">
+	<div class="default">
+	
+						
+						<div class="content">
+							<script type="text/javascript"><!--//<![CDATA[
+					   var m3_u = (location.protocol=="https:"?"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php":"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php");
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ",";
+					   document.write ("<scr"+"ipt type=\"text/javascript\" src=\""+m3_u);
+					   document.write ("?zoneid=1736");
+					   document.write ("&amp;cb=" + m3_r);
+					   if (document.MAX_used != ",") document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write (document.charset ? "&amp;charset="+document.charset : (document.characterSet ? "&amp;charset="+document.characterSet : ""));
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("\"><\/scr"+"ipt>");
+					//]]>--></script><noscript><a href="/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ck.php?n=0n5crkuz&amp;cb=1372024543810" target="_blank"><img src="/web/20130623220108im_/http://adserver2.synapseip.tv/www/delivery/avw.php?zoneid=1736&amp;cb=1372024543810&amp;n=0n5crkuz" border="0" alt="" /></a></noscript>
+						</div>
+					
+	</div>
+</div>
+<div align="center" style="padding-top:10px;">
+  <link rel="stylesheet" href="/web/20130623220108cs_/http://www.younewstv.com/includes/yn_widget_external.css" type="text/css">
+  <div id="ynwidget300" class="ynpromo">
+    <div id="ynrecentpost">
+      <script type="text/javascript" src="/web/20130623220108js_/http://www.younewstv.com/includes/swfobject.js"></script>
+      <div id="yncontentwidget">
+        <div id="flashUpgrade">
+          This content requires the latest Adobe Flash Player and a browser with JavaScript enabled. <a href="/web/20130623220108/http://www.adobe.com/go/getflash/">Click here</a> for a free download of the latest Adobe Flash Player.
+        </div>
+      </div>
+      <script type="text/javascript"><!--
+      var so = new SWFObject("/web/20130623220108/http://www.younewstv.com/w_gas/?a=komu&b=71571", "flashFile", "300", "80", "8", "transparent");
+      so.addParam("scale", "noscale");
+      so.addParam("AllowScriptAccess", "always");
+      so.addParam("wmode", "transparent");
+      so.write("yncontentwidget");
+      //--></script>
+    </div>
+    <div id="googlesponsor">
+      <script type="text/javascript"><!--
+      google_ad_client = "pub-9046165571664830";
+      google_ad_width = 234;
+      google_ad_height = 60;
+      google_ad_format = "234x60_as";
+      google_ad_type = "text_image";
+      google_ad_channel = "3155139899";
+      google_color_border = "efefef";
+      google_color_bg = "efefef";
+      google_color_link = "990000";
+      google_color_url = "990000";
+      google_color_text = "000000";
+      //--></script>
+      <script type="text/javascript" src="/web/20130623220108js_/http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    </div>
+  </div>
+</div>
+
+<div class="block ad ad_1074">
+	<div class="">
+	
+						
+						<div class="content">
+							<script type="text/javascript"><!--//<![CDATA[
+					   var m3_u = (location.protocol=="https:"?"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php":"/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ajs.php");
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ",";
+					   document.write ("<scr"+"ipt type=\"text/javascript\" src=\""+m3_u);
+					   document.write ("?zoneid=1798");
+					   document.write ("&amp;cb=" + m3_r);
+					   if (document.MAX_used != ",") document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write (document.charset ? "&amp;charset="+document.charset : (document.characterSet ? "&amp;charset="+document.characterSet : ""));
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("\"><\/scr"+"ipt>");
+					//]]>--></script><noscript><a href="/web/20130623220108/http://adserver2.synapseip.tv/www/delivery/ck.php?n=0jr0nhpx&amp;cb=1372024543810" target="_blank"><img src="/web/20130623220108im_/http://adserver2.synapseip.tv/www/delivery/avw.php?zoneid=1798&amp;cb=1372024543810&amp;n=0jr0nhpx" border="0" alt="" /></a></noscript>
+						</div>
+					
+	</div>
+</div>
+
+					</div>
+					
+			</div>
+		
+		</div>
+		
+		<div class="row" id="row3">
+			
+			<div class="column">
+				
+				
+					<div id="row3column1" class="layoutcell">
+						<div id="footer">
+	<p id="footer_links">
+		<a href="/web/20130623220108/http://www.komu.com/on-komu/">See What's On KOMU and Mid-Missouri's CW</a> | <a href="/web/20130623220108/http://www.komu.com/advertising-opportunities/">Advertising Opportunities</a> | <a href="/web/20130623220108/http://www.komu.com/contact-us/">Contact KOMU</a> | <a href="/web/20130623220108/http://www.komu.com/pages/privacypolicy/">Privacy Policy</a> | <a href="/web/20130623220108/http://www.komu.com/pages/terms-of-service/">Terms of Service</a><br /><a href="/web/20130623220108/https://jobs.missouri.edu/" target="_blank">Employment Opportunities</a> | <a href="/web/20130623220108/http://www.komu.com/pages/mobile/">KOMU Mobile</a> | <a href="/web/20130623220108/http://www.komu.com/pages/textalerts/">KOMU Mobile Messages</a> | <a href="/web/20130623220108/http://www.komu.com/helpful-downloads/">Helpful Downloads</a> | <a href="/web/20130623220108/http://www.komu.com/pages/fcc/">FCC Public Information</a> | <a href="/web/20130623220108/https://stations.fcc.gov/station-profile/komu-tv" target="_blank">FCC Online Public Inspection File</a></p>
+
+	<p id="footer_copy">&copy; 2013 KOMU-TV8 and the <a href="/web/20130623220108/http://www.journalism.missouri.edu/" target="_blank">Missouri School of Journalism</a> at the <a href="/web/20130623220108/http://www.missouri.edu/" target="_blank"> University of Missouri-Columbia</a>.
+    <br />Some information courtesy Associated Press.  <!-- Commenting out.  404 returned. <img src="/web/20130623220108/http://www.komu.com/manual/images/counters/allpage.gif" alt="Page View Counter" width="1" height="1" />---></p>
+	
+	<p id="synapse">Powered by <a href="/web/20130623220108/http://synapsewebsite.com/content-management/">Synapse CMS</a></p>
+    
+    <!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "/web/20130623220108/https://secure" : "/web/20130623220108/http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-46mNz1Po6weCY"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="/web/20130623220108im_/http://pixel.quantserve.com/pixel/p-46mNz1Po6weCY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+    <script type="text/javascript">
+var _sf_async_config={uid:7443,domain:"komu.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "/web/20130623220108/https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+</div>
+
+
+					</div>
+					
+			</div>
+		
+		</div>
+		
+	</div>
+</div>
+
+
+
+</body> 
+</body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 22:01:08 Jun 23, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:45:37 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

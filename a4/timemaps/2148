@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:44:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.washingtontimes.com/news/2015/jan/28/brent-gardner-memo-congress-dont-skip-2015/>;rel="original"
+,<http://web.archive.org/web/20150129060019/http://www.washingtontimes.com/news/2015/jan/28/brent-gardner-memo-congress-dont-skip-2015/>;rel="memento first"; datetime="Thu, 29 Jan 2015 06:00:19 GMT"
+,<http://web.archive.org/web/20150129081934/http://www.washingtontimes.com/news/2015/jan/28/brent-gardner-memo-congress-dont-skip-2015/>;rel="memento last"; datetime="Thu, 29 Jan 2015 08:19:34 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.washingtontimes.com/news/2015/jan/28/brent-gardner-memo-congress-dont-skip-2015/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.washingtontimes.com/news/2015/jan/28/brent-gardner-memo-congress-dont-skip-2015/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 06:00:19 GMT";until="Thu, 29 Jan 2015 08:19:34 GMT"

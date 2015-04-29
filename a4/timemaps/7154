@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:14:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="original"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081022145439/http://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="memento first"; datetime="Wed, 22 Oct 2008 14:54:39 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20090216233111/http://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="memento"; datetime="Mon, 16 Feb 2009 23:31:11 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20100216225322/http://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="memento"; datetime="Tue, 16 Feb 2010 22:53:22 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20100816214022/http://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="memento"; datetime="Mon, 16 Aug 2010 21:40:22 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20110216224206/http://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="memento"; datetime="Wed, 16 Feb 2011 22:42:06 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20110816213623/http://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="memento"; datetime="Tue, 16 Aug 2011 21:36:23 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20120216223320/http://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="memento"; datetime="Thu, 16 Feb 2012 22:33:20 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20120816213443/http://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="memento last"; datetime="Thu, 16 Aug 2012 21:34:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.ras.org.uk/images/stories/library/sighting-tube.jpg>;rel="self"; type="application/link-format"; from ="Wed, 22 Oct 2008 14:54:39 GMT";until="Thu, 16 Aug 2012 21:34:43 GMT"

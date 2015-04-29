@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:23 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.themarysue.com/bill-nye-lightsail-video/>;rel="original"
+,<http://web.archive.org/web/20150128212653/http://www.themarysue.com/bill-nye-lightsail-video/>;rel="memento first"; datetime="Wed, 28 Jan 2015 21:26:53 GMT"
+,<http://web.archive.org/web/20150318113446/http://www.themarysue.com/bill-nye-lightsail-video/>;rel="memento"; datetime="Wed, 18 Mar 2015 11:34:46 GMT"
+,<http://web.archive.org/web/20150321184305/http://www.themarysue.com/bill-nye-lightsail-video/>;rel="memento last"; datetime="Sat, 21 Mar 2015 18:43:05 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.themarysue.com/bill-nye-lightsail-video/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.themarysue.com/bill-nye-lightsail-video/>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 21:26:53 GMT";until="Sat, 21 Mar 2015 18:43:05 GMT"

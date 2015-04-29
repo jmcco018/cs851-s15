@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://toastingbeauty.com/2015/01/30/nail-polish-obsessed/>;rel="original"
+,<http://web.archive.org/web/20150405055325/http://toastingbeauty.com/2015/01/30/nail-polish-obsessed/>;rel="memento first"; datetime="Sun, 05 Apr 2015 05:53:25 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://toastingbeauty.com/2015/01/30/nail-polish-obsessed/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://toastingbeauty.com/2015/01/30/nail-polish-obsessed/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 05:53:25 GMT";until="Sun, 05 Apr 2015 05:53:25 GMT"

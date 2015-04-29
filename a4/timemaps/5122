@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://phys.org/news/2015-01-pilotless-aircraft-critical-roles-precision.html>;rel="original"
+,<http://web.archive.org/web/20150414172254/http://phys.org/news/2015-01-pilotless-aircraft-critical-roles-precision.html>;rel="memento first"; datetime="Tue, 14 Apr 2015 17:22:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://phys.org/news/2015-01-pilotless-aircraft-critical-roles-precision.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://phys.org/news/2015-01-pilotless-aircraft-critical-roles-precision.html>;rel="self"; type="application/link-format"; from ="Tue, 14 Apr 2015 17:22:54 GMT";until="Tue, 14 Apr 2015 17:22:54 GMT"

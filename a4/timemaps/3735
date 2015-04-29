@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:15:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://money.usnews.com/money/personal-finance/articles/2014/12/31/25-ways-to-improve-your-finances-in-2015>;rel="original"
+,<http://web.archive.org/web/20150321095126/http://money.usnews.com/money/personal-finance/articles/2014/12/31/25-ways-to-improve-your-finances-in-2015>;rel="memento first"; datetime="Sat, 21 Mar 2015 09:51:26 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://money.usnews.com/money/personal-finance/articles/2014/12/31/25-ways-to-improve-your-finances-in-2015>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://money.usnews.com/money/personal-finance/articles/2014/12/31/25-ways-to-improve-your-finances-in-2015>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 09:51:26 GMT";until="Sat, 21 Mar 2015 09:51:26 GMT"

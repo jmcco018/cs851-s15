@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:14:32 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.hhs.gov/news/press/2015pres/01/20150130a.html>;rel="original"
+,<//wayback.archive-it.org/all/20150131180317/http://www.hhs.gov/news/press/2015pres/01/20150130a.html>;rel="memento first"; datetime="Sat, 31 Jan 2015 18:03:17 GMT"
+,<http://web.archive.org/web/20150216003556/http://www.hhs.gov/news/press/2015pres/01/20150130a.html>;rel="memento"; datetime="Mon, 16 Feb 2015 00:35:56 GMT"
+,<http://web.archive.org/web/20150317052448/http://www.hhs.gov/news/press/2015pres/01/20150130a.html>;rel="memento last"; datetime="Tue, 17 Mar 2015 05:24:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.hhs.gov/news/press/2015pres/01/20150130a.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.hhs.gov/news/press/2015pres/01/20150130a.html>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 18:03:17 GMT";until="Tue, 17 Mar 2015 05:24:48 GMT"

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:50:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/film/2015/jan/23/bradley-cooper-elephant-man-west-end>;rel="original"
+,<http://web.archive.org/web/20150123231700/http://www.theguardian.com/film/2015/jan/23/bradley-cooper-elephant-man-west-end>;rel="memento first"; datetime="Fri, 23 Jan 2015 23:17:00 GMT"
+,<http://web.archive.org/web/20150124120920/http://www.theguardian.com/film/2015/jan/23/bradley-cooper-elephant-man-west-end>;rel="memento"; datetime="Sat, 24 Jan 2015 12:09:20 GMT"
+,<http://web.archive.org/web/20150125041348/http://www.theguardian.com/film/2015/jan/23/bradley-cooper-elephant-man-west-end>;rel="memento"; datetime="Sun, 25 Jan 2015 04:13:48 GMT"
+,<http://web.archive.org/web/20150125213710/http://www.theguardian.com/film/2015/jan/23/bradley-cooper-elephant-man-west-end>;rel="memento last"; datetime="Sun, 25 Jan 2015 21:37:10 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/film/2015/jan/23/bradley-cooper-elephant-man-west-end>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/film/2015/jan/23/bradley-cooper-elephant-man-west-end>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 23:17:00 GMT";until="Sun, 25 Jan 2015 21:37:10 GMT"

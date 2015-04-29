@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:57:51 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://theplate.nationalgeographic.com/2015/01/29/when-it-comes-to-our-food-what-do-we-really-mean-when-we-say-local/>;rel="original"
+,<http://web.archive.org/web/20150131151910/http://theplate.nationalgeographic.com/2015/01/29/when-it-comes-to-our-food-what-do-we-really-mean-when-we-say-local/>;rel="memento first"; datetime="Sat, 31 Jan 2015 15:19:10 GMT"
+,<http://web.archive.org/web/20150205121230/http://theplate.nationalgeographic.com/2015/01/29/when-it-comes-to-our-food-what-do-we-really-mean-when-we-say-local/>;rel="memento"; datetime="Thu, 05 Feb 2015 12:12:30 GMT"
+,<http://web.archive.org/web/20150406022220/http://theplate.nationalgeographic.com/2015/01/29/when-it-comes-to-our-food-what-do-we-really-mean-when-we-say-local/>;rel="memento last"; datetime="Mon, 06 Apr 2015 02:22:20 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://theplate.nationalgeographic.com/2015/01/29/when-it-comes-to-our-food-what-do-we-really-mean-when-we-say-local/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://theplate.nationalgeographic.com/2015/01/29/when-it-comes-to-our-food-what-do-we-really-mean-when-we-say-local/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 15:19:10 GMT";until="Mon, 06 Apr 2015 02:22:20 GMT"

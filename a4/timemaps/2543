@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.ncregister.com/daily-news/the-dark-side-of-the-super-bowl-sex-trafficking>;rel="original"
+,<http://web.archive.org/web/20150212015913/http://www.ncregister.com/daily-news/the-dark-side-of-the-super-bowl-sex-trafficking/>;rel="memento first"; datetime="Thu, 12 Feb 2015 01:59:13 GMT"
+,<http://web.archive.org/web/20150421054654/http://www.ncregister.com/daily-news/the-dark-side-of-the-super-bowl-sex-trafficking>;rel="memento last"; datetime="Tue, 21 Apr 2015 05:46:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.ncregister.com/daily-news/the-dark-side-of-the-super-bowl-sex-trafficking>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.ncregister.com/daily-news/the-dark-side-of-the-super-bowl-sex-trafficking>;rel="self"; type="application/link-format"; from ="Thu, 12 Feb 2015 01:59:13 GMT";until="Tue, 21 Apr 2015 05:46:54 GMT"

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:57:17 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.redgage.com/photos/Kinderhook/striped-petunia.html>;rel="original"
+,<http://web.archive.org/web/20110711125705/http://www.redgage.com/photos/Kinderhook/striped-petunia.html>;rel="memento first"; datetime="Mon, 11 Jul 2011 12:57:05 GMT"
+,<http://web.archive.org/web/20110713050630/http://www.redgage.com/photos/kinderhook/striped-petunia.html>;rel="memento"; datetime="Wed, 13 Jul 2011 05:06:30 GMT"
+,<http://web.archive.org/web/20110811201717/http://www.redgage.com/photos/Kinderhook/striped-petunia.html>;rel="memento last"; datetime="Thu, 11 Aug 2011 20:17:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.redgage.com/photos/Kinderhook/striped-petunia.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.redgage.com/photos/Kinderhook/striped-petunia.html>;rel="self"; type="application/link-format"; from ="Mon, 11 Jul 2011 12:57:05 GMT";until="Thu, 11 Aug 2011 20:17:17 GMT"

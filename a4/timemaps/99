@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:11:08 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="original"
+,<http://web.archive.org/web/20140725121741/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento first"; datetime="Fri, 25 Jul 2014 12:17:41 GMT"
+,<http://web.archive.org/web/20140725141125/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Fri, 25 Jul 2014 14:11:25 GMT"
+,<http://web.archive.org/web/20140727090547/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Sun, 27 Jul 2014 09:05:47 GMT"
+,<http://web.archive.org/web/20140728121758/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Mon, 28 Jul 2014 12:17:58 GMT"
+,<http://web.archive.org/web/20140728223213/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Mon, 28 Jul 2014 22:32:13 GMT"
+,<http://web.archive.org/web/20140729223317/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Tue, 29 Jul 2014 22:33:17 GMT"
+,<http://web.archive.org/web/20140730045016/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Wed, 30 Jul 2014 04:50:16 GMT"
+,<http://web.archive.org/web/20140731021047/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Thu, 31 Jul 2014 02:10:47 GMT"
+,<http://web.archive.org/web/20140731150016/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Thu, 31 Jul 2014 15:00:16 GMT"
+,<http://web.archive.org/web/20140801051439/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Fri, 01 Aug 2014 05:14:39 GMT"
+,<http://web.archive.org/web/20140801215724/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Fri, 01 Aug 2014 21:57:24 GMT"
+,<http://web.archive.org/web/20140802095053/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Sat, 02 Aug 2014 09:50:53 GMT"
+,<http://web.archive.org/web/20140803050832/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Sun, 03 Aug 2014 05:08:32 GMT"
+,<http://web.archive.org/web/20140803132122/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Sun, 03 Aug 2014 13:21:22 GMT"
+,<http://web.archive.org/web/20140804104110/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Mon, 04 Aug 2014 10:41:10 GMT"
+,<http://web.archive.org/web/20140804193657/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Mon, 04 Aug 2014 19:36:57 GMT"
+,<http://web.archive.org/web/20140805155011/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Tue, 05 Aug 2014 15:50:11 GMT"
+,<http://web.archive.org/web/20140805203811/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Tue, 05 Aug 2014 20:38:11 GMT"
+,<http://web.archive.org/web/20140806220837/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento"; datetime="Wed, 06 Aug 2014 22:08:37 GMT"
+,<http://web.archive.org/web/20140828210122/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="memento last"; datetime="Thu, 28 Aug 2014 21:01:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/world/2014/jul/25/uclass-drone-us-navy-aircraft-carrier>;rel="self"; type="application/link-format"; from ="Fri, 25 Jul 2014 12:17:41 GMT";until="Thu, 28 Aug 2014 21:01:22 GMT"

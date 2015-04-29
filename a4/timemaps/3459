@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:07:19 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.wired.com/2015/01/edmonton-freezeway-ice-skating/>;rel="original"
+,<http://web.archive.org/web/20150129215406/http://www.wired.com/2015/01/edmonton-freezeway-ice-skating/>;rel="memento first"; datetime="Thu, 29 Jan 2015 21:54:06 GMT"
+,<http://archive.is/20150129231106/http://www.wired.com/2015/01/edmonton-freezeway-ice-skating/>;rel="memento"; datetime="Thu, 29 Jan 2015 23:11:06 GMT"
+,<http://web.archive.org/web/20150130063157/http://www.wired.com/2015/01/edmonton-freezeway-ice-skating/>;rel="memento"; datetime="Fri, 30 Jan 2015 06:31:57 GMT"
+,<http://web.archive.org/web/20150204115117/http://www.wired.com/2015/01/edmonton-freezeway-ice-skating/>;rel="memento"; datetime="Wed, 04 Feb 2015 11:51:17 GMT"
+,<http://web.archive.org/web/20150407140945/http://www.wired.com/2015/01/edmonton-freezeway-ice-skating/>;rel="memento last"; datetime="Tue, 07 Apr 2015 14:09:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.wired.com/2015/01/edmonton-freezeway-ice-skating/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.wired.com/2015/01/edmonton-freezeway-ice-skating/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 21:54:06 GMT";until="Tue, 07 Apr 2015 14:09:45 GMT"

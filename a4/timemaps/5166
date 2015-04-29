@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:40:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/gb/podcast/the-pocket-gamer-podcast/id300280568?mt=2>;rel="original"
+,<http://web.archive.org/web/20141120140833/https://itunes.apple.com/gb/podcast/the-pocket-gamer-podcast/id300280568?mt=2>;rel="memento first"; datetime="Thu, 20 Nov 2014 14:08:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/gb/podcast/the-pocket-gamer-podcast/id300280568?mt=2>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/gb/podcast/the-pocket-gamer-podcast/id300280568?mt=2>;rel="self"; type="application/link-format"; from ="Thu, 20 Nov 2014 14:08:33 GMT";until="Thu, 20 Nov 2014 14:08:33 GMT"

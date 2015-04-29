@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:15:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="original"
+,<http://web.archive.org/web/20150406173423/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="memento first"; datetime="Mon, 06 Apr 2015 17:34:23 GMT"
+,<http://web.archive.org/web/20150407214958/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="memento"; datetime="Tue, 07 Apr 2015 21:49:58 GMT"
+,<http://web.archive.org/web/20150409004010/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="memento"; datetime="Thu, 09 Apr 2015 00:40:10 GMT"
+,<http://web.archive.org/web/20150410030111/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="memento"; datetime="Fri, 10 Apr 2015 03:01:11 GMT"
+,<http://web.archive.org/web/20150413130447/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="memento"; datetime="Mon, 13 Apr 2015 13:04:47 GMT"
+,<http://web.archive.org/web/20150420041813/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="memento"; datetime="Mon, 20 Apr 2015 04:18:13 GMT"
+,<http://web.archive.org/web/20150421093056/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="memento"; datetime="Tue, 21 Apr 2015 09:30:56 GMT"
+,<http://web.archive.org/web/20150422085616/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="memento last"; datetime="Wed, 22 Apr 2015 08:56:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.csmonitor.com/Science/2015/0129/Mysterious-God-s-hand-space-globule-imaged-by-Very-Large-Telescope>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 17:34:23 GMT";until="Wed, 22 Apr 2015 08:56:16 GMT"

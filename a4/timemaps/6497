@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:02:59 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://socialnurseweb.ehlp.net/prevalence-of-autism-spectrum-disorders-a-cup-of-health-with-cdc/>;rel="original"
+,<http://web.archive.org/web/20150406064735/http://socialnurseweb.ehlp.net/prevalence-of-autism-spectrum-disorders-a-cup-of-health-with-cdc/>;rel="memento first"; datetime="Mon, 06 Apr 2015 06:47:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://socialnurseweb.ehlp.net/prevalence-of-autism-spectrum-disorders-a-cup-of-health-with-cdc/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://socialnurseweb.ehlp.net/prevalence-of-autism-spectrum-disorders-a-cup-of-health-with-cdc/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 06:47:35 GMT";until="Mon, 06 Apr 2015 06:47:35 GMT"

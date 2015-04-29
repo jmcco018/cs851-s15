@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:52:05 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://popcrush.com/album-of-the-year-2015-popcrush-fan-choice-awards/>;rel="original"
+,<http://web.archive.org/web/20150112215234/http://popcrush.com/album-of-the-year-2015-popcrush-fan-choice-awards/>;rel="memento first"; datetime="Mon, 12 Jan 2015 21:52:34 GMT"
+,<http://web.archive.org/web/20150113110614/http://popcrush.com/album-of-the-year-2015-popcrush-fan-choice-awards/>;rel="memento last"; datetime="Tue, 13 Jan 2015 11:06:14 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://popcrush.com/album-of-the-year-2015-popcrush-fan-choice-awards/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://popcrush.com/album-of-the-year-2015-popcrush-fan-choice-awards/>;rel="self"; type="application/link-format"; from ="Mon, 12 Jan 2015 21:52:34 GMT";until="Tue, 13 Jan 2015 11:06:14 GMT"

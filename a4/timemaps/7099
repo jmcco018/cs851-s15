@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:13:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://bancodeseries.com.br/index.php?action=se&serieid=1752&episode=111&type=>;rel="original"
+,<http://web.archive.org/web/20150419113155/http://bancodeseries.com.br/index.php?action=se&serieid=1752&episode=111&type=>;rel="memento first"; datetime="Sun, 19 Apr 2015 11:31:55 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://bancodeseries.com.br/index.php?action=se&serieid=1752&episode=111&type=>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://bancodeseries.com.br/index.php?action=se&serieid=1752&episode=111&type=>;rel="self"; type="application/link-format"; from ="Sun, 19 Apr 2015 11:31:55 GMT";until="Sun, 19 Apr 2015 11:31:55 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://originalpiecemag.com/2015/01/30/nail-trend-football-nails/>;rel="original"
+,<http://web.archive.org/web/20150405180609/http://originalpiecemag.com/2015/01/30/nail-trend-football-nails/>;rel="memento first"; datetime="Sun, 05 Apr 2015 18:06:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://originalpiecemag.com/2015/01/30/nail-trend-football-nails/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://originalpiecemag.com/2015/01/30/nail-trend-football-nails/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 18:06:09 GMT";until="Sun, 05 Apr 2015 18:06:09 GMT"

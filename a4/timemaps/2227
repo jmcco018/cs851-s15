@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:46:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.abc.net.au/news/2015-01-28/aru-looking-at-measures-to-avoid-talent-drain-cheika/6053098>;rel="original"
+,<http://web.archive.org/web/20150128132521/http://www.abc.net.au/news/2015-01-28/aru-looking-at-measures-to-avoid-talent-drain-cheika/6053098>;rel="memento first"; datetime="Wed, 28 Jan 2015 13:25:21 GMT"
+,<http://web.archive.org/web/20150130121222/http://www.abc.net.au/news/2015-01-28/aru-looking-at-measures-to-avoid-talent-drain-cheika/6053098>;rel="memento last"; datetime="Fri, 30 Jan 2015 12:12:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.abc.net.au/news/2015-01-28/aru-looking-at-measures-to-avoid-talent-drain-cheika/6053098>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.abc.net.au/news/2015-01-28/aru-looking-at-measures-to-avoid-talent-drain-cheika/6053098>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 13:25:21 GMT";until="Fri, 30 Jan 2015 12:12:22 GMT"

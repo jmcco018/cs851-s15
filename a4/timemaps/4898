@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:36:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://tedx2015.nd.edu/tickets/>;rel="original"
+,<http://web.archive.org/web/20150121153356/http://tedx2015.nd.edu/tickets/>;rel="memento first"; datetime="Wed, 21 Jan 2015 15:33:56 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://tedx2015.nd.edu/tickets/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://tedx2015.nd.edu/tickets/>;rel="self"; type="application/link-format"; from ="Wed, 21 Jan 2015 15:33:56 GMT";until="Wed, 21 Jan 2015 15:33:56 GMT"

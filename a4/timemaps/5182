@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:41:09 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://noisylist.com/site/post/913>;rel="original"
+,<http://web.archive.org/web/20150314224746/http://noisylist.com/site/post/913>;rel="memento first"; datetime="Sat, 14 Mar 2015 22:47:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://noisylist.com/site/post/913>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://noisylist.com/site/post/913>;rel="self"; type="application/link-format"; from ="Sat, 14 Mar 2015 22:47:46 GMT";until="Sat, 14 Mar 2015 22:47:46 GMT"

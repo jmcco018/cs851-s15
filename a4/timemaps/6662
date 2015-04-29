@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:06:06 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.jaguarpasadena.com/video-gallery/index.htm?type=media>;rel="original"
+,<http://web.archive.org/web/20140609033429/http://www.jaguarpasadena.com/video-gallery/index.htm?type=media>;rel="memento first"; datetime="Mon, 09 Jun 2014 03:34:29 GMT"
+,<http://web.archive.org/web/20140810110828/http://www.jaguarpasadena.com/video-gallery/index.htm?type=media>;rel="memento last"; datetime="Sun, 10 Aug 2014 11:08:28 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.jaguarpasadena.com/video-gallery/index.htm?type=media>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.jaguarpasadena.com/video-gallery/index.htm?type=media>;rel="self"; type="application/link-format"; from ="Mon, 09 Jun 2014 03:34:29 GMT";until="Sun, 10 Aug 2014 11:08:28 GMT"

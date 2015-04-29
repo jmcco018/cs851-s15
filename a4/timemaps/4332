@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.peta.org/action/action-alerts/usda-shut-down-cruel-meat-animal-research-center/>;rel="original"
+,<http://web.archive.org/web/20150123110931/http://www.peta.org/action/action-alerts/usda-shut-down-cruel-meat-animal-research-center/>;rel="memento first"; datetime="Fri, 23 Jan 2015 11:09:31 GMT"
+,<http://archive.is/20150128030623/http://www.peta.org/action/action-alerts/usda-shut-down-cruel-meat-animal-research-center/>;rel="memento"; datetime="Wed, 28 Jan 2015 03:06:23 GMT"
+,<http://web.archive.org/web/20150321201137/http://www.peta.org/action/action-alerts/usda-shut-down-cruel-meat-animal-research-center/>;rel="memento last"; datetime="Sat, 21 Mar 2015 20:11:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.peta.org/action/action-alerts/usda-shut-down-cruel-meat-animal-research-center/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.peta.org/action/action-alerts/usda-shut-down-cruel-meat-animal-research-center/>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 11:09:31 GMT";until="Sat, 21 Mar 2015 20:11:37 GMT"

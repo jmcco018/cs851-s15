@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:46:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blogs.wsj.com/indiarealtime/2015/01/30/the-surprising-secret-of-indias-success-could-be-its-brain-drain/>;rel="original"
+,<http://web.archive.org/web/20150319064019/http://blogs.wsj.com/indiarealtime/2015/01/30/the-surprising-secret-of-indias-success-could-be-its-brain-drain/>;rel="memento first"; datetime="Thu, 19 Mar 2015 06:40:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blogs.wsj.com/indiarealtime/2015/01/30/the-surprising-secret-of-indias-success-could-be-its-brain-drain/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blogs.wsj.com/indiarealtime/2015/01/30/the-surprising-secret-of-indias-success-could-be-its-brain-drain/>;rel="self"; type="application/link-format"; from ="Thu, 19 Mar 2015 06:40:19 GMT";until="Thu, 19 Mar 2015 06:40:19 GMT"

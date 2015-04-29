@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:08:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://nflnonline.nfl.com/?sc_id=PER_SOC_TW_z_socialflow_z>;rel="original"
+,<http://web.archive.org/web/20150205195625/http://nflnonline.nfl.com/?sc_id=PER_SOC_TW_z_socialflow_z>;rel="memento first"; datetime="Thu, 05 Feb 2015 19:56:25 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://nflnonline.nfl.com/?sc_id=PER_SOC_TW_z_socialflow_z>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://nflnonline.nfl.com/?sc_id=PER_SOC_TW_z_socialflow_z>;rel="self"; type="application/link-format"; from ="Thu, 05 Feb 2015 19:56:25 GMT";until="Thu, 05 Feb 2015 19:56:25 GMT"

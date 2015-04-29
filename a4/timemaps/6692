@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:06:39 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.telegraph.co.uk/sport/football/teams/chelsea/11379981/Diego-Costa-is-a-monster-thats-why-I-love-him.html>;rel="original"
+,<http://archive.is/20150131005102/http://www.telegraph.co.uk/sport/football/teams/chelsea/11379981/Diego-Costa-is-a-monster-thats-why-I-love-him.html>;rel="memento first"; datetime="Sat, 31 Jan 2015 00:51:02 GMT"
+,<http://web.archive.org/web/20150131092524/http://www.telegraph.co.uk/sport/football/teams/chelsea/11379981/Diego-Costa-is-a-monster-thats-why-I-love-him.html>;rel="memento last"; datetime="Sat, 31 Jan 2015 09:25:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.telegraph.co.uk/sport/football/teams/chelsea/11379981/Diego-Costa-is-a-monster-thats-why-I-love-him.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.telegraph.co.uk/sport/football/teams/chelsea/11379981/Diego-Costa-is-a-monster-thats-why-I-love-him.html>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 00:51:02 GMT";until="Sat, 31 Jan 2015 09:25:24 GMT"

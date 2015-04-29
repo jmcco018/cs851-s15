@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:57:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://footbasket.com/nba/nba-rumors-kevin-durant-interest-playing-knicks/>;rel="original"
+,<http://web.archive.org/web/20150406054427/http://footbasket.com/nba/nba-rumors-kevin-durant-interest-playing-knicks/>;rel="memento first"; datetime="Mon, 06 Apr 2015 05:44:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://footbasket.com/nba/nba-rumors-kevin-durant-interest-playing-knicks/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://footbasket.com/nba/nba-rumors-kevin-durant-interest-playing-knicks/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 05:44:27 GMT";until="Mon, 06 Apr 2015 05:44:27 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:19:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://ssl.clickbank.net/order/restricted.html?errCode=afblacklisted&cbhopvendor=el2ltd>;rel="original"
+,<http://web.archive.org/web/20140910071601/https://ssl.clickbank.net/order/restricted.html?errCode=afblacklisted&cbhopvendor=el2ltd>;rel="memento first"; datetime="Wed, 10 Sep 2014 07:16:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://ssl.clickbank.net/order/restricted.html?errCode=afblacklisted&cbhopvendor=el2ltd>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://ssl.clickbank.net/order/restricted.html?errCode=afblacklisted&cbhopvendor=el2ltd>;rel="self"; type="application/link-format"; from ="Wed, 10 Sep 2014 07:16:01 GMT";until="Wed, 10 Sep 2014 07:16:01 GMT"

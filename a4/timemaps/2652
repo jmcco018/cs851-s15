@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:53:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://assets.aviary.com/redirect.html?desktop=http://www.aviary.com&ios=&android=com.aviary.android.feather%26referrer%3Dandroid_other_share&play=com.aviary.android.feather%26referrer%3Dandroid_other_share>;rel="original"
+,<http://web.archive.org/web/20150211194149/http://assets.aviary.com/redirect.html?desktop=http://www.aviary.com&ios=&android=com.aviary.android.feather%26referrer%3Dandroid_other_share&play=com.aviary.android.feather%26referrer%3Dandroid_other_share>;rel="memento first"; datetime="Wed, 11 Feb 2015 19:41:49 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://assets.aviary.com/redirect.html?desktop=http://www.aviary.com&ios=&android=com.aviary.android.feather%26referrer%3Dandroid_other_share&play=com.aviary.android.feather%26referrer%3Dandroid_other_share>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://assets.aviary.com/redirect.html?desktop=http://www.aviary.com&ios=&android=com.aviary.android.feather%26referrer%3Dandroid_other_share&play=com.aviary.android.feather%26referrer%3Dandroid_other_share>;rel="self"; type="application/link-format"; from ="Wed, 11 Feb 2015 19:41:49 GMT";until="Wed, 11 Feb 2015 19:41:49 GMT"

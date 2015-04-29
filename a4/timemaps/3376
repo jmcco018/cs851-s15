@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:05:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://instagram.com/p/ye2rZfAHAG/>;rel="original"
+,<http://archive.is/20150130175130/http://instagram.com/p/ye2rZfAHAG/>;rel="memento first"; datetime="Fri, 30 Jan 2015 17:51:30 GMT"
+,<//wayback.archive-it.org/all/20150131151137/http://instagram.com/p/ye2rZfAHAG/>;rel="memento"; datetime="Sat, 31 Jan 2015 15:11:37 GMT"
+,<http://web.archive.org/web/20150401153418/http://instagram.com/p/ye2rZfAHAG/>;rel="memento last"; datetime="Wed, 01 Apr 2015 15:34:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://instagram.com/p/ye2rZfAHAG/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://instagram.com/p/ye2rZfAHAG/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 17:51:30 GMT";until="Wed, 01 Apr 2015 15:34:18 GMT"

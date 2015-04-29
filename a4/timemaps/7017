@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:12:20 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="original"
+,<http://web.archive.org/web/20150126060457/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="memento first"; datetime="Mon, 26 Jan 2015 06:04:57 GMT"
+,<http://web.archive.org/web/20150126164659/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="memento"; datetime="Mon, 26 Jan 2015 16:46:59 GMT"
+,<http://web.archive.org/web/20150127022757/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="memento"; datetime="Tue, 27 Jan 2015 02:27:57 GMT"
+,<http://web.archive.org/web/20150127220715/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="memento"; datetime="Tue, 27 Jan 2015 22:07:15 GMT"
+,<http://web.archive.org/web/20150128081328/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="memento"; datetime="Wed, 28 Jan 2015 08:13:28 GMT"
+,<http://web.archive.org/web/20150129052254/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="memento"; datetime="Thu, 29 Jan 2015 05:22:54 GMT"
+,<http://web.archive.org/web/20150129123925/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="memento"; datetime="Thu, 29 Jan 2015 12:39:25 GMT"
+,<http://archive.is/20150422094654/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="memento last"; datetime="Wed, 22 Apr 2015 09:46:54 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/uk-news/2015/jan/25/open-air-swimming-pool-thames-baths-london>;rel="self"; type="application/link-format"; from ="Mon, 26 Jan 2015 06:04:57 GMT";until="Wed, 22 Apr 2015 09:46:54 GMT"

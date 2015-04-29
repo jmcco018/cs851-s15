@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:33:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="original"
+,<http://web.archive.org/web/20150310125934/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento first"; datetime="Tue, 10 Mar 2015 12:59:34 GMT"
+,<http://web.archive.org/web/20150312110932/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Thu, 12 Mar 2015 11:09:32 GMT"
+,<http://web.archive.org/web/20150314113832/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Sat, 14 Mar 2015 11:38:32 GMT"
+,<http://web.archive.org/web/20150316183931/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Mon, 16 Mar 2015 18:39:31 GMT"
+,<http://web.archive.org/web/20150321224133/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Sat, 21 Mar 2015 22:41:33 GMT"
+,<http://web.archive.org/web/20150323230952/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Mon, 23 Mar 2015 23:09:52 GMT"
+,<http://web.archive.org/web/20150325172625/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Wed, 25 Mar 2015 17:26:25 GMT"
+,<http://web.archive.org/web/20150327113031/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Fri, 27 Mar 2015 11:30:31 GMT"
+,<http://web.archive.org/web/20150329062708/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Sun, 29 Mar 2015 06:27:08 GMT"
+,<http://web.archive.org/web/20150331023831/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Tue, 31 Mar 2015 02:38:31 GMT"
+,<http://web.archive.org/web/20150401230104/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Wed, 01 Apr 2015 23:01:04 GMT"
+,<http://web.archive.org/web/20150403131316/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Fri, 03 Apr 2015 13:13:16 GMT"
+,<http://web.archive.org/web/20150405123252/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Sun, 05 Apr 2015 12:32:52 GMT"
+,<http://web.archive.org/web/20150407075556/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Tue, 07 Apr 2015 07:55:56 GMT"
+,<http://web.archive.org/web/20150409050123/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Thu, 09 Apr 2015 05:01:23 GMT"
+,<http://web.archive.org/web/20150411021912/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Sat, 11 Apr 2015 02:19:12 GMT"
+,<http://web.archive.org/web/20150412234152/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Sun, 12 Apr 2015 23:41:52 GMT"
+,<http://web.archive.org/web/20150414190209/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Tue, 14 Apr 2015 19:02:09 GMT"
+,<http://web.archive.org/web/20150417010055/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Fri, 17 Apr 2015 01:00:55 GMT"
+,<http://web.archive.org/web/20150419013240/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento"; datetime="Sun, 19 Apr 2015 01:32:40 GMT"
+,<http://web.archive.org/web/20150420195809/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="memento last"; datetime="Mon, 20 Apr 2015 19:58:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.itv.com/news/2015-01-30/manhunt-launched-after-thug-stabs-woman-with-a-needle-outside-a-railway-station/>;rel="self"; type="application/link-format"; from ="Tue, 10 Mar 2015 12:59:34 GMT";until="Mon, 20 Apr 2015 19:58:09 GMT"

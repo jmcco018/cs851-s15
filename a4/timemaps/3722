@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:14:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://thechalkboardmag.com/6-steps-to-improve-your-running>;rel="original"
+,<http://web.archive.org/web/20150315055311/http://thechalkboardmag.com/6-steps-to-improve-your-running>;rel="memento first"; datetime="Sun, 15 Mar 2015 05:53:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://thechalkboardmag.com/6-steps-to-improve-your-running>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://thechalkboardmag.com/6-steps-to-improve-your-running>;rel="self"; type="application/link-format"; from ="Sun, 15 Mar 2015 05:53:11 GMT";until="Sun, 15 Mar 2015 05:53:11 GMT"

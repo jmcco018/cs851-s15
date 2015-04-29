@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:39:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.thisiscolossal.com/2015/01/air-plant-jellyfish-by-petitbeast/>;rel="original"
+,<http://web.archive.org/web/20150129052943/http://www.thisiscolossal.com/2015/01/air-plant-jellyfish-by-petitbeast/>;rel="memento first"; datetime="Thu, 29 Jan 2015 05:29:43 GMT"
+,<http://archive.is/20150201060337/http://www.thisiscolossal.com/2015/01/air-plant-jellyfish-by-petitbeast/>;rel="memento"; datetime="Sun, 01 Feb 2015 06:03:37 GMT"
+,<http://web.archive.org/web/20150326010800/http://www.thisiscolossal.com/2015/01/air-plant-jellyfish-by-petitbeast/>;rel="memento"; datetime="Thu, 26 Mar 2015 01:08:00 GMT"
+,<http://web.archive.org/web/20150421013247/http://www.thisiscolossal.com/2015/01/air-plant-jellyfish-by-petitbeast/>;rel="memento last"; datetime="Tue, 21 Apr 2015 01:32:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.thisiscolossal.com/2015/01/air-plant-jellyfish-by-petitbeast/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.thisiscolossal.com/2015/01/air-plant-jellyfish-by-petitbeast/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 05:29:43 GMT";until="Tue, 21 Apr 2015 01:32:47 GMT"

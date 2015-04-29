@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:03:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.yankodesign.com/2015/01/30/in-light-of-eternity/>;rel="original"
+,<http://web.archive.org/web/20150310020356/http://www.yankodesign.com/2015/01/30/in-light-of-eternity/>;rel="memento first"; datetime="Tue, 10 Mar 2015 02:03:56 GMT"
+,<http://web.archive.org/web/20150325042253/http://www.yankodesign.com/2015/01/30/in-light-of-eternity/>;rel="memento"; datetime="Wed, 25 Mar 2015 04:22:53 GMT"
+,<http://web.archive.org/web/20150402040322/http://www.yankodesign.com/2015/01/30/in-light-of-eternity/>;rel="memento last"; datetime="Thu, 02 Apr 2015 04:03:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.yankodesign.com/2015/01/30/in-light-of-eternity/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.yankodesign.com/2015/01/30/in-light-of-eternity/>;rel="self"; type="application/link-format"; from ="Tue, 10 Mar 2015 02:03:56 GMT";until="Thu, 02 Apr 2015 04:03:22 GMT"

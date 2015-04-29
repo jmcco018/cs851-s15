@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:42:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cbc.ca/news/canada/toronto/man-regains-use-of-injured-hand-using-3d-printer-1.2936584>;rel="original"
+,<http://archive.is/20150130065831/http://www.cbc.ca/news/canada/toronto/man-regains-use-of-injured-hand-using-3d-printer-1.2936584>;rel="memento first"; datetime="Fri, 30 Jan 2015 06:58:31 GMT"
+,<http://web.archive.org/web/20150207185341/http://www.cbc.ca/news/canada/toronto/man-regains-use-of-injured-hand-using-3d-printer-1.2936584>;rel="memento"; datetime="Sat, 07 Feb 2015 18:53:41 GMT"
+,<http://web.archive.org/web/20150416061358/http://www.cbc.ca/news/canada/toronto/man-regains-use-of-injured-hand-using-3d-printer-1.2936584>;rel="memento last"; datetime="Thu, 16 Apr 2015 06:13:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cbc.ca/news/canada/toronto/man-regains-use-of-injured-hand-using-3d-printer-1.2936584>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cbc.ca/news/canada/toronto/man-regains-use-of-injured-hand-using-3d-printer-1.2936584>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 06:58:31 GMT";until="Thu, 16 Apr 2015 06:13:58 GMT"

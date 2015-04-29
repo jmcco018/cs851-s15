@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:17:43 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="original"
+,<http://web.archive.org/web/20120103163909/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento first"; datetime="Tue, 03 Jan 2012 16:39:09 GMT"
+,<http://web.archive.org/web/20120103200850/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Tue, 03 Jan 2012 20:08:50 GMT"
+,<http://web.archive.org/web/20120104115119/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Wed, 04 Jan 2012 11:51:19 GMT"
+,<http://web.archive.org/web/20120104192518/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Wed, 04 Jan 2012 19:25:18 GMT"
+,<http://web.archive.org/web/20120105043738/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Thu, 05 Jan 2012 04:37:38 GMT"
+,<http://web.archive.org/web/20120105090857/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Thu, 05 Jan 2012 09:08:57 GMT"
+,<http://web.archive.org/web/20120120025958/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Fri, 20 Jan 2012 02:59:58 GMT"
+,<http://web.archive.org/web/20120120044503/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Fri, 20 Jan 2012 04:45:03 GMT"
+,<http://web.archive.org/web/20120120073903/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Fri, 20 Jan 2012 07:39:03 GMT"
+,<http://web.archive.org/web/20120620055648/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Wed, 20 Jun 2012 05:56:48 GMT"
+,<http://web.archive.org/web/20121019104937/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Fri, 19 Oct 2012 10:49:37 GMT"
+,<http://web.archive.org/web/20130203211051/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Sun, 03 Feb 2013 21:10:51 GMT"
+,<http://web.archive.org/web/20131025142724/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Fri, 25 Oct 2013 14:27:24 GMT"
+,<http://web.archive.org/web/20140412202801/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Sat, 12 Apr 2014 20:28:01 GMT"
+,<http://web.archive.org/web/20140717025249/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento"; datetime="Thu, 17 Jul 2014 02:52:49 GMT"
+,<http://web.archive.org/web/20150401065458/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="memento last"; datetime="Wed, 01 Apr 2015 06:54:58 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.virginexperiencedays.co.uk/virgin-hot-air-balloon-flight-for-two>;rel="self"; type="application/link-format"; from ="Tue, 03 Jan 2012 16:39:09 GMT";until="Wed, 01 Apr 2015 06:54:58 GMT"

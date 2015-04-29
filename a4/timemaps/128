@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:11:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="original"
+,<http://web.archive.org/web/20040106153733/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento first"; datetime="Tue, 06 Jan 2004 15:37:33 GMT"
+,<http://web.archive.org/web/20051124060552/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Thu, 24 Nov 2005 06:05:52 GMT"
+,<http://web.archive.org/web/20060104070204/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Wed, 04 Jan 2006 07:02:04 GMT"
+,<http://web.archive.org/web/20060320131327/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Mon, 20 Mar 2006 13:13:27 GMT"
+,<http://web.archive.org/web/20060403082051/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Mon, 03 Apr 2006 08:20:51 GMT"
+,<http://web.archive.org/web/20060411154922/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Tue, 11 Apr 2006 15:49:22 GMT"
+,<http://web.archive.org/web/20060425103643/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Tue, 25 Apr 2006 10:36:43 GMT"
+,<http://web.archive.org/web/20060430013700/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Sun, 30 Apr 2006 01:37:00 GMT"
+,<http://web.archive.org/web/20060617020518/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Sat, 17 Jun 2006 02:05:18 GMT"
+,<http://web.archive.org/web/20060626112256/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Mon, 26 Jun 2006 11:22:56 GMT"
+,<http://web.archive.org/web/20070514192319/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Mon, 14 May 2007 19:23:19 GMT"
+,<http://web.archive.org/web/20070815004215/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Wed, 15 Aug 2007 00:42:15 GMT"
+,<http://web.archive.org/web/20071020075841/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Sat, 20 Oct 2007 07:58:41 GMT"
+,<http://web.archive.org/web/20121208062605/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Sat, 08 Dec 2012 06:26:05 GMT"
+,<http://web.archive.org/web/20130316051953/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Sat, 16 Mar 2013 05:19:53 GMT"
+,<http://web.archive.org/web/20130824154247/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Sat, 24 Aug 2013 15:42:47 GMT"
+,<http://web.archive.org/web/20140313104635/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Thu, 13 Mar 2014 10:46:35 GMT"
+,<http://web.archive.org/web/20140403161113/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Thu, 03 Apr 2014 16:11:13 GMT"
+,<http://web.archive.org/web/20140530141041/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Fri, 30 May 2014 14:10:41 GMT"
+,<http://web.archive.org/web/20141023033152/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento"; datetime="Thu, 23 Oct 2014 03:31:52 GMT"
+,<http://web.archive.org/web/20141027231056/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="memento last"; datetime="Mon, 27 Oct 2014 23:10:56 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cnw.mk.ua/weapons/airforce/razv/sr71/image/sr71ff.jpg>;rel="self"; type="application/link-format"; from ="Tue, 06 Jan 2004 15:37:33 GMT";until="Mon, 27 Oct 2014 23:10:56 GMT"

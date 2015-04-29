@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:56:25 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cnet.com/products/green-creative-br30-cloud-led/>;rel="original"
+,<http://web.archive.org/web/20141208063405/http://www.cnet.com/products/green-creative-br30-cloud-led/>;rel="memento first"; datetime="Mon, 08 Dec 2014 06:34:05 GMT"
+,<http://web.archive.org/web/20141209075646/http://www.cnet.com/products/green-creative-br30-cloud-led/>;rel="memento"; datetime="Tue, 09 Dec 2014 07:56:46 GMT"
+,<http://web.archive.org/web/20150201193357/http://www.cnet.com/products/green-creative-br30-cloud-led/>;rel="memento"; datetime="Sun, 01 Feb 2015 19:33:57 GMT"
+,<http://archive.is/20150202112322/http://www.cnet.com/products/green-creative-br30-cloud-led/>;rel="memento"; datetime="Mon, 02 Feb 2015 11:23:22 GMT"
+,<http://web.archive.org/web/20150404082543/http://www.cnet.com/products/green-creative-br30-cloud-led/>;rel="memento last"; datetime="Sat, 04 Apr 2015 08:25:43 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cnet.com/products/green-creative-br30-cloud-led/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cnet.com/products/green-creative-br30-cloud-led/>;rel="self"; type="application/link-format"; from ="Mon, 08 Dec 2014 06:34:05 GMT";until="Sat, 04 Apr 2015 08:25:43 GMT"

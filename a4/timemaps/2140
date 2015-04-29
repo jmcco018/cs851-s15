@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:44:49 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://3dprint.com/39254/statial-ergonomic-mouse/>;rel="original"
+,<http://web.archive.org/web/20150303092128/http://3dprint.com/39254/statial-ergonomic-mouse/>;rel="memento first"; datetime="Tue, 03 Mar 2015 09:21:28 GMT"
+,<http://web.archive.org/web/20150310070049/http://3dprint.com/39254/statial-ergonomic-mouse/>;rel="memento"; datetime="Tue, 10 Mar 2015 07:00:49 GMT"
+,<http://web.archive.org/web/20150323030348/http://3dprint.com/39254/statial-ergonomic-mouse/>;rel="memento last"; datetime="Mon, 23 Mar 2015 03:03:48 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://3dprint.com/39254/statial-ergonomic-mouse/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://3dprint.com/39254/statial-ergonomic-mouse/>;rel="self"; type="application/link-format"; from ="Tue, 03 Mar 2015 09:21:28 GMT";until="Mon, 23 Mar 2015 03:03:48 GMT"

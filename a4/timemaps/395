@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:15:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="original"
+,<http://web.archive.org/web/20130715083326/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento first"; datetime="Mon, 15 Jul 2013 08:33:26 GMT"
+,<http://web.archive.org/web/20130820072745/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento"; datetime="Tue, 20 Aug 2013 07:27:45 GMT"
+,<http://web.archive.org/web/20130828111633/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento"; datetime="Wed, 28 Aug 2013 11:16:33 GMT"
+,<http://web.archive.org/web/20131018191118/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento"; datetime="Fri, 18 Oct 2013 19:11:18 GMT"
+,<http://web.archive.org/web/20131125014406/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento"; datetime="Mon, 25 Nov 2013 01:44:06 GMT"
+,<http://web.archive.org/web/20131206134734/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento"; datetime="Fri, 06 Dec 2013 13:47:34 GMT"
+,<http://web.archive.org/web/20140301021351/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento"; datetime="Sat, 01 Mar 2014 02:13:51 GMT"
+,<http://web.archive.org/web/20140424194333/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento"; datetime="Thu, 24 Apr 2014 19:43:33 GMT"
+,<http://web.archive.org/web/20140806023815/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento"; datetime="Wed, 06 Aug 2014 02:38:15 GMT"
+,<http://web.archive.org/web/20150330072809/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="memento last"; datetime="Mon, 30 Mar 2015 07:28:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.idfblog.com/hezbollah/2013/06/18/hezbollah-not-the-legitimate-army-of-lebanon/>;rel="self"; type="application/link-format"; from ="Mon, 15 Jul 2013 08:33:26 GMT";until="Mon, 30 Mar 2015 07:28:09 GMT"

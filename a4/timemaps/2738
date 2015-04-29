@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:54:30 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nydailynews.com/entertainment/gossip/suge-knight-ran-killed-man-fight-film-set-article-1.2097153>;rel="original"
+,<http://web.archive.org/web/20150130052819/http://www.nydailynews.com/entertainment/gossip/suge-knight-ran-killed-man-fight-film-set-article-1.2097153>;rel="memento first"; datetime="Fri, 30 Jan 2015 05:28:19 GMT"
+,<http://archive.is/20150130104259/http://www.nydailynews.com/entertainment/gossip/suge-knight-ran-killed-man-fight-film-set-article-1.2097153>;rel="memento"; datetime="Fri, 30 Jan 2015 10:42:59 GMT"
+,<http://web.archive.org/web/20150130172936/http://www.nydailynews.com/entertainment/gossip/suge-knight-ran-killed-man-fight-film-set-article-1.2097153>;rel="memento"; datetime="Fri, 30 Jan 2015 17:29:36 GMT"
+,<http://web.archive.org/web/20150316220321/http://www.nydailynews.com/entertainment/gossip/suge-knight-ran-killed-man-fight-film-set-article-1.2097153>;rel="memento last"; datetime="Mon, 16 Mar 2015 22:03:21 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nydailynews.com/entertainment/gossip/suge-knight-ran-killed-man-fight-film-set-article-1.2097153>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nydailynews.com/entertainment/gossip/suge-knight-ran-killed-man-fight-film-set-article-1.2097153>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 05:28:19 GMT";until="Mon, 16 Mar 2015 22:03:21 GMT"

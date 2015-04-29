@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:21:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.amazon.co.uk/Our-frugal-summer-Charente-Kitchen-ebook/dp/B00P1M71Q8/r>;rel="original"
+,<//wayback.archive-it.org/all/20150107011705/http://www.amazon.co.uk/Our-frugal-summer-Charente-Kitchen-ebook/dp/B00P1M71Q8/r>;rel="memento first"; datetime="Wed, 07 Jan 2015 01:17:05 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.amazon.co.uk/Our-frugal-summer-Charente-Kitchen-ebook/dp/B00P1M71Q8/r>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.amazon.co.uk/Our-frugal-summer-Charente-Kitchen-ebook/dp/B00P1M71Q8/r>;rel="self"; type="application/link-format"; from ="Wed, 07 Jan 2015 01:17:05 GMT";until="Wed, 07 Jan 2015 01:17:05 GMT"

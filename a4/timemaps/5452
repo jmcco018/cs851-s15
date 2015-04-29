@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:57 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://blogs.rollcall.com/hill-blotter/jim-moran-doesnt-miss-congress/?dcz=>;rel="original"
+,<http://web.archive.org/web/20150202040142/http://blogs.rollcall.com/hill-blotter/jim-moran-doesnt-miss-congress/?dcz=>;rel="memento first"; datetime="Mon, 02 Feb 2015 04:01:42 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://blogs.rollcall.com/hill-blotter/jim-moran-doesnt-miss-congress/?dcz=>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://blogs.rollcall.com/hill-blotter/jim-moran-doesnt-miss-congress/?dcz=>;rel="self"; type="application/link-format"; from ="Mon, 02 Feb 2015 04:01:42 GMT";until="Mon, 02 Feb 2015 04:01:42 GMT"

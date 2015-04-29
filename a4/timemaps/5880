@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:53:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://nosaltnofatnosugar.com/2015/01/30/super-bowl-low-salt-low-fat-party-menu-try-swordfish-steaks-as-a-main-course/>;rel="original"
+,<http://web.archive.org/web/20150406043300/http://nosaltnofatnosugar.com/2015/01/30/super-bowl-low-salt-low-fat-party-menu-try-swordfish-steaks-as-a-main-course/>;rel="memento first"; datetime="Mon, 06 Apr 2015 04:33:00 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://nosaltnofatnosugar.com/2015/01/30/super-bowl-low-salt-low-fat-party-menu-try-swordfish-steaks-as-a-main-course/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://nosaltnofatnosugar.com/2015/01/30/super-bowl-low-salt-low-fat-party-menu-try-swordfish-steaks-as-a-main-course/>;rel="self"; type="application/link-format"; from ="Mon, 06 Apr 2015 04:33:00 GMT";until="Mon, 06 Apr 2015 04:33:00 GMT"

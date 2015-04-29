@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:54:30 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://indianexpress.com/article/entertainment/bollywood/rohit-shetty-mum-on-new-film-to-reveal-cast-in-february/>;rel="original"
+,<http://web.archive.org/web/20150130132931/http://indianexpress.com/article/entertainment/bollywood/rohit-shetty-mum-on-new-film-to-reveal-cast-in-february/>;rel="memento first"; datetime="Fri, 30 Jan 2015 13:29:31 GMT"
+,<http://web.archive.org/web/20150130192940/http://indianexpress.com/article/entertainment/bollywood/rohit-shetty-mum-on-new-film-to-reveal-cast-in-february/>;rel="memento"; datetime="Fri, 30 Jan 2015 19:29:40 GMT"
+,<http://web.archive.org/web/20150329170034/http://indianexpress.com/article/entertainment/bollywood/rohit-shetty-mum-on-new-film-to-reveal-cast-in-february/>;rel="memento last"; datetime="Sun, 29 Mar 2015 17:00:34 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://indianexpress.com/article/entertainment/bollywood/rohit-shetty-mum-on-new-film-to-reveal-cast-in-february/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://indianexpress.com/article/entertainment/bollywood/rohit-shetty-mum-on-new-film-to-reveal-cast-in-february/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 13:29:31 GMT";until="Sun, 29 Mar 2015 17:00:34 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:20:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://streaming.radionomy.com/ConceptFM>;rel="original"
+,<http://web.archive.org/web/20150208194919/http://streaming.radionomy.com/ConceptFM>;rel="memento first"; datetime="Sun, 08 Feb 2015 19:49:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://streaming.radionomy.com/ConceptFM>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://streaming.radionomy.com/ConceptFM>;rel="self"; type="application/link-format"; from ="Sun, 08 Feb 2015 19:49:19 GMT";until="Sun, 08 Feb 2015 19:49:19 GMT"

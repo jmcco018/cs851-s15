@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:50:52 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://trancepulsefm.com>;rel="original"
+,<http://web.archive.org/web/20130730110841/http://www.trancepulsefm.com>;rel="memento first"; datetime="Tue, 30 Jul 2013 11:08:41 GMT"
+,<http://web.archive.org/web/20130814154928/http://www.trancepulsefm.com/>;rel="memento"; datetime="Wed, 14 Aug 2013 15:49:28 GMT"
+,<http://web.archive.org/web/20130816021248/http://trancepulsefm.com>;rel="memento"; datetime="Fri, 16 Aug 2013 02:12:48 GMT"
+,<http://web.archive.org/web/20130816021249/http://www.trancepulsefm.com/>;rel="memento"; datetime="Fri, 16 Aug 2013 02:12:49 GMT"
+,<http://web.archive.org/web/20131011052425/http://www.trancepulsefm.com/>;rel="memento"; datetime="Fri, 11 Oct 2013 05:24:25 GMT"
+,<http://web.archive.org/web/20140209073025/http://www.trancepulsefm.com/>;rel="memento"; datetime="Sun, 09 Feb 2014 07:30:25 GMT"
+,<http://web.archive.org/web/20140704183332/http://www.trancepulsefm.com/>;rel="memento"; datetime="Fri, 04 Jul 2014 18:33:32 GMT"
+,<http://web.archive.org/web/20140711172812/http://www.trancepulsefm.com/>;rel="memento"; datetime="Fri, 11 Jul 2014 17:28:12 GMT"
+,<http://web.archive.org/web/20141218113158/http://trancepulsefm.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 11:31:58 GMT"
+,<http://web.archive.org/web/20141222093634/http://www.trancepulsefm.com/>;rel="memento"; datetime="Mon, 22 Dec 2014 09:36:34 GMT"
+,<http://web.archive.org/web/20150402005452/http://www.trancepulsefm.com/>;rel="memento last"; datetime="Thu, 02 Apr 2015 00:54:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://trancepulsefm.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://trancepulsefm.com>;rel="self"; type="application/link-format"; from ="Tue, 30 Jul 2013 11:08:41 GMT";until="Thu, 02 Apr 2015 00:54:52 GMT"

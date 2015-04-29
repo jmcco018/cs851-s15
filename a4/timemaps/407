@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:15:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.army.mil/article/141734>;rel="original"
+,<//wayback.archive-it.org/all/20150130152919/http://www.army.mil/article/141734/>;rel="memento first"; datetime="Fri, 30 Jan 2015 15:29:19 GMT"
+,<//wayback.archive-it.org/all/20150202000316/http://www.army.mil/article/141734>;rel="memento"; datetime="Mon, 02 Feb 2015 00:03:16 GMT"
+,<//wayback.archive-it.org/all/20150206222756/http://www.army.mil/article/141734/>;rel="memento"; datetime="Fri, 06 Feb 2015 22:27:56 GMT"
+,<//wayback.archive-it.org/all/20150214180900/http://www.army.mil/article/141734/>;rel="memento"; datetime="Sat, 14 Feb 2015 18:09:00 GMT"
+,<//wayback.archive-it.org/all/20150222110631/http://www.army.mil/article/141734/>;rel="memento"; datetime="Sun, 22 Feb 2015 11:06:31 GMT"
+,<//wayback.archive-it.org/all/20150228175716/http://www.army.mil/article/141734/>;rel="memento"; datetime="Sat, 28 Feb 2015 17:57:16 GMT"
+,<//wayback.archive-it.org/all/20150309051209/http://www.army.mil/article/141734/>;rel="memento"; datetime="Mon, 09 Mar 2015 05:12:09 GMT"
+,<//wayback.archive-it.org/all/20150323072024/http://www.army.mil/article/141734/>;rel="memento last"; datetime="Mon, 23 Mar 2015 07:20:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.army.mil/article/141734>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.army.mil/article/141734>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 15:29:19 GMT";until="Mon, 23 Mar 2015 07:20:24 GMT"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:24 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://aeon.co/magazine/society/the-cult-of-the-us-constitution/>;rel="original"
+,<http://archive.is/20150130192047/http://aeon.co/magazine/society/the-cult-of-the-us-constitution/>;rel="memento first"; datetime="Fri, 30 Jan 2015 19:20:47 GMT"
+,<http://web.archive.org/web/20150317095052/http://aeon.co/magazine/society/the-cult-of-the-us-constitution/>;rel="memento last"; datetime="Tue, 17 Mar 2015 09:50:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://aeon.co/magazine/society/the-cult-of-the-us-constitution/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://aeon.co/magazine/society/the-cult-of-the-us-constitution/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 19:20:47 GMT";until="Tue, 17 Mar 2015 09:50:52 GMT"

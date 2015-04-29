@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:22:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.latimes.com/business/la-fi-jobless-claims-20150129-story.html>;rel="original"
+,<http://web.archive.org/web/20150129174614/http://www.latimes.com/business/la-fi-jobless-claims-20150129-story.html>;rel="memento first"; datetime="Thu, 29 Jan 2015 17:46:14 GMT"
+,<http://web.archive.org/web/20150407180812/http://www.latimes.com/business/la-fi-jobless-claims-20150129-story.html>;rel="memento last"; datetime="Tue, 07 Apr 2015 18:08:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.latimes.com/business/la-fi-jobless-claims-20150129-story.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.latimes.com/business/la-fi-jobless-claims-20150129-story.html>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 17:46:14 GMT";until="Tue, 07 Apr 2015 18:08:12 GMT"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:27:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://joshowens.me/getting-started-with-meteor-js/>;rel="original"
+,<http://archive.is/20150128173957/http://joshowens.me/getting-started-with-meteor-js/>;rel="memento first"; datetime="Wed, 28 Jan 2015 17:39:57 GMT"
+,<http://web.archive.org/web/20150315004544/http://joshowens.me/getting-started-with-meteor-js/>;rel="memento last"; datetime="Sun, 15 Mar 2015 00:45:44 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://joshowens.me/getting-started-with-meteor-js/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://joshowens.me/getting-started-with-meteor-js/>;rel="self"; type="application/link-format"; from ="Wed, 28 Jan 2015 17:39:57 GMT";until="Sun, 15 Mar 2015 00:45:44 GMT"

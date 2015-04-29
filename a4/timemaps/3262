@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:02:51 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.christianitytoday.com/behemoth/2015/issue-14/mundane-and-almighty.html>;rel="original"
+,<http://web.archive.org/web/20150404141913/http://www.christianitytoday.com/behemoth/2015/issue-14/mundane-and-almighty.html>;rel="memento first"; datetime="Sat, 04 Apr 2015 14:19:13 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.christianitytoday.com/behemoth/2015/issue-14/mundane-and-almighty.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.christianitytoday.com/behemoth/2015/issue-14/mundane-and-almighty.html>;rel="self"; type="application/link-format"; from ="Sat, 04 Apr 2015 14:19:13 GMT";until="Sat, 04 Apr 2015 14:19:13 GMT"

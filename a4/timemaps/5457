@@ -1,0 +1,7 @@
+HTTP/1.1 400 Bad Request
+Date: Wed, 22 Apr 2015 18:46:04 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Content-Length: 0
+Connection: close
+

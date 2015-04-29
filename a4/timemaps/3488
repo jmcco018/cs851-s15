@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:09:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.layupsandrebounds.com/keith-van-horn-blog/2014/10/1/m9eq83kasftyrxiod8a13db3ubsyns>;rel="original"
+,<http://web.archive.org/web/20150205191846/http://www.layupsandrebounds.com/keith-van-horn-blog/2014/10/1/m9eq83kasftyrxiod8a13db3ubsyns>;rel="memento first"; datetime="Thu, 05 Feb 2015 19:18:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.layupsandrebounds.com/keith-van-horn-blog/2014/10/1/m9eq83kasftyrxiod8a13db3ubsyns>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.layupsandrebounds.com/keith-van-horn-blog/2014/10/1/m9eq83kasftyrxiod8a13db3ubsyns>;rel="self"; type="application/link-format"; from ="Thu, 05 Feb 2015 19:18:46 GMT";until="Thu, 05 Feb 2015 19:18:46 GMT"

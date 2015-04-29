@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:49 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.independent.co.uk/news/uk/home-news/winston-churchill-family-travel-up-thames-in-honour-of-50th-anniversary-of-wartime-leaders-funeral-10013940.html>;rel="original"
+,<http://web.archive.org/web/20150130174205/http://www.independent.co.uk/news/uk/home-news/winston-churchill-family-travel-up-thames-in-honour-of-50th-anniversary-of-wartime-leaders-funeral-10013940.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 17:42:05 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.independent.co.uk/news/uk/home-news/winston-churchill-family-travel-up-thames-in-honour-of-50th-anniversary-of-wartime-leaders-funeral-10013940.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.independent.co.uk/news/uk/home-news/winston-churchill-family-travel-up-thames-in-honour-of-50th-anniversary-of-wartime-leaders-funeral-10013940.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 17:42:05 GMT";until="Fri, 30 Jan 2015 17:42:05 GMT"

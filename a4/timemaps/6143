@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:57:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.etsy.com/shop/TheLotusShop?ref=si_shop>;rel="original"
+,<//wayback.archive-it.org/all/20140126085448/https://www.etsy.com/shop/TheLotusShop?ref=si_shop>;rel="memento first"; datetime="Sun, 26 Jan 2014 08:54:48 GMT"
+,<//wayback.archive-it.org/all/20140126085637/http://www.etsy.com/shop/TheLotusShop?ref=si_shop>;rel="memento last"; datetime="Sun, 26 Jan 2014 08:56:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.etsy.com/shop/TheLotusShop?ref=si_shop>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.etsy.com/shop/TheLotusShop?ref=si_shop>;rel="self"; type="application/link-format"; from ="Sun, 26 Jan 2014 08:54:48 GMT";until="Sun, 26 Jan 2014 08:56:37 GMT"

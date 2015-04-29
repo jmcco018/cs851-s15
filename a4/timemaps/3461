@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:07:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://ktla.com/2015/01/29/2-killed-3-injured-in-vehicle-crash-on-pch-in-wilmington/>;rel="original"
+,<http://archive.is/20150130013044/http://ktla.com/2015/01/29/2-killed-3-injured-in-vehicle-crash-on-pch-in-wilmington/>;rel="memento first"; datetime="Fri, 30 Jan 2015 01:30:44 GMT"
+,<http://web.archive.org/web/20150202022135/http://ktla.com/2015/01/29/2-killed-3-injured-in-vehicle-crash-on-pch-in-wilmington/>;rel="memento"; datetime="Mon, 02 Feb 2015 02:21:35 GMT"
+,<http://web.archive.org/web/20150316161356/http://ktla.com/2015/01/29/2-killed-3-injured-in-vehicle-crash-on-pch-in-wilmington/>;rel="memento"; datetime="Mon, 16 Mar 2015 16:13:56 GMT"
+,<http://web.archive.org/web/20150406080257/http://ktla.com/2015/01/29/2-killed-3-injured-in-vehicle-crash-on-pch-in-wilmington>;rel="memento last"; datetime="Mon, 06 Apr 2015 08:02:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://ktla.com/2015/01/29/2-killed-3-injured-in-vehicle-crash-on-pch-in-wilmington/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://ktla.com/2015/01/29/2-killed-3-injured-in-vehicle-crash-on-pch-in-wilmington/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 01:30:44 GMT";until="Mon, 06 Apr 2015 08:02:57 GMT"

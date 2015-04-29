@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:52:28 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.investmentguide4u.com/check-out-these-fantastic-stock-market-tips-5/>;rel="original"
+,<http://web.archive.org/web/20140913020944/http://www.investmentguide4u.com/check-out-these-fantastic-stock-market-tips-5/>;rel="memento first"; datetime="Sat, 13 Sep 2014 02:09:44 GMT"
+,<http://web.archive.org/web/20141206105019/http://www.investmentguide4u.com/check-out-these-fantastic-stock-market-tips-5/>;rel="memento last"; datetime="Sat, 06 Dec 2014 10:50:19 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.investmentguide4u.com/check-out-these-fantastic-stock-market-tips-5/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.investmentguide4u.com/check-out-these-fantastic-stock-market-tips-5/>;rel="self"; type="application/link-format"; from ="Sat, 13 Sep 2014 02:09:44 GMT";until="Sat, 06 Dec 2014 10:50:19 GMT"

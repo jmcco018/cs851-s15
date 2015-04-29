@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:07:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://en.rsf.org/latvia-cameraman-held-on-spurious-30-01-2015,47548.html>;rel="original"
+,<http://web.archive.org/web/20150321120917/http://en.rsf.org/latvia-cameraman-held-on-spurious-30-01-2015,47548.html>;rel="memento first"; datetime="Sat, 21 Mar 2015 12:09:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://en.rsf.org/latvia-cameraman-held-on-spurious-30-01-2015,47548.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://en.rsf.org/latvia-cameraman-held-on-spurious-30-01-2015,47548.html>;rel="self"; type="application/link-format"; from ="Sat, 21 Mar 2015 12:09:17 GMT";until="Sat, 21 Mar 2015 12:09:17 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:28:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.niksnacksonline.com/2015/01/milk-poached-cod-with-winter-greens.html>;rel="original"
+,<http://web.archive.org/web/20150415113704/http://www.niksnacksonline.com/2015/01/milk-poached-cod-with-winter-greens.html>;rel="memento first"; datetime="Wed, 15 Apr 2015 11:37:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.niksnacksonline.com/2015/01/milk-poached-cod-with-winter-greens.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.niksnacksonline.com/2015/01/milk-poached-cod-with-winter-greens.html>;rel="self"; type="application/link-format"; from ="Wed, 15 Apr 2015 11:37:04 GMT";until="Wed, 15 Apr 2015 11:37:04 GMT"

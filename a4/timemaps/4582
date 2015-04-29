@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:31:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://fas.org/blogs/secrecy/2015/01/ssp-narrow/>;rel="original"
+,<http://archive.is/20150130011222/http://fas.org/blogs/secrecy/2015/01/ssp-narrow/>;rel="memento first"; datetime="Fri, 30 Jan 2015 01:12:22 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://fas.org/blogs/secrecy/2015/01/ssp-narrow/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://fas.org/blogs/secrecy/2015/01/ssp-narrow/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 01:12:22 GMT";until="Fri, 30 Jan 2015 01:12:22 GMT"

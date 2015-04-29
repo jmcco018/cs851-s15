@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:18:38 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://orientalnewsng.com/2015/01/mtn-unveils-insurance-scheme-smes/>;rel="original"
+,<http://web.archive.org/web/20150405045147/http://orientalnewsng.com/2015/01/mtn-unveils-insurance-scheme-smes/>;rel="memento first"; datetime="Sun, 05 Apr 2015 04:51:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://orientalnewsng.com/2015/01/mtn-unveils-insurance-scheme-smes/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://orientalnewsng.com/2015/01/mtn-unveils-insurance-scheme-smes/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 04:51:47 GMT";until="Sun, 05 Apr 2015 04:51:47 GMT"

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:05:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://guitarlessoncritic.com/>;rel="original"
+,<http://web.archive.org/web/20110113203834/http://www.guitarlessoncritic.com/>;rel="memento first"; datetime="Thu, 13 Jan 2011 20:38:34 GMT"
+,<http://web.archive.org/web/20140318060345/http://guitarlessoncritic.com/>;rel="memento"; datetime="Tue, 18 Mar 2014 06:03:45 GMT"
+,<http://web.archive.org/web/20140517132643/http://guitarlessoncritic.com/>;rel="memento"; datetime="Sat, 17 May 2014 13:26:43 GMT"
+,<http://web.archive.org/web/20141217080506/http://guitarlessoncritic.com/>;rel="memento last"; datetime="Wed, 17 Dec 2014 08:05:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://guitarlessoncritic.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://guitarlessoncritic.com/>;rel="self"; type="application/link-format"; from ="Thu, 13 Jan 2011 20:38:34 GMT";until="Wed, 17 Dec 2014 08:05:06 GMT"

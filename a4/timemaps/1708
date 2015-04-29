@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:38:09 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://solarwakeup.us5.list-manage1.com/subscribe?u=fe6d19d4278d64bf44f1f10e5&id=5eaa0aab62>;rel="original"
+,<http://web.archive.org/web/20121112102822/http://solarwakeup.us5.list-manage1.com/subscribe?u=fe6d19d4278d64bf44f1f10e5&id=5eaa0aab62>;rel="memento first"; datetime="Mon, 12 Nov 2012 10:28:22 GMT"
+,<http://web.archive.org/web/20150326042915/http://solarwakeup.us5.list-manage1.com/subscribe?u=fe6d19d4278d64bf44f1f10e5&id=5eaa0aab62>;rel="memento last"; datetime="Thu, 26 Mar 2015 04:29:15 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://solarwakeup.us5.list-manage1.com/subscribe?u=fe6d19d4278d64bf44f1f10e5&id=5eaa0aab62>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://solarwakeup.us5.list-manage1.com/subscribe?u=fe6d19d4278d64bf44f1f10e5&id=5eaa0aab62>;rel="self"; type="application/link-format"; from ="Mon, 12 Nov 2012 10:28:22 GMT";until="Thu, 26 Mar 2015 04:29:15 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:47 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.49times.com/technews/?p=42499>;rel="original"
+,<http://web.archive.org/web/20150408224947/http://www.49times.com/technews/?p=42499>;rel="memento first"; datetime="Wed, 08 Apr 2015 22:49:47 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.49times.com/technews/?p=42499>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.49times.com/technews/?p=42499>;rel="self"; type="application/link-format"; from ="Wed, 08 Apr 2015 22:49:47 GMT";until="Wed, 08 Apr 2015 22:49:47 GMT"

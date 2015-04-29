@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:32:53 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://news.investors.com/ibd-editorials/012115-735612-american-sniper-clint-eastwood-empty-chair.htm>;rel="original"
+,<//wayback.archive-it.org/all/20150123114556/http://news.investors.com/ibd-editorials/012115-735612-american-sniper-clint-eastwood-empty-chair.htm>;rel="memento first"; datetime="Fri, 23 Jan 2015 11:45:56 GMT"
+,<http://web.archive.org/web/20150407025850/http://news.investors.com/ibd-editorials/012115-735612-american-sniper-clint-eastwood-empty-chair.htm>;rel="memento last"; datetime="Tue, 07 Apr 2015 02:58:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://news.investors.com/ibd-editorials/012115-735612-american-sniper-clint-eastwood-empty-chair.htm>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://news.investors.com/ibd-editorials/012115-735612-american-sniper-clint-eastwood-empty-chair.htm>;rel="self"; type="application/link-format"; from ="Fri, 23 Jan 2015 11:45:56 GMT";until="Tue, 07 Apr 2015 02:58:50 GMT"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:37:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.foxnews.com/entertainment/2015/01/30/george-lucas-says-movies-are-too-much-circus-no-substance/>;rel="original"
+,<http://web.archive.org/web/20150130155138/http://www.foxnews.com/entertainment/2015/01/30/george-lucas-says-movies-are-too-much-circus-no-substance/>;rel="memento first"; datetime="Fri, 30 Jan 2015 15:51:38 GMT"
+,<http://web.archive.org/web/20150201091517/http://www.foxnews.com/entertainment/2015/01/30/george-lucas-says-movies-are-too-much-circus-no-substance/>;rel="memento last"; datetime="Sun, 01 Feb 2015 09:15:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.foxnews.com/entertainment/2015/01/30/george-lucas-says-movies-are-too-much-circus-no-substance/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.foxnews.com/entertainment/2015/01/30/george-lucas-says-movies-are-too-much-circus-no-substance/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 15:51:38 GMT";until="Sun, 01 Feb 2015 09:15:17 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:17:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://damguru.com/jobs/>;rel="original"
+,<http://web.archive.org/web/20150205222535/http://damguru.com/jobs/>;rel="memento first"; datetime="Thu, 05 Feb 2015 22:25:35 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://damguru.com/jobs/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://damguru.com/jobs/>;rel="self"; type="application/link-format"; from ="Thu, 05 Feb 2015 22:25:35 GMT";until="Thu, 05 Feb 2015 22:25:35 GMT"

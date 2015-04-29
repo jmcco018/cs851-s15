@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:13:14 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="original"
+,<//wayback.archive-it.org/all/20141011133548/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="memento first"; datetime="Sat, 11 Oct 2014 13:35:48 GMT"
+,<//wayback.archive-it.org/all/20141218082654/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="memento"; datetime="Thu, 18 Dec 2014 08:26:54 GMT"
+,<//wayback.archive-it.org/all/20141218110644/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="memento"; datetime="Thu, 18 Dec 2014 11:06:44 GMT"
+,<//wayback.archive-it.org/all/20150107202803/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="memento"; datetime="Wed, 07 Jan 2015 20:28:03 GMT"
+,<//wayback.archive-it.org/all/20150110091009/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="memento"; datetime="Sat, 10 Jan 2015 09:10:09 GMT"
+,<//wayback.archive-it.org/all/20150110181401/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="memento"; datetime="Sat, 10 Jan 2015 18:14:01 GMT"
+,<//wayback.archive-it.org/all/20150111130624/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="memento"; datetime="Sun, 11 Jan 2015 13:06:24 GMT"
+,<http://web.archive.org/web/20150203030517/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="memento last"; datetime="Tue, 03 Feb 2015 03:05:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://itunes.apple.com/us/podcast/0025-jay-weintraub-leadscon/id677677309?i=164332315&mt=2>;rel="self"; type="application/link-format"; from ="Sat, 11 Oct 2014 13:35:48 GMT";until="Tue, 03 Feb 2015 03:05:17 GMT"

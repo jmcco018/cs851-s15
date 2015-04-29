@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:08:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://starbornwanderers.com>;rel="original"
+,<http://web.archive.org/web/20130704002521/http://starbornwanderers.com>;rel="memento first"; datetime="Thu, 04 Jul 2013 00:25:21 GMT"
+,<http://web.archive.org/web/20130706003820/http://starbornwanderers.com/>;rel="memento"; datetime="Sat, 06 Jul 2013 00:38:20 GMT"
+,<http://web.archive.org/web/20130723042359/http://starbornwanderers.com/>;rel="memento"; datetime="Tue, 23 Jul 2013 04:23:59 GMT"
+,<http://web.archive.org/web/20130805065716/http://starbornwanderers.com/>;rel="memento"; datetime="Mon, 05 Aug 2013 06:57:16 GMT"
+,<http://web.archive.org/web/20130806005930/http://starbornwanderers.com/>;rel="memento"; datetime="Tue, 06 Aug 2013 00:59:30 GMT"
+,<http://web.archive.org/web/20130808080634/http://starbornwanderers.com/>;rel="memento"; datetime="Thu, 08 Aug 2013 08:06:34 GMT"
+,<http://web.archive.org/web/20130819062332/http://starbornwanderers.com/>;rel="memento"; datetime="Mon, 19 Aug 2013 06:23:32 GMT"
+,<http://web.archive.org/web/20130905072622/http://starbornwanderers.com/>;rel="memento"; datetime="Thu, 05 Sep 2013 07:26:22 GMT"
+,<http://web.archive.org/web/20130928045009/http://starbornwanderers.com/>;rel="memento"; datetime="Sat, 28 Sep 2013 04:50:09 GMT"
+,<http://web.archive.org/web/20131004142336/http://starbornwanderers.com/>;rel="memento"; datetime="Fri, 04 Oct 2013 14:23:36 GMT"
+,<http://web.archive.org/web/20131008014907/http://starbornwanderers.com/>;rel="memento"; datetime="Tue, 08 Oct 2013 01:49:07 GMT"
+,<http://web.archive.org/web/20131028031436/http://starbornwanderers.com/>;rel="memento"; datetime="Mon, 28 Oct 2013 03:14:36 GMT"
+,<http://web.archive.org/web/20131028184735/http://starbornwanderers.com/>;rel="memento"; datetime="Mon, 28 Oct 2013 18:47:35 GMT"
+,<http://web.archive.org/web/20131203164355/http://starbornwanderers.com/>;rel="memento"; datetime="Tue, 03 Dec 2013 16:43:55 GMT"
+,<http://web.archive.org/web/20140112125420/http://starbornwanderers.com/>;rel="memento"; datetime="Sun, 12 Jan 2014 12:54:20 GMT"
+,<http://web.archive.org/web/20140209015325/http://starbornwanderers.com/>;rel="memento"; datetime="Sun, 09 Feb 2014 01:53:25 GMT"
+,<http://web.archive.org/web/20140217083914/http://starbornwanderers.com/>;rel="memento"; datetime="Mon, 17 Feb 2014 08:39:14 GMT"
+,<http://web.archive.org/web/20140407012446/http://starbornwanderers.com/>;rel="memento"; datetime="Mon, 07 Apr 2014 01:24:46 GMT"
+,<http://web.archive.org/web/20140508220045/http://starbornwanderers.com/>;rel="memento"; datetime="Thu, 08 May 2014 22:00:45 GMT"
+,<http://web.archive.org/web/20140621074536/http://starbornwanderers.com/>;rel="memento"; datetime="Sat, 21 Jun 2014 07:45:36 GMT"
+,<http://web.archive.org/web/20140723062051/http://starbornwanderers.com/>;rel="memento"; datetime="Wed, 23 Jul 2014 06:20:51 GMT"
+,<http://web.archive.org/web/20140823044407/http://starbornwanderers.com/>;rel="memento"; datetime="Sat, 23 Aug 2014 04:44:07 GMT"
+,<http://web.archive.org/web/20141218064104/http://starbornwanderers.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 06:41:04 GMT"
+,<http://web.archive.org/web/20150402003929/http://starbornwanderers.com/>;rel="memento last"; datetime="Thu, 02 Apr 2015 00:39:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://starbornwanderers.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://starbornwanderers.com>;rel="self"; type="application/link-format"; from ="Thu, 04 Jul 2013 00:25:21 GMT";until="Thu, 02 Apr 2015 00:39:29 GMT"

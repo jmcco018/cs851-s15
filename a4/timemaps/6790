@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:08:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.homedit.com/10-ingenious-staircase-railing-ideas-to-spruce-up-your-house-design/>;rel="original"
+,<http://web.archive.org/web/20140415063649/http://www.homedit.com/10-ingenious-staircase-railing-ideas-to-spruce-up-your-house-design/>;rel="memento first"; datetime="Tue, 15 Apr 2014 06:36:49 GMT"
+,<http://web.archive.org/web/20140428150437/http://www.homedit.com/10-ingenious-staircase-railing-ideas-to-spruce-up-your-house-design/>;rel="memento"; datetime="Mon, 28 Apr 2014 15:04:37 GMT"
+,<http://web.archive.org/web/20140430155819/http://www.homedit.com/10-ingenious-staircase-railing-ideas-to-spruce-up-your-house-design/>;rel="memento"; datetime="Wed, 30 Apr 2014 15:58:19 GMT"
+,<http://web.archive.org/web/20140807232434/http://www.homedit.com/10-ingenious-staircase-railing-ideas-to-spruce-up-your-house-design/>;rel="memento"; datetime="Thu, 07 Aug 2014 23:24:34 GMT"
+,<http://web.archive.org/web/20140909052807/http://www.homedit.com/10-ingenious-staircase-railing-ideas-to-spruce-up-your-house-design/>;rel="memento last"; datetime="Tue, 09 Sep 2014 05:28:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.homedit.com/10-ingenious-staircase-railing-ideas-to-spruce-up-your-house-design/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.homedit.com/10-ingenious-staircase-railing-ideas-to-spruce-up-your-house-design/>;rel="self"; type="application/link-format"; from ="Tue, 15 Apr 2014 06:36:49 GMT";until="Tue, 09 Sep 2014 05:28:07 GMT"

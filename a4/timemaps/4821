@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:34:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theatlantic.com/national/archive/2015/01/updates-airplane-parachute-selfie-the-immortal-boiling-frog/385006/>;rel="original"
+,<http://web.archive.org/web/20150130093229/http://www.theatlantic.com/national/archive/2015/01/updates-airplane-parachute-selfie-the-immortal-boiling-frog/385006/>;rel="memento first"; datetime="Fri, 30 Jan 2015 09:32:29 GMT"
+,<http://web.archive.org/web/20150319212701/http://www.theatlantic.com/national/archive/2015/01/updates-airplane-parachute-selfie-the-immortal-boiling-frog/385006/>;rel="memento last"; datetime="Thu, 19 Mar 2015 21:27:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theatlantic.com/national/archive/2015/01/updates-airplane-parachute-selfie-the-immortal-boiling-frog/385006/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theatlantic.com/national/archive/2015/01/updates-airplane-parachute-selfie-the-immortal-boiling-frog/385006/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 09:32:29 GMT";until="Thu, 19 Mar 2015 21:27:01 GMT"

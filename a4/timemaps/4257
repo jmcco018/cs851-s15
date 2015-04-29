@@ -1,0 +1,41 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:26:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://greenlightnetworks.com/>;rel="original"
+,<http://web.archive.org/web/20011202200018/http://www.greenlightnetworks.com/>;rel="memento first"; datetime="Sun, 02 Dec 2001 20:00:18 GMT"
+,<http://web.archive.org/web/20020726021759/http://greenlightnetworks.com/>;rel="memento"; datetime="Fri, 26 Jul 2002 02:17:59 GMT"
+,<http://web.archive.org/web/20020922041519/http://greenlightnetworks.com/>;rel="memento"; datetime="Sun, 22 Sep 2002 04:15:19 GMT"
+,<http://web.archive.org/web/20020924175302/http://greenlightnetworks.com/>;rel="memento"; datetime="Tue, 24 Sep 2002 17:53:02 GMT"
+,<http://web.archive.org/web/20021122173030/http://greenlightnetworks.com/>;rel="memento"; datetime="Fri, 22 Nov 2002 17:30:30 GMT"
+,<http://web.archive.org/web/20021127043933/http://greenlightnetworks.com/>;rel="memento"; datetime="Wed, 27 Nov 2002 04:39:33 GMT"
+,<http://web.archive.org/web/20030124231138/http://greenlightnetworks.com/>;rel="memento"; datetime="Fri, 24 Jan 2003 23:11:38 GMT"
+,<http://web.archive.org/web/20030220010056/http://greenlightnetworks.com/>;rel="memento"; datetime="Thu, 20 Feb 2003 01:00:56 GMT"
+,<http://web.archive.org/web/20030328223328/http://greenlightnetworks.com/>;rel="memento"; datetime="Fri, 28 Mar 2003 22:33:28 GMT"
+,<http://web.archive.org/web/20030420142317/http://greenlightnetworks.com/>;rel="memento"; datetime="Sun, 20 Apr 2003 14:23:17 GMT"
+,<http://web.archive.org/web/20030610112831/http://greenlightnetworks.com/>;rel="memento"; datetime="Tue, 10 Jun 2003 11:28:31 GMT"
+,<http://web.archive.org/web/20030723125011/http://greenlightnetworks.com/>;rel="memento"; datetime="Wed, 23 Jul 2003 12:50:11 GMT"
+,<http://web.archive.org/web/20030922114742/http://greenlightnetworks.com/>;rel="memento"; datetime="Mon, 22 Sep 2003 11:47:42 GMT"
+,<http://web.archive.org/web/20031007174239/http://greenlightnetworks.com/>;rel="memento"; datetime="Tue, 07 Oct 2003 17:42:39 GMT"
+,<http://web.archive.org/web/20031125064252/http://greenlightnetworks.com/>;rel="memento"; datetime="Tue, 25 Nov 2003 06:42:52 GMT"
+,<http://web.archive.org/web/20031208065626/http://greenlightnetworks.com/>;rel="memento"; datetime="Mon, 08 Dec 2003 06:56:26 GMT"
+,<http://web.archive.org/web/20040414043056/http://greenlightnetworks.com/>;rel="memento"; datetime="Wed, 14 Apr 2004 04:30:56 GMT"
+,<http://web.archive.org/web/20040519164937/http://greenlightnetworks.com/>;rel="memento"; datetime="Wed, 19 May 2004 16:49:37 GMT"
+,<http://web.archive.org/web/20040829185420/http://greenlightnetworks.com/>;rel="memento"; datetime="Sun, 29 Aug 2004 18:54:20 GMT"
+,<http://web.archive.org/web/20040925184228/http://greenlightnetworks.com/>;rel="memento"; datetime="Sat, 25 Sep 2004 18:42:28 GMT"
+,<http://web.archive.org/web/20041129200035/http://greenlightnetworks.com/>;rel="memento"; datetime="Mon, 29 Nov 2004 20:00:35 GMT"
+,<http://web.archive.org/web/20050208173403/http://greenlightnetworks.com/>;rel="memento"; datetime="Tue, 08 Feb 2005 17:34:03 GMT"
+,<http://web.archive.org/web/20110203011837/http://greenlightnetworks.com/>;rel="memento"; datetime="Thu, 03 Feb 2011 01:18:37 GMT"
+,<http://web.archive.org/web/20110303022031/http://greenlightnetworks.com/>;rel="memento"; datetime="Thu, 03 Mar 2011 02:20:31 GMT"
+,<http://web.archive.org/web/20130609150830/http://greenlightnetworks.com/>;rel="memento"; datetime="Sun, 09 Jun 2013 15:08:30 GMT"
+,<http://web.archive.org/web/20140103150314/http://greenlightnetworks.com/>;rel="memento"; datetime="Fri, 03 Jan 2014 15:03:14 GMT"
+,<http://web.archive.org/web/20140517085636/http://greenlightnetworks.com/>;rel="memento"; datetime="Sat, 17 May 2014 08:56:36 GMT"
+,<http://web.archive.org/web/20141027150355/http://greenlightnetworks.com/>;rel="memento"; datetime="Mon, 27 Oct 2014 15:03:55 GMT"
+,<http://web.archive.org/web/20141217041933/http://greenlightnetworks.com/>;rel="memento"; datetime="Wed, 17 Dec 2014 04:19:33 GMT"
+,<http://web.archive.org/web/20150331082123/http://www.greenlightnetworks.com/>;rel="memento"; datetime="Tue, 31 Mar 2015 08:21:23 GMT"
+,<http://archive.is/20150418115329/https://greenlightnetworks.com/>;rel="memento last"; datetime="Sat, 18 Apr 2015 11:53:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://greenlightnetworks.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://greenlightnetworks.com/>;rel="self"; type="application/link-format"; from ="Sun, 02 Dec 2001 20:00:18 GMT";until="Sat, 18 Apr 2015 11:53:29 GMT"

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:50:18 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.foodtrucksin.com/rocket-fine-street-food>;rel="original"
+,<http://web.archive.org/web/20130717000915/http://www.foodtrucksin.com/rocket-fine-street-food>;rel="memento first"; datetime="Wed, 17 Jul 2013 00:09:15 GMT"
+,<http://web.archive.org/web/20131202234608/http://www.foodtrucksin.com/rocket-fine-street-food>;rel="memento"; datetime="Mon, 02 Dec 2013 23:46:08 GMT"
+,<http://web.archive.org/web/20131205111707/http://www.foodtrucksin.com/rocket-fine-street-food>;rel="memento"; datetime="Thu, 05 Dec 2013 11:17:07 GMT"
+,<http://web.archive.org/web/20140105165110/http://www.foodtrucksin.com/rocket-fine-street-food>;rel="memento"; datetime="Sun, 05 Jan 2014 16:51:10 GMT"
+,<http://web.archive.org/web/20140205142031/http://www.foodtrucksin.com/rocket-fine-street-food>;rel="memento"; datetime="Wed, 05 Feb 2014 14:20:31 GMT"
+,<http://web.archive.org/web/20140318144032/http://www.foodtrucksin.com/rocket-fine-street-food>;rel="memento"; datetime="Tue, 18 Mar 2014 14:40:32 GMT"
+,<http://web.archive.org/web/20140418182612/http://www.foodtrucksin.com/rocket-fine-street-food>;rel="memento last"; datetime="Fri, 18 Apr 2014 18:26:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.foodtrucksin.com/rocket-fine-street-food>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.foodtrucksin.com/rocket-fine-street-food>;rel="self"; type="application/link-format"; from ="Wed, 17 Jul 2013 00:09:15 GMT";until="Fri, 18 Apr 2014 18:26:12 GMT"

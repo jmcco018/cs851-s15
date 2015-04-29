@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:30:07 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation/>;rel="original"
+,<http://archive.is/20150130002932/http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation/>;rel="memento first"; datetime="Fri, 30 Jan 2015 00:29:32 GMT"
+,<http://archive.is/20150131142750/http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation/>;rel="memento"; datetime="Sat, 31 Jan 2015 14:27:50 GMT"
+,<http://web.archive.org/web/20150205013639/http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation>;rel="memento"; datetime="Thu, 05 Feb 2015 01:36:39 GMT"
+,<http://web.archive.org/web/20150205035815/http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation/>;rel="memento"; datetime="Thu, 05 Feb 2015 03:58:15 GMT"
+,<http://web.archive.org/web/20150315011133/http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation/>;rel="memento"; datetime="Sun, 15 Mar 2015 01:11:33 GMT"
+,<http://web.archive.org/web/20150317192123/http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation/>;rel="memento"; datetime="Tue, 17 Mar 2015 19:21:23 GMT"
+,<http://web.archive.org/web/20150331171846/http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation/>;rel="memento last"; datetime="Tue, 31 Mar 2015 17:18:46 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://dailycaller.com/2015/01/29/obama-adviser-podesta-caught-green-handed-in-major-ethics-violation/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 00:29:32 GMT";until="Tue, 31 Mar 2015 17:18:46 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:16:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.naturalnews.com/048448_insect_cuisine_survival_food_hunger.html>;rel="original"
+,<http://web.archive.org/web/20150419091807/http://www.naturalnews.com/048448_insect_cuisine_survival_food_hunger.html>;rel="memento first"; datetime="Sun, 19 Apr 2015 09:18:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.naturalnews.com/048448_insect_cuisine_survival_food_hunger.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.naturalnews.com/048448_insect_cuisine_survival_food_hunger.html>;rel="self"; type="application/link-format"; from ="Sun, 19 Apr 2015 09:18:07 GMT";until="Sun, 19 Apr 2015 09:18:07 GMT"

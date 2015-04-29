@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:34:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bbc.co.uk/news/health-31041864>;rel="original"
+,<http://archive.is/20150130083112/http://www.bbc.co.uk/news/health-31041864>;rel="memento first"; datetime="Fri, 30 Jan 2015 08:31:12 GMT"
+,<http://web.archive.org/web/20150130105033/http://www.bbc.co.uk/news/health-31041864>;rel="memento"; datetime="Fri, 30 Jan 2015 10:50:33 GMT"
+,<http://web.archive.org/web/20150130115520/http://www.bbc.co.uk/news/health-31041864>;rel="memento"; datetime="Fri, 30 Jan 2015 11:55:20 GMT"
+,<//wayback.archive-it.org/all/20150201050108/http://www.bbc.co.uk/news/health-31041864>;rel="memento"; datetime="Sun, 01 Feb 2015 05:01:08 GMT"
+,<http://web.archive.org/web/20150225092154/http://www.bbc.co.uk/news/health-31041864>;rel="memento"; datetime="Wed, 25 Feb 2015 09:21:54 GMT"
+,<http://web.archive.org/web/20150331011018/http://www.bbc.co.uk/news/health-31041864>;rel="memento"; datetime="Tue, 31 Mar 2015 01:10:18 GMT"
+,<http://web.archive.org/web/20150407070208/http://www.bbc.co.uk/news/health-31041864>;rel="memento last"; datetime="Tue, 07 Apr 2015 07:02:08 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bbc.co.uk/news/health-31041864>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bbc.co.uk/news/health-31041864>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 08:31:12 GMT";until="Tue, 07 Apr 2015 07:02:08 GMT"

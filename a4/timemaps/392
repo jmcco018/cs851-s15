@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:15:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/environment/2015/jan/30/how-to-eradicate-grey-squirrels-without-firing-a-shot-pine-martens>;rel="original"
+,<http://archive.is/20150130192226/http://www.theguardian.com/environment/2015/jan/30/how-to-eradicate-grey-squirrels-without-firing-a-shot-pine-martens>;rel="memento first"; datetime="Fri, 30 Jan 2015 19:22:26 GMT"
+,<http://web.archive.org/web/20150321125709/http://www.theguardian.com/environment/2015/jan/30/how-to-eradicate-grey-squirrels-without-firing-a-shot-pine-martens>;rel="memento last"; datetime="Sat, 21 Mar 2015 12:57:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/environment/2015/jan/30/how-to-eradicate-grey-squirrels-without-firing-a-shot-pine-martens>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/environment/2015/jan/30/how-to-eradicate-grey-squirrels-without-firing-a-shot-pine-martens>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 19:22:26 GMT";until="Sat, 21 Mar 2015 12:57:09 GMT"

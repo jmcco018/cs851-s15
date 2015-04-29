@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:53:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theverge.com/2015/1/30/7947223/sundance-film-festival-2015-the-witch-dope-tangerine>;rel="original"
+,<http://web.archive.org/web/20150202002253/http://www.theverge.com/2015/1/30/7947223/sundance-film-festival-2015-the-witch-dope-tangerine>;rel="memento first"; datetime="Mon, 02 Feb 2015 00:22:53 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theverge.com/2015/1/30/7947223/sundance-film-festival-2015-the-witch-dope-tangerine>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theverge.com/2015/1/30/7947223/sundance-film-festival-2015-the-witch-dope-tangerine>;rel="self"; type="application/link-format"; from ="Mon, 02 Feb 2015 00:22:53 GMT";until="Mon, 02 Feb 2015 00:22:53 GMT"

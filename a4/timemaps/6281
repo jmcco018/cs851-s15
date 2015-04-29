@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.seashepherd.org/news-and-media/2015/01/08/join-sea-shepherd-conservation-society-and-supporters-worldwide-at-world-love-for-dolphins-day-1659>;rel="original"
+,<//wayback.archive-it.org/all/20150109234702/http://www.seashepherd.org/news-and-media/2015/01/08/join-sea-shepherd-conservation-society-and-supporters-worldwide-at-world-love-for-dolphins-day-1659>;rel="memento first"; datetime="Fri, 09 Jan 2015 23:47:02 GMT"
+,<//wayback.archive-it.org/all/20150110053506/http://www.seashepherd.org/news-and-media/2015/01/08/join-sea-shepherd-conservation-society-and-supporters-worldwide-at-world-love-for-dolphins-day-1659>;rel="memento"; datetime="Sat, 10 Jan 2015 05:35:06 GMT"
+,<//wayback.archive-it.org/all/20150110173108/http://www.seashepherd.org/news-and-media/2015/01/08/join-sea-shepherd-conservation-society-and-supporters-worldwide-at-world-love-for-dolphins-day-1659>;rel="memento"; datetime="Sat, 10 Jan 2015 17:31:08 GMT"
+,<//wayback.archive-it.org/all/20150113150338/http://www.seashepherd.org/news-and-media/2015/01/08/join-sea-shepherd-conservation-society-and-supporters-worldwide-at-world-love-for-dolphins-day-1659>;rel="memento"; datetime="Tue, 13 Jan 2015 15:03:38 GMT"
+,<//wayback.archive-it.org/all/20150121044349/http://www.seashepherd.org/news-and-media/2015/01/08/join-sea-shepherd-conservation-society-and-supporters-worldwide-at-world-love-for-dolphins-day-1659>;rel="memento"; datetime="Wed, 21 Jan 2015 04:43:49 GMT"
+,<http://web.archive.org/web/20150318112853/http://www.seashepherd.org/news-and-media/2015/01/08/join-sea-shepherd-conservation-society-and-supporters-worldwide-at-world-love-for-dolphins-day-1659>;rel="memento last"; datetime="Wed, 18 Mar 2015 11:28:53 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.seashepherd.org/news-and-media/2015/01/08/join-sea-shepherd-conservation-society-and-supporters-worldwide-at-world-love-for-dolphins-day-1659>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.seashepherd.org/news-and-media/2015/01/08/join-sea-shepherd-conservation-society-and-supporters-worldwide-at-world-love-for-dolphins-day-1659>;rel="self"; type="application/link-format"; from ="Fri, 09 Jan 2015 23:47:02 GMT";until="Wed, 18 Mar 2015 11:28:53 GMT"

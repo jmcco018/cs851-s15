@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:26:44 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.tchrd.org/2015/01/remembering-the-fearless-ghost-tenzin-choedrak-1981-2014/>;rel="original"
+,<http://web.archive.org/web/20150210072250/http://www.tchrd.org/2015/01/remembering-the-fearless-ghost-tenzin-choedrak-1981-2014/>;rel="memento first"; datetime="Tue, 10 Feb 2015 07:22:50 GMT"
+,<http://web.archive.org/web/20150403114901/http://www.tchrd.org/2015/01/remembering-the-fearless-ghost-tenzin-choedrak-1981-2014/>;rel="memento"; datetime="Fri, 03 Apr 2015 11:49:01 GMT"
+,<http://web.archive.org/web/20150410001905/http://www.tchrd.org/2015/01/remembering-the-fearless-ghost-tenzin-choedrak-1981-2014/>;rel="memento"; datetime="Fri, 10 Apr 2015 00:19:05 GMT"
+,<http://web.archive.org/web/20150418224217/http://www.tchrd.org/2015/01/remembering-the-fearless-ghost-tenzin-choedrak-1981-2014/>;rel="memento last"; datetime="Sat, 18 Apr 2015 22:42:17 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.tchrd.org/2015/01/remembering-the-fearless-ghost-tenzin-choedrak-1981-2014/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.tchrd.org/2015/01/remembering-the-fearless-ghost-tenzin-choedrak-1981-2014/>;rel="self"; type="application/link-format"; from ="Tue, 10 Feb 2015 07:22:50 GMT";until="Sat, 18 Apr 2015 22:42:17 GMT"

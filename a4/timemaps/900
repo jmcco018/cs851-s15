@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.vulture.com/2015/01/missy-elliott-will-join-katy-perry-super-bowl-show.html>;rel="original"
+,<http://web.archive.org/web/20150131002348/http://www.vulture.com/2015/01/missy-elliott-will-join-katy-perry-super-bowl-show.html>;rel="memento first"; datetime="Sat, 31 Jan 2015 00:23:48 GMT"
+,<http://web.archive.org/web/20150404130627/http://www.vulture.com/2015/01/missy-elliott-will-join-katy-perry-super-bowl-show.html>;rel="memento last"; datetime="Sat, 04 Apr 2015 13:06:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.vulture.com/2015/01/missy-elliott-will-join-katy-perry-super-bowl-show.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.vulture.com/2015/01/missy-elliott-will-join-katy-perry-super-bowl-show.html>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 00:23:48 GMT";until="Sat, 04 Apr 2015 13:06:27 GMT"

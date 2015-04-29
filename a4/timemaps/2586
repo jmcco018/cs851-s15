@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:52:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.wwe.com/inside/anoai-family-photos>;rel="original"
+,<http://web.archive.org/web/20150202215524/http://www.wwe.com/inside/anoai-family-photos>;rel="memento first"; datetime="Mon, 02 Feb 2015 21:55:24 GMT"
+,<http://web.archive.org/web/20150320075634/http://www.wwe.com/inside/anoai-family-photos>;rel="memento last"; datetime="Fri, 20 Mar 2015 07:56:34 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.wwe.com/inside/anoai-family-photos>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.wwe.com/inside/anoai-family-photos>;rel="self"; type="application/link-format"; from ="Mon, 02 Feb 2015 21:55:24 GMT";until="Fri, 20 Mar 2015 07:56:34 GMT"

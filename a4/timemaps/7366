@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:18:36 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.medgadget.com/2015/01/wishbone-touch-free-smartphone-connected-thermometer-video.html>;rel="original"
+,<http://web.archive.org/web/20150417210816/http://www.medgadget.com/2015/01/wishbone-touch-free-smartphone-connected-thermometer-video.html>;rel="memento first"; datetime="Fri, 17 Apr 2015 21:08:16 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.medgadget.com/2015/01/wishbone-touch-free-smartphone-connected-thermometer-video.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.medgadget.com/2015/01/wishbone-touch-free-smartphone-connected-thermometer-video.html>;rel="self"; type="application/link-format"; from ="Fri, 17 Apr 2015 21:08:16 GMT";until="Fri, 17 Apr 2015 21:08:16 GMT"

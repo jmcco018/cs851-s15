@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:31 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://mmqb.si.com/2015/01/29/russell-wilson-seattle-seahawks-wisconsin-badgers-richmond-family/>;rel="original"
+,<http://web.archive.org/web/20150129200558/http://mmqb.si.com/2015/01/29/russell-wilson-seattle-seahawks-wisconsin-badgers-richmond-family/>;rel="memento first"; datetime="Thu, 29 Jan 2015 20:05:58 GMT"
+,<//wayback.archive-it.org/all/20150129220209/http://mmqb.si.com/2015/01/29/russell-wilson-seattle-seahawks-wisconsin-badgers-richmond-family/>;rel="memento"; datetime="Thu, 29 Jan 2015 22:02:09 GMT"
+,<http://web.archive.org/web/20150203015623/http://mmqb.si.com/2015/01/29/russell-wilson-seattle-seahawks-wisconsin-badgers-richmond-family/>;rel="memento"; datetime="Tue, 03 Feb 2015 01:56:23 GMT"
+,<http://web.archive.org/web/20150401051720/http://mmqb.si.com/2015/01/29/russell-wilson-seattle-seahawks-wisconsin-badgers-richmond-family/>;rel="memento"; datetime="Wed, 01 Apr 2015 05:17:20 GMT"
+,<http://web.archive.org/web/20150405172545/http://mmqb.si.com/2015/01/29/russell-wilson-seattle-seahawks-wisconsin-badgers-richmond-family>;rel="memento last"; datetime="Sun, 05 Apr 2015 17:25:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://mmqb.si.com/2015/01/29/russell-wilson-seattle-seahawks-wisconsin-badgers-richmond-family/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://mmqb.si.com/2015/01/29/russell-wilson-seattle-seahawks-wisconsin-badgers-richmond-family/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 20:05:58 GMT";until="Sun, 05 Apr 2015 17:25:45 GMT"

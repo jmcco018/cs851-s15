@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:06:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="original"
+,<http://web.archive.org/web/20150130015038/http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="memento first"; datetime="Fri, 30 Jan 2015 01:50:38 GMT"
+,<http://web.archive.org/web/20150130081237/http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="memento"; datetime="Fri, 30 Jan 2015 08:12:37 GMT"
+,<http://web.archive.org/web/20150130093303/http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="memento"; datetime="Fri, 30 Jan 2015 09:33:03 GMT"
+,<http://archive.is/20150130145335/http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="memento"; datetime="Fri, 30 Jan 2015 14:53:35 GMT"
+,<http://web.archive.org/web/20150224055017/http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="memento"; datetime="Tue, 24 Feb 2015 05:50:17 GMT"
+,<http://web.archive.org/web/20150224063924/http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="memento"; datetime="Tue, 24 Feb 2015 06:39:24 GMT"
+,<http://web.archive.org/web/20150315095833/http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="memento last"; datetime="Sun, 15 Mar 2015 09:58:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theatlantic.com/politics/archive/2015/01/the-sophisticated-bigotry-of-bobby-jindal/384997/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 01:50:38 GMT";until="Sun, 15 Mar 2015 09:58:33 GMT"

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:37:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://deadline.com/2015/01/george-lucas-sundance-star-wars-robert-redford-2-1201362889/>;rel="original"
+,<http://web.archive.org/web/20150130035557/http://deadline.com/2015/01/george-lucas-sundance-star-wars-robert-redford-2-1201362889/>;rel="memento first"; datetime="Fri, 30 Jan 2015 03:55:57 GMT"
+,<http://archive.is/20150130165742/http://deadline.com/2015/01/george-lucas-sundance-star-wars-robert-redford-2-1201362889/>;rel="memento"; datetime="Fri, 30 Jan 2015 16:57:42 GMT"
+,<http://archive.is/20150130222031/http://deadline.com/2015/01/george-lucas-sundance-star-wars-robert-redford-2-1201362889/>;rel="memento"; datetime="Fri, 30 Jan 2015 22:20:31 GMT"
+,<http://web.archive.org/web/20150203073649/https://deadline.com/2015/01/george-lucas-sundance-star-wars-robert-redford-2-1201362889/>;rel="memento"; datetime="Tue, 03 Feb 2015 07:36:49 GMT"
+,<http://web.archive.org/web/20150404224237/http://deadline.com/2015/01/george-lucas-sundance-star-wars-robert-redford-2-1201362889>;rel="memento last"; datetime="Sat, 04 Apr 2015 22:42:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://deadline.com/2015/01/george-lucas-sundance-star-wars-robert-redford-2-1201362889/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://deadline.com/2015/01/george-lucas-sundance-star-wars-robert-redford-2-1201362889/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 03:55:57 GMT";until="Sat, 04 Apr 2015 22:42:37 GMT"

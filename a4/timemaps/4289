@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:26:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mtv.com/content/movies/movie_brawl/2015/>;rel="original"
+,<//wayback.archive-it.org/all/20150122103219/http://www.mtv.com/content/movies/movie_brawl/2015/>;rel="memento first"; datetime="Thu, 22 Jan 2015 10:32:19 GMT"
+,<//wayback.archive-it.org/all/20150122103229/http://www.mtv.com/content/movies/movie_brawl/2015>;rel="memento"; datetime="Thu, 22 Jan 2015 10:32:29 GMT"
+,<//wayback.archive-it.org/all/20150128203811/http://www.mtv.com/content/movies/movie_brawl/2015/>;rel="memento"; datetime="Wed, 28 Jan 2015 20:38:11 GMT"
+,<//wayback.archive-it.org/all/20150211100708/http://www.mtv.com/content/movies/movie_brawl/2015/>;rel="memento"; datetime="Wed, 11 Feb 2015 10:07:08 GMT"
+,<//wayback.archive-it.org/all/20150215035726/http://www.mtv.com/content/movies/movie_brawl/2015/>;rel="memento"; datetime="Sun, 15 Feb 2015 03:57:26 GMT"
+,<//wayback.archive-it.org/all/20150215035738/http://www.mtv.com/content/movies/movie_brawl/2015>;rel="memento"; datetime="Sun, 15 Feb 2015 03:57:38 GMT"
+,<http://web.archive.org/web/20150315050612/http://www.mtv.com/content/movies/movie_brawl/2015/>;rel="memento last"; datetime="Sun, 15 Mar 2015 05:06:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mtv.com/content/movies/movie_brawl/2015/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mtv.com/content/movies/movie_brawl/2015/>;rel="self"; type="application/link-format"; from ="Thu, 22 Jan 2015 10:32:19 GMT";until="Sun, 15 Mar 2015 05:06:12 GMT"

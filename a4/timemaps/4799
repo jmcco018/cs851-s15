@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:34:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://artsupplycentral.com/>;rel="original"
+,<http://web.archive.org/web/20141216193611/http://artsupplycentral.com/>;rel="memento first"; datetime="Tue, 16 Dec 2014 19:36:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://artsupplycentral.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://artsupplycentral.com/>;rel="self"; type="application/link-format"; from ="Tue, 16 Dec 2014 19:36:11 GMT";until="Tue, 16 Dec 2014 19:36:11 GMT"

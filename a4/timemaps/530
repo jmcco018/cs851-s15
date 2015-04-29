@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:18:30 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.theguardian.com/world/2015/jan/30/russia-rouble-interest-rate-falling-oil-prices-central-bank>;rel="original"
+,<http://archive.is/20150130141502/http://www.theguardian.com/world/2015/jan/30/russia-rouble-interest-rate-falling-oil-prices-central-bank>;rel="memento first"; datetime="Fri, 30 Jan 2015 14:15:02 GMT"
+,<http://web.archive.org/web/20150222102948/http://www.theguardian.com/world/2015/jan/30/russia-rouble-interest-rate-falling-oil-prices-central-bank>;rel="memento"; datetime="Sun, 22 Feb 2015 10:29:48 GMT"
+,<http://web.archive.org/web/20150319144436/http://www.theguardian.com/world/2015/jan/30/russia-rouble-interest-rate-falling-oil-prices-central-bank>;rel="memento last"; datetime="Thu, 19 Mar 2015 14:44:36 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.theguardian.com/world/2015/jan/30/russia-rouble-interest-rate-falling-oil-prices-central-bank>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.theguardian.com/world/2015/jan/30/russia-rouble-interest-rate-falling-oil-prices-central-bank>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 14:15:02 GMT";until="Thu, 19 Mar 2015 14:44:36 GMT"

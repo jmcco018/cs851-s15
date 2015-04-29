@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.zomato.com/mumbai/5-spice-sakinaka>;rel="original"
+,<http://web.archive.org/web/20121130175648/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento first"; datetime="Fri, 30 Nov 2012 17:56:48 GMT"
+,<http://web.archive.org/web/20121202221248/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Sun, 02 Dec 2012 22:12:48 GMT"
+,<http://web.archive.org/web/20121205082123/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Wed, 05 Dec 2012 08:21:23 GMT"
+,<http://web.archive.org/web/20130102205912/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Wed, 02 Jan 2013 20:59:12 GMT"
+,<http://web.archive.org/web/20130105191348/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Sat, 05 Jan 2013 19:13:48 GMT"
+,<http://web.archive.org/web/20130208170757/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Fri, 08 Feb 2013 17:07:57 GMT"
+,<http://web.archive.org/web/20130212213905/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Tue, 12 Feb 2013 21:39:05 GMT"
+,<http://web.archive.org/web/20130317035441/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Sun, 17 Mar 2013 03:54:41 GMT"
+,<http://web.archive.org/web/20130328100107/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Thu, 28 Mar 2013 10:01:07 GMT"
+,<http://web.archive.org/web/20130404062006/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Thu, 04 Apr 2013 06:20:06 GMT"
+,<http://web.archive.org/web/20130601090607/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Sat, 01 Jun 2013 09:06:07 GMT"
+,<http://web.archive.org/web/20130603012934/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Mon, 03 Jun 2013 01:29:34 GMT"
+,<http://web.archive.org/web/20130708011455/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Mon, 08 Jul 2013 01:14:55 GMT"
+,<http://web.archive.org/web/20130709111523/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento"; datetime="Tue, 09 Jul 2013 11:15:23 GMT"
+,<http://web.archive.org/web/20130813193438/http://www.zomato.com/mumbai/5-spice-sakinaka>;rel="memento last"; datetime="Tue, 13 Aug 2013 19:34:38 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.zomato.com/mumbai/5-spice-sakinaka>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.zomato.com/mumbai/5-spice-sakinaka>;rel="self"; type="application/link-format"; from ="Fri, 30 Nov 2012 17:56:48 GMT";until="Tue, 13 Aug 2013 19:34:38 GMT"

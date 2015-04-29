@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:14:05 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://paper.li/plassappliance>;rel="original"
+,<http://web.archive.org/web/20110414045744/http://paper.li/plassappliance>;rel="memento first"; datetime="Thu, 14 Apr 2011 04:57:44 GMT"
+,<http://web.archive.org/web/20110701094209/http://paper.li/plassappliance>;rel="memento"; datetime="Fri, 01 Jul 2011 09:42:09 GMT"
+,<http://web.archive.org/web/20110803081813/http://paper.li/plassappliance>;rel="memento last"; datetime="Wed, 03 Aug 2011 08:18:13 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://paper.li/plassappliance>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://paper.li/plassappliance>;rel="self"; type="application/link-format"; from ="Thu, 14 Apr 2011 04:57:44 GMT";until="Wed, 03 Aug 2011 08:18:13 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:19:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://cookinginstilettos.com/grilled-barbecue-chicken-salad-with-smoky-barbecue-vinaigrette/>;rel="original"
+,<http://web.archive.org/web/20150320025815/http://cookinginstilettos.com/grilled-barbecue-chicken-salad-with-smoky-barbecue-vinaigrette/>;rel="memento first"; datetime="Fri, 20 Mar 2015 02:58:15 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://cookinginstilettos.com/grilled-barbecue-chicken-salad-with-smoky-barbecue-vinaigrette/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://cookinginstilettos.com/grilled-barbecue-chicken-salad-with-smoky-barbecue-vinaigrette/>;rel="self"; type="application/link-format"; from ="Fri, 20 Mar 2015 02:58:15 GMT";until="Fri, 20 Mar 2015 02:58:15 GMT"

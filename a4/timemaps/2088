@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:44:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://2decorateyourhome.com/how-to-decorate-your-home-with-affordable-artwork/>;rel="original"
+,<http://web.archive.org/web/20140812031646/http://2decorateyourhome.com/how-to-decorate-your-home-with-affordable-artwork/>;rel="memento first"; datetime="Tue, 12 Aug 2014 03:16:46 GMT"
+,<http://web.archive.org/web/20150107133024/http://2decorateyourhome.com/how-to-decorate-your-home-with-affordable-artwork/>;rel="memento last"; datetime="Wed, 07 Jan 2015 13:30:24 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://2decorateyourhome.com/how-to-decorate-your-home-with-affordable-artwork/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://2decorateyourhome.com/how-to-decorate-your-home-with-affordable-artwork/>;rel="self"; type="application/link-format"; from ="Tue, 12 Aug 2014 03:16:46 GMT";until="Wed, 07 Jan 2015 13:30:24 GMT"

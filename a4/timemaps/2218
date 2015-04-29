@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:46:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nbcnews.com/id/19619471/ns/health-childrens_health/t/pool-drain-rips-out-part-girls-intestinal-tract>;rel="original"
+,<http://web.archive.org/web/20140522234608/http://www.nbcnews.com/id/19619471/ns/health-childrens_health/t/pool-drain-rips-out-part-girls-intestinal-tract/>;rel="memento first"; datetime="Thu, 22 May 2014 23:46:08 GMT"
+,<http://web.archive.org/web/20140523202322/http://www.nbcnews.com/id/19619471/ns/health-childrens_health/t/pool-drain-rips-out-part-girls-intestinal-tract/>;rel="memento"; datetime="Fri, 23 May 2014 20:23:22 GMT"
+,<http://web.archive.org/web/20140525003513/http://www.nbcnews.com/id/19619471/ns/health-childrens_health/t/pool-drain-rips-out-part-girls-intestinal-tract/>;rel="memento"; datetime="Sun, 25 May 2014 00:35:13 GMT"
+,<http://web.archive.org/web/20150318062613/http://www.nbcnews.com/id/19619471/ns/health-childrens_health/t/pool-drain-rips-out-part-girls-intestinal-tract/>;rel="memento last"; datetime="Wed, 18 Mar 2015 06:26:13 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nbcnews.com/id/19619471/ns/health-childrens_health/t/pool-drain-rips-out-part-girls-intestinal-tract>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nbcnews.com/id/19619471/ns/health-childrens_health/t/pool-drain-rips-out-part-girls-intestinal-tract>;rel="self"; type="application/link-format"; from ="Thu, 22 May 2014 23:46:08 GMT";until="Wed, 18 Mar 2015 06:26:13 GMT"

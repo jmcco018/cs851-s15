@@ -1,0 +1,725 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app0.us.archive.org";archive_analytics.values.server_ms=240;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+<title>Easy Cooking Guide</title>
+<link rel="stylesheet" href="/web/20131030102452cs_/http://www.easycookingguide.com/wp-content/themes/MyMenu/css/screen.css" type="text/css" media="screen, projection"/>
+<link rel="stylesheet" href="/web/20131030102452cs_/http://www.easycookingguide.com/wp-content/themes/MyMenu/css/print.css" type="text/css" media="print"/>
+<link rel="icon" type="image/ico" href="http://www.easycookingguide.com/wp-content/themes/MyMenu/images/favicon.ico"/>
+<!--[if IE]><link rel="stylesheet" href="/web/20131030102452/http://www.easycookingguide.com/wp-content/themes/MyMenu/css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<link rel="stylesheet" href="/web/20131030102452cs_/http://www.easycookingguide.com/wp-content/themes/MyMenu/style.css" type="text/css" media="screen"/>
+<!--[if IE 6]>
+	<script src="/web/20131030102452/http://www.easycookingguide.com/wp-content/themes/MyMenu/js/pngfix.js"></script>
+<![endif]--> 
+<link rel="alternate" type="application/rss+xml" title="Easy Cooking Guide RSS Feed" href="http://www.easycookingguide.com/feed"/>
+<link rel="alternate" type="application/atom+xml" title="Easy Cooking Guide Atom Feed" href="http://www.easycookingguide.com/feed/atom"/>
+<link rel="pingback" href="http://www.easycookingguide.com/xmlrpc.php"/>
+<link rel="stylesheet" href="/web/20131030102452cs_/http://www.easycookingguide.com/wp-content/themes/MyMenu/menu/MenuMatic.css" type="text/css" media="screen" charset="utf-8"/>
+<!--[if lt IE 7]>
+	<link rel="stylesheet" href="/web/20131030102452/http://www.easycookingguide.com/wp-content/themes/MyMenu/menu/MenuMatic-ie6.css" type="text/css" media="screen" charset="utf-8" />
+<![endif]-->
+<!-- Load the MenuMatic Class -->
+<script src="/web/20131030102452js_/http://www.easycookingguide.com/wp-content/themes/MyMenu/menu/MenuMatic_0.68.3.js.pagespeed.jm.hNt2Avn6Iv.js" type="text/javascript" charset="utf-8"></script>
+<link rel='stylesheet' id='gdsr_style_main-css' href='/web/20131030102452cs_/http://www.easycookingguide.com/wp-content/plugins/gd-star-rating/css/gdsr.css.php?t=1358559359&amp;s=a10i10m20k20c05r05%23121620243046%23121620243240%23s1pchristmas%23s1pcrystal%23s1pdarkness%23s1poxygen%23s1goxygen_gif%23s1pplain%23s1ppumpkin%23s1psoft%23s1pstarrating%23s1pstarscape%23t1pclassical%23t1pstarrating%23t1gstarrating_gif%23lsgflower&amp;o=off&amp;ver=1.9.22' type='text/css' media='all'/>
+<style id='gdsr_style_xtra-css' media='all'>.blockleft { float: left; padding: 10px; }
+.blockright { float: right; padding: 10px; }
+
+/* BLUE */
+.tableblue { border: 1px dashed #87ceeb; }
+.tableblue tr.mtrow { background-color: #f5fffa; }
+.tableblue tr.mtrow.alternate { background-color: #f0f8ff; }
+
+.textblue { color: navy; }
+.textblue strong { color: #8b0000; }
+.textblue.voted { color: #1e90ff; }
+.textblue.voted strong { color: #ff4500; }
+
+.buttonblue.gdinactive { border-color: #708090; background-color: #e6e6fa; }
+.buttonblue.gdactive { border-color: #00008b; background-color: #add8e6; }
+.buttonblue.gdinactive a { color: gray; }
+.buttonblue.gdactive a { color: #0000cd; }
+
+/* RED */
+.tablered { border: 1px dashed #ffd700; }
+.tablered tr.mtrow { background-color: #ffffe0; }
+.tablered tr.mtrow.alternate { background-color: #fffacd; }
+
+.textred { color: maroon; }
+.textred strong { color: black; }
+.textred.voted { color: #ff6347; }
+.textred.voted strong { color: #dc143c; }
+
+.buttonred.gdinactive { border-color: #708090; background-color: #e6e6fa; }
+.buttonred.gdactive { border-color: maroon; background-color: #ffd700; }
+.buttonred.gdinactive a { color: gray; }
+.buttonred.gdactive a { color: red; }
+
+/* GREEN */
+.tablegreen { border: 1px dashed #228b22; }
+.tablegreen tr.mtrow { background-color: #fffff0; }
+.tablegreen tr.mtrow.alternate { background-color: #f0fff0; }
+
+.textgreen { color: #006400; }
+.textgreen strong { color: #191970; }
+.textgreen.voted { color: #3cb371; }
+.textgreen.voted strong { color: #a52a2a; }
+
+.buttongreen.gdinactive { border-color: #708090; background-color: #90ee90; }
+.buttongreen.gdactive { border-color: #32cd32; background-color: #228b22; }
+.buttongreen.gdinactive a { color: gray; }
+.buttongreen.gdactive a { color: #00fa9a; }
+</style>
+<style id='tfg_style-css' media='all'>/* CSS Document */
+#leftcontainerBox {
+float:left;
+z-index: 1000;
+}
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+width:60px;
+height:60px;
+padding-bottom:2px;
+padding-left:3px;
+}
+.bottomcontainerBox {
+float:left;
+height:30px;
+width:100%;
+}</style>
+<style id='wp-pagenavi-css' media='all'>/*
+Default style for WP-PageNavi plugin
+
+http://wordpress.org/extend/plugins/wp-pagenavi/
+*/
+
+.wp-pagenavi {
+	clear: both;
+}
+
+.wp-pagenavi a, .wp-pagenavi span {
+	text-decoration: none;
+	border: 1px solid #BFBFBF;
+	padding: 3px 5px;
+	margin: 2px;
+}
+
+.wp-pagenavi a:hover, .wp-pagenavi span.current {
+	border-color: #000;
+}
+
+.wp-pagenavi span.current {
+	font-weight: bold;
+}
+</style>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/jquery.js,qver=1.10.2.pagespeed.jm.iCH2ukpEYb.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.2.1.pagespeed.jm.mhpNjdU8Wl.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-content/plugins/gd-star-rating/js/gdsr.js,qver=1.9.22.pagespeed.jm.GO9g6y-jfE.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.easycookingguide.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.easycookingguide.com/wp-includes/wlwmanifest.xml"/> 
+<meta name="generator" content="WordPress 3.7.1"/>
+
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[291,317] -->
+<meta name="description" content="Easy cooking guide is a one stop destination for amateur chefs to become professional chefs! Easy cooking guide boasts of the largest collection of easiest and tastiest recipes. The recipes are so easy that anybody can give them a try and prepare delicious treats."/>
+<meta name="keywords" content="easy cooking guide, easy recipes, easy cooking, treats, meal planning, cooking, recipes, best recipes, food, preparing food, food guides"/>
+<link rel="canonical" href="http://www.easycookingguide.com/"/>
+<!-- /all in one seo pack Pro Version-->
+<script type="text/javascript">//<![CDATA[
+var gdsr_cnst_nonce="5514dca06f";var gdsr_cnst_ajax="/web/20131030102452/http://www.easycookingguide.com/wp-content/plugins/gd-star-rating/ajax.php";var gdsr_cnst_button=1;var gdsr_cnst_cache=0;
+//]]></script>
+<!--[if IE]><style type="text/css">.ratemulti .starsbar .gdcurrent { -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; filter: alpha(opacity=70); }</style><![endif]-->
+<script type='text/javascript'>//<![CDATA[
+theMessage='If you wish to use this image elsewhere, please select either HTML (for webpages) or BBCODE (for forums) and use the code provided:'
+//]]></script>
+<script type="text/javascript" src="/web/20131030102452js_/http://www.easycookingguide.com/wp-content/plugins/hotlink-2-link/js/hl2l.js.pagespeed.jm.65eRGJiFlc.js"></script>
+<style id='social_connect-css' media='all'>div.social_connect_ui img {
+  border: 0px;
+  height: 32px;
+  width: 32px;
+}
+
+.social_connect_wordpress_form input {
+  height: 18px;
+}
+
+img#social_connect_comment_via_provider  {
+  width: 16px;
+  height: 16px;
+}
+
+img.social_connect_already_connected_logo {
+  float:left; 
+  padding-right: 10px;
+}
+
+div.social_connect_wordpress_form {
+  display:none;
+}
+
+div.social_connect_already_connected_form {
+  display:none;
+}
+
+div.social_connect_facebook_auth {
+  display:none;
+}
+
+div.social_connect_twitter_auth {
+  display:none;
+}
+
+div.social_connect_google_auth {
+  display:none;
+}
+
+div.social_connect_yahoo_auth {
+  display:none;
+}
+
+div.social_connect_openid_auth {
+  display:none;
+}
+
+div.social_connect_wordpress_auth {
+  display:none;
+}
+
+</style>
+<link rel='stylesheet' id='jquery-ui-css' href='/web/20131030102452cs_/http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/themes/smoothness/jquery-ui.css?ver=3.7.1' type='text/css' media='all'/>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js,qver=1.10.3.pagespeed.jm.AlsXmk9LQs.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js,qver=1.10.3.pagespeed.jm.f48kbAiU4-.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js,qver=1.10.3.pagespeed.jm.GfLQVnqtH4.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js,qver=1.10.3.pagespeed.jm.sGh79JkRpR.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js,qver=1.10.3.pagespeed.jm.bYvdSNpfaw.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/ui/jquery.ui.button.min.js,qver=1.10.3.pagespeed.jm.0OBrZI1Wge.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/ui/jquery.ui.position.min.js,qver=1.10.3.pagespeed.jm.NIghULEXXv.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js,qver=1.10.3.pagespeed.jm.SCzkSTw6hS.js'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://www.easycookingguide.com/wp-content/plugins/social-connect/media/js/connect.js,qver=3.7.1.pagespeed.jm.s7fYEhaIgx.js'></script>
+
+
+<!-- Facebook Like Thumbnail -->
+<link rel="image_src" href="http://www.easycookingguide.com/wp-content/uploads/2010/05/lamb-Shepherd-Pie-225x300.jpg"/>
+<!-- End Facebook Like Thumbnail -->
+
+<!-- ## NXS/OG ## -->
+<meta property="og:site_name" content="Easy Cooking Guide"/>
+<meta property="og:title" content="Easy Cooking Guide"/>
+<meta property="og:description" content=""/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.easycookingguide.com"/>
+<meta property="og:locale" content="en_us"/>
+<!-- ## NXS/OG ## -->
+
+
+
+<script type="text/javascript" src="/web/20131030102452js_/http://apis.google.com/js/plusone.js"></script>
+
+</head>
+<body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.easycookingguide.com/";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "30";
+var displayMonth = "Oct";
+var displayYear = "2013";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.easycookingguide.com/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20131030102452" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20130822143003/http://www.easycookingguide.com/" title="22 Aug 2013">AUG</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 10:24:52 Oct 30, 2013">OCT</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20140104033901/http://easycookingguide.com/" title="4 Jan 2014"><strong>JAN</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130822143003/http://www.easycookingguide.com/" title="14:30:03 Aug 22, 2013"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 10:24:52 Oct 30, 2013">30</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20140104033901/http://easycookingguide.com/" title="3:39:01 Jan 4, 2014"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20120615004133/http://www.easycookingguide.com/" title="15 Jun 2012"><strong>2012</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 10:24:52 Oct 30, 2013">2013</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20141217100351/http://easycookingguide.com/" title="17 Dec 2014"><strong>2014</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20131030102452*/http://www.easycookingguide.com/" title="See a list of every capture for this URL">31 captures</a>
+           <div class="r" title="Timespan for captures of this URL">16 Aug 09 - 20 Dec 14</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000010000_2010:-1:000110000000_2011:-1:010100002111_2012:-1:122101000030_2013:9:010010010100_2014:-1:211010000002_2015:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<script type="text/javascript">window.addEvent('domready',function(){var myMenu=new MenuMatic();});</script>
+	<div id="wrapper">
+		<div id="container" class="container">  
+			<div class="span-24">
+            
+				<div id="pagemenucontainer">
+					<ul id="pagemenu">
+						<li class="current_page_item"><a href="/web/20131030102452/http://www.easycookingguide.com/">Home</a></li>
+						<li class="page_item page-item-698"><a href="/web/20131030102452/http://www.easycookingguide.com/search">Search</a></li>
+<li class="page_item page-item-341"><a href="/web/20131030102452/http://www.easycookingguide.com/site-map">Site Map</a></li>
+					</ul>
+				</div>
+			
+			</div>
+				<div id="header" class="span-24">
+					<div class="span-11">
+													<a href="/web/20131030102452/http://www.easycookingguide.com/"><img src="/web/20131030102452im_/http://www.easycookingguide.com/wp-content/uploads/2010/05/xlogo.png.pagespeed.ic.W2sJHLOJgK.png" alt="Easy Cooking Guide" title="Easy Cooking Guide" class="logoimg"/></a>
+													
+					</div>
+					
+					<div class="span-13 last" style="padding-top: 15px; text-align:center;">
+						<a href="/web/20131030102452/http://www.mightyguide.net/"><img src="/web/20131030102452im_/http://www.whenguide.com/wp-content/uploads/2009/06/mightybanner.gif"/></a>					</div>
+				</div>
+			
+			<div class="span-24">
+				
+				<div id="navcontainer">
+					<ul id="nav">
+                        <div align="center"><script type="text/javascript">google_ad_client="pub-4394305856464210";google_ad_width=728;google_ad_height=15;google_ad_format="728x15_0ads_al";google_color_border="576321";google_color_bg="576321";google_color_link="FFFFFF";google_color_text="FFFFFF";</script>
+<script type="text/javascript" src="/web/20131030102452js_/http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
+
+					</ul>
+				</div>
+			</div>		<div class="span-24" id="contentwrap">
+            <div class="span-5">
+		<div class="sidebar sidebar-left">
+		
+			<ul>
+            <!--articles from category-->
+<!--articles from category-->
+				<li id="categories-514497612" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>		<ul>
+	<li class="cat-item cat-item-6"><a href="/web/20131030102452/http://www.easycookingguide.com/category/beef" title="View all posts filed under Beef">Beef</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="/web/20131030102452/http://www.easycookingguide.com/category/cereals" title="View all posts filed under Cereals">Cereals</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="/web/20131030102452/http://www.easycookingguide.com/category/chicken" title="View all posts filed under Chicken">Chicken</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="/web/20131030102452/http://www.easycookingguide.com/category/fish" title="View all posts filed under Fish">Fish</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="/web/20131030102452/http://www.easycookingguide.com/category/game" title="View all posts filed under Game">Game</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="/web/20131030102452/http://www.easycookingguide.com/category/miscellaneous" title="View all posts filed under Miscellaneous">Miscellaneous</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="/web/20131030102452/http://www.easycookingguide.com/category/pork" title="View all posts filed under Pork">Pork</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="/web/20131030102452/http://www.easycookingguide.com/category/seafood" title="View all posts filed under Seafood">Seafood</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="/web/20131030102452/http://www.easycookingguide.com/category/turkey" title="View all posts filed under Turkey">Turkey</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="/web/20131030102452/http://www.easycookingguide.com/category/vegetable" title="View all posts filed under Vegetable">Vegetable</a>
+</li>
+		</ul>
+</li>		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Guides</h2>		<ul>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-lamb.html">How to Cook Lamb</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-eggplant.html">How to Cook Eggplant</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-tofu.html">How to Cook Tofu</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-tuna.html">How to Cook Tuna</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-sweet-potatoes.html">How to Cook Sweet Potatoes</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-prime-rib.html">How to Cook Prime Rib</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-roast-beef.html">How to Cook Roast Beef</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-rice.html">How to Cook Rice</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-snow-crab-legs.html">How to Cook Snow Crab Legs</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-cauliflower.html">How to Cook Cauliflower</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-fresh-polish-sausage.html">How to Cook Fresh Polish Sausage</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-green-beans.html">How to Cook Green Beans</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-rhubarb.html">How to Cook Rhubarb</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-cube-steak.html">How to Cook Cube Steak</a>
+						</li>
+					<li>
+				<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-acorn-squash.html">How to Cook Acorn Squash</a>
+						</li>
+				</ul>
+		</li>			</ul>
+			
+				<div class="sidebaradbox">
+			<a href="/web/20131030102452/http://www.bestcookierecipe.net/"><img src="/web/20131030102452im_/http://www.easycookingguide.com/wp-content/themes/MyMenu/images/xbest-cookie-recipe-160-600.png.pagespeed.ic.ZuuW5Xg0IT.png" alt="Best Cookie Recipe"/></a>		</div>
+				</div>
+</div>			<div class="span-14">
+				<div id="content">		
+                						
+												
+						<div class="post-98 post type-post status-publish format-standard hentry category-game tag-cook tag-game tag-lamb" id="post-98">
+							<h2 class="title"><a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-lamb.html" rel="bookmark" title="Permanent Link to How to Cook Lamb">How to Cook Lamb</a></h2>			
+							<div class="entry">
+<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-lamb.html" rel="bookmark"><img class="thumb" src="/web/20131030102452im_/http://www.easycookingguide.com/wp-content/uploads/xtimthumb.php,qsrc=,hwww.easycookingguide.com,_wp-content,_uploads,_2010,_05,_lamb-Shepherd-Pie-225x300.jpg,ah=120,aw=120,azc=1.pagespeed.ic.SCm8sN_XK8.jpg" alt="How to Cook Lamb"/></a>
+									<div>Lamb meat can be sorted into three different kinds, namely hindquarter, loin and forequarter. People love to eat it because of its tender texture and rich flavor. Furthermore, it can be cooked in a variety of ways including roasting, stewing and barbecuing. For those who may want to try how to cook lamb, it is good to try dishes like Shepherd’s Pie with Lamb and Pressure Cooked Irish Stew.
+Shepherd’s Pie with Lamb
+For people who love to eat pies, this recipe is simply delicious. It makes use of ingredients including a teaspoon of Worcestershire sauce, ¼-teaspoon of hot pepper sauce and one minced onion. At the same time, prepare ¼-cup of hot milk, 1½-teaspoon of salt and 3-cups of cooked ground lamb. Other important ingredients include ¼-teaspoon pepper, 1½-cup gravy and 4-tablespoons of butter. In cooking this dish, you also need a slightly beaten egg and 6-pieces of medium-sized potatoes that are boiled and peeled.
+Put the butter on top of the frying pan over medium-high heat....</div> 
+
+
+                                <div class="readmorecontent">
+										<a class="readmore" href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-lamb.html" rel="bookmark" title="Permanent Link to How to Cook Lamb">Read More &raquo;</a>
+									</div>
+							</div>
+						</div><!--/post-98-->
+				
+										
+						<div class="post-83 post type-post status-publish format-standard hentry category-vegetable tag-cook tag-eggplant tag-vegetable" id="post-83">
+							<h2 class="title"><a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-eggplant.html" rel="bookmark" title="Permanent Link to How to Cook Eggplant">How to Cook Eggplant</a></h2>			
+							<div class="entry">
+<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-eggplant.html" rel="bookmark"><img class="thumb" src="/web/20131030102452im_/http://www.easycookingguide.com/wp-content/uploads/xtimthumb.php,qsrc=,hwww.easycookingguide.com,_wp-content,_uploads,_2010,_06,_Eggplant-244x300.jpg,ah=120,aw=120,azc=1.pagespeed.ic.sns2CrX_dm.jpg" alt="How to Cook Eggplant"/></a>
+									<div>Although an eggplant may look very simple, it has numerous uses especially in culinary arts. Thanks for its tender texture and pleasant flavor, people use it in making yummy dishes like the Arabian moussaka, the Italian melanzane alla parmigiana and the French ratatouille. Furthermore, it can be cooked using a variety of methods including deep-fried, battered and stewed. For those who wish to learn how to cook eggplant, they can prepare dishes like Iranian Stew and Scalloped Eggplant.
+Iranian Stew
+This simple recipe makes use of the delectable taste and flavor of eggplants. To do this, prepare a couple of medium-sized eggplants, 2-tablespoons of lemon juice and 2-tablespoons of cooking oil. In addition, prepare ¼-teaspoon of pepper, a teaspoon of salt and ¼-teaspoon turmeric. Furthermore, it also needs a couple of medium-sized onions, a tablespoon of tomato paste and a pound of stewing beef.
+Set a nice clean cooking pot over a medium-high heat stove. Pour in the cooking oil. Dice the...</div> 
+
+
+                                <div class="readmorecontent">
+										<a class="readmore" href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-eggplant.html" rel="bookmark" title="Permanent Link to How to Cook Eggplant">Read More &raquo;</a>
+									</div>
+							</div>
+						</div><!--/post-83-->
+				
+										
+						<div class="post-173 post type-post status-publish format-standard hentry category-vegetable tag-cook-tofu tag-cornmeal-breaded-tofu tag-vegetable tag-vegetarian-orange-glazed-tofu" id="post-173">
+							<h2 class="title"><a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-tofu.html" rel="bookmark" title="Permanent Link to How to Cook Tofu">How to Cook Tofu</a></h2>			
+							<div class="entry">
+<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-tofu.html" rel="bookmark"><img class="thumb" src="/web/20131030102452im_/http://www.easycookingguide.com/wp-content/uploads/xtimthumb.php,qsrc=,hwww.easycookingguide.com,_wp-content,_uploads,_2010,_05,_Tofu-300x200.jpg,ah=120,aw=120,azc=1.pagespeed.ic.mLPTBpXSS5.jpg" alt="How to Cook Tofu"/></a>
+									<div>Tofu is a nutritious food that originated from China and popular for its soymilk content. This food is very healthy to eat because it contains a small amount of fat. Additionally, many people like to eat tofu since it is rich in iron, magnesium and calcium. The food can be prepared using the different cooking methods like frying, braising and stewing. To know how to cook tofu the easy way, it is beneficial to look at popular and delicious recipes that contain the food as the special ingredient.
+Vegetarian Orange Glazed Tofu
+The ingredients needed for this vegetarian dish are a block of tofu, two cloves garlic, two tablespoons olive oil, three tablespoons soy sauce, ½ cup orange juice, two tablespoons rice vinegar, ¼ cup orange marmalade, ½ teaspoon fresh ginger and 1 ½ teaspoon cornstarch.
+Dissolve cornstarch in three tablespoons water and set aside. Mince the garlic and ginger. Slice tofu into cubes. Heat olive oil in a medium size pan for four minutes to five minutes. Saute garlic...</div> 
+
+
+                                <div class="readmorecontent">
+										<a class="readmore" href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-tofu.html" rel="bookmark" title="Permanent Link to How to Cook Tofu">Read More &raquo;</a>
+									</div>
+							</div>
+						</div><!--/post-173-->
+				
+										
+						<div class="post-177 post type-post status-publish format-standard hentry category-fish tag-cook tag-fish tag-seafood tag-tuna" id="post-177">
+							<h2 class="title"><a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-tuna.html" rel="bookmark" title="Permanent Link to How to Cook Tuna">How to Cook Tuna</a></h2>			
+							<div class="entry">
+<a href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-tuna.html" rel="bookmark"><img class="thumb" src="/web/20131030102452im_/http://www.easycookingguide.com/wp-content/uploads/xtimthumb.php,qsrc=,hwww.easycookingguide.com,_wp-content,_uploads,_2010,_05,_Tuna-200x300.jpg,ah=120,aw=120,azc=1.pagespeed.ic.4eQ-6835Gb.jpg" alt="How to Cook Tuna"/></a>
+									<div>Tuna is one of the most delicious, nutritious and easy-to-cook fishes. This species is rich in vitamins and minerals such as vitamin D, which is very important to improve the health conditions of children. Aside from the vitamin, the fish is also rich in omega 3 fatty acids, which is essential to prevent the etiology of some heart illnesses. To encourage your children to eat this seafood, it is important to have ideas about the different methods of cooking tuna. Moreover, it is necessary to learn how to cook tuna the easy way. Featured below are recipes that you can use if you are planning to serve delectable tuna dishes to your family.
+Citrus Tuna Steaks
+For the special dish, you will use four tuna fillets, a pink grapefruit, ¼ cup lemon juice and ¼ cup limejuice as key ingredients. In addition to these, you also need two tablespoons honey, a tablespoon of snipped fresh dill, a teaspoon of crushed red pepper flakes and ½ teaspoon ground ginger. Remove the covering of the grapefruit...</div> 
+
+
+                                <div class="readmorecontent">
+										<a class="readmore" href="/web/20131030102452/http://www.easycookingguide.com/how-to-cook-tuna.html" rel="bookmark" title="Permanent Link to How to Cook Tuna">Read More &raquo;</a>
+									</div>
+							</div>
+						</div><!--/post-177-->
+				
+								<div class="navigation">
+					<div class='wp-pagenavi'>
+<span class='pages'>Page 1 of 20</span><span class='current'>1</span><a href='/web/20131030102452/http://www.easycookingguide.com/page/2' class='page larger'>2</a><a href='/web/20131030102452/http://www.easycookingguide.com/page/3' class='page larger'>3</a><a href='/web/20131030102452/http://www.easycookingguide.com/page/4' class='page larger'>4</a><a href='/web/20131030102452/http://www.easycookingguide.com/page/5' class='page larger'>5</a><span class='extend'>...</span><a href='/web/20131030102452/http://www.easycookingguide.com/page/10' class='larger page'>10</a><a href='/web/20131030102452/http://www.easycookingguide.com/page/20' class='larger page'>20</a><span class='extend'>...</span><a href='/web/20131030102452/http://www.easycookingguide.com/page/2' class='nextpostslink'>&raquo;</a><a href='/web/20131030102452/http://www.easycookingguide.com/page/20' class='last'>Last &raquo;</a>
+</div>				</div>
+								</div>
+			</div>
+		
+		<div class="span-5 last">
+		<div class="sidebar sidebar-right">
+		    <div id="search">
+<form action="/web/20131030102452/http://www.easycookingguide.com/search" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="004735677617850284612:yihwpztxycc"/>
+    <input type="hidden" name="cof" value="FORID:10"/>
+    <input type="hidden" name="ie" value="UTF-8"/>
+    <input type="text" id="s" name="q" size="31"/>
+<input type="image" src="/web/20131030102452im_/http://www.tech-faq.com/wp-content/themes/WireNews/images/search.gif" style="border:0; vertical-align: top;"/> 
+  </div>
+</form>
+<script type="text/javascript" src="/web/20131030102452js_/http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+              
+             			<div class="rssbox">
+    				<a href="/web/20131030102452/http://www.easycookingguide.com/feed"><img src="/web/20131030102452im_/http://www.easycookingguide.com/wp-content/themes/MyMenu/images/xrss.png.pagespeed.ic.q7nx_gCfTY.png" alt="RSS Feed" title="RSS Feed" style="vertical-align:middle; margin-right: 5px;"/></a><a href="/web/20131030102452/http://www.easycookingguide.com/feed">Subscribe!</a>
+    			</div>
+    			    	
+    				<div class="sidebaradbox">
+    			    		</div>
+	
+			<ul>
+				<li id="text-4" class="widget widget_text">			<div class="textwidget"><div style="padding: 5px;">
+
+<a href="/web/20131030102452/https://twitter.com/EasyCookGuide" class="twitter-follow-button" data-show-count="true" data-size="medium" data-show-screen-name="false">Follow @EasyCookGuide</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+<div style="padding: 5px;">
+
+<iframe src="/web/20131030102452if_/http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FEasy-Cooking-Guide%2F132194640210859&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=%20271430602886752" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:21px;" allowTransparency="true"></iframe></div>
+		</li><li id="text-3" class="widget widget_text"><h2 class="widgettitle">Advertising</h2>			<div class="textwidget"><div align="center"><script type="text/javascript">google_ad_client="pub-4394305856464210";google_ad_width=160;google_ad_height=600;google_ad_format="160x600_as";google_ad_type="text_image";google_color_border="cad594";google_color_bg="cad594";google_color_link="";google_color_text="";google_color_url="";</script>
+<script type="text/javascript" src="/web/20131030102452js_/http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div></div>
+		</li><li id="tag_cloud-3" class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href='/web/20131030102452/http://www.easycookingguide.com/tag/acephala' class='tag-link-42' title='2 topics' style="font-size: 10.230088495575pt;">Acephala</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/asparagus' class='tag-link-25' title='1 topic' style="font-size: 8pt;">asparagus</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/beef' class='tag-link-6' title='17 topics' style="font-size: 19.893805309735pt;">Beef</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/beef-cheek' class='tag-link-43' title='1 topic' style="font-size: 8pt;">beef cheek</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/beer' class='tag-link-34' title='1 topic' style="font-size: 8pt;">beer</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/broccoli' class='tag-link-41' title='3 topics' style="font-size: 11.716814159292pt;">broccoli</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/can' class='tag-link-33' title='1 topic' style="font-size: 8pt;">can</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/cereals' class='tag-link-19' title='1 topic' style="font-size: 8pt;">Cereals</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/chicken' class='tag-link-7' title='3 topics' style="font-size: 11.716814159292pt;">Chicken</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/collard-greens' class='tag-link-40' title='3 topics' style="font-size: 11.716814159292pt;">collard greens</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/cook' class='tag-link-11' title='25 topics' style="font-size: 21.752212389381pt;">cook</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/couscous' class='tag-link-36' title='1 topic' style="font-size: 8pt;">couscous</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/deer-meat' class='tag-link-16' title='1 topic' style="font-size: 8pt;">deer meat</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/eggplant' class='tag-link-30' title='1 topic' style="font-size: 8pt;">eggplant</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/filet-mignon' class='tag-link-31' title='1 topic' style="font-size: 8pt;">filet mignon</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/fish' class='tag-link-8' title='13 topics' style="font-size: 18.530973451327pt;">Fish</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/flank-steak' class='tag-link-37' title='1 topic' style="font-size: 8pt;">flank steak</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/game' class='tag-link-9' title='5 topics' style="font-size: 13.946902654867pt;">Game</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/grilling' class='tag-link-59' title='2 topics' style="font-size: 10.230088495575pt;">grilling</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/ham' class='tag-link-75' title='2 topics' style="font-size: 10.230088495575pt;">ham</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/how-to-cook' class='tag-link-18' title='1 topic' style="font-size: 8pt;">how to cook</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/lamb' class='tag-link-13' title='1 topic' style="font-size: 8pt;">lamb</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/lamb-chops' class='tag-link-12' title='1 topic' style="font-size: 8pt;">lamb chops</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/leg-of-lamb' class='tag-link-10' title='1 topic' style="font-size: 8pt;">leg of lamb</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/london-broil' class='tag-link-35' title='1 topic' style="font-size: 8pt;">london broil</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/meat' class='tag-link-28' title='26 topics' style="font-size: 22pt;">meat</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/oatmeal' class='tag-link-20' title='1 topic' style="font-size: 8pt;">oatmeal</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/osmeridae' class='tag-link-23' title='1 topic' style="font-size: 8pt;">Osmeridae</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/pepper' class='tag-link-22' title='1 topic' style="font-size: 8pt;">pepper</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/polish-sausage' class='tag-link-86' title='2 topics' style="font-size: 10.230088495575pt;">polish sausage</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/pork' class='tag-link-3' title='13 topics' style="font-size: 18.530973451327pt;">Pork</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/pork-roast' class='tag-link-29' title='1 topic' style="font-size: 8pt;">pork roast</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/prime-rib' class='tag-link-27' title='1 topic' style="font-size: 8pt;">prime rib</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/rice' class='tag-link-17' title='1 topic' style="font-size: 8pt;">rice</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/roast' class='tag-link-89' title='2 topics' style="font-size: 10.230088495575pt;">roast</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/scallop' class='tag-link-15' title='1 topic' style="font-size: 8pt;">scallop</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/seafood' class='tag-link-14' title='13 topics' style="font-size: 18.530973451327pt;">Seafood</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/smelt' class='tag-link-24' title='1 topic' style="font-size: 8pt;">smelt</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/soup' class='tag-link-91' title='2 topics' style="font-size: 10.230088495575pt;">soup</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/steak' class='tag-link-32' title='2 topics' style="font-size: 10.230088495575pt;">steak</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/sweet-potatoes' class='tag-link-38' title='1 topic' style="font-size: 8pt;">sweet potatoes</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/tuna' class='tag-link-39' title='1 topic' style="font-size: 8pt;">tuna</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/vegetable' class='tag-link-5' title='23 topics' style="font-size: 21.380530973451pt;">Vegetable</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/venison-sausage' class='tag-link-21' title='1 topic' style="font-size: 8pt;">venison sausage</a>
+<a href='/web/20131030102452/http://www.easycookingguide.com/tag/vitamins' class='tag-link-26' title='1 topic' style="font-size: 8pt;">vitamins</a></div>
+</li>			</ul>
+				</div>
+		
+	</div>	</div>
+<div class="span-24">
+    	<div id="footer">Copyright &copy;&nbsp2013 <a href="/web/20131030102452/http://www.memebridge.com/">Memebridge</a>  - <a href="/web/20131030102452/http://www.memebridge.com/about-us/privacy-policy.html">Privacy Policy</a> - Nancy <a href="/web/20131030102452/https://plus.google.com/114450069251663551757?%20%20rel=author">Google+</a> - <a href="/web/20131030102452/http://www.easycookingguide.com/site-map">Site Map</a></div>
+    </div>
+</div>
+</div>
+	<input type="hidden" id="social_connect_login_form_uri" value="http://www.easycookingguide.com/wp-login.php"/>
+	<script type='text/javascript' src='/web/20131030102452js_/http://platform.twitter.com/widgets.js?ver=3.7.1'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://apis.google.com/js/plusone.js?ver=3.7.1'></script>
+<script type='text/javascript' src='/web/20131030102452js_/http://platform.linkedin.com/in.js?ver=3.7.1'></script>
+
+
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-4410433-50']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'/web/20131030102452/https://ssl':'/web/20131030102452/http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+
+
+</body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 10:24:52 Oct 30, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:49:47 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:13:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.adweek.com/adfreak/snickers-brady-bunch-ad-here-and-its-one-funniest-super-bowl-spots-ever-162620>;rel="original"
+,<http://archive.is/20150129224406/http://www.adweek.com/adfreak/snickers-brady-bunch-ad-here-and-its-one-funniest-super-bowl-spots-ever-162620>;rel="memento first"; datetime="Thu, 29 Jan 2015 22:44:06 GMT"
+,<http://web.archive.org/web/20150202002606/http://www.adweek.com/adfreak/snickers-brady-bunch-ad-here-and-its-one-funniest-super-bowl-spots-ever-162620>;rel="memento"; datetime="Mon, 02 Feb 2015 00:26:06 GMT"
+,<http://web.archive.org/web/20150329042737/http://www.adweek.com/adfreak/snickers-brady-bunch-ad-here-and-its-one-funniest-super-bowl-spots-ever-162620>;rel="memento last"; datetime="Sun, 29 Mar 2015 04:27:37 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.adweek.com/adfreak/snickers-brady-bunch-ad-here-and-its-one-funniest-super-bowl-spots-ever-162620>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.adweek.com/adfreak/snickers-brady-bunch-ad-here-and-its-one-funniest-super-bowl-spots-ever-162620>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 22:44:06 GMT";until="Sun, 29 Mar 2015 04:27:37 GMT"

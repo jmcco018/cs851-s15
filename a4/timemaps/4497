@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:29:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cnet.com/news/mysterious-nebula-revealed-in-new-image-mouth-of-the-beast/>;rel="original"
+,<http://archive.is/20150131121302/http://www.cnet.com/news/mysterious-nebula-revealed-in-new-image-mouth-of-the-beast/>;rel="memento first"; datetime="Sat, 31 Jan 2015 12:13:02 GMT"
+,<http://web.archive.org/web/20150202011909/http://www.cnet.com/news/mysterious-nebula-revealed-in-new-image-mouth-of-the-beast/>;rel="memento last"; datetime="Mon, 02 Feb 2015 01:19:09 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cnet.com/news/mysterious-nebula-revealed-in-new-image-mouth-of-the-beast/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cnet.com/news/mysterious-nebula-revealed-in-new-image-mouth-of-the-beast/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 12:13:02 GMT";until="Mon, 02 Feb 2015 01:19:09 GMT"

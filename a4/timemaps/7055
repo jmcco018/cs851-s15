@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:12:59 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.eventbrite.ca/e/setting-a-secure-food-table-tickets-14951645775>;rel="original"
+,<http://web.archive.org/web/20150108074138/https://www.eventbrite.ca/e/setting-a-secure-food-table-tickets-14951645775>;rel="memento first"; datetime="Thu, 08 Jan 2015 07:41:38 GMT"
+,<//wayback.archive-it.org/all/20150108074146/http://www.eventbrite.ca/e/setting-a-secure-food-table-tickets-14951645775>;rel="memento"; datetime="Thu, 08 Jan 2015 07:41:46 GMT"
+,<http://web.archive.org/web/20150201175923/http://www.eventbrite.ca/e/setting-a-secure-food-table-tickets-14951645775>;rel="memento last"; datetime="Sun, 01 Feb 2015 17:59:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.eventbrite.ca/e/setting-a-secure-food-table-tickets-14951645775>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.eventbrite.ca/e/setting-a-secure-food-table-tickets-14951645775>;rel="self"; type="application/link-format"; from ="Thu, 08 Jan 2015 07:41:38 GMT";until="Sun, 01 Feb 2015 17:59:23 GMT"

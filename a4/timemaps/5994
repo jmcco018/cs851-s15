@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:54:48 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.crowdfunder.co.uk/green-party-in-your-seat/>;rel="original"
+,<http://web.archive.org/web/20150204214858/http://www.crowdfunder.co.uk/green-party-in-your-seat/>;rel="memento first"; datetime="Wed, 04 Feb 2015 21:48:58 GMT"
+,<http://web.archive.org/web/20150205003158/http://www.crowdfunder.co.uk/green-party-in-your-seat>;rel="memento"; datetime="Thu, 05 Feb 2015 00:31:58 GMT"
+,<http://archive.is/20150215155911/http://www.crowdfunder.co.uk/green-party-in-your-seat/>;rel="memento"; datetime="Sun, 15 Feb 2015 15:59:11 GMT"
+,<http://web.archive.org/web/20150309004018/http://www.crowdfunder.co.uk/green-party-in-your-seat/>;rel="memento last"; datetime="Mon, 09 Mar 2015 00:40:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.crowdfunder.co.uk/green-party-in-your-seat/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.crowdfunder.co.uk/green-party-in-your-seat/>;rel="self"; type="application/link-format"; from ="Wed, 04 Feb 2015 21:48:58 GMT";until="Mon, 09 Mar 2015 00:40:18 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://synthpoprocks.com/2015/01/30/milan-this-one/>;rel="original"
+,<http://web.archive.org/web/20150405092511/http://synthpoprocks.com/2015/01/30/milan-this-one/>;rel="memento first"; datetime="Sun, 05 Apr 2015 09:25:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://synthpoprocks.com/2015/01/30/milan-this-one/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://synthpoprocks.com/2015/01/30/milan-this-one/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 09:25:11 GMT";until="Sun, 05 Apr 2015 09:25:11 GMT"

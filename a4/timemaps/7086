@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:13:22 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.owengroupwovens.com/photo-throws--wall-hangings.html>;rel="original"
+,<http://web.archive.org/web/20131209202351/http://owengroupwovens.com/photo-throws--wall-hangings.html>;rel="memento first"; datetime="Mon, 09 Dec 2013 20:23:51 GMT"
+,<http://web.archive.org/web/20150216093018/http://owengroupwovens.com/photo-throws--wall-hangings.html>;rel="memento last"; datetime="Mon, 16 Feb 2015 09:30:18 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.owengroupwovens.com/photo-throws--wall-hangings.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.owengroupwovens.com/photo-throws--wall-hangings.html>;rel="self"; type="application/link-format"; from ="Mon, 09 Dec 2013 20:23:51 GMT";until="Mon, 16 Feb 2015 09:30:18 GMT"

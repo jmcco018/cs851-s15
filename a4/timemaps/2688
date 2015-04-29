@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:53:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://pushfestival.ca/festival-events/>;rel="original"
+,<http://web.archive.org/web/20101214082318/http://pushfestival.ca/festival-events/>;rel="memento first"; datetime="Tue, 14 Dec 2010 08:23:18 GMT"
+,<http://web.archive.org/web/20110213011537/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Sun, 13 Feb 2011 01:15:37 GMT"
+,<http://web.archive.org/web/20110706200356/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Wed, 06 Jul 2011 20:03:56 GMT"
+,<http://web.archive.org/web/20120922211057/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Sat, 22 Sep 2012 21:10:57 GMT"
+,<http://web.archive.org/web/20121212015059/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Wed, 12 Dec 2012 01:50:59 GMT"
+,<http://web.archive.org/web/20130211021911/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Mon, 11 Feb 2013 02:19:11 GMT"
+,<http://web.archive.org/web/20130213074724/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Wed, 13 Feb 2013 07:47:24 GMT"
+,<http://web.archive.org/web/20130415100936/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Mon, 15 Apr 2013 10:09:36 GMT"
+,<http://web.archive.org/web/20131011201110/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Fri, 11 Oct 2013 20:11:10 GMT"
+,<http://web.archive.org/web/20131116090831/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Sat, 16 Nov 2013 09:08:31 GMT"
+,<http://web.archive.org/web/20140116024105/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Thu, 16 Jan 2014 02:41:05 GMT"
+,<http://web.archive.org/web/20140208060234/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Sat, 08 Feb 2014 06:02:34 GMT"
+,<http://web.archive.org/web/20140320220329/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Thu, 20 Mar 2014 22:03:29 GMT"
+,<http://web.archive.org/web/20140613231350/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Fri, 13 Jun 2014 23:13:50 GMT"
+,<http://web.archive.org/web/20140704104417/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Fri, 04 Jul 2014 10:44:17 GMT"
+,<http://web.archive.org/web/20141022210437/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Wed, 22 Oct 2014 21:04:37 GMT"
+,<http://web.archive.org/web/20141223211314/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Tue, 23 Dec 2014 21:13:14 GMT"
+,<http://web.archive.org/web/20150109112632/http://pushfestival.ca/festival-events/>;rel="memento"; datetime="Fri, 09 Jan 2015 11:26:32 GMT"
+,<http://web.archive.org/web/20150411185627/http://pushfestival.ca/festival-events/>;rel="memento last"; datetime="Sat, 11 Apr 2015 18:56:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://pushfestival.ca/festival-events/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://pushfestival.ca/festival-events/>;rel="self"; type="application/link-format"; from ="Tue, 14 Dec 2010 08:23:18 GMT";until="Sat, 11 Apr 2015 18:56:27 GMT"

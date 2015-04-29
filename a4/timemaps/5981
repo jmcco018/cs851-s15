@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:54:37 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://nswca.com/high-school-ratings/high-school-ratings-class-b/>;rel="original"
+,<http://web.archive.org/web/20130109094220/http://nswca.com/high-school-ratings/high-school-ratings-class-b/>;rel="memento first"; datetime="Wed, 09 Jan 2013 09:42:20 GMT"
+,<http://web.archive.org/web/20130717071240/http://nswca.com/high-school-ratings/high-school-ratings-class-b/>;rel="memento"; datetime="Wed, 17 Jul 2013 07:12:40 GMT"
+,<http://web.archive.org/web/20131116100702/http://nswca.com/high-school-ratings/high-school-ratings-class-b/>;rel="memento"; datetime="Sat, 16 Nov 2013 10:07:02 GMT"
+,<http://web.archive.org/web/20140103130737/http://nswca.com/high-school-ratings/high-school-ratings-class-b/>;rel="memento"; datetime="Fri, 03 Jan 2014 13:07:37 GMT"
+,<http://web.archive.org/web/20150218192720/http://nswca.com/high-school-ratings/high-school-ratings-class-b/>;rel="memento last"; datetime="Wed, 18 Feb 2015 19:27:20 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://nswca.com/high-school-ratings/high-school-ratings-class-b/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://nswca.com/high-school-ratings/high-school-ratings-class-b/>;rel="self"; type="application/link-format"; from ="Wed, 09 Jan 2013 09:42:20 GMT";until="Wed, 18 Feb 2015 19:27:20 GMT"

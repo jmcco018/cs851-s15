@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:04:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.sciencechannel.com/tv-shows/outrageous-acts-of-science/videos/can-a-car-really-skip-rope/>;rel="original"
+,<http://web.archive.org/web/20150327205301/http://www.sciencechannel.com/tv-shows/outrageous-acts-of-science/videos/can-a-car-really-skip-rope/>;rel="memento first"; datetime="Fri, 27 Mar 2015 20:53:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.sciencechannel.com/tv-shows/outrageous-acts-of-science/videos/can-a-car-really-skip-rope/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.sciencechannel.com/tv-shows/outrageous-acts-of-science/videos/can-a-car-really-skip-rope/>;rel="self"; type="application/link-format"; from ="Fri, 27 Mar 2015 20:53:01 GMT";until="Fri, 27 Mar 2015 20:53:01 GMT"

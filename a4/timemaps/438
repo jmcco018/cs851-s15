@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:16:16 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://www.aldi.co.uk/en/specialbuys/our-specialbuy-events/mother-and-baby/>;rel="original"
+,<http://web.archive.org/web/20140915152104/https://www.aldi.co.uk/en/specialbuys/our-specialbuy-events/mother-and-baby/>;rel="memento first"; datetime="Mon, 15 Sep 2014 15:21:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://www.aldi.co.uk/en/specialbuys/our-specialbuy-events/mother-and-baby/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://www.aldi.co.uk/en/specialbuys/our-specialbuy-events/mother-and-baby/>;rel="self"; type="application/link-format"; from ="Mon, 15 Sep 2014 15:21:04 GMT";until="Mon, 15 Sep 2014 15:21:04 GMT"

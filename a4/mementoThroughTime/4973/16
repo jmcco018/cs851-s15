@@ -1,0 +1,1484 @@
+<!DOCTYPE html>
+
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app16.us.archive.org";archive_analytics.values.server_ms=260;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+<script>!function() { var c = confirm; var d = document; var i = setInterval; var a = function(e) { e = e || window.event; var t = e.target || e.srcElement; if (t.type == 'password') { if (c('Warning: Never enter your Tumblr password unless \u201c/web/20130125124728/https://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?')) { a = function() {}; } else { t.value = ""; return false; } } }; i(function() { if (typeof d.addEventListener != 'undefined') d.addEventListener('keypress', a, false)}, 0); }();</script><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--
+     Theme: The Minimalist v1.
+     Design: The Minimalist (/web/20130125124728/http://minimalist.co)
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+     <title>MISTER MEAN</title>	
+     <meta name="description" content="" />
+     <meta name="if:Show description" content="1" />	
+     <meta name="if:Show search" content="1" />
+     <meta name="text:Twitter name" content="" />
+     <meta name="text:Disqus Shortname" content="" />
+     <meta name="text:Google Analytics ID" content="" />	
+     <link rel="shortcut icon" href="/web/20130125124728im_/http://25.media.tumblr.com/avatar_3b20909ba449_16.png" />
+     <link rel="alternate" type="application/rss+xml" title="MISTER MEAN" href="http://mrmean.tumblr.com/rss" />
+
+<!-- Styles -->
+
+<link rel="stylesheet" href="/web/20130125124728cs_/http://static.tumblr.com/f1whv92/Mp9l6ewcg/reset.css" />
+<style type="text/css">
+
+/*----- GENERAL -----*/
+
+     header, footer, section, article, nav, aside {
+        display: block;
+     }
+
+     body {
+        background: #ffffff;
+        color: #222;
+        font: 12px/20px Georgia, "Times New Roman", Times, serif;
+        padding-top: 25px;
+        text-align: center;
+        width:500px;
+        margin: 0 auto;
+     }
+
+     h1, h2, h3, hQ {
+        font-family: Cufon;
+     }
+
+     h1 {
+        font-size: 50px;
+        line-height: 50px;
+     }
+
+     h2 {
+        font-size: 31px;
+        line-height: 37px; 
+     }
+
+     h3 {
+        font-size: 21px;
+        line-height: 27px; 
+     }
+
+     a:link, a:visited {
+        color: #000000;
+        font-weight: bold;
+        text-decoration: none;
+     }
+     
+     a:hover, a:active {
+        text-decoration: underline;
+     }
+
+     hr{
+        border:0 #ccc solid;
+        border-top-width:1px;
+        clear:both;
+        height:0;
+     }
+
+     ol{list-style:decimal}
+
+     ul{list-style:disc}
+
+     li{margin-left:30px}
+
+     p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:15px}
+
+     #main {
+        padding: 0px;
+     }
+
+/*----- MASTHEAD -----*/
+
+     .noMeta > div {
+        padding: 0px;
+     }
+
+     #masthead {
+        margin-bottom: 0px;
+        margin-top:25px;
+        
+     }
+
+     #masthead h1 {
+        margin-bottom: 0;
+     }
+
+     #masthead h1 a:link, #masthead h1 a:visited {
+        text-transform: Uppercase;
+        color: #222;
+        text-decoration: none;
+     }
+
+     #masthead h1 a:active {
+        outline: 0;
+     }
+
+     #masthead p {
+        font-family: Georgia, serif;
+        font-size: 20px;
+        color: #fff;
+        margin-bottom: 0;
+     }
+
+     #masthead a:link, #masthead a:visited {
+        color: #fff;
+     }
+
+     #siteDescription{
+        font-size: 13px;
+        color: #222;
+        text-transform: Uppercase;
+        border-top: 1px solid #222;
+        margin-top: 20px;
+        margin-bottom: -5px;
+        padding: 15px 0 0 0;
+        font-family: Cufon;
+     }
+
+/*----- SEARCH FORM -----*/
+
+     #frmSearch {
+        padding-top: 20px; 
+        display: none;
+     }
+
+     #txtSearch {
+        background: url(/web/20130125124728im_/http://static.tumblr.com/bpryy0m/6lRl6gmys/search.jpg) left no-repeat;
+        width: 225px;
+        padding: 2px 0 0 20px;
+        font: 12px/12px Georgia, "Times New Roman", Times, serif;
+        color: #222;
+        border: 0px;
+     }
+
+/*----- MAIN HEADER NAV STRIP -----*/
+
+     #mainNav {
+        border-top: 1px solid #222;
+        border-bottom: 2px solid #222;
+        margin-top: 20px;
+        padding: 15px;
+        font-family: Cufon;
+     }
+
+     #mainNav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+     }
+
+     #mainNav li {
+        margin: 5px;
+        display: inline;
+        padding: 0;
+     }
+
+     #mainNav a:link, #mainNav a:visited {
+        padding: 0;
+        font-size: 14px;
+        line-height: 14px;
+        margin: 0 2px;
+        text-decoration: none;
+        color: #222;
+        text-transform: Uppercase;
+     }
+
+     #mainNav a:hover, #mainNav a:active {
+        outline: none;
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     #mainNav a.active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+/*----- ARTICLE META INFO -----*/
+
+     #designline {
+        margin-top: 50px;
+     }
+
+     h5{
+        position: relative;
+        top: -35px;
+        margin-bottom: 0px;
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        text-transform: Uppercase;
+        font-weight: bold;
+        border-bottom: 1px solid #bca474;
+        background: #fff;
+     }
+
+     h5 a:link, .line a:visited{
+        font-family: Georgia, serif;
+        font-size: 10px;
+        color: #bca474;
+        text-decoration: none;
+        text-transform: Uppercase;
+        font-weight: bold;
+     }
+
+     h5 a:hover{
+        text-decoration: underline;
+     }
+
+     h5 abbr{
+        display: inline-block;
+        position: relative;
+        margin: 0 auto;
+        padding: 0 8px;
+        background: #fff;
+        top: 10px;
+     }
+
+     h5.postDate a{
+        color: #bca474;
+     }
+
+/*----- ARTICLE -----*/
+
+     article {
+        background: #fff;
+        margin-bottom: 20px;
+        text-align: left;
+       position: relative;
+      }
+
+     article img {
+        border: none;
+        margin-bottom: 15px;
+        max-width: 500px;
+     }
+
+     article p img {
+        margin: 0;
+     }
+     article > div {
+        padding: 0px;
+        overflow: hidden;
+     }
+     article .searchPage {
+        margin: 35px 0 0 0;
+     }
+
+     .searchPageText {
+        margin: 0 0 30px 0;
+     }
+
+     article .meta a:link, article .meta a:visited {
+        text-decoration: none;
+     }
+
+     article .meta a:hover, article .meta a:active {
+        text-decoration: underline;
+     }
+
+     article h2 {
+        text-align: center;
+        color: #222222;
+     }
+
+     article h2 a:link, article h2 a:visited {
+        text-transform: Uppercase;
+        color: #222;
+        text-decoration: none;
+     }
+
+     article h2 a:hover, article h2 a:active {
+        text-decoration: none;
+        border-bottom: 1px solid #222;
+     }
+
+     blockquote {
+        border-left: 2px solid #bca474;
+        margin-left: 0;
+        padding-left: 1em;
+     }
+
+     #quoteSource{
+        margin: 0 auto;
+        text-align: left;
+     }
+
+     #quoteText h2 {
+        text-align: left;
+        color: #222222;
+     }
+
+     article .chat {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+     }
+
+     article .chat li {
+        margin: 0 0 2px;
+        padding: 2px 0 2px 0;
+     }
+
+     .photoCaption {
+        text-align: center;
+     }
+
+
+
+/*----- AUDIO PLAYER -----*/
+
+     .audio {
+        height: 28px;
+        width: 26px;
+        overflow: hidden;
+        margin: auto;
+        padding-top: 7px;
+     }
+
+     .audioc {
+        background-image:url('/web/20130125124728im_/http://static.tumblr.com/f1whv92/9iCl6bfgp/audiocircle.png');
+        background-repeat: no-repeat; 
+        height: 41px;
+        width: 41px;
+     }
+
+     .audioCaption {
+        margin-top: 1px;
+     }
+
+     .audioleft {
+        width: 41px;
+        float: left;
+      }
+
+     .audioright {
+        width: 444px;
+        float: right;
+      }
+
+     .audioContainer {
+        margin-top: 5px;
+     }
+
+     .audioClear {
+        clear:both;
+     }
+
+/*----- ARTICLE NOTES -----*/
+
+     .notes {
+        border-top: 1px solid #bca474;
+        list-style: none;
+        padding: 20px 0 5px 0;
+        margin: 30px 0 0 0;
+     }
+     .notes li {
+        margin: 0;
+     }
+
+     .notes .avatar {
+        margin: 0 5px 0 0;
+        position: relative;
+        top: 5px;
+     }
+
+     .notes blockquote {
+        margin: 10px 0 0 35px;
+        padding-left: 10px;
+        border-left: 2px solid #222222;
+     }
+
+     .media {
+        width: 500px;
+        margin-bottom: 20px;
+     }
+
+/*----- PAGE NAVIGATION -----*/
+
+     #pageNav {
+        margin-top: 20px;
+        border-top: 1px solid #222;
+     }
+
+     #pageNav ul {
+        list-style: none;
+        padding: 10px 15px;
+        margin: 10px 0;
+     }
+
+     #pageNav li {
+        margin: 0;
+        display: inline;
+     }
+
+     #pageNav a:link, #pageNav a:visited {
+        font: 11px Georgia, "Times New Roman", Times, serif;
+        padding: 0;
+        margin: 0 2px;
+        background: #34hdf5;
+        color: #222;
+        text-decoration: none;
+     }
+
+     #pageNav a:hover, #pageNav a:active, #pageNav a.active:link, #pageNav a.active:visited {
+        text-decoration: underline;
+     }
+
+     #pageNavOlder:after {
+        content: " »";
+        font-size: 10px;
+     }
+
+     #pageNavNewer:before {
+        content: "« ";
+     }
+
+/*----- FOOTER META -----*/
+
+     #sitemeta {
+        border-top: 2px solid #222;
+        color: #222;
+        padding: 20px 0 32px 0;
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: 11px;
+     }
+
+     #sitemeta p {
+        margin: 0;
+     }
+
+     #sitemeta a:link, #sitemeta a:visited {
+        color: #222;
+        font-weight: bold;
+     }
+
+
+</style>
+
+<!-- Scripts -->
+
+<!--[if IE]>
+     <script src="/web/20130125124728/http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+     <script src="/web/20130125124728js_/http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+     <script src="/web/20130125124728js_/http://static.tumblr.com/q9z1v7k/dgEkijh8r/cufon-yui.js" type="text/javascript"></script>
+     <script src="/web/20130125124728js_/http://static.tumblr.com/f1whv92/fgIl65bo1/cufon_300.font.js" type="text/javascript"></script>
+
+     <script type="text/javascript">
+        Cufon.replace('h1',{ fontFamily: "Cufon" });
+        Cufon.replace('h2',{ fontFamily: "Cufon" });
+        Cufon.replace('h3',{ fontFamily: "Cufon" });
+        Cufon.replace('#mainNav',{ fontFamily: "Cufon" });
+        Cufon.replace('#siteDescription',{ fontFamily: "Cufon" });
+     </script>
+
+<script>
+     $(function() {
+        var search = $("#txtSearch").val();
+        var placeholder = "Search...";
+        var fadeToOpacity = 0.4;
+        $("#txtSearch").fadeTo("normal", fadeToOpacity);
+        if (search == "") {
+     $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").blur(function() {
+        search = $("#txtSearch").val();
+        if (!(search != "" && search != placeholder)) {
+        $("#txtSearch").val(placeholder);
+     }
+     $("#txtSearch").fadeTo("normal", fadeToOpacity);
+     });
+     $("#txtSearch").focus(function() {
+        search = $("#txtSearch").val();
+        if (search == placeholder) {
+        $("#txtSearch").val("");
+     }
+     $("#txtSearch").fadeTo("normal", 1);
+     });
+     $("#btnSearch").click(function() {
+     $("#frmSearch").slideToggle("normal");
+     $(this).toggleClass("active");
+ //  $("#txtSearch").focus();
+     });
+     });
+</script>
+
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: /web/20130125124728/http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:title" content="MISTER MEAN" />
+<meta property="og:url" content="http://mrmean.tumblr.com/" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="tumblr-feed:tumblelog" />
+<meta property="og:image" content="http://25.media.tumblr.com/avatar_3b20909ba449_128.png" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+<meta name="twitter:site" content="tumblr" />
+
+
+<script type="text/javascript" language="javascript" src="/web/20130125124728js_/http://assets.tumblr.com/javascript/tumblelog.js?cce02fd0a15b0a4373013178e6c56abc"></script><meta http-equiv="x-dns-prefetch-control" content="off"/></head>
+<body>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://mrmean.tumblr.com/";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "25";
+var displayMonth = "Jan";
+var displayYear = "2013";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://mrmean.tumblr.com/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20130125124728" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20121114035434/http://www.mrmean.tumblr.com/" title="14 Nov 2012">NOV</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 12:47:28 Jan 25, 2013">JAN</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20130513060029/http://mrmean.tumblr.com/" title="13 May 2013"><strong>MAY</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20130122044653/http://www.mrmean.tumblr.com/" title="4:46:53 Jan 22, 2013"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 12:47:28 Jan 25, 2013">25</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20130513060029/http://mrmean.tumblr.com/" title="6:00:29 May 13, 2013"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20120117014003/http://mrmean.tumblr.com/" title="17 Jan 2012"><strong>2012</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 12:47:28 Jan 25, 2013">2013</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20140802181818/http://mrmean.tumblr.com/" title="2 Aug 2014"><strong>2014</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20130125124728*/http://mrmean.tumblr.com/" title="See a list of every capture for this URL">24 captures</a>
+           <div class="r" title="Timespan for captures of this URL">8 Sep 11 - 19 Feb 15</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000002200_2012:-1:800000000030_2013:0:300010011000_2014:-1:000000011000_2015:-1:010000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+
+
+
+
+
+     <header id="masthead" class="clearfix">
+        <div id="thehead">          
+              <h1 class="cufon"><a href="/web/20130125124728/http://mrmean.tumblr.com/">MISTER MEAN</a></h1>
+              <form action="/web/20130125124728/http://mrmean.tumblr.com/search" method="get" id="frmSearch">
+              <input type="text" id="txtSearch" name="q" value="" />
+              </form>    
+
+     
+        <div id="siteDescription"><!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=7246010; 
+var sc_invisible=0; 
+var sc_security="cb1999dc"; 
+var sc_text=4; 
+</script>
+
+<script type="text/javascript"
+src="/web/20130125124728js_/http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="counter for tumblr"
+href="/web/20130125124728/http://statcounter.com/tumblr/" target="_blank"><img
+class="statcounter"
+src="/web/20130125124728im_/http://c.statcounter.com/7246010/0/cb1999dc/0/"
+alt="counter for tumblr" ></a></div></noscript>
+<!-- End of StatCounter Code --></div>
+     
+
+           <nav id="mainNav">        
+              
+              <li><a href="/web/20130125124728/http://mrmean.tumblr.com/ask">Ask</a></li>
+              <li><a href="/web/20130125124728/http://mrmean.tumblr.com/submit">Submit</a></li>                 
+              <li><a href="/web/20130125124728/http://mrmean.tumblr.com/archive">Archive</a></li>
+              <li><a href="/web/20130125124728/http://mrmean.tumblr.com/random">Random</a></li>
+              <li><a href="/web/20130125124728/http://mrmean.tumblr.com/rss">RSS</a></li>
+              <li><a href="javascript:;" id="btnSearch">Search</a></li>
+              
+           </nav>         
+        </div>
+     </header>
+
+     <section id="main" class="clearfix">
+     <div class="layout">           
+     
+      
+           
+
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/41138913243">21st Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/41138913243#notes">6 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+             <div class="media"><iframe width="500" height="281" src="/web/20130125124728if_/http://www.youtube.com/embed/hFB5sg9WiCE?wmode=transparent&amp;autohide=1&amp;egm=0&amp;hd=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;showsearch=0" frameborder="0" allowfullscreen></iframe></div>
+              
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/40597577920">15th Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/40597577920#notes">3 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/40597577920"><img src="/web/20130125124728im_/http://25.media.tumblr.com/b580af0af21856428a521abc99bb2972/tumblr_mgo40aoZ1q1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/40468302174">13th Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/40468302174#notes">9 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/40468302174"><img src="/web/20130125124728im_/http://25.media.tumblr.com/0f0938dda7ca0eb40e8f71aa0164cb3e/tumblr_mgl78iIETO1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/40338002353">12th Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/40338002353#notes">4 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/40338002353"><img src="/web/20130125124728im_/http://24.media.tumblr.com/f6b9e6a27917e0fd28eb940abb51c2fb/tumblr_mgipthRdCy1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39959280188">7th Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39959280188#notes">4 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/39959280188"><img src="/web/20130125124728im_/http://24.media.tumblr.com/3f6c1b9f34d275a03e6509b529a7838b/tumblr_mga1i3pW781qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39933172600">7th Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39933172600#notes">6 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/39933172600"><img src="/web/20130125124728im_/http://25.media.tumblr.com/9f8790c88cf3a95101fa142b194fe424/tumblr_mg9jahbc1Q1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39880422597">6th Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39880422597#notes">25 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/https://www.pheed.com/JoshMadden/2493505/2653"><img src="/web/20130125124728im_/http://25.media.tumblr.com/2bac6d2af0571dfc1f9838bb1d736444/tumblr_mg8ap8cCG81qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39715202704">4th Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39715202704#notes">9 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/39715202704"><img src="/web/20130125124728im_/http://25.media.tumblr.com/35b5a262c4004e791dff7d4f1bc3a645/tumblr_mg4wemCc6A1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39481763761/not-just-another-year-sometimes-i-sit-and-stare">2nd Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39481763761/not-just-another-year-sometimes-i-sit-and-stare#notes">41 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+          
+           
+              <div class="media"><div id="photoset_39481763761" class="html_photoset">    <iframe class="photoset" scrolling="no" frameborder="0" height="545" width="500"
+                style="border:0px; background-color:transparent; overflow:hidden;" src="/web/20130125124728if_/http://mrmean.tumblr.com/post/39481763761/photoset_iframe/mrmean/tumblr_mfyot7GSRC1qiug3c/500/false"></iframe></div></div>
+              <div class="caption"><p><b>NOT JUST ANOTHER YEAR</b><br/>
+sometimes i sit and stare at the computer screen for a good 20 minutes<br/>
+if you walked up and saw me staring at this screen just now you&#8217;d think i was looking at a computer for the first time, sometimes it feels like it.<br/>
+how much of yourself are you supposed to give away on the internet?</p>
+
+<p>i&#8217;ve been doing this radio show for over 2 years now. i was so bad at first i couldn&#8217;t even listen to the playback haha, seriously i&#8217;d listen and tell myself i&#8217;d quit when i got a job or if i got busy. i don&#8217;t know how much i&#8217;m supposed to talk about the many changes that have happened in my life since this radio show started, who cares really, in the end my life is the same as yours.</p>
+
+<p>last week i did a 2 hour show of all these different songs from <b>FIRST PERSON</b> this year and over <b>ONE HUNDRED TWENTY THOUSAND PEOPLE</b> listened the whole time. i was hanging out with 120K people for two whole hours…and you know, i realized that i don&#8217;t hate myself these days. i feel real free to be me, a bunch of people put up with me just the way i am and we just listen to a wide range of music and hang out. </p>
+
+<p>i&#8217;ve said it before, i&#8217;ll say it again…i haven&#8217;t taken one red cent from doing this radio show, no record label or artist has ever given me incentive to play the music i play, a lot of artists are unsigned when i first play them. it&#8217;s <b>BECAUSE OF YOU</b> that new artists can be heard by over a hundred thousand people every week.</p>
+
+<p>the last thing i&#8217;ll say is this, at times this radio show has been the one bright spot, my one thing and as stuff comes and goes, i will remember my commitment to <b>you</b>. when i say thank you, i mean it in the sincerest way possible because in some tough times, <b>you</b> have shown up. i promise to keep working, to keep getting better.<br/>
+this was not just another year&#8230;thank you eternally<br/>
+josh</p></div>
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39382833277">1st Jan 2013</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39382833277#notes">12 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/39382833277"><img src="/web/20130125124728im_/http://25.media.tumblr.com/c609e679a05ee840019eca14dd748a6a/tumblr_mfyc7mHVCd1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39314178373">31st Dec 2012</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39314178373#notes">24 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <img src="/web/20130125124728im_/http://25.media.tumblr.com/2f47d71cba25eb757385dcc94ea3f961/tumblr_mfwnhhyjMT1qiug3co1_500.png" alt="" />
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39311299065">31st Dec 2012</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39311299065#notes">3 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/39311299065"><img src="/web/20130125124728im_/http://24.media.tumblr.com/46387a23e9d96bc1fe5969574024871b/tumblr_mfwlfuPpvW1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39225651846">30th Dec 2012</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39225651846#notes">6 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://www.amazon.com/Low-Back-Chain-Shift/dp/B0045EBPX8"><img src="/web/20130125124728im_/http://25.media.tumblr.com/253440cc3e5b4abdbba36b16dcf431d8/tumblr_mfutylJPhv1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39225576418">30th Dec 2012</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39225576418#notes">9 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/39225576418"><img src="/web/20130125124728im_/http://24.media.tumblr.com/22bf3035287a66c8844e080cfbed9715/tumblr_mfutwn9r3L1qiug3co1_500.jpg" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+     <div id="designline">
+        <h5 class="postDate">
+           <abbr><a href="/web/20130125124728/http://mrmean.tumblr.com/post/39193579428">30th Dec 2012</a> | <a href="/web/20130125124728/http://mrmean.tumblr.com/post/39193579428#notes">13 notes</a>
+           </abbr>
+        </h5>
+     </div>
+
+     <article>
+        <div>
+           
+          
+           
+              <a href="/web/20130125124728/http://mrmean.tumblr.com/image/39193579428"><img src="/web/20130125124728im_/http://25.media.tumblr.com/313ae684ddf2a420159c2d1addcdb64c/tumblr_mftx9fuFr61qiug3co1_500.png" alt="" /></a>
+              
+           
+          
+           
+          
+           
+
+                  
+          
+          
+
+          
+         
+          
+          
+          
+          
+          
+ 
+                    
+            
+          
+          
+          
+ 
+        </div>
+     </article>
+
+
+     
+      
+     
+        <nav id="pageNav">
+           <ul class="clearfix">
+              
+             
+             <li><a href="" class="active">1</a></li>
+             
+             
+             
+             <li><a href="/web/20130125124728/http://mrmean.tumblr.com/page/2">2</a></li>
+             
+             
+             <li><a href="/web/20130125124728/http://mrmean.tumblr.com/page/3">3</a></li>
+             
+             
+             <li><a href="/web/20130125124728/http://mrmean.tumblr.com/page/4">4</a></li>
+             
+             
+             <li><a href="/web/20130125124728/http://mrmean.tumblr.com/page/5">5</a></li>
+             
+             <li><a href="/web/20130125124728/http://mrmean.tumblr.com/page/2" id="pageNavOlder">Older</a></li> 
+           </ul>
+        </nav>
+      
+      
+     
+     
+     </div><!-- END layout -->
+     </section>
+
+     <footer id="sitemeta">
+        <div class="clearfix">
+           <div class="thefooter">
+              <p><a href="/web/20130125124728/http://www.tumblr.com/theme/12051">The Minimalist Theme</a> designed by <a href="/web/20130125124728/http://minimalist.co/">The Minimalist</a> | Powered by <a href="/web/20130125124728/http://tumblr.com/">Tumblr</a></p>
+           </div>
+        </div>
+     </footer>
+
+     
+
+<!-- BEGIN TUMBLR CODE -->
+        <iframe src="/web/20130125124728if_/http://assets.tumblr.com/iframe.html?46874281c0244ac62b28cb902740d7c8&amp;src=http%3A%2F%2Fmrmean.tumblr.com%2F&amp;lang=en_US&amp;name=mrmean" width="330" height="25" scrolling="no" frameborder="0" style="position:absolute; z-index:1337; top:0px; right:0px; border:0px; background-color:transparent; overflow:hidden;" id="tumblr_controls"></iframe>
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    <img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="/web/20130125124728im_/http://www.tumblr.com/impixu?T=1359118048&amp;J=eyJibG9naWQiOiIxNTc0MTU4OSJ9&amp;U=AFILBHNKPG&amp;K=e9bea84b71b2e83de4ed883b694552c3a28fc300ea9e0ad3234ccd88defe48d8"/><!-- END TUMBLR CODE --><iframe src="/web/20130125124728if_/http://assets.tumblr.com/analytics.html?459463e736f5e14a6b709883439e6021" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+
+
+    <script type="text/javascript">
+        __qoptions = _qoptions = { qacct: 'p-19UtqE8ngoZbM' };
+    </script>
+    <script type="text/javascript" src="/web/20130125124728js_/http://edge.quantserve.com/quant.js"></script>
+    <noscript>
+        <img src="/web/20130125124728im_/http://pixel.quantserve.com/pixel/p-19UtqE8ngoZbM.gif"
+        style="display:none; border-width:0px; height:1px; width:1px;"/>
+    </noscript>
+
+</body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 12:47:28 Jan 25, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:44:57 Apr 24, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->

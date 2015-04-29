@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:14:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.stackingcoinssavingmoney.com/2015/01/free-listerine-floss-coupons-2015-save-1-00-listerine-floss-flosser-product-free-listerine-floss-printable-coupons-coupons-com/>;rel="original"
+,<http://web.archive.org/web/20150405055604/http://www.stackingcoinssavingmoney.com/2015/01/free-listerine-floss-coupons-2015-save-1-00-listerine-floss-flosser-product-free-listerine-floss-printable-coupons-coupons-com/>;rel="memento first"; datetime="Sun, 05 Apr 2015 05:56:04 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.stackingcoinssavingmoney.com/2015/01/free-listerine-floss-coupons-2015-save-1-00-listerine-floss-flosser-product-free-listerine-floss-printable-coupons-coupons-com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.stackingcoinssavingmoney.com/2015/01/free-listerine-floss-coupons-2015-save-1-00-listerine-floss-flosser-product-free-listerine-floss-printable-coupons-coupons-com/>;rel="self"; type="application/link-format"; from ="Sun, 05 Apr 2015 05:56:04 GMT";until="Sun, 05 Apr 2015 05:56:04 GMT"

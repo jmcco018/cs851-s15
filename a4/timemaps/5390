@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:10 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.sledtughill.com/>;rel="original"
+,<http://web.archive.org/web/20130214044106/http://www.sledtughill.com/>;rel="memento first"; datetime="Thu, 14 Feb 2013 04:41:06 GMT"
+,<http://web.archive.org/web/20130423040518/http://sledtughill.com>;rel="memento"; datetime="Tue, 23 Apr 2013 04:05:18 GMT"
+,<http://web.archive.org/web/20130423040519/http://www.sledtughill.com/>;rel="memento"; datetime="Tue, 23 Apr 2013 04:05:19 GMT"
+,<http://web.archive.org/web/20130721014405/http://www.sledtughill.com/>;rel="memento"; datetime="Sun, 21 Jul 2013 01:44:05 GMT"
+,<http://web.archive.org/web/20130928022334/http://www.sledtughill.com/>;rel="memento"; datetime="Sat, 28 Sep 2013 02:23:34 GMT"
+,<http://web.archive.org/web/20140402035405/http://www.sledtughill.com/>;rel="memento"; datetime="Wed, 02 Apr 2014 03:54:05 GMT"
+,<http://web.archive.org/web/20140720101510/http://www.sledtughill.com/>;rel="memento"; datetime="Sun, 20 Jul 2014 10:15:10 GMT"
+,<http://web.archive.org/web/20140804201417/http://www.sledtughill.com/>;rel="memento"; datetime="Mon, 04 Aug 2014 20:14:17 GMT"
+,<http://web.archive.org/web/20141218072232/http://sledtughill.com/>;rel="memento"; datetime="Thu, 18 Dec 2014 07:22:32 GMT"
+,<http://web.archive.org/web/20141221230657/http://www.sledtughill.com/>;rel="memento last"; datetime="Sun, 21 Dec 2014 23:06:57 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.sledtughill.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.sledtughill.com/>;rel="self"; type="application/link-format"; from ="Thu, 14 Feb 2013 04:41:06 GMT";until="Sun, 21 Dec 2014 23:06:57 GMT"

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:55:49 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://sipo-liimatainen.artistwebsites.com/featured/shes-dreaming-sipo-liimatainen.html>;rel="original"
+,<http://web.archive.org/web/20131103045246/http://sipo-liimatainen.artistwebsites.com/featured/shes-dreaming-sipo-liimatainen.html>;rel="memento first"; datetime="Sun, 03 Nov 2013 04:52:46 GMT"
+,<http://web.archive.org/web/20131221211147/http://sipo-liimatainen.artistwebsites.com/featured/shes-dreaming-sipo-liimatainen.html>;rel="memento"; datetime="Sat, 21 Dec 2013 21:11:47 GMT"
+,<http://web.archive.org/web/20140128133139/http://sipo-liimatainen.artistwebsites.com/featured/shes-dreaming-sipo-liimatainen.html>;rel="memento"; datetime="Tue, 28 Jan 2014 13:31:39 GMT"
+,<http://web.archive.org/web/20140228201057/http://sipo-liimatainen.artistwebsites.com/featured/shes-dreaming-sipo-liimatainen.html>;rel="memento"; datetime="Fri, 28 Feb 2014 20:10:57 GMT"
+,<http://web.archive.org/web/20140704070354/http://sipo-liimatainen.artistwebsites.com/featured/shes-dreaming-sipo-liimatainen.html>;rel="memento"; datetime="Fri, 04 Jul 2014 07:03:54 GMT"
+,<http://web.archive.org/web/20150108014842/http://sipo-liimatainen.artistwebsites.com/featured/shes-dreaming-sipo-liimatainen.html>;rel="memento last"; datetime="Thu, 08 Jan 2015 01:48:42 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://sipo-liimatainen.artistwebsites.com/featured/shes-dreaming-sipo-liimatainen.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://sipo-liimatainen.artistwebsites.com/featured/shes-dreaming-sipo-liimatainen.html>;rel="self"; type="application/link-format"; from ="Sun, 03 Nov 2013 04:52:46 GMT";until="Thu, 08 Jan 2015 01:48:42 GMT"

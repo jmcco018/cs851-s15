@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:25:45 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<https://ecigmods.wordpress.com/>;rel="original"
+,<http://archive.is/20140617114453/https://ecigmods.wordpress.com/>;rel="memento first"; datetime="Tue, 17 Jun 2014 11:44:53 GMT"
+,<http://web.archive.org/web/20140627082055/http://ecigmods.wordpress.com/>;rel="memento"; datetime="Fri, 27 Jun 2014 08:20:55 GMT"
+,<http://web.archive.org/web/20140910062117/http://ecigmods.wordpress.com/>;rel="memento"; datetime="Wed, 10 Sep 2014 06:21:17 GMT"
+,<http://web.archive.org/web/20150421071127/http://ecigmods.wordpress.com/>;rel="memento last"; datetime="Tue, 21 Apr 2015 07:11:27 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/https://ecigmods.wordpress.com/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/https://ecigmods.wordpress.com/>;rel="self"; type="application/link-format"; from ="Tue, 17 Jun 2014 11:44:53 GMT";until="Tue, 21 Apr 2015 07:11:27 GMT"

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:19:01 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.defensenews.com/story/defense/air-space/strike/2015/01/28/sixth-generation-fighter-2016-budget/22477329/>;rel="original"
+,<http://archive.is/20150131182711/http://www.defensenews.com/story/defense/air-space/strike/2015/01/28/sixth-generation-fighter-2016-budget/22477329/>;rel="memento first"; datetime="Sat, 31 Jan 2015 18:27:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.defensenews.com/story/defense/air-space/strike/2015/01/28/sixth-generation-fighter-2016-budget/22477329/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.defensenews.com/story/defense/air-space/strike/2015/01/28/sixth-generation-fighter-2016-budget/22477329/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 18:27:11 GMT";until="Sat, 31 Jan 2015 18:27:11 GMT"

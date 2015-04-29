@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:27:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.freep.com/story/news/local/michigan/2015/01/29/michigan-altered-state-border/22547779/>;rel="original"
+,<http://web.archive.org/web/20150130041124/http://www.freep.com/story/news/local/michigan/2015/01/29/michigan-altered-state-border/22547779/>;rel="memento first"; datetime="Fri, 30 Jan 2015 04:11:24 GMT"
+,<http://web.archive.org/web/20150130140905/http://www.freep.com/story/news/local/michigan/2015/01/29/michigan-altered-state-border/22547779/>;rel="memento last"; datetime="Fri, 30 Jan 2015 14:09:05 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.freep.com/story/news/local/michigan/2015/01/29/michigan-altered-state-border/22547779/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.freep.com/story/news/local/michigan/2015/01/29/michigan-altered-state-border/22547779/>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 04:11:24 GMT";until="Fri, 30 Jan 2015 14:09:05 GMT"

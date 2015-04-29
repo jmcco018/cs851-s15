@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:55:02 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.itv.com/news/2015-01-30/4d-cinema-lets-film-fans-experience-scents-wind-fog-lightening-and-bubbles-in-motion-seats/>;rel="original"
+,<http://web.archive.org/web/20150422064556/http://www.itv.com/news/2015-01-30/4d-cinema-lets-film-fans-experience-scents-wind-fog-lightening-and-bubbles-in-motion-seats/>;rel="memento first"; datetime="Wed, 22 Apr 2015 06:45:56 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.itv.com/news/2015-01-30/4d-cinema-lets-film-fans-experience-scents-wind-fog-lightening-and-bubbles-in-motion-seats/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.itv.com/news/2015-01-30/4d-cinema-lets-film-fans-experience-scents-wind-fog-lightening-and-bubbles-in-motion-seats/>;rel="self"; type="application/link-format"; from ="Wed, 22 Apr 2015 06:45:56 GMT";until="Wed, 22 Apr 2015 06:45:56 GMT"

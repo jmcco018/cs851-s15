@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:25:15 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://adage.com/article/special-report-super-bowl/canadian-viewers-win-u-s-super-bowl-ads/296898/>;rel="original"
+,<http://web.archive.org/web/20150131002552/http://adage.com/article/special-report-super-bowl/canadian-viewers-win-u-s-super-bowl-ads/296898/>;rel="memento first"; datetime="Sat, 31 Jan 2015 00:25:52 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://adage.com/article/special-report-super-bowl/canadian-viewers-win-u-s-super-bowl-ads/296898/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://adage.com/article/special-report-super-bowl/canadian-viewers-win-u-s-super-bowl-ads/296898/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 00:25:52 GMT";until="Sat, 31 Jan 2015 00:25:52 GMT"

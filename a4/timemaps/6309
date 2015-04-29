@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:59:27 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://news.uci.edu/features/alum-gives-back-to-society-alma-mater/>;rel="original"
+,<http://archive.is/20150131001622/http://news.uci.edu/features/alum-gives-back-to-society-alma-mater/>;rel="memento first"; datetime="Sat, 31 Jan 2015 00:16:22 GMT"
+,<http://web.archive.org/web/20150329044207/http://news.uci.edu/features/alum-gives-back-to-society-alma-mater/>;rel="memento last"; datetime="Sun, 29 Mar 2015 04:42:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://news.uci.edu/features/alum-gives-back-to-society-alma-mater/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://news.uci.edu/features/alum-gives-back-to-society-alma-mater/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 00:16:22 GMT";until="Sun, 29 Mar 2015 04:42:07 GMT"

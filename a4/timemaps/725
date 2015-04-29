@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:21:35 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.foxnews.com/opinion/2015/01/29/churches-destroyed-in-muslim-mob-attack-but-bible-survives/?intcmp=latestnews>;rel="original"
+,<http://web.archive.org/web/20150129235406/http://www.foxnews.com/opinion/2015/01/29/churches-destroyed-in-muslim-mob-attack-but-bible-survives/?intcmp=latestnews>;rel="memento first"; datetime="Thu, 29 Jan 2015 23:54:06 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.foxnews.com/opinion/2015/01/29/churches-destroyed-in-muslim-mob-attack-but-bible-survives/?intcmp=latestnews>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.foxnews.com/opinion/2015/01/29/churches-destroyed-in-muslim-mob-attack-but-bible-survives/?intcmp=latestnews>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 23:54:06 GMT";until="Thu, 29 Jan 2015 23:54:06 GMT"

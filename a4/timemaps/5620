@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:49:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://mashable.com/2014/07/02/robot-valet/>;rel="original"
+,<http://web.archive.org/web/20140703101332/http://mashable.com/2014/07/02/robot-valet/>;rel="memento first"; datetime="Thu, 03 Jul 2014 10:13:32 GMT"
+,<http://archive.is/20140705134036/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Sat, 05 Jul 2014 13:40:36 GMT"
+,<http://web.archive.org/web/20140706075814/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Sun, 06 Jul 2014 07:58:14 GMT"
+,<http://web.archive.org/web/20140706203803/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Sun, 06 Jul 2014 20:38:03 GMT"
+,<http://web.archive.org/web/20140707084005/http://mashable.com/2014/07/02/robot-valet/?>;rel="memento"; datetime="Mon, 07 Jul 2014 08:40:05 GMT"
+,<http://web.archive.org/web/20140708162532/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Tue, 08 Jul 2014 16:25:32 GMT"
+,<http://web.archive.org/web/20140820023402/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Wed, 20 Aug 2014 02:34:02 GMT"
+,<http://web.archive.org/web/20140821235637/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Thu, 21 Aug 2014 23:56:37 GMT"
+,<http://web.archive.org/web/20140907154406/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Sun, 07 Sep 2014 15:44:06 GMT"
+,<http://web.archive.org/web/20140929100115/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Mon, 29 Sep 2014 10:01:15 GMT"
+,<http://web.archive.org/web/20141006115008/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Mon, 06 Oct 2014 11:50:08 GMT"
+,<http://web.archive.org/web/20141022041734/http://mashable.com/2014/07/02/robot-valet/>;rel="memento"; datetime="Wed, 22 Oct 2014 04:17:34 GMT"
+,<http://web.archive.org/web/20150322044011/http://mashable.com/2014/07/02/robot-valet/>;rel="memento last"; datetime="Sun, 22 Mar 2015 04:40:11 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://mashable.com/2014/07/02/robot-valet/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://mashable.com/2014/07/02/robot-valet/>;rel="self"; type="application/link-format"; from ="Thu, 03 Jul 2014 10:13:32 GMT";until="Sun, 22 Mar 2015 04:40:11 GMT"

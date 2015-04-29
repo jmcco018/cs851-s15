@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:51:26 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.cbsnews.com/news/four-charged-in-detroit-triple-homicide/>;rel="original"
+,<http://web.archive.org/web/20140219075047/http://www.cbsnews.com/news/four-charged-in-detroit-triple-homicide/>;rel="memento first"; datetime="Wed, 19 Feb 2014 07:50:47 GMT"
+,<http://web.archive.org/web/20140219142212/http://www.cbsnews.com/news/four-charged-in-detroit-triple-homicide/>;rel="memento last"; datetime="Wed, 19 Feb 2014 14:22:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.cbsnews.com/news/four-charged-in-detroit-triple-homicide/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.cbsnews.com/news/four-charged-in-detroit-triple-homicide/>;rel="self"; type="application/link-format"; from ="Wed, 19 Feb 2014 07:50:47 GMT";until="Wed, 19 Feb 2014 14:22:12 GMT"

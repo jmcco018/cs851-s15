@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:45:33 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.amazon.com/gp/product/1434234142/ref=as_li_ss_tl?ie=UTF8&tag=genehult&linkCode=as2&camp=217145&creative=399373&creativeASIN=1434234142>;rel="original"
+,<http://web.archive.org/web/20111018090012/http://www.amazon.com/gp/product/1434234142/ref=as_li_ss_tl?ie=UTF8&tag=genehult&linkCode=as2&camp=217145&creative=399373&creativeASIN=1434234142>;rel="memento first"; datetime="Tue, 18 Oct 2011 09:00:12 GMT"
+,<http://web.archive.org/web/20120106220201/http://www.amazon.com/gp/product/1434234142/ref=as_li_ss_tl?ie=UTF8&tag=genehult&linkCode=as2&camp=217145&creative=399373&creativeASIN=1434234142>;rel="memento last"; datetime="Fri, 06 Jan 2012 22:02:01 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.amazon.com/gp/product/1434234142/ref=as_li_ss_tl?ie=UTF8&tag=genehult&linkCode=as2&camp=217145&creative=399373&creativeASIN=1434234142>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.amazon.com/gp/product/1434234142/ref=as_li_ss_tl?ie=UTF8&tag=genehult&linkCode=as2&camp=217145&creative=399373&creativeASIN=1434234142>;rel="self"; type="application/link-format"; from ="Tue, 18 Oct 2011 09:00:12 GMT";until="Fri, 06 Jan 2012 22:02:01 GMT"

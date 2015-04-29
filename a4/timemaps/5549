@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:47:58 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.twitch.tv/naviaux>;rel="original"
+,<http://archive.is/20140925204917/http://www.twitch.tv/naviaux>;rel="memento first"; datetime="Thu, 25 Sep 2014 20:49:17 GMT"
+,<http://web.archive.org/web/20141204170530/http://www.twitch.tv/naviaux>;rel="memento last"; datetime="Thu, 04 Dec 2014 17:05:30 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.twitch.tv/naviaux>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.twitch.tv/naviaux>;rel="self"; type="application/link-format"; from ="Thu, 25 Sep 2014 20:49:17 GMT";until="Thu, 04 Dec 2014 17:05:30 GMT"

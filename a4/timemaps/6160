@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:57:13 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.stylemepretty.com/little-black-book-blog/2014/05/28/boudoir-bridal-shower-inspiration/>;rel="original"
+,<http://web.archive.org/web/20140529112327/http://www.stylemepretty.com/little-black-book-blog/2014/05/28/boudoir-bridal-shower-inspiration/>;rel="memento first"; datetime="Thu, 29 May 2014 11:23:27 GMT"
+,<http://web.archive.org/web/20140601022901/http://www.stylemepretty.com/little-black-book-blog/2014/05/28/boudoir-bridal-shower-inspiration/>;rel="memento"; datetime="Sun, 01 Jun 2014 02:29:01 GMT"
+,<http://web.archive.org/web/20140705075826/http://www.stylemepretty.com/little-black-book-blog/2014/05/28/boudoir-bridal-shower-inspiration/>;rel="memento"; datetime="Sat, 05 Jul 2014 07:58:26 GMT"
+,<http://web.archive.org/web/20140715174921/http://www.stylemepretty.com/little-black-book-blog/2014/05/28/boudoir-bridal-shower-inspiration/>;rel="memento"; datetime="Tue, 15 Jul 2014 17:49:21 GMT"
+,<http://web.archive.org/web/20140819172751/http://www.stylemepretty.com/little-black-book-blog/2014/05/28/boudoir-bridal-shower-inspiration/>;rel="memento last"; datetime="Tue, 19 Aug 2014 17:27:51 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.stylemepretty.com/little-black-book-blog/2014/05/28/boudoir-bridal-shower-inspiration/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.stylemepretty.com/little-black-book-blog/2014/05/28/boudoir-bridal-shower-inspiration/>;rel="self"; type="application/link-format"; from ="Thu, 29 May 2014 11:23:27 GMT";until="Tue, 19 Aug 2014 17:27:51 GMT"

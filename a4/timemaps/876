@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:24:12 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.lequipe.fr/Football/Actualites/Diego-costa-prend-trois-matches/532477>;rel="original"
+,<http://web.archive.org/web/20150131202118/http://www.lequipe.fr/Football/Actualites/Diego-costa-prend-trois-matches/532477>;rel="memento first"; datetime="Sat, 31 Jan 2015 20:21:18 GMT"
+,<http://web.archive.org/web/20150416063307/http://www.lequipe.fr/Football/Actualites/Diego-costa-prend-trois-matches/532477>;rel="memento last"; datetime="Thu, 16 Apr 2015 06:33:07 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.lequipe.fr/Football/Actualites/Diego-costa-prend-trois-matches/532477>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.lequipe.fr/Football/Actualites/Diego-costa-prend-trois-matches/532477>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 20:21:18 GMT";until="Thu, 16 Apr 2015 06:33:07 GMT"

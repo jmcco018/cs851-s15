@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:55:50 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.zap2it.com/blogs/teen_wolf_scoop_the_sterek_scene_between_stiles_and_derek_that_you_didnt_see-2012-08>;rel="original"
+,<http://web.archive.org/web/20140407062046/http://zap2it.com/blogs/teen_wolf_scoop_the_sterek_scene_between_stiles_and_derek_that_you_didnt_see-2012-08>;rel="memento first"; datetime="Mon, 07 Apr 2014 06:20:46 GMT"
+,<http://web.archive.org/web/20140621101755/http://www.zap2it.com/blogs/teen_wolf_scoop_the_sterek_scene_between_stiles_and_derek_that_you_didnt_see-2012-08>;rel="memento"; datetime="Sat, 21 Jun 2014 10:17:55 GMT"
+,<http://web.archive.org/web/20140729144156/http://www.zap2it.com/blogs/teen_wolf_scoop_the_sterek_scene_between_stiles_and_derek_that_you_didnt_see-2012-08>;rel="memento"; datetime="Tue, 29 Jul 2014 14:41:56 GMT"
+,<http://web.archive.org/web/20140806154932/http://www.zap2it.com/blogs/teen_wolf_scoop_the_sterek_scene_between_stiles_and_derek_that_you_didnt_see-2012-08>;rel="memento"; datetime="Wed, 06 Aug 2014 15:49:32 GMT"
+,<http://web.archive.org/web/20140906212748/http://www.zap2it.com/blogs/teen_wolf_scoop_the_sterek_scene_between_stiles_and_derek_that_you_didnt_see-2012-08>;rel="memento"; datetime="Sat, 06 Sep 2014 21:27:48 GMT"
+,<http://web.archive.org/web/20150101235045/http://www.zap2it.com/blogs/teen_wolf_scoop_the_sterek_scene_between_stiles_and_derek_that_you_didnt_see-2012-08>;rel="memento last"; datetime="Thu, 01 Jan 2015 23:50:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.zap2it.com/blogs/teen_wolf_scoop_the_sterek_scene_between_stiles_and_derek_that_you_didnt_see-2012-08>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.zap2it.com/blogs/teen_wolf_scoop_the_sterek_scene_between_stiles_and_derek_that_you_didnt_see-2012-08>;rel="self"; type="application/link-format"; from ="Mon, 07 Apr 2014 06:20:46 GMT";until="Thu, 01 Jan 2015 23:50:45 GMT"

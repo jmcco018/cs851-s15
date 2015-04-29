@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:22:03 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.dailymail.co.uk/tvshowbiz/article-2932731/Rosie-Huntington-Whiteley-steps-just-negligee-wearing-chic-wrap-jacket-leather-trousers.html>;rel="original"
+,<http://web.archive.org/web/20150130202729/http://www.dailymail.co.uk/tvshowbiz/article-2932731/Rosie-Huntington-Whiteley-steps-just-negligee-wearing-chic-wrap-jacket-leather-trousers.html>;rel="memento first"; datetime="Fri, 30 Jan 2015 20:27:29 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.dailymail.co.uk/tvshowbiz/article-2932731/Rosie-Huntington-Whiteley-steps-just-negligee-wearing-chic-wrap-jacket-leather-trousers.html>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.dailymail.co.uk/tvshowbiz/article-2932731/Rosie-Huntington-Whiteley-steps-just-negligee-wearing-chic-wrap-jacket-leather-trousers.html>;rel="self"; type="application/link-format"; from ="Fri, 30 Jan 2015 20:27:29 GMT";until="Fri, 30 Jan 2015 20:27:29 GMT"

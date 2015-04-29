@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:46:21 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="original"
+,<http://web.archive.org/web/20131004080214/http://bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="memento first"; datetime="Fri, 04 Oct 2013 08:02:14 GMT"
+,<http://web.archive.org/web/20140313050754/http://www.bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="memento"; datetime="Thu, 13 Mar 2014 05:07:54 GMT"
+,<http://web.archive.org/web/20140327095703/http://www.bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="memento"; datetime="Thu, 27 Mar 2014 09:57:03 GMT"
+,<http://web.archive.org/web/20140528042253/http://www.bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="memento"; datetime="Wed, 28 May 2014 04:22:53 GMT"
+,<http://web.archive.org/web/20140628062736/http://bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="memento"; datetime="Sat, 28 Jun 2014 06:27:36 GMT"
+,<http://web.archive.org/web/20140728092943/http://bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="memento"; datetime="Mon, 28 Jul 2014 09:29:43 GMT"
+,<http://web.archive.org/web/20150131140321/http://www.bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="memento"; datetime="Sat, 31 Jan 2015 14:03:21 GMT"
+,<http://archive.is/20150221194223/http://www.bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="memento"; datetime="Sat, 21 Feb 2015 19:42:23 GMT"
+,<http://web.archive.org/web/20150315084123/http://bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="memento last"; datetime="Sun, 15 Mar 2015 08:41:23 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.bwsc.org/COMMUNITY/maps/hydrant_basins.asp>;rel="self"; type="application/link-format"; from ="Fri, 04 Oct 2013 08:02:14 GMT";until="Sun, 15 Mar 2015 08:41:23 GMT"

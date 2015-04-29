@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:29:42 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.nytimes.com/?utm_content=11513753&utm_medium=social&utm_source=twitter>;rel="original"
+,<http://www.webarchive.org.uk:80/wayback/archive/20080404153051/http://www.nytimes.com/>;rel="memento first"; datetime="Fri, 04 Apr 2008 15:30:51 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20080603220138/http://www.nytimes.com/>;rel="memento"; datetime="Tue, 03 Jun 2008 22:01:38 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081002123604/http://www.nytimes.com/>;rel="memento"; datetime="Thu, 02 Oct 2008 12:36:04 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20081203235305/http://www.nytimes.com/>;rel="memento"; datetime="Wed, 03 Dec 2008 23:53:05 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20090914024314/http://www.nytimes.com/>;rel="memento"; datetime="Mon, 14 Sep 2009 02:43:14 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20091203233154/http://www.nytimes.com/>;rel="memento"; datetime="Thu, 03 Dec 2009 23:31:54 GMT"
+,<http://www.webarchive.org.uk:80/wayback/archive/20100603224350/http://www.nytimes.com/>;rel="memento last"; datetime="Thu, 03 Jun 2010 22:43:50 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.nytimes.com/?utm_content=11513753&utm_medium=social&utm_source=twitter>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.nytimes.com/?utm_content=11513753&utm_medium=social&utm_source=twitter>;rel="self"; type="application/link-format"; from ="Fri, 04 Apr 2008 15:30:51 GMT";until="Thu, 03 Jun 2010 22:43:50 GMT"

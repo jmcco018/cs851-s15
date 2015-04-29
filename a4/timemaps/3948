@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 18:20:40 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="original"
+,<http://web.archive.org/web/20121004110045/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento first"; datetime="Thu, 04 Oct 2012 11:00:45 GMT"
+,<http://web.archive.org/web/20121011020330/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Thu, 11 Oct 2012 02:03:30 GMT"
+,<http://web.archive.org/web/20121018015801/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Thu, 18 Oct 2012 01:58:01 GMT"
+,<http://web.archive.org/web/20121025024345/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Thu, 25 Oct 2012 02:43:45 GMT"
+,<http://web.archive.org/web/20121101025106/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Thu, 01 Nov 2012 02:51:06 GMT"
+,<http://web.archive.org/web/20121106020352/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Tue, 06 Nov 2012 02:03:52 GMT"
+,<http://web.archive.org/web/20121108030346/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Thu, 08 Nov 2012 03:03:46 GMT"
+,<http://web.archive.org/web/20121117171028/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sat, 17 Nov 2012 17:10:28 GMT"
+,<http://web.archive.org/web/20121124174622/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sat, 24 Nov 2012 17:46:22 GMT"
+,<http://web.archive.org/web/20121201180456/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sat, 01 Dec 2012 18:04:56 GMT"
+,<http://web.archive.org/web/20121209024548/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sun, 09 Dec 2012 02:45:48 GMT"
+,<http://web.archive.org/web/20121215212544/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sat, 15 Dec 2012 21:25:44 GMT"
+,<http://web.archive.org/web/20121221202108/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Fri, 21 Dec 2012 20:21:08 GMT"
+,<http://web.archive.org/web/20121222211639/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sat, 22 Dec 2012 21:16:39 GMT"
+,<http://web.archive.org/web/20121229212759/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sat, 29 Dec 2012 21:27:59 GMT"
+,<http://web.archive.org/web/20130105224624/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sat, 05 Jan 2013 22:46:24 GMT"
+,<http://web.archive.org/web/20130112230259/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sat, 12 Jan 2013 23:02:59 GMT"
+,<http://web.archive.org/web/20130119235652/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sat, 19 Jan 2013 23:56:52 GMT"
+,<http://web.archive.org/web/20130125033319/http://pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Fri, 25 Jan 2013 03:33:19 GMT"
+,<http://web.archive.org/web/20130127003123/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Sun, 27 Jan 2013 00:31:23 GMT"
+,<//wayback.archive-it.org/all/20130131180815/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Thu, 31 Jan 2013 18:08:15 GMT"
+,<//wayback.archive-it.org/all/20130131185418/https://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Thu, 31 Jan 2013 18:54:18 GMT"
+,<http://web.archive.org/web/20130408131121/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Mon, 08 Apr 2013 13:11:21 GMT"
+,<http://web.archive.org/web/20130705104042/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Fri, 05 Jul 2013 10:40:42 GMT"
+,<http://web.archive.org/web/20130822083747/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Thu, 22 Aug 2013 08:37:47 GMT"
+,<http://web.archive.org/web/20130822223716/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Thu, 22 Aug 2013 22:37:16 GMT"
+,<http://web.archive.org/web/20130830064317/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento"; datetime="Fri, 30 Aug 2013 06:43:17 GMT"
+,<http://web.archive.org/web/20130913045812/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="memento last"; datetime="Fri, 13 Sep 2013 04:58:12 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.pandora.com/miguel/kaleidoscope-dream/adorn>;rel="self"; type="application/link-format"; from ="Thu, 04 Oct 2012 11:00:45 GMT";until="Fri, 13 Sep 2013 04:58:12 GMT"

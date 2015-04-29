@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:16:53 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.mirror.co.uk/sport/tennis/australian-open-2015-serena-williams-5062808>;rel="original"
+,<http://web.archive.org/web/20150202234029/http://www.mirror.co.uk/sport/tennis/australian-open-2015-serena-williams-5062808>;rel="memento first"; datetime="Mon, 02 Feb 2015 23:40:29 GMT"
+,<http://web.archive.org/web/20150403090805/http://www.mirror.co.uk/sport/tennis/australian-open-2015-serena-williams-5062808>;rel="memento"; datetime="Fri, 03 Apr 2015 09:08:05 GMT"
+,<http://web.archive.org/web/20150406101203/http://www.mirror.co.uk/sport/tennis/australian-open-2015-serena-williams-5062808>;rel="memento last"; datetime="Mon, 06 Apr 2015 10:12:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.mirror.co.uk/sport/tennis/australian-open-2015-serena-williams-5062808>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.mirror.co.uk/sport/tennis/australian-open-2015-serena-williams-5062808>;rel="self"; type="application/link-format"; from ="Mon, 02 Feb 2015 23:40:29 GMT";until="Mon, 06 Apr 2015 10:12:03 GMT"

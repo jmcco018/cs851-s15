@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:41:00 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://www.breitbart.com/big-government/2015/01/29/report-middle-schoolers-arrested-after-sex-party-recorded-on-phones/>;rel="original"
+,<http://web.archive.org/web/20150129182027/http://www.breitbart.com/big-government/2015/01/29/report-middle-schoolers-arrested-after-sex-party-recorded-on-phones/>;rel="memento first"; datetime="Thu, 29 Jan 2015 18:20:27 GMT"
+,<http://web.archive.org/web/20150201183145/http://www.breitbart.com/big-government/2015/01/29/report-middle-schoolers-arrested-after-sex-party-recorded-on-phones/>;rel="memento last"; datetime="Sun, 01 Feb 2015 18:31:45 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://www.breitbart.com/big-government/2015/01/29/report-middle-schoolers-arrested-after-sex-party-recorded-on-phones/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://www.breitbart.com/big-government/2015/01/29/report-middle-schoolers-arrested-after-sex-party-recorded-on-phones/>;rel="self"; type="application/link-format"; from ="Thu, 29 Jan 2015 18:20:27 GMT";until="Sun, 01 Feb 2015 18:31:45 GMT"

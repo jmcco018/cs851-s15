@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 17:41:29 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://computer.financialexpress.com/news/narendra-modi-government-to-bring-new-bpo-policy/8567/>;rel="original"
+,<http://web.archive.org/web/20150131022403/http://computer.financialexpress.com/news/narendra-modi-government-to-bring-new-bpo-policy/8567/>;rel="memento first"; datetime="Sat, 31 Jan 2015 02:24:03 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://computer.financialexpress.com/news/narendra-modi-government-to-bring-new-bpo-policy/8567/>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://computer.financialexpress.com/news/narendra-modi-government-to-bring-new-bpo-policy/8567/>;rel="self"; type="application/link-format"; from ="Sat, 31 Jan 2015 02:24:03 GMT";until="Sat, 31 Jan 2015 02:24:03 GMT"

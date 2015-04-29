@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Wed, 22 Apr 2015 19:19:19 GMT
+Server: grizzly/1.9.8
+Content-Type: application/link-format
+Connection: close
+Transfer-Encoding: chunked
+
+<http://abnormedia.com>;rel="original"
+,<http://web.archive.org/web/20090223194353/http://www.abnormedia.com/>;rel="memento first"; datetime="Mon, 23 Feb 2009 19:43:53 GMT"
+,<http://web.archive.org/web/20110202020036/http://abnormedia.com/>;rel="memento"; datetime="Wed, 02 Feb 2011 02:00:36 GMT"
+,<http://web.archive.org/web/20110208080833/http://abnormedia.com/>;rel="memento last"; datetime="Tue, 08 Feb 2011 08:08:33 GMT"
+ , <http://mementoproxy.cs.odu.edu/aggr/timegate/http://abnormedia.com>;rel="timegate"
+ , <http://mementoproxy.cs.odu.edu/aggr/timemap/link/1/http://abnormedia.com>;rel="self"; type="application/link-format"; from ="Mon, 23 Feb 2009 19:43:53 GMT";until="Tue, 08 Feb 2011 08:08:33 GMT"
